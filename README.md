@@ -1,2 +1,0 @@
-# cupcode
-Repositório principal
