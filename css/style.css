@@ -3438,6 +3438,10 @@ ul.top-right li a:hover.instagram{
     -webkit-filter: grayscale(1);
     filter: grayscale(1);
 }
+#logo-transparent .logo-item > img:hover {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0;
+}
 /*-------------------------------*/
     /* logos / Partners ends */
 /*-------------------------------*/
@@ -5882,4 +5886,7 @@ footer p {
 
 .col-md-8 {
     padding-left: 0px;
+}
+.col-md-4.espaco {
+    padding-right: 0px;
 }
