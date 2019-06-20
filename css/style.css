@@ -2049,6 +2049,12 @@ ul.top-right li a:hover.instagram{
    transform: translateX(-50%);
    z-index: 2;
 }
+.p-0 {
+    padding: 0 !important;
+}
+.m-0 {
+    margin: 0 !important;
+}
 
 /*-------------------------------*/
     /*  Background Textfade */
@@ -5910,4 +5916,8 @@ footer p {
 .hover-gray img:hover {
   -webkit-filter: grayscale(0) !important;
   filter: grayscale(0 !important;
+}
+
+.m-0 {
+	margin: 0 !important;
 }
