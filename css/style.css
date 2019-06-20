@@ -3164,7 +3164,7 @@ ul.top-right li a:hover.instagram{
    background: url(../images/single-portfolio4.jpg) no-repeat;
 }
 .item-five{
-   background: url(../images/single-portfolio5.jpg) no-repeat;
+   background: url(../images/bg-contato.jpg) no-repeat;
 }
 .item-six{
    background: url(../images/single-portfolio6.jpg) no-repeat;
@@ -3176,6 +3176,9 @@ ul.top-right li a:hover.instagram{
    background: url(../images/single-portfolio8.jpg) no-repeat;
 }
 .item-nine{
+   background: url(../images/bg-planos.jpg) no-repeat;
+}
+.item-teen{
    background: url(../images/single-portfolio9.jpg) no-repeat;
 }
 .single-items{
