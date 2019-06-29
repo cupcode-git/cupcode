@@ -108,6 +108,10 @@ p{
 	font-style: italic;
 }
 
+.font-menor {
+    font-size: 14px !important;
+}
+
 button {
 	line-height: 1;
 	background: transparent;
@@ -171,8 +175,8 @@ button {
 .bottom25 {
     margin-bottom: 25px;
 }
-.top25 {
-    margin-top: 25px;
+.top10 {
+    margin-top: 10px;
 }
 .bottom30 {
     margin-bottom: 30px;
