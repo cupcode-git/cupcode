@@ -283,6 +283,9 @@ section {
 .image {
     overflow: hidden;
 }
+img.img-menor {
+	font-size: 15px;
+}
 a.image{
     display: block;
 }
@@ -3180,13 +3183,19 @@ ul.top-right li a:hover.instagram{
    background: url(../images/Bg-criacao-editorial.jpg) no-repeat;
 }
 .item-eight{
-   background: url(../images/single-portfolio1.jpg) no-repeat;
+   background: url(../images/ipad.jpg) no-repeat;
 }
 .item-nine{
    background: url(../images/bg-planos.jpg) no-repeat;
 }
 .item-teen{
    background: url(../images/single-portfolio1.jpg) no-repeat;
+}
+.item-teen1{
+   background: url(../images/single-portfolio1.jpg) no-repeat;
+}
+.item-teen2{
+   background: url(../images/bg-final-do-site.gif) no-repeat;
 }
 .single-items{
     background-position: center center;
