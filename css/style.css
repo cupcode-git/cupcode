@@ -108,6 +108,10 @@ p{
 	font-style: italic;
 }
 
+.font-menor {
+    font-size: 14px !important;
+}
+
 button {
 	line-height: 1;
 	background: transparent;
@@ -171,8 +175,8 @@ button {
 .bottom25 {
     margin-bottom: 25px;
 }
-.top25 {
-    margin-top: 25px;
+.top10 {
+    margin-top: 10px;
 }
 .bottom30 {
     margin-bottom: 30px;
@@ -278,6 +282,9 @@ section {
 /*img wrap*/
 .image {
     overflow: hidden;
+}
+img.img-menor {
+	font-size: 15px;
 }
 a.image{
     display: block;
@@ -3176,13 +3183,19 @@ ul.top-right li a:hover.instagram{
    background: url(../images/Bg-criacao-editorial.jpg) no-repeat;
 }
 .item-eight{
-   background: url(../images/single-portfolio1.jpg) no-repeat;
+   background: url(../images/ipad.jpg) no-repeat;
 }
 .item-nine{
    background: url(../images/bg-planos.jpg) no-repeat;
 }
 .item-teen{
    background: url(../images/single-portfolio1.jpg) no-repeat;
+}
+.item-teen1{
+   background: url(../images/single-portfolio1.jpg) no-repeat;
+}
+.item-teen2{
+   background: url(../images/bg-final-do-site.gif) no-repeat;
 }
 .single-items{
     background-position: center center;
