@@ -151,6 +151,9 @@ button {
 .heading_space {
     margin-bottom: 4.6875rem;
 }
+.p-5 {
+    padding-left: 5px;
+}
 .bottom5 {
     margin-bottom: 5px;
 }
@@ -168,6 +171,9 @@ button {
 }
 .top20 {
     margin-top: 20px;
+}
+.bottom15 {
+    margin-bottom: 15px;
 }
 .bottom20 {
     margin-bottom: 20px;
@@ -201,6 +207,18 @@ button {
 }
 .top60{
     margin-top: 60px;
+}
+.top70 {
+    margin-top: 70px;
+}
+.top80 {
+    margin-top: 80px;
+}
+.top90 {
+    margin-top: 90px;
+}
+.top100 {
+    margin-top: 100px;
 }
 .bottom60{
     margin-bottom: 60px;
@@ -4341,7 +4359,7 @@ ul.pagination li.active a:focus {
     height: 50px;
 }
 textarea {
-    min-height: 175px;
+    min-height: 125px;
     resize: none;
 }
 button{
