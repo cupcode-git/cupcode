@@ -127,6 +127,9 @@ button {
 .padding_top {
     padding-top:8.75rem;
 }
+.padding_top50 {
+    padding-top: 50px;
+}
 .padding_bottom {
     padding-bottom: 8.75rem;
 }
@@ -138,6 +141,7 @@ button {
 }
 .padding_half {
     padding: 4.375rem 0;
+    background-color: #b7b7b7;
 }
 .padding_bottom_half {
     padding-bottom: 4.375rem;
@@ -249,6 +253,12 @@ button {
 }
 .defaultcolor {
     color: #bdbdbd;
+}
+.lightcolor {
+    color: #ccc;
+}
+.light-b {
+    color: #fff;
 }
 section {
 	position: relative;
@@ -2580,10 +2590,10 @@ ul.top-right li a:hover.instagram{
 	max-width: 310px;
 	display: inline-block;
 }
-.counter-center:hover h6,
-.counter-center:hover .count_nums{
-    color: #bdbdbd;
-}
+    .counter-center:hover h6,
+    .counter-center:hover .count_nums {
+        color: #44444440;
+    }
 .counter-center.dark:hover h6,
 .counter-center.dark:hover .count_nums{
     color: #666666;
@@ -3437,9 +3447,12 @@ ul.top-right li a:hover.instagram{
 .icon_box.dark hr{
    background: #979797;
 }
-.icon_box:hover i,  .icon_box:hover h4{
-	color:#bdbdbd;
-}
+    .icon_box:hover i, .icon_box:hover h4 {
+        color: #4e4343;
+    }
+    .icon_box.light:hover i, .icon_box.light:hover h4 {
+        color: #f0f0f0;
+    }
 .icon_box.dark:hover i,  .icon_box.dark:hover h4{
 	color:#8a8a8a;
 }
