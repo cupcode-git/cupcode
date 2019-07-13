@@ -5,5 +5,12 @@
     .rev-scroll-btn {
         display: none;;
     }
+	.col-md-12 {
+    padding-right: 0px;
+    padding-left: 0;
+	}
+	.row.mobile-p.col-md-4 {
+    padding-left: 35px;
+}
 }
 
