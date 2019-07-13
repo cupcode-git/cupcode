@@ -3805,6 +3805,8 @@ i.fab.fa-linkedin:hover {
     -ms-transform: scale(0.75);
     -o-transform: scale(0.75);
     transform: scale(0.75);
+	filter: grayscale(1);
+    -webkit-filter: grayscale(1);
 }
 #owl-thumbs.owl-dots .owl-dot.active > img{
     opacity: 1;
@@ -3812,6 +3814,8 @@ i.fab.fa-linkedin:hover {
     -ms-transform: scale(1);
     -o-transform: scale(1);
     transform: scale(1);
+	filter: grayscale(0);
+    -webkit-filter: grayscale(0);
 }
 
 .testimonial-text  .item {
