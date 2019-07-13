@@ -1195,6 +1195,19 @@ ul.social li a::before, ul.social li a::after{
 .sidebar-nav .navbar-toggle .icon-bar{
     background-color: #8a8a8a !important;
 }
+#hidden-content-b {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-b {
+  transform: translateY(0);
+}
 .navbar-toggle .top-bar {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
