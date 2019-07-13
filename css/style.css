@@ -1195,6 +1195,19 @@ ul.social li a::before, ul.social li a::after{
 .sidebar-nav .navbar-toggle .icon-bar{
     background-color: #8a8a8a !important;
 }
+#hidden-content-a {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-a {
+  transform: translateY(0);
+}
 #hidden-content-b {
   /* Custom styling */
   max-width: 550px;
@@ -1206,6 +1219,84 @@ ul.social li a::before, ul.social li a::after{
 }
 
 .fancybox-slide--current #hidden-content-b {
+  transform: translateY(0);
+}
+#hidden-content-c {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-c {
+  transform: translateY(0);
+}
+#hidden-content-d {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-d {
+  transform: translateY(0);
+}
+#hidden-content-e {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-e {
+  transform: translateY(0);
+}
+#hidden-content-f {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-f {
+  transform: translateY(0);
+}
+#hidden-content-g {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-g {
+  transform: translateY(0);
+}
+#hidden-content-h {
+  /* Custom styling */
+  max-width: 550px;
+  border-radius: 4px;
+
+  /* Custom transition - slide from top*/
+  transform: translateY(-50px);
+  transition: all .33s;
+}
+
+.fancybox-slide--current #hidden-content-h {
   transform: translateY(0);
 }
 .navbar-toggle .top-bar {
@@ -3472,6 +3563,9 @@ ul.top-right li a:hover.instagram{
 
 .icon_box:hover hr{
     width: 60px;
+}
+i.fab.fa-linkedin:hover {
+    color: blue;
 }
 
 /*-------------------------------*/
