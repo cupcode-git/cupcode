@@ -6,11 +6,15 @@
         display: none;;
     }
 	.col-md-12 {
-    padding-right: 0px;
-    padding-left: 0;
+		padding-right: 0px;
+		padding-left: 0;
 	}
 	.row.mobile-p.col-md-4 {
-    padding-left: 35px;
-}
+		padding-left: 35px;
+	}
+	.mobile-m-t {
+		text-align: center;
+		margin-left: 10%;
+	}
 }
 
