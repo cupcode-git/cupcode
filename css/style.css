@@ -837,6 +837,7 @@ ul.social li a::before, ul.social li a::after{
 #navigation {
   position: absolute;
   padding: 15px 0;
+  display: none;
 }
 #navigation.lightheader{
    position: relative;
@@ -854,6 +855,7 @@ ul.social li a::before, ul.social li a::after{
    box-shadow: 0 10px 10px -10px rgba(87, 97, 100, 0.35);
    padding: 0;
    left: 0;
+   display: block;
 }
 .dark #navigation.fixed {
     background-color: #8a8a8a;
