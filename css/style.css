@@ -3029,8 +3029,6 @@ ul.top-right li a:hover.instagram{
     transform: scale(1);
 }
 .price-table .button{
-    opacity: 0;
-    visibility: hidden;
     -webkit-transform: translate3d(0,-15px,0);
     transform: translate3d(0,-15px,0);
 }
