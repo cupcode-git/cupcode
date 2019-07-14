@@ -655,13 +655,35 @@ ul.social.dark li a:focus{
     color: #fff;
 }
 .button.defaulthole{
-    border: 2px solid #bdbdbd;
-    color: #bdbdbd;
+    border: 2px solid #585555;
+    color: #585555;
 	border-radius: 6px;
 	font-size: 16px;
 }
 .button.defaulthole:hover, .button.defaulthole:focus,
 .button.defaulthole.active{
+    background: #bdbdbd;
+    color: #fff;
+}
+.button.defaulthole1{
+    border: 2px solid #bdbdbd;
+    color: #cccccc;
+	border-radius: 6px;
+	font-size: 16px;
+}
+.button.defaulthole1:hover, .button.defaulthole1:focus,
+.button.defaulthole1.active{
+    background: #cccccc;
+    color: #8a8a8a;
+}
+.button.defaulthole2{
+    border: 2px solid #bdbdbd;
+    color: #bdbdbd;
+	border-radius: 6px;
+	font-size: 16px;
+}
+.button.defaulthole2:hover, .button.defaulthole2:focus,
+.button.defaulthole2.active{
     background: #bdbdbd;
     color: #fff;
 }
