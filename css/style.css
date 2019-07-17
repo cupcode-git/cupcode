@@ -663,7 +663,7 @@ ul.social.dark li a:focus{
 .button.defaulthole:hover, .button.defaulthole:focus,
 .button.defaulthole.active{
     background: #bdbdbd;
-    color: #fff;
+    color: #585555;
 }
 .button.defaulthole1{
     border: 2px solid #bdbdbd;
@@ -2720,7 +2720,7 @@ ul.top-right li a:hover.instagram{
 }
     .counter-center:hover h6,
     .counter-center:hover .count_nums {
-        color: #44444440;
+        color: #585555;
     }
 .counter-center.dark:hover h6,
 .counter-center.dark:hover .count_nums{
