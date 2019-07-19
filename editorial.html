@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="theme-color" content="#0642a3"/> 
+<meta name="theme-color" content="#0642a3"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Synx</title>
@@ -11,6 +11,7 @@
 <!-- main styling file  -->
 <link rel="stylesheet" href="css/site.css">
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/gradient.css">
 <link rel="icon" href="images/favicon.png">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -25,97 +26,50 @@
 
 <!--Preloader-->
 <div class="loader">
-	<div class="loader-inner">
-		<div class="spinner">
-			<div class="spinner-container container1">
-				<div class="circle1"></div>
-				<div class="circle2"></div>
-				<div class="circle3"></div>
-				<div class="circle4"></div>
-			</div>
-			<div class="spinner-container container2">
-				<div class="circle1"></div>
-				<div class="circle2"></div>
-				<div class="circle3"></div>
-				<div class="circle4"></div>
-			</div>
-		</div>
-	</div>
+   <div class="loader-inner">
+      <div class="spinner-eff spinner-eff-4">
+         <div class="bar bar-top"></div>
+         <div class="bar bar-right"></div>
+         <div class="bar bar-bottom"></div>
+         <div class="bar bar-left"></div>
+      </div>
+   </div>
 </div>
 <!-- Preloader ends-->
 <div class="wrapper">
 
 <!-- Main-Navigation -->
 <header id="main-navigation">
-   <div id="navigation" class="lighttransparent darkcolor">
+   <div id="navigation">
       <div class="container">
          <div class="row">
             <div class="col-md-12">
-               <ul class="top-right text-right">
-                  <li><a href="javascript:void(0)" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="javascript:void(0)" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="javascript:void(0)" class="instagram"><i class="fa fa-instagram"></i></a></li>
-               </ul>
                <nav class="navbar navbar-default">
                   <div class="navbar-header">
-                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="true"> 
-                        <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> 
+                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="true">
+                         <span class="icon-bar top-bar"></span>
+                         <span class="icon-bar middle-bar"></span>
+                         <span class="icon-bar bottom-bar"></span>
                      </button>
-                     <a class="navbar-brand" href="index.html">
-                        <img src="images/logo-gray.png" alt="logo">
-                     </a>
+                     <a class="navbar-brand logo-center" href="index.html">
+                       <img src="images/logo-green.png" alt="logo" class="logo">
+                       <img src="images/logo-scrolled-green.png" alt="logo" class="scrolled-logo">
+                      </a>
                   </div>
-                  <div id="fixed-collapse-navbar" class="navbar-collapse collapse navbar-right scrolly">
-                     <ul class="nav navbar-nav">
-                        <li class="static dropdown">
-                           <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-                           <ul class="megamenu-content dropdown-menu titlevisible">
-                              <li>
-                                 <div class="row">
-                                    <div class="col-sm-3">
-                                      <h5 class="title">Multi-Page Demos</h5>
-                                       <ul>
-                                          <li><a href="index-multi.html">Classic Version</a></li>
-                                          <li><a href="index-multi2.html">Corporate Version</a></li>
-                                          <li><a href="index-multi3.html">Agency Version </a></li>
-                                          <li><a href="index-multi4.html">Portfolio Version</a></li>
-                                       </ul>
-                                    </div>
-                                    <div class="col-sm-3">
-                                       <h5 class="title"></h5>
-                                       <ul>
-                                          <li><a href="index13.html">Crypto Version</a></li>
-                                          <li><a href="index-multi6.html">Parallax Background Version</a></li>
-                                          <li><a href="index-multi7.html">Business Startup Version</a></li>
-                                          <li><a href="index-multi8.html">Studio Version</a></li>
-                                       </ul>
-                                    </div>
-                                    <div class="col-sm-3">
-                                      <h5 class="title">One Page Demos</h5>
-                                       <ul>
-                                          <li><a href="index.html">Classic Version </a></li>
-                                          <li><a href="index3.html">Hero Video Version</a></li>
-                                          <li><a href="index7.html">Animated Layers Version</a></li>
-                                          <li><a href="index8.html">Agency Version</a></li>
-                                       </ul>
-                                    </div>
-                                    <div class="col-sm-3">
-                                      <h5 class="title"></h5>
-                                       <ul>
-                                          <li><a href="index10.html">Corporate Version</a></li>
-                                          <li><a href="index11.html">Creative Studio Version</a></li>
-                                          <li><a href="index12.html">One Page Portfolio</a></li>
-                                          <li><a href="index6.html">Parallax Portfolio Version</a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </li>
-                           </ul>
-                        </li>
-                        <li><a class="scrollings" href="#about">About</a></li>
-                        <li><a href="#ourportfolio" class="scrollings">Work</a></li>
-                        <li><a href="#ourblog" class="scrollings">Blog</a></li>
-                        <li class="static dropdown">
+                  <div id="fixed-collapse-navbar" class="navbar-collapse collapse scrolly">
+                     <div class="navbar-left-1">
+                        <ul class="nav navbar-nav navbar-left">
+                           <li class="static"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Home</a></li>
+                           <li><a class="scrollings" href="marketing-digital.php">marketing</a></li>
+                           <li><a class="scrollings" href="websites.php">websites</a> </li>
+                           <li><a class="scrollings" href="#our-portfolio">Work</a></li>
+                        </ul>
+                     </div>
+                     <div class="navbar-right-1">
+                        <ul class="nav navbar-nav navbar-right">
+                           <li><a href="#ourpricing" class="scrollings">Prices</a></li>
+                           <li><a href="#ourinfo" class="scrollings">Blog</a></li>
+                           <li class="static dropdown">
                            <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Elements</a>
                            <ul class="megamenu-content dropdown-menu">
                               <li>
@@ -160,8 +114,9 @@
                               </li>
                            </ul>
                         </li>
-                        <li><a href="#map-address" class="scrollings">Contact Us</a></li>
-                     </ul>
+                           <li><a href="#googleMap" class="scrollings">Contact Us</a></li>
+                        </ul>
+                     </div>
                   </div>
                </nav>
             </div>
