@@ -62,59 +62,14 @@
                            <li class="static"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Home</a></li>
                            <li><a class="scrollings" href="marketing-digital.php">marketing</a></li>
                            <li><a class="scrollings" href="websites.php">websites</a> </li>
-                           <li><a class="scrollings" href="#our-portfolio">Work</a></li>
+                           <li><a class="scrollings" href="design-grafico.php">gráfico</a></li>
                         </ul>
                      </div>
                      <div class="navbar-right-1">
                         <ul class="nav navbar-nav navbar-right">
-                           <li><a href="#ourpricing" class="scrollings">Prices</a></li>
-                           <li><a href="#ourinfo" class="scrollings">Blog</a></li>
-                           <li class="static dropdown">
-                           <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Elements</a>
-                           <ul class="megamenu-content dropdown-menu">
-                              <li>
-                                 <div class="row">
-                                    <div class="col-sm-3">
-                                       <h5 class="title">Title</h5>
-                                       <ul>
-                                          <li><a href="aboutus.html">About</a></li>
-                                          <li><a href="blog.html">blog</a></li>
-                                          <li><a href="blog-detail.html">blog detail</a></li>
-                                          <li><a href="contactus.html">Contact Us</a></li>
-                                       </ul>
-                                    </div>
-                                    <div class="col-sm-3">
-                                       <h5 class="title">Title</h5>
-                                       <ul>
-                                          <li><a href="comingsoon.html">Coming Soon</a></li>
-                                          <li><a href="comingsoon-2.html">Coming Soon 2</a></li>
-                                          <li><a href="error.html">error page</a></li>
-                                          <li><a href="element-loaders.html">Preloaders</a></li>
-                                       </ul>
-                                    </div>
-                                    <div class="col-sm-3">
-                                       <h5 class="title">Title</h5>
-                                       <ul>
-                                          <li><a href="element-portfolio.html">Portfolio</a></li>
-                                          <li><a href="element-team.html">team</a></li>
-                                          <li><a href="element-testimonial.html">testimonials</a></li>
-                                          <li><a href="element-partners.html">partners</a></li>
-                                       </ul>
-                                    </div>
-                                    <div class="col-sm-3">
-                                       <h5 class="title">Title</h5>
-                                       <ul>
-                                          <li><a href="element-services.html">services</a></li>
-                                          <li><a href="element-counters.html">counters</a></li>
-                                          <li><a href="element-maps.html">google maps</a></li>
-                                          <li><a href="element-progressbars.html">progress bars</a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </li>
-                           </ul>
-                        </li>
-                           <li><a href="#googleMap" class="scrollings">Contact Us</a></li>
+                           <li><a href="editorial.php" class="scrollings">editorial</a></li>
+                           <li><a href="#portfolio" class="scrollings">portfolio</a></li>
+                           <li><a href="#contatos" class="scrollings">contatos</a></li>
                         </ul>
                      </div>
                   </div>
