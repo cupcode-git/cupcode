@@ -305,6 +305,9 @@ section {
 .darkcolor.heading-title::before{
     background: #8a8a8a;
 }
+.cinzacolor {
+    color: #c4c4c4;
+}
 
 
 /*img wrap*/
@@ -542,7 +545,7 @@ ul.social li a {
   line-height: 30px;
   width: 32px;
   font-size: 14px;
-  border: 1px solid #979797;
+  border-bottom: 1px solid #979797;
   -webkit-border-radius: 50%;
   border-radius: 50%;
 }
@@ -654,34 +657,34 @@ ul.social.dark li a:focus{
     background: #8a8a8a;
     color: #fff;
 }
-.button.defaulthole{
-    border: 2px solid #585555;
-    color: #585555;
-	border-radius: 6px;
-	font-size: 16px;
-}
+    .button.defaulthole {
+        border-bottom: 1px solid #bdbdbd;
+        color: #585555;
+        border-radius: 10px;
+        font-size: 16px;
+    }
 .button.defaulthole:hover, .button.defaulthole:focus,
 .button.defaulthole.active{
     background: #bdbdbd;
     color: #585555;
 }
-.button.defaulthole1{
-    border: 2px solid #bdbdbd;
-    color: #cccccc;
-	border-radius: 6px;
-	font-size: 16px;
-}
+    .button.defaulthole1 {
+        border-bottom: 1px solid #cccccc;
+        color: #cccccc;
+        border-radius: 10px;
+        font-size: 16px;
+    }
 .button.defaulthole1:hover, .button.defaulthole1:focus,
 .button.defaulthole1.active{
     background: #cccccc;
     color: #8a8a8a;
 }
-.button.defaulthole2{
-    border: 2px solid #bdbdbd;
-    color: #bdbdbd;
-	border-radius: 6px;
-	font-size: 16px;
-}
+    .button.defaulthole2 {
+        border-bottom: 1px solid #cccccc;
+        color: #bdbdbd;
+        border-radius: 10px;
+        font-size: 16px;
+    }
 .button.defaulthole2:hover, .button.defaulthole2:focus,
 .button.defaulthole2.active{
     background: #bdbdbd;
@@ -871,7 +874,7 @@ ul.social li a::before, ul.social li a::after{
 	margin-top: 15px;
 }
 #navigation.fixed {
-  background-color: #fff;
+  background-color: #ffffffae;
   position: fixed;
   -webkit-box-shadow: 0 10px 10px -10px rgba(87, 97, 100, 0.35);
    box-shadow: 0 10px 10px -10px rgba(87, 97, 100, 0.35);
