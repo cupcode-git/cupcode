@@ -1885,8 +1885,8 @@ ul.top-right li a:hover.instagram{
    color: #fff;
 }
 .button.ether {
-   background: #627eea;;
-   border: 2px solid #627eea;;
+   background: #627eea;
+   border: 2px solid #627eea;
    color: #fff;
 }
 .button.liteco {
@@ -2428,10 +2428,10 @@ ul.top-right li a:hover.instagram{
     height: 100%;
     cursor: pointer;
 }
-.team-slide:hover .team-photo > img{;
-    -webkit-transform: scale(1.3);;
-    -ms-transform: scale(1.3);;
-    -o-transform: scale(1.3);;
+.team-slide:hover .team-photo > img{
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -o-transform: scale(1.3);
     transform: scale(1.3);
 }
 .team-slide .team-text{
@@ -5948,7 +5948,7 @@ footer p {
     }
    #navigation.lighttransparent,
    #navigation.lightheader{
-       background: rgba(255,255,255,1);;
+       background: rgba(255,255,255,1);
     }
     .navbar-header {
         float: none;
@@ -6102,7 +6102,7 @@ footer p {
 }
 .hover-gray img:hover {
   -webkit-filter: grayscale(0) !important;
-  filter: grayscale(0 !important;
+  filter: grayscale(0) !important;
 }
 
 .m-0 {
