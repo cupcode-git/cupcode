@@ -767,24 +767,24 @@
                     <div class="col-md-5 p-0">
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="nome" required  alt="digite seu nome" title="digite seu nome" >
+                                <input class="form-control" type="text" placeholder="nome" required  alt="digite seu nome" title="digite seu nome" >
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="email" placeholder="e-mail" required alt="digite seu email" title="digite seu email">
+                                <input class="form-control" type="email" placeholder="e-mail" required alt="digite seu email" title="digite seu email">
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="telefone" alt="digite seu telefone" title="digite seu telefone">
+                                <input class="form-control" type="text" placeholder="telefone" alt="digite seu telefone" title="digite seu telefone">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-7 p-0">
                         <div class="col-md-12 col-sm-12">
                             <div class="form-group bottom45">
-                                <textarea class="forma" placeholder="mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                                <textarea class="form-control" placeholder="mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
                             </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
