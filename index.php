@@ -398,7 +398,6 @@
                             <li><a data-fancybox="gallery" href="images/rabo-de-galo-portfolio.jpg" alt="rabo de galo" title="rabo de galo"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="rabo de galo" title="rabo de galo"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/rabo-de-galo-portfolio.jpg" alt="rabo de galo" title="rabo de galo">rabo de galo</a></h3>
                         <p>web, papelaria</p>
                     </div>
                 </div>
@@ -410,9 +409,7 @@
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/portfolio-diego.jpg" alt="diego tragel" title="diego tragel"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="diego tragel" title="diego tragel"><i class="fas fa-link"></i></a></li>
-                             
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/portfolio-diego.jpg" alt="diego tragel" title="diego tragel">diego tragel</a></h3>
                         <p>web, branding, papelaria</p>
                     </div>
                 </div>
@@ -424,9 +421,7 @@
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/elitronicos-portfolio.jpg" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fas fa-link"></i></a></li>
-                             
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/elitronicos-portfolio.jpg" alt="elitronicos portfolio" title="elitronicos portfolio">elitronicos</a></h3>
                         <p>web, papelaria, branding</p>
                     </div>
                 </div>
@@ -439,7 +434,6 @@
                             <li><a data-fancybox="gallery" href="images/sofalizando-portfolio.jpg" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/sofalizando-portfolio.jpg" alt="sofalizando portfolio" title="sofalizando portfolio">sofalizando</a></h3>
                         <p>web, papelaria</p>
                     </div>
                 </div>
@@ -450,9 +444,7 @@
                     <div class="overlay light center-block darkcolor">
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
-                             
                         </ul>
-                        <h3 class="bottom15 text-center"><a data-fancybox="gallery" href="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio">barbearia visconde glaser</a></h3>
                         <p>papelaria</p>
                     </div>
                 </div>
@@ -465,7 +457,6 @@
                             <li><a data-fancybox="gallery" href="images/sacola-bar-do-silval-portfolio.jpg" alt="bar do silval" title="bar do silval"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="bar do silval" title="bar do silval"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/sacola-bar-do-silval-portfolio.jpg" alt="bar do silval" title="bar do silval">bar do silval</a></h3>
                         <p>web, papelaria</p>
                     </div>
                 </div>
@@ -478,7 +469,6 @@
                             <li><a data-fancybox="gallery" href="images/britney-portfolio.jpg" alt="britney portfolio" title="britney portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="britney portfolio" title="britney portfolio"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/britney-portfolio.jpg" alt="britney portfolio" title="britney portfolio">britneynizer</a></h3>
                         <p>web, branding</p>
                     </div>
                 </div>
@@ -490,9 +480,7 @@
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/cavaz-portfolio.jpg" alt="cavaz portfolio" title="cavaz portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="cavaz portfolio" title="cavaz portfolio"><i class="fas fa-link"></i></a></li>
-                             
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/cavaz-portfolio.jpg" alt="cavaz portfolio" title="cavaz portfolio">cavaz</a></h3>
                         <p>web, papelaria</p>
                     </div>
                 </div>
@@ -505,7 +493,6 @@
                             <li><a data-fancybox="gallery" href="images/bolas-fora-portfolio.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="bolas fora portfolio" title="bolas fora portfolio"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/bolas-fora-portfolio.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio">bolas fora</a></h3>
                         <p>web, papelaria</p>
                     </div>
                 </div>
@@ -517,8 +504,6 @@
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/cori-portfolio.jpg" alt="cora portfolio"  title="cora portfolio"><i class="fa fa-search-plus"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/cori-portfolio
-						.jpg"  alt="cora portfolio"  title="cora portfolio">cora</a></h3>
                         <p>branding, papelaria</p>
                     </div>
                 </div>
@@ -530,9 +515,7 @@
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/a50-portfolio.jpg" alt="a50 portfolio"  title="a50 portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="a50 portfolio" title="a50 portfolio"><i class="fas fa-link"></i></a></li>
-                             
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/a50-portfolio.jpg" alt="a50 portfolio"  title="a50 portfolio"></a></h3>a50
                         <p>web, branding, papelaria</p>
                     </div>
                 </div>
@@ -543,9 +526,7 @@
                     <div class="overlay light center-block darkcolor">
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/tatoozasso-portfolio.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio"><i class="fa fa-search-plus"></i></a></li>
-                             
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/tatoozasso-portfolio.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio">tatoozasso</a></h3>
                         <p>papelaria</p>
                     </div>
                 </div>
@@ -558,7 +539,6 @@
                             <li><a data-fancybox="gallery" href="images/wec-portfolio.jpg" alt="wec portfolio"  title="wec portfolio"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="wec portfolio" title="wec portfolio"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/wec-portfolio.jpg" alt="wec portfolio"  title="wec portfolio">wec</a></h3>
                         <p>web, branding, papelaria</p>
                     </div>
                 </div>
@@ -570,7 +550,6 @@
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/visconde-portfolio.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/visconde-portfolio.jpg" alt="visconde"  title="visconde">visconde</a></h3>
                         <p>papelaria</p>
                     </div>
                 </div>
@@ -583,7 +562,6 @@
                             <li><a data-fancybox="gallery" href="images/licitacoes-portfolio.jpg" alt="uol licitações"  title="uol licitações"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="uol licitações" title="uol licitações"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <h3 class="bottom15"><a data-fancybox="gallery" href="images/licitacoes-portfolio.jpg" alt="uol licitações"  title="uol licitações">uol licitações</a></h3>
                         <p>web</p>
                     </div>
                 </div>
