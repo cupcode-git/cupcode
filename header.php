@@ -80,7 +80,7 @@
                      <div class="navbar-right-1">
                         <ul class="nav navbar-nav navbar-right">
                            <li><a href="editorial.php" class="scrollings">editorial</a></li>
-                           <li><a href="#ourinfo" class="scrollings">portifolio</a></li>
+                           <li><a href="#ourinfo" class="scrollings">portfolio</a></li>
                            <li class="static dropdown">
                            <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">planos</a>
                            <ul class="megamenu-content dropdown-menu">
