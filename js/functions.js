@@ -67,19 +67,19 @@ jQuery(function ($) {
          });
       }
    });
-	
-   
 
 
-   /* ------- DropDown handler ------- */	
+
+
+   /* ------- DropDown handler ------- */
    function navbarz() {
    $(".navbar .dropdown").on('click', function() {
 		 if ($(window).width() < 990) {
 			 $(this).next('.dropdown-menu').show();
-			 $(this).next.toggleClass('open'); 
+			 $(this).next.toggleClass('open');
 		 }
 	});
-			
+
 	$(".navbar .dropdown").hover(function () {
 		 if ($(window).width() >= 990) {
 			 $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
@@ -94,8 +94,8 @@ jQuery(function ($) {
 	}
    navbarz();
    $window.resize(navbarz);
-	
-	
+
+
 
 
    /* -------Toggle POPOVER for share blog post -------*/
@@ -109,7 +109,7 @@ jQuery(function ($) {
       if($("#bgndVideo").length){
          $("#bgndVideo").YTPlayer();
       }
-      
+
    });
 
 
@@ -350,7 +350,7 @@ jQuery(function ($) {
          },
       });
    });
-   
+
 	/*Cripto version */
    $("#bitco-slider.swiper-container").swiper({
       spaceBetween: 0,
@@ -359,7 +359,7 @@ jQuery(function ($) {
       pagination: '.swiper-pagination',
       paginationClickable: true,
     });
-   
+
 
    /* ------ OWL Slider ------ */
    /*Work with us LOGOS greyscale*/
@@ -409,7 +409,7 @@ jQuery(function ($) {
          }
       }
    });
-   
+
    /*Special Food Offers & Construction Services*/
    $("#food-offers, #constructions").owlCarousel({
       center: true,
@@ -468,7 +468,7 @@ jQuery(function ($) {
          }
       }
    });
-   
+
    /*Simple fadng blog imgs*/
    $("#blog-fade").owlCarousel({
       items: 1,
@@ -486,7 +486,7 @@ jQuery(function ($) {
       }
    });
 
-   
+
 
    /*----- TESTIMONIALS Feedback ----*/
    var feedtext = $(".feedback-text");
@@ -622,17 +622,34 @@ jQuery(function ($) {
          autoStart: false,
          loop: true,
       })
-      .tiType('Designer')
+      .tiType('marketing digital')
       .tiSettings({
-         speed: 700
+         speed: 600
       })
       .tiPause(1000)
       .tiSettings({
          speed: 50
       })
       .tiDelete()
-      .tiType('Developer');
-
+      .tiType('websites')
+      .tiSettings({
+         speed: 700
+      })
+      .tiPause(900)
+      .tiSettings({
+         speed: 50
+      })
+      .tiDelete()
+      .tiType('criação editorial')
+      .tiSettings({
+         speed: 500
+      })
+      .tiPause(1200)
+      .tiSettings({
+         speed: 90
+      })
+      .tiDelete()
+      .tiType('design gráfico');
 
 
    /* ------ CubePortfolio ------ */
@@ -746,7 +763,7 @@ jQuery(function ($) {
          cols: 1,
         }],
    });
-   
+
     /*3 cols mosaic*/
    $("#grid-mosaic").cubeportfolio({
         filters: "#filters-mosaic",
@@ -860,7 +877,7 @@ jQuery(function ($) {
          disableFocusListener: false,
       }
    });
-   
+
    /*Banner Standard with full Width*/
    $("#banner-standard").show().revolution({
       sliderType: "standard",
@@ -996,8 +1013,8 @@ jQuery(function ($) {
          },
       });
    });
-   
-   
+
+
    $(".circular-wrap.dark").appear(function () {
       $('.myskill').circleProgress({
       lineCap: "round",
@@ -1005,7 +1022,7 @@ jQuery(function ($) {
    });
    });
 
-   
+
 
    /* ----- Custom scroller ----- */
    if ($("#nav-slides").length) {
@@ -1041,9 +1058,8 @@ jQuery(function ($) {
 
 
 }
-   
+
 
 /* -------- Wow Transitions -------- */
 
 new WOW().init();
-   
