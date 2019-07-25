@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12">
                     <div>
-                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 796.37 322.49" style="enable-background:new 0 0;" xml:space="preserve">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-275 0 996 422" style="enable-background:new 0 0;" xml:space="preserve">
                           <g>
                           	<g>
                           		<path class="st0" d="M58.47,302.74c-4.05,0-7.66-0.92-10.83-2.77c-3.17-1.85-5.65-4.36-7.45-7.52c-1.8-3.17-2.7-6.75-2.7-10.75
