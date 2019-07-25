@@ -324,6 +324,8 @@ a.image{
 .image img {
     width: 100%;
     display: block;
+    -webkit-filter: opacity(0.2);
+    filter: opacity(0.2);
 }
 .image, .image img {
     position: relative;
@@ -333,6 +335,8 @@ a.image{
     -ms-transform: scale(1.15);
     -o-transform: scale(1.15);
     transform: scale(1.15);
+    -webkit-filter: opacity(1);
+    filter: opacity(1);
 }
 
 /*Video Player button*/
@@ -704,28 +708,9 @@ ul.social.dark li a:focus{
     color: inherit;
 }
 /*SVG LOGO */
-.st0 {
-  fill: #BCBEC0;
-}
-.st1 {
-  font-family: 'Comfortaa', cursive;
-}
-.st2 {
-  font-size: 141.943px;
-}
-.st3 {
-  fill: #A7A9AC;
-}
-.st4 {
-  fill: #898989;
-}
-.st5 {
-  display: none;
-}
-.st6 {
-  display: inline;
-  fill: #A7A9AC;
-}
+.st0{fill:#BCBEC0;}
+.st1{fill:#A7A9AC;}
+.st2{fill:#898989;}
 /*View More*/
 .viewmore{
     display: inline-block;
@@ -3645,6 +3630,15 @@ i.fab.fa-linkedin:hover {
 #logo-transparent .logo-item{
   position: relative;
   height: 100px;
+  -webkit-filter: opacity(0.5);
+  filter: opacity(0.5);
+}
+#logo-arrow .logo-item:hover,
+#logo-transparent .logo-item:hover {
+  position: relative;
+  height: 100px;
+  -webkit-filter: opacity(1);
+  filter: opacity(1);
 }
 #logo-arrow .logo-item > img,
 #logo-transparent .logo-item > img{
