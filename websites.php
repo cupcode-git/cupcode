@@ -135,14 +135,14 @@
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fa fa-tint"></i></span>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
-               <p class="bottom25 top15">Criamos sites Responsivos, otimizados, rápidos utilizando SEO e Bootstrap com uma excelente qualidade</p>
+               <p class="bottom25 top15">Criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, a pesquisa do google é amplamente usada por usuários que buscam soluções e serviços para seus problemas, nesse caso o site funciona como um primeiro canal de contato entre seu negócio e seu público, a primeira impressão é fundamental para que esse visitante se transforme em um cliente, criar um site possibilita que sua empresa tenha maior credibilidade perante o seu público-alvo, garantindo que os clientes notem o seu esforço em possuir um relacionamento no ambiente virtual.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fa fa-support"></i></span>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
-               <p class="bottom25 top15">Criamos blogs e realizamos o cadastro e gerenciamento dos conteúdos, com responsividade e SEO fazemos a ligação do site e blog muito rápido e eficiente.</p>
+               <p class="bottom25 top15">Fazemos seu blog com qualidade, com um bom conteúdo  você passa a ser diferenciado no mundo digital. Os potenciais clientes veem você como alguém que sabe o que está fazendo  e passam a confiar mais na sua marca, publicar conteúdo com frequência faz com que sua empresa tenha muito mais páginas indexadas no google do que um website comum, blogs têm espaços para comentários, incentivar essa conversa é uma forma de criar relacionamento com seus clientes.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">

@@ -111,7 +111,7 @@
                   </div>
                   <div class="col-md-7 col-sm-6 col-xs-7">
                      <h3>seo</h3>
-                     <p class="top20">É a melhor forma de deixar seu site sempre nas primeira página dos navegadores de pesquisa, fazemos a otimização, e a adição de palavras chaves, para o melhor resultado.</p>
+                     <p class="top20">Search engine optimization ou otimização para mecanismos de busca, consiste em um conjunto de táticas e otimizações que visam melhor posicionar as páginas nos resultados orgânicos de mecanismos de busca como o google, essas otimizações podem ser feitas sem custo nenhum e trazem ótimos resultados, com as práticas corretas de SEO, é possível observar resultados promissores e muito positivos, o nosso SEO é criativo e esse é o grande diferencial para se destacar nos mecanismos de busca em meio a tantos concorrentes.</p>
                   </div>
                </div>
             </div>
@@ -123,7 +123,7 @@
                   </div>
                   <div class="col-md-7 col-sm-6 col-xs-7">
                      <h3>kpi</h3>
-                     <p class="top20">Com os dados do indicador-chave de desempenho, podemos fazer mudanças, e analisar a melhor forma de auxiliar no seu negócio, são indicadores de precisão.</p>
+                     <p class="top20">Key Performance Indicator, que significa indicador-chave de desempenho. esse indicador é utilizado para medir o desempenho dos processos de uma empresa e, com essas informações, colaborar para que alcance seus objetivos, com os dados podemos fazer mudanças e analisar a melhor forma de auxiliar no seu negócio, são indicadores de precisão, trazendo resultados satisfatórios com as métricas sempre atualizadas, para o melhor desenvolvimento da empresa.</p>
                   </div>
                </div>
             </div>
