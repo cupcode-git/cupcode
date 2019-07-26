@@ -7,8 +7,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="large-caption text-center wow zoomIn">
                <div class="center-item">
-                  <h2 class="whitecolor bottom60">Best Suitable For </h2>
-                  <a href="#services-three" class="button white scrollings">features</a> &nbsp; <a href="javascript:void(0)" class="button whitehole">buy now</a>
+                  <h2 class="whitecolor bottom60">marketing digital</h2>
                </div>
             </div>
          </div>
@@ -17,16 +16,60 @@
    </div>
 </section>
 <!--Ful Screen Section Video ends-->
+
+<!--Services 3 column-->
+<section id="" class="padding bglight">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-2 col-sm-1"></div>
+         <div class="col-md-8 col-sm-10">
+            <div class="intro-text center bottom15 wow fadeInUp">
+               <h2 class="darkcolor bottom45">redes sociais</h2>
+               <p class="bottom45">Como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
+              
+            </div>
+         </div>
+         <div class="col-md-2 col-sm-1"></div>
+      </div>
+      <div class="row" id="features">
+         <div class="col-md-4 col-sm-6">
+            <div class="icon_box equalheight top60 wow fadeInUp">
+               <i class="fa fa-bicycle"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">gerenciamento</a></h4>
+               <hr>
+               <p class="no_bottom">Cuidamos das redes sociais, parcialmente ou total, sempre em busca dos melhores resultados. </p>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6">
+            <div class="icon_box equalheight top60 wow fadeInUp">
+               <i class="fa fa-umbrella"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">post</a></h4>
+               <hr>
+               <p class="no_bottom">Post nas redes sociais, dando conteúdo para o seu público sempre estar atualizado.</p>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6">
+            <div class="icon_box equalheight top60 wow fadeInUp">
+               <i class="fa fa-bar-chart"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
+               <hr>
+               <p class="no_bottom">Ao impulsionar um post garantimos que ele atingirá o maior números de pessoas ativas, feito por profissional expert nas redes sociais.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Services 3 column ends-->
 <!--Blog info -->
 <section id="ourinfo">
    <div class="container-fluid">
       <div class="row box-info-wrap">
          <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info container-padding padding_half equalheight wow fadeInLeft">
+            <div class="box-info container-padding padding_half1 equalheight wow fadeInLeft">
                <div class="intro-text">
-                  <span class="heading-title bottom25"> Anúncios</span>
-                  <h2 class="darkcolor bottom45"><a href="blog.html">Google AdWords</a></h2>
-                  <p>Analisamos os gráficos otimizando para o melhor resultado, levando seus anúncios até seu público alvo, aparecendo em todas as plataformas, convertendo os leads em clientes em potencial.</p>
+                  <span class="heading-title bottom25"> anúncios</span>
+                  <h2 class="darkcolor bottom45"><a href="blog.html">google adwords</a></h2>
+                  <p>Cerca de 3,3 bilhões de buscas no google são realizadas diariamente, sendo a maior empresa de anúncios do mundo, pioneira no mercado, colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
                </div>
             </div>
          </div>
@@ -47,9 +90,9 @@
          <div class="col-md-6 col-sm-6 nopadding">
             <div class="box-info container-padding padding_half bgdefault equalheight wow fadeInRight">
                <div class="intro-text">
-                  <span class="heading-title whitecolor bottom25"> Anúncios </span>
-                  <h2 class="whitecolor bottom45"><a href="blog.html">Facebook ads</a></h2>
-                  <p class="whitecolor">Criamos campanhas mais eficazes e responsivo dentro da própria plataforma, usando Indicador-chave de desempenho KPI, e com uma otimização para motores de busca SEO.</p>
+                  <span class="heading-title whitecolor bottom25"> anúncios </span>
+                  <h2 class="whitecolor bottom45"><a href="blog.html">facebook ads</a></h2>
+                  <p class="whitecolor">A rede social chegou a 2,27 bilhões de usuários, sendo que 127 milhões são brasileiros, o facebook ads é uma das plataformas de anúncio que mais cresce no mundo, porque ajuda empreendedores e empresas de todos os portes a divulgar sua marca nas redes sociais, os anúncios podem ser facilmente segmentados, ou seja, direcionados a atingir exatamente o perfil de consumidor que a empresa está buscando e atraindo novos clientes em potenciais.</p>
                </div>
             </div>
          </div>
@@ -67,8 +110,8 @@
                   <div class="col-md-5 col-sm-6 col-xs-5">
                   </div>
                   <div class="col-md-7 col-sm-6 col-xs-7">
-                     <h3>SEO</h3>
-                     <p class="top20">é a melhor forma de deixar seu site sempre nas primeira página dos navegadores de pesquisa, fazemos a otimização, e a adição de palavras chaves, para o melhor resultado.</p>
+                     <h3>seo</h3>
+                     <p class="top20">É a melhor forma de deixar seu site sempre nas primeira página dos navegadores de pesquisa, fazemos a otimização, e a adição de palavras chaves, para o melhor resultado.</p>
                   </div>
                </div>
             </div>
@@ -79,7 +122,7 @@
                   <div class="col-md-5 col-sm-6 col-xs-5">
                   </div>
                   <div class="col-md-7 col-sm-6 col-xs-7">
-                     <h3>KPI</h3>
+                     <h3>kpi</h3>
                      <p class="top20">Com os dados do indicador-chave de desempenho, podemos fazer mudanças, e analisar a melhor forma de auxiliar no seu negócio, são indicadores de precisão.</p>
                   </div>
                </div>
@@ -97,10 +140,9 @@
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center bottom15 wow fadeInUp">
-               <span class="heading-title bottom25">Cade a porra do texto?</span>
-               <h2 class="darkcolor bottom45">Redes Sociais</h2>
+               <h2 class="darkcolor bottom45">redes sociais</h2>
                <p class="bottom45">Fazemos o desde a criação até o gerenciamento das redes sociais com a melhor otimização, desdo facebook, twitter, instagram, linkedin.</p>
-               <a href="javascript:void(0)" class="button default">choose your best</a>
+              
             </div>
          </div>
          <div class="col-md-2 col-sm-1"></div>
@@ -109,7 +151,7 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top60 wow fadeInUp">
                <i class="fa fa-bicycle"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Gerenciamento </a></h4>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">gerenciamento </a></h4>
                <hr>
                <p class="no_bottom">Cuidamos das redes sociais, parcialmente ou total.</p>
             </div>
@@ -117,7 +159,7 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top60 wow fadeInUp">
                <i class="fa fa-umbrella"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Post</a></h4>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">post</a></h4>
                <hr>
                <p class="no_bottom">Post alternados em 2 a 2 dias ou semanal.</p>
             </div>
@@ -125,7 +167,7 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top60 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Impulsionadas</a></h4>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">impulsionadas</a></h4>
                <hr>
                <p class="no_bottom">Propaganda utilizando os recursos de impulsionar as postagens.</p>
             </div>
@@ -140,8 +182,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <span class="heading-title bottom25"> always behind the brands </span>
-                  <h2 class="darkcolor bottom25">Pricing Style 01 </h2>
+                  <h2 class="darkcolor bottom25">planos </h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -168,41 +209,41 @@
             </div-->
             <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">Professional</h3>
+                  <h3 class="bottom15">professional</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
                      <h1>250</h1> <span class="dur">/ year</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 Email Account</span></li>
-                  <li><span>100Gb Space</span></li>
-                  <li><span>Domain Name</span></li>
-                  <li><span>500Gb Bandwidth</span></li>
-                  <li><span>25 MySQL Databases</span></li>
-                  <li><span>Enhanced Sercurity</span></li>
+                  <li><span>15 email account</span></li>
+                  <li><span>100gb space</span></li>
+                  <li><span>domain name</span></li>
+                  <li><span>500gb bandwidth</span></li>
+                  <li><span>25 nysql databases</span></li>
+                  <li><span>enhanced sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
             <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">Enterprise</h3>
+                  <h3 class="bottom15">professional</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>360</h1> <span class="dur">/ year</span>
+                     <h1>250</h1> <span class="dur">/ year</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 Email Account</span></li>
-                  <li><span>100Gb Space</span></li>
-                  <li><span>Domain Name</span></li>
-                  <li><span>500Gb Bandwidth</span></li>
-                  <li><span>25 MySQL Databases</span></li>
-                  <li><span>Enhanced Sercurity</span></li>
+                  <li><span>15 email account</span></li>
+                  <li><span>100gb space</span></li>
+                  <li><span>domain name</span></li>
+                  <li><span>500gb bandwidth</span></li>
+                  <li><span>25 nysql databases</span></li>
+                  <li><span>enhanced sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
          </div>
       </div>
