@@ -1,10 +1,10 @@
-﻿<?php $title = 'cupcode'; include("header.php"); ?>
+﻿<?php $title = 'cupcode - agência de marketing digital e criação de websites'; include("header.php"); ?>
     <section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div>
-                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-275 0 996 422" style="enable-background:new 0 0;" xml:space="preserve">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-290 0 996 422" style="enable-background:new 0 0;" xml:space="preserve">
                           <g>
                           	<g>
                           		<path class="st0" d="M58.47,302.74c-4.05,0-7.66-0.92-10.83-2.77c-3.17-1.85-5.65-4.36-7.45-7.52c-1.8-3.17-2.7-6.75-2.7-10.75
@@ -91,27 +91,29 @@
                     </div>
                     <h2 class="bottom45 text-center darkcolor"><span id="my_designation"></span></h2>
                 </div>
-                <div class="col-12 text-center tp-caption rev-scroll-btn revs-light"
-                     id="layers-thir"
-                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                     data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']"
-                     data-width="30"
-                     data-height="45"
-                     data-whitespace="nowrap"
-                     data-type="button"
-                     data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":1000}]'
-                     data-basealign="slide"
-                     data-responsive_offset="on"
-                     data-responsive="off"
-                     data-frames='[{"from":"y:-50px;opacity:0;","speed":1500,"to":"o:1;","delay":800,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
-                     data-textAlign="['left','left','left','left']"
-                     data-paddingtop="[0,0,0,0]"
-                     data-paddingright="[0,0,0,0]"
-                     data-paddingbottom="[0,0,0,0]"
-                     data-paddingleft="[0,0,0,0]"
-                     style="z-index: 19; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-weight: 400;border-color:rgba(255, 255, 255, 1.00);border-style:solid;border-width:2px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                    <span></span>
-                </div>
+                <a href="#marketing" class="scrollings">
+                  <div class="col-12 text-center tp-caption rev-scroll-btn revs-light"
+                       id="layers-thir"
+                       data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                       data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']"
+                       data-width="30"
+                       data-height="45"
+                       data-whitespace="nowrap"
+                       data-type="button"
+                       data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":1000}]'
+                       data-basealign="slide"
+                       data-responsive_offset="on"
+                       data-responsive="off"
+                       data-frames='[{"from":"y:-50px;opacity:0;","speed":1500,"to":"o:1;","delay":800,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                       data-textAlign="['left','left','left','left']"
+                       data-paddingtop="[0,0,0,0]"
+                       data-paddingright="[0,0,0,0]"
+                       data-paddingbottom="[0,0,0,0]"
+                       data-paddingleft="[0,0,0,0]"
+                       style="z-index: 19; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; position: absolute; bottom: 40px; left: 49.5%; white-space: nowrap; font-weight: 400;border-color:rgba(255, 255, 255, 1.00);border-style:solid;border-width:2px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                      <span></span>
+                  </div>
+                </a>
             </div>
         </div>
     </section>
