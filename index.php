@@ -119,52 +119,52 @@
     <section class="single-items center-block item-two lightcolor parallaxie full-screen" id="marketing">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-11 col-xs-offset-1">
+                <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
                     <div class="item-titles whitecolor text-center wow fadeInRight">
                         <h3 class="bottom10">
                             <a><strong>marketing</strong> digital</a>
                         </h3>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="fas fa-fingerprint"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="click aqui" title="click aqui">branding</h4>
+                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">branding</h4>
                                 <div style="display: none;" id="hidden-content-b">
                                     <h2 class="text-center bottom10">branding</h2>
-                                    <p class="text-justify">Quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um, podemos fazer, logo, manual da marca, paleta de cores, tipografia e muito mais.</p>
+                                    <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>Construímos sua identidade visual, logotipo e manual da marca.</P>
+                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="fas fa-share-alt"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="click aqui" title="click aqui">sociais</h4>
+                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn">sociais</h4>
                                 <div style="display: none;" id="hidden-content-b">
                                     <h2 class="text-center bottom10">sociais</h2>
-                                    <p class="text-justify">Nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos.</p>
+                                    <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, usando o Facebook Pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos e muito mais.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole ">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole" alt="clique aqui" title="clique aqui">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>Gerenciamento das redes  sociais, anúncios no google ads, facebook ads, pixel, email marketing.</P>
+                            <p>gerenciamento das redes  sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole1 top100">Ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole1 top100">ver planos</a>
                     </div>
                 </div>
                 </div>
@@ -173,13 +173,13 @@
     <section class="single-items center-block item-four parallaxie full-screen" id="websites">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-sm-8 col-xs-11">
+                <div class="col-md-6 col-sm-8 col-xs-12">
                     <div class="item-titles darkcolor text-center wow fadeInRight">
                         <h3 class="bottom10">
                             <a>web<strong>sites</strong></a>
                         </h3>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
                                 <i class="fas fa-desktop"></i>
@@ -188,37 +188,37 @@
                                 <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">site/blog</h4>
                                 <div style="display: none;" id="hidden-content-e">
                                     <h2 class="text-center bottom10">site/blog</h2>
-                                    <p class="text-justify">Não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google e Bing. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela de celular, aproveitando o melhor de cada dispositivo.</p>
+                                    <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela t"ao pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole ">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>Criamos seu site responsivo, seu blog, unidos as redes sociais com uma melhor otimização.</P>
+                            <p>criamos seu site, blog ou e-commerce responsivo e intuitivo, leve e de fácil navegação.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="fas fa-server"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">hospedagem</h4>
+                                <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">hospedagem</h4>
                                 <div style="display: none;" id="hidden-content-f">
                                     <h2 class="text-center bottom10">hospedagem</h2>
-                                    <p class="text-justify">Não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrão, conteúdo focado em SEO/SSL, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
+                                    <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões, conteúdo focado em SEO e ROI, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole ">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>Temos a melhor configuração para sua empresa ter um site  confiável e estável.</P>
+                            <p>temos a melhor configuração para sua empresa ter um site confiável, estável e funcional.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">Ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -227,54 +227,55 @@
     <section class="single-items center-block item-three parallaxie full-screen" id="grafico">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-11 col-xs-offset-1">
+                <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
                     <div class="item-titles text-center darkcolor wow fadeInLeft">
                         <h3 class="bottom10">
                             <a>design<strong> gráfico</strong></a>
                         </h3>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="fas fa-edit"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">lâminas</h4>
+                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">papelaria</h4>
                                 <div style="display: none;" id="hidden-content-c">
-                                    <h2 class="text-center bottom10">lâminas</h2>
-                                    <p class="text-justify">Com lâminas de impressão, pode-se fazer diversas coisas, jornal, folders, flyers, um exemplo com 3 lâminas da pra montar 12 paginas.</p>
+                                    <h2 class="text-center bottom10">papelaria</h2>
+                                    <p class="text-justify">criamos sua arte para impressão, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
+                                      catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>Construímos diversas lâminas para impressão, com uma excelente qualidade.</P>
+                            <p>construímos todas suas lâminas para impressão, com qualidade e inteligência.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="far fa-id-card"></i>
                             </a>
                             <div class="grid">
                                 <a data-fancybox="group-two" href="images/a50-portfolio.jpg">
-                                    <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">papelaria</h4>
+                                    <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">digital</h4>
                                 </a>
                                 <div style="display: none;" id="hidden-content-d">
-                                    <h2 class="text-center bottom10">papelaria</h2>
-                                    <p class="text-justify">Artes gráficas para impressão, cartões de visita, banner para sua loja, outdoor, papel timbrado, agenda, flyers, folders e tudo o que você precisar para enviar para impressão, temos um time de designers prontos para criar suas laminas de arte.</p>
+                                    <h2 class="text-center bottom10">digital</h2>
+                                    <p class="text-justify">artes gráficas para redes sociais, sites, blogs ou qualquer outra mídia digital, além de imagens, também produzimos vídeos e animações que atraem a atenção de seus clientes.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole ">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>Papelaria, cartões de visita, banner, folders, outdoor, papel timbrado e flyers.</P>
+                            <p>imagens, vídeos e animações que atraem a atenção de seus clientes.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">Ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -283,138 +284,64 @@
     <section class="single-items center-block item-seven parallaxie full-screen" id="editorial">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-sm-8 col-xs-11">
+                <div class="col-md-6 col-sm-8 col-xs-12">
                     <div class="item-titles text-center darkcolor wow fadeInLeft">
                         <h3 class="bottom10">
                             <a>criação <strong>editorial</strong></a>
                         </h3>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="far fa-newspaper"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">adaptação de conteúdo</h4>
+                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">adaptação SEO</h4>
                                 <div style="display: none;" id="hidden-content-h" class="text-center">
-                                    <h2 class="text-center bottom10">adaptação de conteúdo</h2>
-                                    <p class="text-justify">Adaptamos seu texto para todas as plataformas, fazemos um revisão completa do seu texto antes de publica-lo, corrigimos erros e realizamos melhoras no texto.</p>
+                                    <h2 class="text-center bottom10">adaptação SEO</h2>
+                                    <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas buscas.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole ">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>
-                                Adaptação de conteúdo, para todas as plataformas, corrigimos erros.
-                            </P>
+                            <p>
+                                adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.
+                            </p>
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
+                            <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="far fa-edit"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">criação de conteúdo</h4>
+                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">criação</h4>
                                 <div style="display: none;" id="hidden-content-g">
-                                    <h2 class="text-center bottom10">criação de conteúdo</h2>
-                                    <p class="text-justify">Nós produziremos matérias com foco em tirar o melhor proveito do Google e colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias específicos e exclusivas para sua empresa, artigos com conteúdo relevante e especifico da área.</p>
+                                    <h2 class="text-center bottom10">criação</h2>
+                                    <p class="text-justify">nós produziremos matérias com foco em tirar o melhor proveito do google e outros mecanismos de buscas na internet, paras colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da área.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole ">Ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <P>
-                                Criação de conteúdo, matérias, colocando seu site nas primeiras páginas do google.
-                            </P>
+                            <p>
+                                criação de conteúdo, matérias, colocando seu site nas primeiras páginas do google.
+                            </p>
                         </div>
                     </div>
 
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">Ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!----=>
-    <section class="single-items center-block item-six parallaxie full-screen" id="videos">
-       <div class="container">
-          <div class="row">
-              <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-11 col-xs-offset-1">
-                  <div class="item-titles whitecolor text-center wow fadeInRight">
-                      <h3 class="bottom10">
-                          <a>produção de <strong>vídeos</strong> </a>
-                      </h3>
-                  </div>
-                  <div class="col-md-6 col-sm-6">
-                      <div class="icon_box equalheight top50 wow fadeInUp">
-                          <a data-fancybox="group-two" href="javascript:void(0)">
-                              <i class="far fa-file-video"></i>
-                          </a>
-                          <a data-fancybox="group-two" href="javascript:void(0)">
-                              <h4 class="text-capitalize darkcolor bottom10">
-                                  produção
-                              </h4>
-                          </a>
-                          <hr>
-                          <P>Produção, de vídeos, trailers, roteiros, edições visuais.</P>
-                      </div>
-                  </div>
-                  <div class="col-md-6 col-sm-6">
-                      <div class="icon_box equalheight top50 wow fadeInUp">
-                          <a data-fancybox="group-two" href="javascript:void(0)">
-                              <i class="fas fa-video"></i>
-                          </a>
-                          <a data-fancybox="group-two" href="javascript:void(0)">
-                              <h4 class="darkcolor bottom10">
-                                  Propagandas e animações
-                              </h4>
-                          </a>
-                          <hr>
-                          <P>Propagandas e animações, vídeo marketing, trazendo um melhor entretenimento com o público alvo.</P>
-                      </div>
-                  </div>
 
-                  <div class="col-md-12 text-center">
-                      <a href="javascript:void(0)" class="button defaulthole top100">Ver planos</a>
-                  </div>
-                  <div class="col-md-6 col-sm-6">
-                      <div class="icon_box equalheight top50 wow fadeInUp">
-                          <a data-fancybox="group-two" href="javascript:void(0)">
-                              <i class="fas fa-bicycle"></i>
-                              <h4 class="text-capitalize darkcolor bottom10">propagandas
-                          </a></h4>
-                          <hr>
-                          <p class="no_bottom">Lorem ipsum is simply  Lorem Ipsum has been</p>
-                      </div>
-                  </div>
-                  <div class="col-md-6 col-sm-6">
-                      <div class="icon_box equalheight top50 wow fadeInUp">
-                          <a data-fancybox="group-two" href="javascript:void(0)">
-                              <i class="fas fa-bicycle"></i>
-                              <h4 class="text-capitalize darkcolor bottom10">script
-                          </a></h4>
-                          <hr>
-                          <p class="no_bottom">Lorem ipsum is simply  Lorem Ipsum has been</p>
-                      </div>
-                  </div>
-              </div>
-
-          </div>
-           </div>
-    <div class="hidden">
-       <a data-fancybox="group-six" data-thumb="images/gallery-thumb1.jpg" href="images/gallery-thumb1.jpg"></a>
-       <a data-fancybox="group-six" data-thumb="images/gallery-thumb2.jpg" href="images/gallery-thumb2.jpg"></a>
-       <a data-fancybox="group-six" data-thumb="images/gallery-thumb3.jpg" href="images/gallery-thumb3.jpg"></a>
-       <a data-fancybox="group-six" data-thumb="images/gallery-thumb4.jpg" href="images/gallery-thumb4.jpg"></a>
-       <a data-fancybox="group-six" data-thumb="images/gallery-thumb5.jpg" href="images/gallery-thumb5.jpg"></a>
-    </div>
-    </section>
-                  <-->
     <!--Gallery Grid-->
     <section id="portfolio" class="padding_bottom">
         <div class="container">
