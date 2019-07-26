@@ -11,7 +11,7 @@
                   <div class="myphoto">
                      <img src="images/myphoto.png" alt="">
                   </div>
-                  <h2 class="text-capitalize top30 bottom35 darkcolor">Elen Alexander</h2>
+                  <h2 class="  top30 bottom35 darkcolor">Elen Alexander</h2>
                   <h4 class="bottom45 darkcolor"> I'm Web <span  id="my_designation"></span></h4>
                   <a href="#ourportfolio" class="button dark scrollings">My Work</a> &nbsp; 
                   <a href="#map-address" class="button darkhole scrollings">Hire Me</a>
@@ -30,8 +30,7 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="intro-text">
-               <span class="heading-title bottom25">Cade a porra do texto?</span>
-               <h2 class="whitecolor bottom45">Editorial</h2>
+               <h2 class="whitecolor bottom45">editorial</h2>
                <p class="whitecolor">Desde a criação de conteúdo, para redes sociais, blogs como a correção de erros e ajustes, utilizando o SEO, para a melhor otimização para os motores de busca.</p>
               
             </div>
@@ -46,8 +45,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <span class="heading-title bottom25"> always behind the brands </span>
-                  <h2 class="darkcolor bottom25">Pricing Style 01 </h2>
+                  <h2 class="darkcolor bottom25">planos </h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -74,41 +72,41 @@
             </div-->
             <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">Professional</h3>
+                  <h3 class="bottom15">professional</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
                      <h1>250</h1> <span class="dur">/ year</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 Email Account</span></li>
-                  <li><span>100Gb Space</span></li>
-                  <li><span>Domain Name</span></li>
-                  <li><span>500Gb Bandwidth</span></li>
-                  <li><span>25 MySQL Databases</span></li>
-                  <li><span>Enhanced Sercurity</span></li>
+                  <li><span>15 email account</span></li>
+                  <li><span>100gb space</span></li>
+                  <li><span>domain name</span></li>
+                  <li><span>500gb bandwidth</span></li>
+                  <li><span>25 mysql databases</span></li>
+                  <li><span>enhanced sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
             </div>
             <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">Enterprise</h3>
+                  <h3 class="bottom15">professional</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>360</h1> <span class="dur">/ year</span>
+                     <h1>250</h1> <span class="dur">/ year</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 Email Account</span></li>
-                  <li><span>100Gb Space</span></li>
-                  <li><span>Domain Name</span></li>
-                  <li><span>500Gb Bandwidth</span></li>
-                  <li><span>25 MySQL Databases</span></li>
-                  <li><span>Enhanced Sercurity</span></li>
+                  <li><span>15 email account</span></li>
+                  <li><span>100gb space</span></li>
+                  <li><span>domain name</span></li>
+                  <li><span>500gb bandwidth</span></li>
+                  <li><span>25 mysql databases</span></li>
+                  <li><span>enhanced sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
             </div>
          </div>
       </div>
