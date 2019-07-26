@@ -15,7 +15,7 @@
                    data-width="['none','none','none','360']" data-type="text"
                    data-textalign="['center','center','center','center']"
                    data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" >
-                    <h2 class="text-capitalize whitecolor">
+                    <h2 class="  whitecolor">
                     Most Flexible One Page <span class="block"> HTML5 Template </span>
                     </h2>
                 </div>
@@ -52,7 +52,7 @@
                    data-width="['none','none','none','360']" data-type="text"
                    data-textalign="['center','center','center','center']"
                    data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" >
-                    <h2 class="text-capitalize whitecolor">
+                    <h2 class="  whitecolor">
                     Most Flexible One Page <span class="block"> HTML5 Template </span>
                     </h2>
                 </div>
@@ -90,7 +90,7 @@
                    data-width="['none','none','none','360']" data-type="text"
                    data-textalign="['center','center','center','center']"
                    data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" >
-                    <h2 class="text-capitalize whitecolor">
+                    <h2 class="  whitecolor">
                     Most Flexible One Page <span class="block"> HTML5 Template </span>
                     </h2>
                 </div>
@@ -125,8 +125,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="intro-text center wow fadeInUp">
-               <span class="heading-title bottom25">Cade a porra do texto?</span>
-               <h2 class="darkcolor bottom25">Web Sites</h2>
+               <h2 class="darkcolor bottom25">web sites</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -135,21 +134,21 @@
          <div class="col-md-6 col-sm-6 equalheight">
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fa fa-tint"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>Sites</strong></a> </h4>
+               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
                <p class="bottom25 top15">Criamos sites Responsivos, otimizados, rápidos utilizando SEO e Bootstrap com uma excelente qualidade</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fa fa-support"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>Blogs</strong></a> </h4>
+               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
                <p class="bottom25 top15">Criamos blogs e realizamos o cadastro e gerenciamento dos conteúdos, com responsividade e SEO fazemos a ligação do site e blog muito rápido e eficiente.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fa fa-paperclip"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>Hospedagem</strong></a> </h4>
+               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>hospedagem</strong></a> </h4>
                <p class="bottom25 top15">Com a hospedagem seu site fica no ar funcionando e protegido, SSL para seu site ter uma navegação autenticada e segura, fazemos o seu e-mail</p>
             </div>
          </div>

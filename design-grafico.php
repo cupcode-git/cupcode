@@ -194,7 +194,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">Be Brave</h1></div> 
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">be Brave</h1></div> 
 
                    <!-- layer nr. 12 -->
                    <div class="tp-caption tp-resizeme" 
@@ -215,7 +215,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">Be Branding</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">be Branding</h1></div>
 
                    <!-- layer nr. 13 -->
                    <div class="tp-caption tp-resizeme" 
@@ -249,7 +249,6 @@
                         data-responsive="off"
                         data-frames='[{"from":"y:100px;rX:90deg;opacity:0;","speed":1500,"to":"o:1;","delay":700,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
                         style="z-index: 19;">
-                        <a href="#" class="button default">get started now </a> 
                         </div>
 
                    <!-- layer nr. 15 -->
@@ -291,8 +290,7 @@
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center bottom15 wow fadeInUp">
-                    <span class="heading-title bottom25">Cade a porra do texto?</span>
-                    <h2 class="darkcolor bottom45">Papelaria</h2>
+                    <h2 class="darkcolor bottom45">papelaria</h2>
                     <p class="bottom45">Um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, aqui você pode ter diversas formas de divulgação, através do impresso e do digital.</p>
                    
                 </div>
@@ -304,9 +302,9 @@
                 <div class="floated-service equalheight top60 wow fadeInUp">
                     <i class="fa fa-bullhorn"></i>
                     <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong>Impresso</strong></h4>
+                        <h4 class="darkcolor bottom10"><strong>impresso</strong></h4>
                         <p class="bottom25">Inclui todos os tipo de arquivos e artes para impressão, folders, flyers, panfletos,cartões de fidelidade,cartão de visitas,papel timbrado entre outros.</p>
-                        <a href="javascript:void(0)" class="underlined">read more</a>
+                        
                     </div>
                 </div>
             </div>
@@ -314,9 +312,9 @@
                 <div class="floated-service equalheight top60 wow fadeInUp">
                     <i class="fa fa-copy"></i>
                     <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong> Digital</strong></h4>
+                        <h4 class="darkcolor bottom10"><strong> digital</strong></h4>
                         <p class="bottom25">Caso precise de apenas artes para a mídia digital, realizamos com extrema agilidade e com qualidade.</p>
-                        <a href="javascript:void(0)" class="underlined">read more</a>
+                        
                     </div>
                 </div>
             </div>
@@ -332,8 +330,7 @@
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center wow fadeInUp">
-               <span class="heading-title darkcolor bottom25">Cade a porra do texto?</span>
-               <h2 class="darkcolor bottom45">Branding</h2>
+               <h2 class="darkcolor bottom45">branding</h2>
                <p class="bottom15">A construção do branding é essencial para o sucesso de um negócio, o branding envolve funções de investigação, estratégias, criações, design e, por fim, o gerenciamento constante da marca, com o intuito de acompanhar as suas "expressões" e otimizar relações com os respectivos públicos-alvos.
 </p>
             </div>
@@ -343,16 +340,8 @@
       <div class="row" id="features">
          <div class="col-md-6 col-sm-6">
             <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
-               <hr>
-               <p class="no_bottom">Normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização da sua marca.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
                <i class="fa fa-umbrella"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Logo</a></h4>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
                <hr>
                <p class="no_bottom">Criamos a logo, logotipo e marca, com a representação da sua empresa única e memorável.</p>
             </div>
@@ -360,17 +349,25 @@
          <div class="col-md-6 col-sm-6">
             <div class="icon_box dark equalheight top60 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">palheta de cores</a></h4>
+               <hr>
+               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações de cores para ser usado com a sua marca.</p>
+            </div>
+         </div>
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
+               <i class="fa fa-bar-chart"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">tipografia</a></h4>
                <hr>
                <p class="no_bottom">Com a sua tipografia, sua logo fica muito mais atraente.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
+               <i class="fa fa-bicycle"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">manual da marca</a></h4>
                <hr>
-               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações de cores para ser usado com a sua marca.</p>
+               <p class="no_bottom">Normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização da sua marca.</p>
             </div>
          </div>
       </div>
@@ -383,8 +380,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <span class="heading-title bottom25"> always behind the brands </span>
-                  <h2 class="darkcolor bottom25">Pricing Style 01 </h2>
+                  <h2 class="darkcolor bottom25">planos</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -411,41 +407,41 @@
             </div-->
             <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">Professional</h3>
+                  <h3 class="bottom15">professional</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
                      <h1>250</h1> <span class="dur">/ year</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 Email Account</span></li>
-                  <li><span>100Gb Space</span></li>
-                  <li><span>Domain Name</span></li>
-                  <li><span>500Gb Bandwidth</span></li>
-                  <li><span>25 MySQL Databases</span></li>
-                  <li><span>Enhanced Sercurity</span></li>
+                  <li><span>15 email account</span></li>
+                  <li><span>100gb space</span></li>
+                  <li><span>domain name</span></li>
+                  <li><span>500gb bandwidth</span></li>
+                  <li><span>25 mysql databases</span></li>
+                  <li><span>enhanced sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
-            <div class="col-md-6 col-sm-4 price-table text-center top50">
+			<div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">Enterprise</h3>
+                  <h3 class="bottom15">professional</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>360</h1> <span class="dur">/ year</span>
+                     <h1>250</h1> <span class="dur">/ year</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 Email Account</span></li>
-                  <li><span>100Gb Space</span></li>
-                  <li><span>Domain Name</span></li>
-                  <li><span>500Gb Bandwidth</span></li>
-                  <li><span>25 MySQL Databases</span></li>
-                  <li><span>Enhanced Sercurity</span></li>
+                  <li><span>15 email account</span></li>
+                  <li><span>100gb space</span></li>
+                  <li><span>domain name</span></li>
+                  <li><span>500gb bandwidth</span></li>
+                  <li><span>25 mysql databases</span></li>
+                  <li><span>enhanced sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
          </div>
       </div>
