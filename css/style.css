@@ -1229,6 +1229,8 @@ ul.social li a::before, ul.social li a::after{
 #navigation.fixed .navbar-toggle .icon-bar,
 .sidebar-nav .navbar-toggle .icon-bar{
     background-color: #8a8a8a !important;
+    position: relative;
+    right: 20px;
 }
 #hidden-content-a {
     max-width: 550px;
