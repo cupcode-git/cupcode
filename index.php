@@ -89,7 +89,6 @@
                           </g>
                           </svg>
                     </div>
-                    <h2 class="bottom45 text-center darkcolor"><span id="my_designation"></span></h2>
                 </div>
                 <a href="#marketing" class="scrollings">
                   <div class="col-12 text-center tp-caption rev-scroll-btn revs-light"
@@ -623,13 +622,6 @@
                         <p>web</p>
                     </div>
                 </div>
-            </div>
-            <div id="space-work" class="cbp-l-loadMore-button">
-                <a href="load-more/loadmore-space.html" class="cbp-l-loadMore-link loadmore-dark container-padding float" rel="nofollow">
-                    <span class="cbp-l-loadMore-defaultText">Load more projects ... <i class="fa fa-spinner"></i></span>
-                    <span class="cbp-l-loadMore-loadingText">Loading...</span>
-                    <span class="cbp-l-loadMore-noMoreLoading">No more items</span>
-                </a>
             </div>
         </div>
     </section>
