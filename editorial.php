@@ -23,587 +23,98 @@
    </div>
 </section>
 <!--Main Slider ends -->
-
-
-
-<!--Services 3 column-->
-<section id="about" class="padding bglight">
-   <div class="container">
+<!--Single intro with background-->
+<section class="padding bg-intro bgintro-five parallaxie">
+   <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title darkcolor bottom25">always behind the brands</span>
-               <h2 class="darkcolor bottom45">I Love Creative Work </h2>
-               <p class="bottom15">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
-      <div class="row" id="features">
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Branding</a></h4>
-               <hr>
-               <p class="no_bottom">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy</p>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-umbrella"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Marketing</a></h4>
-               <hr>
-               <p class="no_bottom">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy.</p>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Presentation</a></h4>
-               <hr>
-               <p class="no_bottom">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy.</p>
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="intro-text">
+               <span class="heading-title bottom25">Cade a porra do texto?</span>
+               <h2 class="whitecolor bottom45">Editorial</h2>
+               <p class="whitecolor">Desde a criação de conteúdo, para redes sociais, blogs como a correção de erros e ajustes, utilizando o SEO, para a melhor otimização para os motores de busca.</p>
+              
             </div>
          </div>
       </div>
    </div>
-</section>
-<!--Services 3 column ends-->
-
-
-<!--Single intro with background-->
-<section class="padding bg-intro bgintro-light parallaxie">
-    <div class="container-fluid container-padding">
-        <div class="row">
-            <div class="col-md-5 col-sm-9">
-                <div class="intro-text wow fadeInLeft">
-                    <span class="heading-title darkcolor bottom25">always behind the brands</span>
-                    <h2 class="darkcolor bottom45">Studio helping web 2.0 gain some momentum.</h2>
-                    <p class="darkcolor">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs.</p>
-                    <a href="javascript:void(0)" class="button dark top50">creative approach</a>
-                </div>
-            </div>
-            <div class="col-md-7 col-sm-3"></div>
-        </div>
-    </div>
 </section>
 <!--Single intro ends-->
-
-<!--stats with circles-->
-<section id="facts-custom" class="padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2 col-sm-1"></div>
-            <div class="col-md-8 col-sm-10">
-                <div class="intro-text center wow fadeInUp">
-                    <span class="heading-title darkcolor bottom25">always behind the brands</span>
-                    <h2 class="darkcolor bottom25">Awesome Skills</h2>
-                    <p class="bottom25">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-                </div>
-            </div>
-            <div class="col-md-2 col-sm-1"></div>
-            <div class="row circular-wrap dark text-center">
-                <div class="col-md-4 col-sm-4 top50 wow fadeInUp">
-                    <div class="myskill" id="circleone" data-value="0.85"
-                        data-thickness="10" data-animation-start-value="1.0"
-                        data-fill="{
-                          &quot;color&quot;: &quot;rgba(65, 65, 65, 1)&quot;
-                        }" data-reverse="true"><strong>85%</strong></div>
-                    <h4 class="darkcolor top30">JQuery</h4>
-                </div>
-                <div class="col-md-4 col-sm-4 top50 wow fadeInUp">
-                    <div class="myskill" id="circletwo" data-value="0.9"
-      data-thickness="10"
-      data-animation-start-value="1.0"
-      data-fill="{
-        &quot;color&quot;: &quot;rgba(65, 65, 65, 1)&quot;
-      }"
-                         data-reverse="true"> <strong>90%</strong></div>
-                    <h4 class="darkcolor top30">Wordpress</h4>
-                </div>
-                <div class="col-md-4 col-sm-4 top50 wow fadeInUp">
-                    <div
-      class="myskill" id="circlethree"
-      data-value="0.75"
-      data-thickness="10"
-      data-animation-start-value="1.0"
-      data-fill="{
-        &quot;color&quot;: &quot;rgba(65, 65, 65, 1)&quot;
-      }"
-                         data-reverse="true"> <strong>75%</strong></div>
-                    <h4 class="darkcolor top30">Photoshop</h4>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--stats with circles ends-->
-
-<!--Parallax quote -->
-<section id="single-parallx" class="light-parallax padding parallaxie">
-   <h3 class="hidden">hidden</h3>
-    <div class="container">
-        <div class="row padding">
-            <div class="col-md-2 col-sm-2"></div>
-            <div class="col-md-8 col-sm-8 text-center wow fadeInDown">
-                <blockquote class="darkcolor">Creativity is allowing yourself to make mistakes Art is knowing which ones to keep</blockquote>
-                <span class="top30">Alice Jhonson</span>
+<section class="padding">
+   <div class="pricing-white">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+               <div class="intro-text center">
+                  <span class="heading-title bottom25"> always behind the brands </span>
+                  <h2 class="darkcolor bottom25">Pricing Style 01 </h2>
+               </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
-        </div>
-    </div>
-</section>
-<!--Parallax quote ends-->
-
-<!--Gallery Grid-->
-<section id="ourportfolio" class="padding">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-3 col-sm-2"> </div>
-         <div class="col-md-6 col-sm-8">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title darkcolor bottom25">well thoughtout plans </span>
-               <h2 class="darkcolor heading_space">Our Amazing Work</h2>
-            </div>
          </div>
-         <div class="col-md-3 col-sm-2"> </div>
-      </div>
-      <div class="row">
-         <div class="col-md-12 text-center">
-            <div id="light-filters" class="cbp-l-filters dark bottom30">
-               <div data-filter="*" class="cbp-filter-item">
-                  <span>All</span>
+         <div class="row">
+            <!--div class="col-md-4 col-sm-4 price-table text-center top50">
+               <div class="price-plan">
+                  <h3 class="bottom15">Standard</h3>
+                  <div class="ammount">
+                     <i class="fa fa-dollar"></i>
+                     <h1>185</h1> <span class="dur">/ year</span>
+                  </div>
                </div>
-               <div data-filter=".web" class="cbp-filter-item">
-                  <span>web</span>
+               <ul class="top15">
+                  <li><span>15 Email Account</span></li>
+                  <li><span>100Gb Space</span></li>
+                  <li><span>Domain Name</span></li>
+                  <li><span>500Gb Bandwidth</span></li>
+                  <li><span>25 MySQL Databases</span></li>
+                  <li><span>Enhanced Sercurity</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+            </div-->
+            <div class="col-md-6 col-sm-4 price-table text-center top50">
+               <div class="price-plan">
+                  <h3 class="bottom15">Professional</h3>
+                  <div class="ammount">
+                     <i class="fa fa-dollar"></i>
+                     <h1>250</h1> <span class="dur">/ year</span>
+                  </div>
                </div>
-               <div data-filter=".print" class="cbp-filter-item">
-                  <span>Print</span>
+               <ul class="top15">
+                  <li><span>15 Email Account</span></li>
+                  <li><span>100Gb Space</span></li>
+                  <li><span>Domain Name</span></li>
+                  <li><span>500Gb Bandwidth</span></li>
+                  <li><span>25 MySQL Databases</span></li>
+                  <li><span>Enhanced Sercurity</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
+            </div>
+            <div class="col-md-6 col-sm-4 price-table text-center top50">
+               <div class="price-plan">
+                  <h3 class="bottom15">Enterprise</h3>
+                  <div class="ammount">
+                     <i class="fa fa-dollar"></i>
+                     <h1>360</h1> <span class="dur">/ year</span>
+                  </div>
                </div>
-               <div data-filter=".logo" class="cbp-filter-item">
-                  <span>Logo</span>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div id="masonry-light" class="cbp">
-         <div class="cbp-item print logo">
-            <div class="image">
-               <img alt="image" src="images/gallery-light1.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light1.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
+               <ul class="top15">
+                  <li><span>15 Email Account</span></li>
+                  <li><span>100Gb Space</span></li>
+                  <li><span>Domain Name</span></li>
+                  <li><span>500Gb Bandwidth</span></li>
+                  <li><span>25 MySQL Databases</span></li>
+                  <li><span>Enhanced Sercurity</span></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light1.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item web">
-            <div class="image">
-               <img alt="image" src="images/gallery-light2.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light2.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light2.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item print logo">
-            <div class="image">
-               <img alt="image" src="images/gallery-light3.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light3.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light3.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item web print">
-            <div class="image">
-               <img alt="image" src="images/gallery-light4.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light4.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light4.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item web log print">
-            <div class="image">
-               <img alt="image" src="images/gallery-light5.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light5.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light5.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item logo">
-            <div class="image">
-               <img alt="image" src="images/gallery-light6.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light6.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light6.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div>
          </div>
       </div>
    </div>
 </section>
-<!--Gallery Grid ends-->
- 
-
-<!--Counter Style 03-->
-<section id="bg-counter" class="padding_top padding_bottom_half parallaxie">
-    <div class="container">
-        <div class="row counter-wrap text-center">
-            <div class="col-md-3 col-sm-6 col-xs-6">
-                <div class="counter-center dark padding_bottom_half wow fadeInUp">
-                    <div class="number-counters bottom10">
-                        <div class="counters">
-                            <span class="count_nums" data-to="09" data-speed="2500"> </span>
-                        </div>
-                    </div>
-                    <h6 class="text-uppercase bottom25">premium brands </h6>
-                    <p>Exciting and captivating trade-show exhibits, putting our clients in the spotlight.</p>
-                </div>
-            </div> 
-            <div class="col-md-3 col-sm-6 col-xs-6">
-                <div class="counter-center dark padding_bottom_half wow fadeInUp">
-                    <div class="number-counters bottom10">
-                        <div class="counters">
-                            <span class="count_nums" data-to="84" data-speed="2500"> </span>
-                        </div>
-                    </div>
-                    <h6 class="text-uppercase bottom25">Digital design Awards </h6>
-                    <p>GPS receivers and laser range who finders, unmanned aerial vehicles, inertial systems. </p>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-6">
-                <div class="counter-center dark padding_bottom_half wow fadeInUp">
-                    <div class="number-counters bottom10">
-                        <div class="counters">
-                            <span class="count_nums" data-to="28" data-speed="2500"> </span>
-                        </div>
-                    </div>
-                    <h6 class="text-uppercase bottom25">creative conferences </h6>
-                    <p> Trimble’s branding and images. IGE also created a low-energy lighting solution. </p>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-6">
-                <div class="counter-center dark padding_bottom_half wow fadeInUp">
-                    <div class="number-counters bottom10">
-                        <div class="counters">
-                            <span class="count_nums" data-to="107" data-speed="2500"> </span>
-                        </div>
-                    </div>
-                    <h6 class="text-uppercase bottom25">active clients </h6>
-                    <p>It was a game changer; it simplified the often complicated process of converting. </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Counter Style 03 ends-->
-
-
-<!--Blog info -->
-<section id="ourblog" class="padding_top">
-   <div class="container">
-     <div class="row">
-            <div class="col-md-2 col-sm-1"></div>
-            <div class="col-md-8 col-sm-10">
-                <div class="intro-text center wow fadeInUp">
-                    <span class="heading-title darkcolor bottom25">behind the scenes workout</span>
-                    <h2 class="darkcolor bottom40">News &amp; Thoughts</h2>
-                </div>
-            </div>
-            <div class="col-md-2 col-sm-1"></div>
-        </div>
-      <div class="row">
-         <div class="col-md-4 col-sm-4">
-            <div class="blogpost shadow top30 wow fadeInUp">
-               <div class="image">
-                  <img alt="image" src="images/blog-img1.jpg" class="equalheight">
-               </div>
-               <div class="blogpost-text">
-                  <h3 class="darkcolor bottom30"><a href="blog.html">Studio helping web 2.0 gain some momentum.</a></h3>
-                  <p class="bottom30">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday.</p>
-                  <div class="metabox-wrapp dark">
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-user-o"></i> Doming
-                     </a>
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-tag"></i> Retail
-                     </a>
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-calendar"></i> 22 aug,18
-                     </a>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-4">
-            <div class="blogpost shadow top30 wow fadeInUp">
-               <div class="image">
-                  <img alt="image" src="images/blog-img2.jpg" class="equalheight">
-               </div>
-               <div class="blogpost-text">
-                  <h3 class="darkcolor bottom30"><a href="blog.html">Studio helping web 2.0 gain some momentum.</a></h3>
-                  <p class="bottom30">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday.</p>
-                  <div class="metabox-wrapp dark">
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-user-o"></i> Doming
-                     </a>
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-tag"></i> Retail
-                     </a>
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-calendar"></i> 22 aug,18
-                     </a>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-4">
-            <div class="blogpost shadow top30 wow fadeInUp">
-               <div class="image">
-                  <img alt="image" src="images/blog-img3.jpg" class="equalheight">
-               </div>
-               <div class="blogpost-text">
-                  <h3 class="darkcolor bottom30"><a href="blog.html">Studio helping web 2.0 gain some momentum.</a></h3>
-                  <p class="bottom30">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday.</p>
-                  <div class="metabox-wrapp dark">
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-user-o"></i> Doming
-                     </a>
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-tag"></i> Retail
-                     </a>
-                     <a href="javascript:void(0)" class="metabox top10 text-uppercase">
-                        <i class="fa fa-calendar"></i> 22 aug,18
-                     </a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--blog Info ends-->
-
-
-<!--LOGOS style 01-->
-<section id="logos-one" class="padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2 col-sm-1"></div>
-            <div class="col-md-8 col-sm-10">
-                <div class="intro-text center wow fadeInUp">
-                    <span class="heading-title darkcolor bottom25">behind the scenes workout</span>
-                    <h2 class="darkcolor heading_space">Landing X-Space perfectly <span class="block">in the targeted market.</span></h2>
-                </div>
-            </div>
-            <div class="col-md-2 col-sm-1"></div>
-        </div>
-        <div class="row">
-            <div id="logos-centered" class="owl-carousel">
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-1.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-2.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-3.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-4.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-5.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-1.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-2.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-3.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-4.png" alt="logo">
-                </div>
-            </div>
-            <div class="item">
-                <div class="logo-item">
-                    <img src="images/logo-5.png" alt="logo">
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
-</section>
-<!--LOGOS ends-->
-
-
-<!--Testimonials with background 02-->
-<section id="bg-testimonial" class="padding parallaxie">
-   <div class="container">
-      <div class="row bottom40">
-         <div class=" col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
-            <div id="owl-thumbs" class="owl-dots text-center">
-               <div class="owl-dot active"><img src="images/testimonial-1.png" alt=""></div>
-               <div class="owl-dot"><img src="images/testimonial-2.png" alt=""></div>
-               <div class="owl-dot"><img src="images/testimonial-3.png" alt=""></div>
-            </div>
-         </div>
-         <div class="col-md-3 col-sm-3"></div>
-      </div>
-      <div class="testimonial-text owl-carousel">
-         <div class="item">
-            <div class="row">
-               <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                  <p class="bottom30">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-                  <h4 class="darkcolor">Nadeem R Khatana</h4>
-                  <h6>Co-Founder Synx</h6>
-               </div>
-            </div>
-         </div>
-         <div class="item">
-            <div class="row">
-               <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                  <p class="bottom30">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-                  <h4 class="darkcolor">Nadeem R Khatana</h4>
-                  <h6>Co-Founder Synx</h6>
-               </div>
-            </div>
-         </div>
-         <div class="item">
-            <div class="row">
-               <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                  <p class="bottom30">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-                  <h4 class="darkcolor">Nadeem R Khatana</h4>
-                  <h6>Co-Founder Synx</h6>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Testimonials with background ends-->
-
-
-<!--Map + Address-->
-<section id="map-address" class="padding_top contactwith">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-12 col-sm-12">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title darkcolor bottom25">well thoughtout plans </span>
-               <h2 class="darkcolor heading_space">Get in Touch</h2>
-            </div>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-md-offset-2 col-md-8">
-            <form class="getin_form heading_space wow fadeInLeft">
-               <div class="row">
-                  <div class="col-md-12 col-sm-12">
-                     <div class="form-group bottom45">
-                        <input class="form-control" type="text" placeholder="your name" required>
-                     </div>
-                  </div>
-                  <div class="col-md-12 col-sm-12">
-                     <div class="form-group bottom45">
-                        <input class="form-control" type="email" placeholder="email" required>
-                     </div>
-                  </div>
-                  <div class="col-md-12 col-sm-12">
-                     <div class="form-group bottom45">
-                        <input class="form-control" type="text" placeholder="company">
-                     </div>
-                  </div>
-                  <div class="col-md-12 col-sm-12">
-                     <div class="form-group bottom45">
-                        <textarea class="form-control" placeholder="a brief message"></textarea>
-                     </div>
-                  </div>
-                  <div class="col-sm-12 text-center">
-                     <button type="submit" class="button darkhole">submit request</button>
-                  </div>
-               </div>
-            </form>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-md-7 col-sm-7 margin_bottom wow fadeInright">
-            <div class="equalheight">
-               <div id="googleMap"></div>
-            </div>
-         </div>
-         <div class="col-md-5 col-sm-5 margin_bottom">
-            <div class="address-bg equalheight">
-               <div class="our-address">
-                  <h6 class="darkcolor">Synx Agency Worldwide</h6>
-                  <h2 class="darkcolor top25 bottom35">Agency Office, London</h2>
-                  <p>Address: 309, New Cavendish St, EC1Y 3WK</p>
-                  <p>0800 214 5252</p>
-                  <p><a href="mailto:polpo@synxagency.co.au">polpo@synxagency.co.au</a></p>
-                  <p>Mon-Fri: 9am-5pm</p>
-                  <ul class="social dark top50">
-                     <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                     <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                     <li><a href="javascript:void(0)"><i class="fa fa-pinterest-p"></i> </a> </li>
-                     <li><a href="javascript:void(0)"><i class="fa fa-google"></i> </a> </li>
-                     <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                     <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
-                     <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                  </ul>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Map + Address ends-->
-
+<!--Pricing white ends-->
 <?php include 'footer.php'; ?>
 <!--Footer ends-->
 </div>

@@ -285,536 +285,112 @@
 
 
 <!--Services 3 column-->
+<section id="services-three" class="padding bglight">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-sm-1"></div>
+            <div class="col-md-8 col-sm-10">
+                <div class="intro-text center bottom15 wow fadeInUp">
+                    <span class="heading-title bottom25">Cade a porra do texto?</span>
+                    <h2 class="darkcolor bottom45">Papelaria</h2>
+                    <p class="bottom45">Um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, aqui você pode ter diversas formas de divulgação, através do impresso e do digital.</p>
+                   
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-1"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="floated-service equalheight top60 wow fadeInUp">
+                    <i class="fa fa-bullhorn"></i>
+                    <div class="cell">
+                        <h4 class="darkcolor bottom10"><strong>Impresso</strong></h4>
+                        <p class="bottom25">Inclui todos os tipo de arquivos e artes para impressão, folders, flyers, panfletos,cartões de fidelidade,cartão de visitas,papel timbrado entre outros.</p>
+                        <a href="javascript:void(0)" class="underlined">read more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="floated-service equalheight top60 wow fadeInUp">
+                    <i class="fa fa-copy"></i>
+                    <div class="cell">
+                        <h4 class="darkcolor bottom10"><strong> Digital</strong></h4>
+                        <p class="bottom25">Caso precise de apenas artes para a mídia digital, realizamos com extrema agilidade e com qualidade.</p>
+                        <a href="javascript:void(0)" class="underlined">read more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Services 3 column ends-->
+
+<!--Services 3 column-->
 <section id="about" class="padding bglight">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
-            <div class="intro-text center bottom15 wow fadeInUp">
-               <span class="heading-title bottom25">always behind the brands</span>
-               <h2 class="darkcolor bottom45">A Studio helping web 2.0 gain some momentum.</h2>
-               <p class="bottom45">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-               <a href="javascript:void(0)" class="button default">choose your best</a>
+            <div class="intro-text center wow fadeInUp">
+               <span class="heading-title darkcolor bottom25">Cade a porra do texto?</span>
+               <h2 class="darkcolor bottom45">Branding</h2>
+               <p class="bottom15">A construção do branding é essencial para o sucesso de um negócio, o branding envolve funções de investigação, estratégias, criações, design e, por fim, o gerenciamento constante da marca, com o intuito de acompanhar as suas "expressões" e otimizar relações com os respectivos públicos-alvos.
+</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-1"></div>
       </div>
       <div class="row" id="features">
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
                <i class="fa fa-bicycle"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Branding</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
                <hr>
-               <p class="no_bottom">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy</p>
+               <p class="no_bottom">Normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização da sua marca.</p>
             </div>
          </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
                <i class="fa fa-umbrella"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Marketing</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Logo</a></h4>
                <hr>
-               <p class="no_bottom">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy.</p>
+               <p class="no_bottom">Criamos a logo, logotipo e marca, com a representação da sua empresa única e memorável.</p>
             </div>
          </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Presentation</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
                <hr>
-               <p class="no_bottom">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy.</p>
+               <p class="no_bottom">Com a sua tipografia, sua logo fica muito mais atraente.</p>
+            </div>
+         </div>
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
+               <i class="fa fa-bar-chart"></i>
+               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
+               <hr>
+               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações de cores para ser usado com a sua marca.</p>
             </div>
          </div>
       </div>
    </div>
 </section>
 <!--Services 3 column ends-->
-
-<!--Single intro with background-->
-<section class="padding bg-intro bgintro-seven parallaxie">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-7 col-sm-3"></div>
-         <div class="col-md-5 col-sm-9 text-right">
-            <div class="intro-text wow fadeInRight">
-               <span class="heading-title bottom25"> always behind the brands</span>
-               <h2 class="darkcolor bottom45">Studio helping web 2.0 gain some momentum.</h2>
-               <p class="darkcolor">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look</p>
-               <a href="javascript:void(0)" class="button default top50">creative approach</a>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Single intro ends-->
-
-<!--Team 02 Slider-->
-<section id="team" class="padding">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-12">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title bottom25">always behind the brands</span>
-               <h2 class="darkcolor text-capitalize heading_space">Synx creative team</h2>
-            </div>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-md-12">
-            <div id="team-cols" class="swiper-container">
-               <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider1.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Lopez Onight</h3>
-                           <span>co-founder</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider2.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Lopez Onight</h3>
-                           <span>co-founder</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider3.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>James O’Brian</h3>
-                           <span>marketing head</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider4.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Joshe Micheles</h3>
-                           <span>Media analyst</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider5.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Gohar Kendal</h3>
-                           <span>studio</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider6.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Nickoli Cermoe</h3>
-                           <span>sales specialist</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider1.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Clair Gellar</h3>
-                           <span>creative</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider2.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Lopez Onight</h3>
-                           <span>co-founder</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider3.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Lopez Onight</h3>
-                           <span>co-founder</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider4.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Joshe Micheles</h3>
-                           <span>Media analyst</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider5.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Gohar Kendal</h3>
-                           <span>studio</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="team-slide">
-                        <div class="team-photo equalheight">
-                           <img alt="image" src="images/team-slider6.jpg">
-                        </div>
-                        <div class="team-text equalheight">
-                           <h3>Nickoli Cermoe</h3>
-                           <span>sales specialist</span>
-                           <p class="top20 bottom20">A geek who is into fashion &amp; of course design which has always been one of the largest factors to her success in the industry.</p>
-                           <ul class="social">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Team 02 Slider ends-->
-
-
-<!--stats with circles-->
-<section id="facts-custom" class="padding bglight">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title bottom25">always behind the brands</span>
-               <h2 class="darkcolor bottom25">Yearly Facts Sheet</h2>
-               <p class="bottom25">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="row circular-wrap text-center">
-            <div class="col-md-4 col-sm-4 top50 wow fadeInUp">
-               <div id="circle" class="circle" data-value="0.77">
-                  <strong>257%</strong>
-               </div>
-               <h4 class="darkcolor top50 wow fadeInUp">Increase in Sales year on year</h4>
-            </div>
-            <div class="col-md-4 col-sm-4 top30">
-               <div id="circletwo" class="circle" data-value="0.96">
-                  <strong>96%</strong>
-               </div>
-               <h4 class="darkcolor top50 wow fadeInUp">Recommendation rate over the year</h4>
-            </div>
-            <div class="col-md-4 col-sm-4 top50 wow fadeInUp">
-               <div id="circlethree" class="circle" data-value="0.75">
-                  <strong>317</strong>
-               </div>
-               <h4 class="darkcolor top30">New ventures we became part of</h4>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--stats with circles ends-->
-
-
-<!--Gallery Grid-->
-<section id="our-portfolio" class="padding">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-3 col-sm-2"> </div>
-         <div class="col-md-6 col-sm-8">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title darkcolor bottom25">well thoughtout plans </span>
-               <h2 class="darkcolor heading_space">Our Amazing Work</h2>
-            </div>
-         </div>
-         <div class="col-md-3 col-sm-2"> </div>
-      </div>
-      <div class="row">
-         <div class="col-md-12 text-center">
-            <div id="light-filters" class="cbp-l-filters dark bottom30">
-               <div data-filter="*" class="cbp-filter-item">
-                  <span>All</span>
-               </div>
-               <div data-filter=".web" class="cbp-filter-item">
-                  <span>web</span>
-               </div>
-               <div data-filter=".print" class="cbp-filter-item">
-                  <span>Print</span>
-               </div>
-               <div data-filter=".logo" class="cbp-filter-item">
-                  <span>Logo</span>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div id="masonry-light" class="cbp bottom30">
-         <div class="cbp-item print logo">
-            <div class="image">
-               <img alt="image" src="images/gallery-light1.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light1.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light1.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item web">
-            <div class="image">
-               <img alt="image" src="images/gallery-light2.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light2.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light2.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item print logo">
-            <div class="image">
-               <img alt="image" src="images/gallery-light3.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light3.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light3.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item web print">
-            <div class="image">
-               <img alt="image" src="images/gallery-light4.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light4.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light4.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item web log print">
-            <div class="image">
-               <img alt="image" src="images/gallery-light5.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light5.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light5.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-         <div class="cbp-item logo">
-            <div class="image">
-               <img alt="image" src="images/gallery-light6.jpg">
-            </div>
-            <div class="overlay light center-block darkcolor">
-               <ul class="social bottom40">
-                  <li><a data-fancybox="gallery" href="images/gallery-light6.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="images/gallery-light6.jpg">Lorenzo Pagano</a></h3>
-               <p>printing industry</p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Gallery Grid ends-->
-
-
-<!--Counter Style 03-->
-<section id="bg-counter" class="padding_top padding_bottom_half parallaxie">
-   <div class="container">
-      <div class="row counter-wrap text-center">
-         <div class="col-md-3 col-sm-6 col-xs-6">
-            <div class="counter-center padding_bottom_half wow fadeInUp">
-               <div class="number-counters bottom10">
-                  <div class="counters">
-                     <span class="count_nums" data-to="09" data-speed="2500"> </span>
-                  </div>
-               </div>
-               <h6 class="text-uppercase bottom25">premium brands </h6>
-               <p>Exciting and captivating trade-show exhibits, putting our clients in the spotlight.</p>
-            </div>
-         </div>
-         <div class="col-md-3 col-sm-6 col-xs-6">
-            <div class="counter-center center padding_bottom_half wow fadeInUp">
-               <div class="number-counters bottom10">
-                  <div class="counters">
-                     <span class="count_nums" data-to="84" data-speed="2500"> </span>
-                  </div>
-               </div>
-               <h6 class="text-uppercase bottom25">Digital design Awards </h6>
-               <p>GPS receivers and laser range who finders, unmanned aerial vehicles, inertial systems. </p>
-            </div>
-         </div>
-         <div class="col-md-3 col-sm-6 col-xs-6">
-            <div class="counter-center center padding_bottom_half wow fadeInUp">
-               <div class="number-counters bottom10">
-                  <div class="counters">
-                     <span class="count_nums" data-to="28" data-speed="2500"> </span>
-                  </div>
-               </div>
-               <h6 class="text-uppercase bottom25">creative conferences </h6>
-               <p> Trimble’s branding and images. IGE also created a low-energy lighting solution. </p>
-            </div>
-         </div>
-         <div class="col-md-3 col-sm-6 col-xs-6">
-            <div class="counter-center center padding_bottom_half wow fadeInUp">
-               <div class="number-counters bottom10">
-                  <div class="counters">
-                     <span class="count_nums" data-to="107" data-speed="2500"> </span>
-                  </div>
-               </div>
-               <h6 class="text-uppercase bottom25">active clients </h6>
-               <p>It was a game changer; it simplified the often complicated process of converting. </p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Counter Style 03 ends-->
-
-
-<!--Pricing white Structure-->
-<section id="pricing" class="padding">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-3 col-sm-2"> </div>
-         <div class="col-md-6 col-sm-8">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title bottom25">well thoughtout plans </span>
-               <h2 class="darkcolor bottom45">Plans are better than just an estimate.</h2>
-               <p class="bottom25">We have accompanied the world-famous brands so we can look back together and say, we just did it right, for everyone.</p>
-            </div>
-         </div>
-         <div class="col-md-3 col-sm-2"> </div>
-      </div>
-   </div>
+<section class="padding">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
-            <div class="col-md-4 col-sm-4 price-table text-center top50 wow fadeInUp">
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+               <div class="intro-text center">
+                  <span class="heading-title bottom25"> always behind the brands </span>
+                  <h2 class="darkcolor bottom25">Pricing Style 01 </h2>
+               </div>
+            </div>
+            <div class="col-md-2 col-sm-2"></div>
+         </div>
+         <div class="row">
+            <!--div class="col-md-4 col-sm-4 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">Standard</h3>
                   <div class="ammount">
@@ -832,8 +408,8 @@
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
-            </div>
-            <div class="col-md-4 col-sm-4 price-table active text-center top50 wow fadeInUp">
+            </div-->
+            <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">Professional</h3>
                   <div class="ammount">
@@ -850,9 +426,9 @@
                   <li><span>Enhanced Sercurity</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button default top50">buy Now </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div>
-            <div class="col-md-4 col-sm-4 price-table text-center top50 wow fadeInUp">
+            <div class="col-md-6 col-sm-4 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">Enterprise</h3>
                   <div class="ammount">
@@ -876,365 +452,6 @@
    </div>
 </section>
 <!--Pricing white ends-->
-
-
-<!--Parallax quote -->
-<section id="single-parallx" class="padding single-parallax-seven parallaxie">
-   <div class="container">
-      <div class="row padding">
-         <div class="col-md-2 col-sm-2"></div>
-         <div class="col-md-8 col-sm-8 text-center wow fadeInUp">
-            <blockquote class="darkcolor">Creativity is allowing yourself to make mistakes Art is knowing which ones to keep</blockquote>
-            <span class="defaultcolor top30">Alice Jhonson</span>
-         </div>
-         <div class="col-md-2 col-sm-2"></div>
-      </div>
-   </div>
-</section>
-<!--Parallax quote ends-->
-
-
-<!--Blog info -->
-<section id="ourinfo">
-   <div class="container-fluid">
-      <div class="row box-info-wrap">
-         <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info container-padding padding_half equalheight wow fadeInLeft">
-               <div class="intro-text">
-                  <span class="heading-title bottom25"> always behind the brands </span>
-                  <h2 class="darkcolor bottom45"><a href="blog.html">Studio helping web 2.0 gain some momentum.</a></h2>
-                  <p>The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday.</p>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info">
-               <div class="image">
-                  <img alt="image" src="images/info-box1.jpg" class="equalheight">
-               </div>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info">
-               <div class="image">
-                  <img alt="image" src="images/info-box2.jpg" class="equalheight">
-               </div>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info container-padding padding_half bgdefault equalheight wow fadeInRight">
-               <div class="intro-text">
-                  <span class="heading-title whitecolor bottom25"> always behind the brands </span>
-                  <h2 class="whitecolor bottom45"><a href="blog.html">Studio helping web 2.0 gain some momentum.</a></h2>
-                  <p class="whitecolor">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday.</p>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-12 col-sm-12 text-center top50"><a href="javascript:void(0)" class="button defaulthole">View more </a></div>
-   </div>
-</section>
-<!--blog Info ends-->
-
-
-<!--LOGOS style 01-->
-<section id="logos-one" class="padding">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="intro-text center wow fadeInUp">
-               <span class="heading-title bottom25">behind the scenes workout</span>
-               <h2 class="darkcolor heading_space">Landing X-Space perfectly <span class="block">in the targeted market.</span></h2>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
-      <div class="row">
-         <div id="logos-centered" class="owl-carousel">
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-1.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-2.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-3.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-4.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-5.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-1.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-2.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-3.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-4.png" alt="logo">
-               </div>
-            </div>
-            <div class="item">
-               <div class="logo-item">
-                  <img src="images/logo-5.png" alt="logo">
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--LOGOS ends-->
-
-
-<!--Testimonials with background 02-->
-<section id="testimonial-single" class="padding parallaxie">
-   <div class="container text-center">
-      <div class="row">
-         <div class="col-md-1"></div>
-         <div class="col-md-10">
-            <div id="testimonial-fade" class="owl-carousel">
-               <div class="item">
-                  <blockquote class="whitecolor bottom60">Joining the web font game with Google Fonts, it was a game changer; It is simplified yet very often also quite complicated process of converting and embedding these techniques. We love and embrace Google Fonts and wanted to share some of our favorite Google.</blockquote>
-                  <div class="single-testi">
-                     <img src="images/testimonial-single7.png" alt="image" class="top40">
-                     <h3 class="defaultcolor top40">Jenn Shukla</h3>
-                     <h4 class="darkcolor bottom25 top10">Copy Writter &amp; Blogger - Synx</h4>
-                     <ul class="social">
-                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-rss"></i></a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="item">
-                  <blockquote class="whitecolor bottom60">
-                     This sounded nonsense to Alice, so she said nothing, but set off at once toward the Red Queen. To her surprise, she lost sight of her in a moment. When Google announced they were joining. It is simplified yet very often also quite complicated process of converting.</blockquote>
-                  <div class="single-testi">
-                     <img src="images/testimonial-single8.png" alt="image" class="top40">
-                     <h3 class="defaultcolor top40">James Smith</h3>
-                     <h4 class="darkcolor bottom25 top10">Copy Writter &amp; Blogger - Synx</h4>
-                     <ul class="social">
-                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-rss"></i></a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="item">
-                  <blockquote class="whitecolor bottom60">Joining the web font game with Google Fonts, it was a game changer; It is simplified yet very often also quite complicated process of converting and embedding these techniques. We love and embrace Google Fonts and wanted to share some of our favorite Google.</blockquote>
-                  <div class="single-testi">
-                     <img src="images/testimonial-single9.png" alt="image" class="top40">
-                     <h3 class="defaultcolor top40">Berhn Schott</h3>
-                     <h4 class="darkcolor bottom25 top10">Copy Writter &amp; Blogger - Synx</h4>
-                     <ul class="social">
-                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fa fa-rss"></i></a></li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-1"></div>
-      </div>
-   </div>
-</section>
-<!--Testimonials with background ends-->
-
-
-<!--Map + Address 01-->
-<section id="map-address" class="padding_top">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-7">
-                <div class="intro-text wow fadeInLeft">
-                    <span class="heading-title bottom25">well thoughtout plans </span>
-                    <h2 class="darkcolor heading_space">Plans are better than just an estimate.</h2>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-5 wow fadeInRight">
-                <h3 class="top50 heading_space">We have accompanied the world-famous brands so we can look back together and say, we just did it right as you would expect for a design studio.</h3>
-            </div>
-            <div class="col-md-12 col-sm-12 text-center"><a href="#contact-form" class="button default scrollings">explore </a></div>
-        </div>
-    </div>
-    <div class="map-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div id="googleMap"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-5 col-md-offset-7 col-sm-6 col-sm-offset-6">
-                <div class="address-bg wow fadeInRight">
-                    <div class="our-address">
-                        <div class="swiper-button-next"></div>
-                        <div class="swiper-button-prev"></div>
-                        <div class="swiper-container">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <h6 class="darkcolor">Synx Agency Worldwide</h6>
-                                    <h2 class="darkcolor top25 bottom35"><span class="defaultcolor">Agency Office,</span> London</h2>
-                                    <p>Address: 309, New Cavendish St, EC1Y 3WK</p>
-                                    <p>0800 214 5252</p>
-                                    <p><a href="mailto:polpo@synxagency.co.au">polpo@synxagency.co.au</a></p>
-                                    <p>Mon-Fri: 9am-5pm</p>
-                                    <ul class="social top50">
-                                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-pinterest-p"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-google"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                                    </ul>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h6 class="darkcolor">Synx Agency Worldwide</h6>
-                                    <h2 class="darkcolor top25 bottom35"><span class="defaultcolor">Agency Office,</span> London</h2>
-                                    <p>Address: 309, New Cavendish St, EC1Y 3WK</p>
-                                    <p>0800 214 5252</p>
-                                    <p><a href="mailto:polpo@synxagency.co.au">polpo@synxagency.co.au</a></p>
-                                    <p>Mon-Fri: 9am-5pm</p>
-                                    <ul class="social top50">
-                                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-pinterest-p"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-google"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                                    </ul>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h6 class="darkcolor">Synx Agency Worldwide</h6>
-                                    <h2 class="darkcolor top25 bottom35"><span class="defaultcolor">Agency Office,</span> London</h2>
-                                    <p>Address: 309, New Cavendish St, EC1Y 3WK</p>
-                                    <p>0800 214 5252</p>
-                                    <p><a href="mailto:polpo@synxagency.co.au">polpo@synxagency.co.au</a></p>
-                                    <p>Mon-Fri: 9am-5pm</p>
-                                    <ul class="social top50">
-                                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-pinterest-p"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-google"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                                    </ul>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h6 class="darkcolor">Synx Agency Worldwide</h6>
-                                    <h2 class="darkcolor top25 bottom35"><span class="defaultcolor">Agency Office,</span> London</h2>
-                                    <p>Address: 309, New Cavendish St, EC1Y 3WK</p>
-                                    <p>0800 214 5252</p>
-                                    <p><a href="mailto:polpo@synxagency.co.au">polpo@synxagency.co.au</a></p>
-                                    <p>Mon-Fri: 9am-5pm</p>
-                                    <ul class="social top50">
-                                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-pinterest-p"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-google"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                                    </ul>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h6 class="darkcolor">Synx Agency Worldwide</h6>
-                                    <h2 class="darkcolor top25 bottom35"><span class="defaultcolor">Agency Office,</span> London</h2>
-                                    <p>Address: 309, New Cavendish St, EC1Y 3WK</p>
-                                    <p>0800 214 5252</p>
-                                    <p><a href="mailto:polpo@synxagency.co.au">polpo@synxagency.co.au</a></p>
-                                    <p>Mon-Fri: 9am-5pm</p>
-                                    <ul class="social top50">
-                                        <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-pinterest-p"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-google"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
-                                        <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Map + Address ends-->
-
-
-<!--Contact form-->
-<section id="contact-form" class="padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7 col-sm-9 wow fadeInUp">
-                <h3 class="darkcolor text-uppercase bottom35">get in touch with <span class="defaultcolor">Synx </span></h3>
-                <p class="heading_space"> The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday.</p>
-            </div>
-        </div>
-        <form class="contactus wow fadeInUp">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="form-group bottom45">
-                        <input class="form-control" type="text" placeholder="your name" required>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <div class="form-group bottom45">
-                        <input class="form-control" type="email" placeholder="email" required>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <div class="form-group bottom45">
-                        <input class="form-control" type="text" placeholder="company">
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <div class="form-group bottom45">
-                        <textarea class="form-control" placeholder="a brief message"></textarea>
-                    </div>
-                </div>
-                <div class="col-sm-12">
-                    <button type="submit" class="button defaulthole">submit request</button>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-<!--Contact form ends-->
-
 
 <?php include 'footer.php'; ?>
 
