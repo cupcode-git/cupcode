@@ -304,6 +304,9 @@ section {
   vertical-align: middle;
   width: 20px;
 }
+.heading-titlenovo{
+	color: #bdbdbd;
+}
 .whitecolor.heading-title::before{
     background:#fff;
 }

@@ -175,7 +175,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">web sites</h2>
+               <h2 class="darkcolor bottom25">websites</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -241,11 +241,11 @@
          <div class="row">
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">site</h3>
+			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>698,90</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>298,90</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
@@ -256,11 +256,10 @@
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">blog</h3>
-                  <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>698,90</h1> <span class="dur">/ mês</span>
+			<span class="heading-titlenovo bottom25">em ate 10x de</span>
+                  <div class="ammount">R$
+                     <h1>398,90</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
@@ -274,11 +273,11 @@
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">e-commerce</h3>
+			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>698,90</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>947,80</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
@@ -300,7 +299,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">hospedagem</h2>
+                  <h2 class="darkcolor bottom25">hospedagem para site</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -308,45 +307,42 @@
          <div class="row">
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">site</h3>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>000,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>398,90</h1> <span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>texto</span></li>
+                  <li><span>previlegio por 1 ano</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">blog</h3>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>000,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>398,90</h1> <span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>texto</span></li>
+                  <li><span>previlegio por 1 ano</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">e-commerce</h3>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>000,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>678,90</h1> <span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>texto</span></li>
+                  <li><span>previlegio por 1 ano</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
@@ -372,42 +368,56 @@
          <div class="row">
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">internacional</h3>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>000,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>45,00</h1> <span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>texto</span></li>
+                  <li><span>.com.br</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">nacinal</h3>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>000,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>40,00</h1> <span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>texto</span></li>
+                  <li><span>.com</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
-			
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+         </div>
+      </div>
+   </div>
+</section>
+<!--Pricing white ends-->
+<!--Floated Counters ends-->
+<section class="padding">
+   <div class="pricing-white">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+               <div class="intro-text center">
+                  <h2 class="darkcolor bottom25">e-mail</h2>
+               </div>
+            </div>
+            <div class="col-md-2 col-sm-2"></div>
+         </div>
+         <div class="row">
+             <div class="col-md-12 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">e-mail</h3>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>40,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>50,00</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
@@ -416,14 +426,32 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
-			
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+         </div>
+      </div>
+   </div>
+</section>
+<!--Pricing white ends-->
+
+<!--Floated Counters ends-->
+<section class="padding">
+   <div class="pricing-white">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+               <div class="intro-text center">
+                  <h2 class="darkcolor bottom25">ssl</h2>
+               </div>
+            </div>
+            <div class="col-md-2 col-sm-2"></div>
+         </div>
+         <div class="row">
+            <div class="col-md-12 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">texto</span>
                   <h3 class="bottom15">ssl</h3>
+			<span class="heading-titlenovo bottom25">com instalação</span>
                   <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>170,00</h1> <span class="dur">/ mês</span>
+				  R$
+                     <h1>170,00</h1><span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
@@ -493,126 +521,6 @@
             </div>
         </div>
     </section>
-	
-    <section class="single-items item-teen2  parallaxie full-screen" id="parceiros">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-                    <div class="intro-text center">
-                        <h2 class="heading_space">nossos parceiros</h2>
-                    </div>
-                </div>
-                <div class="col-md-2 col-sm-2"></div>
-            </div>
-            <div id="logo-transparent" class="swiper-container top50 heading_space hover-gray">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-a50-click.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-a50.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-barbearia-visconde.png" alt="barbearia visconde" title="barbearia visconde">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-galeria-glaser.png" alt="barbearia visconde glaser" title="barbearia visconde glaser">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-lrmck.png" alt="[[ l r m c k ]]" title="[[ l r m c k ]]">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-vinicius-mottin.png" alt="vinicius mottin fotografias" title="vinicius mottin fotografias">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-a50tv.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-wec.png" alt="wec - world entertainment corporation" title="wec - world entertainment corporation">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-paulinha-fotografias.png" alt="paulina fotografias" title="paulina fotografias">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-bar-do-silval.png" alt="bar do sival" title="bar do sival">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-rabo-de-galo.png" alt="rabo de galo pomadas" title="rabo de galo pomadas">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-tattoo-zasso.png" alt="studio tattoozasso" title="studio tattoozasso">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-uol.png" alt="uol - universo online" title="uol - universo online">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-elitronicos.png" alt="elitrônicos" title="elitrônicos">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-howstuffworks.png" alt="howstuffworks" title="howstuffworks">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-sita.png" alt="sita aero" title="sita aero">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-oboticario.png" alt="o boticário" title="o boticário">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-cinq.png" alt="cinq technologies" title="cinq technologies">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-renault.png" alt="renault" title="renault">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="logo-item">
-                            <img src="images/logo-diego-tragel.png" alt="diego tragel" title="diego tragel">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--Footer-->
-
-
 
 <?php include 'footer.php'; ?>
 <!--Footer ends-->
