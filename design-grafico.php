@@ -281,8 +281,56 @@
    </div>
 </section>
 <!-- end Ful Screen hero Banner --> 
-
-
+<!--Services 3 column-->
+<section id="about" class="padding bglight">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-2 col-sm-1"></div>
+         <div class="col-md-8 col-sm-10">
+            <div class="intro-text center wow fadeInUp">
+               <h2 class="darkcolor bottom45">Branding</h2>
+               <p class="bottom15">A construção do branding é essencial para o sucesso de um negócio, o branding envolve funções de investigação, estratégias, criações, design e, por fim, o gerenciamento constante da marca, com o intuito de acompanhar  e otimizar relações com os respectivos públicos-alvos.</p>
+            </div>
+         </div>
+         <div class="col-md-2 col-sm-1"></div>
+      </div>
+      <div class="row" id="features">
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
+               <i class="fa fa-bicycle"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
+               <hr>
+               <p class="no_bottom">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
+            </div>
+         </div>
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
+               <i class="fas fa-fingerprint" aria-hidden="true"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
+               <hr>
+               <p class="no_bottom">fazemos a sua logo, ela é a representação gráfica do nome da sua empresa ou marca, que determina a sua identidade visual e tem como objetivo facilitar o seu reconhecimento.</p>
+            </div>
+         </div>
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
+               <i class="fa fa-bar-chart"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
+               <hr>
+               <p class="no_bottom">a tipografia desempenha um papel crucial no design da identidade visual de uma marca, definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
+            </div>
+         </div>
+         <div class="col-md-6 col-sm-6">
+            <div class="icon_box dark equalheight top60 wow fadeInUp">
+               <i class="fa fa-bar-chart"></i>
+               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
+               <hr>
+               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações, elas tem como objetivo transmitir sentimentos ou remeter a uma identidade visual, quando utilizadas da forma certa, paletas de cores agregam valor aos produtos e serviços que divulgam porque são elas que acentuam suas características fundamentais.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Services 3 column ends-->
 <!--Services 3 column-->
 <section id="services-three" class="padding bglight">
     <div class="container">
@@ -291,7 +339,7 @@
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center bottom15 wow fadeInUp">
                     <h2 class="darkcolor bottom45">papelaria</h2>
-                    <p class="bottom45">Um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, aqui você pode ter diversas formas de divulgação, através do impresso e do digital.</p>
+                    <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, tudo deve seguir a identidade visual e ter alta qualidade, um dos elementos mais importantes para a construção da imagem de uma empresa, os itens de papelaria são alguns dos que acabam tendo mais contato direto com fornecedores e clientes.</p>
                    
                 </div>
             </div>
@@ -303,17 +351,17 @@
                     <i class="fa fa-bullhorn"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong>impresso</strong></h4>
-                        <p class="bottom25">Inclui todos os tipo de arquivos e artes para impressão, folders, flyers, panfletos,cartões de fidelidade,cartão de visitas,papel timbrado entre outros.</p>
+                        <p class="bottom25">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
                         
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6">
                 <div class="floated-service equalheight top60 wow fadeInUp">
-                    <i class="fa fa-copy"></i>
+                    <i class="far fa-id-card" aria-hidden="true"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong> digital</strong></h4>
-                        <p class="bottom25">Caso precise de apenas artes para a mídia digital, realizamos com extrema agilidade e com qualidade.</p>
+                        <p class="bottom25">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
                         
                     </div>
                 </div>
@@ -322,65 +370,13 @@
     </div>
 </section>
 <!--Services 3 column ends-->
-
-<!--Services 3 column-->
-<section id="about" class="padding bglight">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom45">branding</h2>
-               <p class="bottom15">A construção do branding é essencial para o sucesso de um negócio, o branding envolve funções de investigação, estratégias, criações, design e, por fim, o gerenciamento constante da marca, com o intuito de acompanhar as suas "expressões" e otimizar relações com os respectivos públicos-alvos.
-</p>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
-      <div class="row" id="features">
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-umbrella"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
-               <hr>
-               <p class="no_bottom">Criamos a logo, logotipo e marca, com a representação da sua empresa única e memorável.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">palheta de cores</a></h4>
-               <hr>
-               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações de cores para ser usado com a sua marca.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">tipografia</a></h4>
-               <hr>
-               <p class="no_bottom">Com a sua tipografia, sua logo fica muito mais atraente.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">manual da marca</a></h4>
-               <hr>
-               <p class="no_bottom">Normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização da sua marca.</p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Services 3 column ends-->
 <section class="padding">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">planos</h2>
+                  <h2 class="darkcolor bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -405,40 +401,32 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div-->
-            <div class="col-md-6 col-sm-4 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">professional</h3>
+			<span class="heading-title bottom25">mocha</span>
+                  <h3 class="bottom15">branding</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>250</h1> <span class="dur">/ year</span>
+                     <h1>790,00</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 email account</span></li>
-                  <li><span>100gb space</span></li>
-                  <li><span>domain name</span></li>
-                  <li><span>500gb bandwidth</span></li>
-                  <li><span>25 mysql databases</span></li>
-                  <li><span>enhanced sercurity</span></li>
+                  <li><span>logo + tipografia da marca</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
-			<div class="col-md-6 col-sm-4 price-table text-center top50">
+			<div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">professional</h3>
+			<span class="heading-title bottom25">capuccinno</span>
+                  <h3 class="bottom15">papelaria</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>250</h1> <span class="dur">/ year</span>
+                     <h1>1989,90</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 email account</span></li>
-                  <li><span>100gb space</span></li>
-                  <li><span>domain name</span></li>
-                  <li><span>500gb bandwidth</span></li>
-                  <li><span>25 mysql databases</span></li>
-                  <li><span>enhanced sercurity</span></li>
+                  <li><span>impresso + digital</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
@@ -448,6 +436,179 @@
    </div>
 </section>
 <!--Pricing white ends-->
+
+    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <form class="getin_form wow fadeInUp"></form>
+                    <div class="col-md-5 p-0">
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7 p-0">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="form-group bottom45">
+                                <textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 text-right m-0 p-0">
+                            <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <!-- aqui esta um espaço entre as colunas-->
+                <div class="col-md-2">
+                    <div class="swiper-slide">
+                    </div>
+                </div>
+                <div class="row col-md-4 mobile-p">
+                    <div class="swiper-slide">
+                        <h2 class="cinzacolor bottom20">contato</h2>
+                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                    </div>
+                    <ul class="social wow BounceIn top20">
+                        <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
+                        <li class="p-5"><a href="whatsapp://send?text=Olá!&phone=+554133196071" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
+                        <li class="p-5"><a href="tel:+554133196071" alt="ligar" title="ligar"><i class="fa fa-phone" alt="ligar" title="ligar"></i> </a> </li>
+                        <li class="p-5"><a href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email"><i class="fa fa-envelope" alt="envie um email" title="envie um email"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+    <section class="single-items item-teen2  parallaxie full-screen" id="parceiros">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+                    <div class="intro-text center">
+                        <h2 class="heading_space">nossos parceiros</h2>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-2"></div>
+            </div>
+            <div id="logo-transparent" class="swiper-container top50 heading_space hover-gray">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-a50-click.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-a50.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-barbearia-visconde.png" alt="barbearia visconde" title="barbearia visconde">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-galeria-glaser.png" alt="barbearia visconde glaser" title="barbearia visconde glaser">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-lrmck.png" alt="[[ l r m c k ]]" title="[[ l r m c k ]]">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-vinicius-mottin.png" alt="vinicius mottin fotografias" title="vinicius mottin fotografias">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-a50tv.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-wec.png" alt="wec - world entertainment corporation" title="wec - world entertainment corporation">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-paulinha-fotografias.png" alt="paulina fotografias" title="paulina fotografias">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-bar-do-silval.png" alt="bar do sival" title="bar do sival">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-rabo-de-galo.png" alt="rabo de galo pomadas" title="rabo de galo pomadas">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-tattoo-zasso.png" alt="studio tattoozasso" title="studio tattoozasso">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-uol.png" alt="uol - universo online" title="uol - universo online">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-elitronicos.png" alt="elitrônicos" title="elitrônicos">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-howstuffworks.png" alt="howstuffworks" title="howstuffworks">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-sita.png" alt="sita aero" title="sita aero">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-oboticario.png" alt="o boticário" title="o boticário">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-cinq.png" alt="cinq technologies" title="cinq technologies">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-renault.png" alt="renault" title="renault">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-diego-tragel.png" alt="diego tragel" title="diego tragel">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer-->
 
 <?php include 'footer.php'; ?>
 

@@ -1,6 +1,6 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
 <!--Ful Screen Section Video with caption-->
-<section class="full-screen gradient-banner center-block parallaxie" id="ourhome">
+<section class="full-screen gradient-banner center-block image-hero parallaxie" id="ourhome">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
@@ -25,7 +25,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center bottom15 wow fadeInUp">
                <h2 class="darkcolor bottom45">redes sociais</h2>
-               <p class="bottom45">Como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
+               <p class="bottom45">como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
               
             </div>
          </div>
@@ -34,18 +34,18 @@
       <div class="row" id="features">
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top60 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
+               <i class="fa fa-cogs"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">gerenciamento</a></h4>
                <hr>
-               <p class="no_bottom">Cuidamos das redes sociais, parcialmente ou total, sempre em busca dos melhores resultados. </p>
+               <p class="no_bottom">cuidamos das redes sociais, parcialmente ou total, sempre em busca dos melhores resultados. </p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top60 wow fadeInUp">
-               <i class="fa fa-umbrella"></i>
+               <i class="fa fa-edit"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">post</a></h4>
                <hr>
-               <p class="no_bottom">Post nas redes sociais, dando conteúdo para o seu público sempre estar atualizado.</p>
+               <p class="no_bottom">post nas redes sociais, dando conteúdo para o seu público sempre estar atualizado.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
@@ -53,7 +53,7 @@
                <i class="fa fa-bar-chart"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
                <hr>
-               <p class="no_bottom">Ao impulsionar um post garantimos que ele atingirá o maior números de pessoas ativas, feito por profissional expert nas redes sociais.</p>
+               <p class="no_bottom">ao impulsionar um post garantimos que ele atingirá o maior números de pessoas ativas, feito por profissional expert nas redes sociais.</p>
             </div>
          </div>
       </div>
@@ -69,7 +69,7 @@
                <div class="intro-text">
                   <span class="heading-title bottom25"> anúncios</span>
                   <h2 class="darkcolor bottom45"><a href="blog.html">google adwords</a></h2>
-                  <p>Cerca de 3,3 bilhões de buscas no google são realizadas diariamente, sendo a maior empresa de anúncios do mundo, pioneira no mercado, colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
+                  <p>cerca de 3,3 bilhões de buscas no google são realizadas diariamente, sendo a maior empresa de anúncios do mundo, pioneira no mercado, colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
                </div>
             </div>
          </div>
@@ -92,7 +92,7 @@
                <div class="intro-text">
                   <span class="heading-title whitecolor bottom25"> anúncios </span>
                   <h2 class="whitecolor bottom45"><a href="blog.html">facebook ads</a></h2>
-                  <p class="whitecolor">A rede social chegou a 2,27 bilhões de usuários, sendo que 127 milhões são brasileiros, o facebook ads é uma das plataformas de anúncio que mais cresce no mundo, porque ajuda empreendedores e empresas de todos os portes a divulgar sua marca nas redes sociais, os anúncios podem ser facilmente segmentados, ou seja, direcionados a atingir exatamente o perfil de consumidor que a empresa está buscando e atraindo novos clientes em potenciais.</p>
+                  <p class="whitecolor">a rede social chegou a 2,27 bilhões de usuários, sendo que 127 milhões são brasileiros, o facebook ads é uma das plataformas de anúncio que mais cresce no mundo, porque ajuda empreendedores e empresas de todos os portes a divulgar sua marca nas redes sociais, os anúncios podem ser facilmente segmentados, ou seja, direcionados a atingir exatamente o perfil de consumidor que a empresa está buscando e atraindo novos clientes em potenciais.</p>
                </div>
             </div>
          </div>
@@ -107,23 +107,19 @@
          <div class="col-md-6 col-sm-6 padding_bottom_half">
             <div class="floated-counter whitecolor wow fadeInLeft">
                <div class="row">
-                  <div class="col-md-5 col-sm-6 col-xs-5">
-                  </div>
-                  <div class="col-md-7 col-sm-6 col-xs-7">
+                  <div class="col-md-7 col-sm-10 col-xs-10">
                      <h3>seo</h3>
-                     <p class="top20">Search engine optimization ou otimização para mecanismos de busca, consiste em um conjunto de táticas e otimizações que visam melhor posicionar as páginas nos resultados orgânicos de mecanismos de busca como o google, essas otimizações podem ser feitas sem custo nenhum e trazem ótimos resultados, com as práticas corretas de SEO, é possível observar resultados promissores e muito positivos, o nosso SEO é criativo e esse é o grande diferencial para se destacar nos mecanismos de busca em meio a tantos concorrentes.</p>
+                     <p class="top20">search engine optimization ou otimização para mecanismos de busca, consiste em um conjunto de táticas e otimizações que visam melhor posicionar as páginas nos resultados orgânicos de mecanismos de busca como o google, essas otimizações podem ser feitas sem custo nenhum e trazem ótimos resultados, com as práticas corretas de SEO, é possível observar resultados promissores e muito positivos, o nosso SEO é criativo e esse é o grande diferencial para se destacar nos mecanismos de busca em meio a tantos concorrentes.</p>
                   </div>
                </div>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 padding_bottom_half">
             <div class="floated-counter whitecolor wow fadeInRight">
-               <div class="row">
-                  <div class="col-md-5 col-sm-6 col-xs-5">
-                  </div>
-                  <div class="col-md-7 col-sm-6 col-xs-7">
+               <div class="row left-xs-sm">
+                  <div class="col-md-7 col-sm-10 col-xs-10">
                      <h3>kpi</h3>
-                     <p class="top20">Key Performance Indicator, que significa indicador-chave de desempenho. esse indicador é utilizado para medir o desempenho dos processos de uma empresa e, com essas informações, colaborar para que alcance seus objetivos, com os dados podemos fazer mudanças e analisar a melhor forma de auxiliar no seu negócio, são indicadores de precisão, trazendo resultados satisfatórios com as métricas sempre atualizadas, para o melhor desenvolvimento da empresa.</p>
+                     <p class="top20">key Performance Indicator, que significa indicador-chave de desempenho. esse indicador é utilizado para medir o desempenho dos processos de uma empresa e, com essas informações, colaborar para que alcance seus objetivos, com os dados podemos fazer mudanças e analisar a melhor forma de auxiliar no seu negócio, são indicadores de precisão, trazendo resultados satisfatórios com as métricas sempre atualizadas, para o melhor desenvolvimento da empresa.</p>
                   </div>
                </div>
             </div>
@@ -132,49 +128,6 @@
    </div>
 </section>
 <!--Floated Counters ends-->
-
-<!--Services 3 column-->
-<section id="" class="padding bglight">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="intro-text center bottom15 wow fadeInUp">
-               <h2 class="darkcolor bottom45">redes sociais</h2>
-               <p class="bottom45">Fazemos o desde a criação até o gerenciamento das redes sociais com a melhor otimização, desdo facebook, twitter, instagram, linkedin.</p>
-              
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
-      <div class="row" id="features">
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">gerenciamento </a></h4>
-               <hr>
-               <p class="no_bottom">Cuidamos das redes sociais, parcialmente ou total.</p>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
-               <i class="fa fa-umbrella"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">post</a></h4>
-               <hr>
-               <p class="no_bottom">Post alternados em 2 a 2 dias ou semanal.</p>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">impulsionadas</a></h4>
-               <hr>
-               <p class="no_bottom">Propaganda utilizando os recursos de impulsionar as postagens.</p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
 <!--Services 3 column ends-->
 <section class="padding">
    <div class="pricing-white">
@@ -182,7 +135,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">planos </h2>
+                  <h2 class="darkcolor bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -207,40 +160,44 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div-->
-            <div class="col-md-6 col-sm-4 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">professional</h3>
+			<span class="heading-title bottom25">ristreto</span>
+                  <h3 class="bottom15">mkt</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>250</h1> <span class="dur">/ year</span>
+                     <h1>498,90</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 email account</span></li>
-                  <li><span>100gb space</span></li>
-                  <li><span>domain name</span></li>
-                  <li><span>500gb bandwidth</span></li>
-                  <li><span>25 nysql databases</span></li>
-                  <li><span>enhanced sercurity</span></li>
+                  <li><span>posts sociais</span></li>
+                  <li><span>fecebook ads</span></li>
+                  <li><span>e-mail mkt p.a</span></li>
+                  <li><span>analize kpi u</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
-            <div class="col-md-6 col-sm-4 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">professional</h3>
+			<span class="heading-title bottom25">lungo</span>
+                  <h3 class="bottom15">mkt</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>250</h1> <span class="dur">/ year</span>
+                     <h1>698,90</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 email account</span></li>
-                  <li><span>100gb space</span></li>
-                  <li><span>domain name</span></li>
-                  <li><span>500gb bandwidth</span></li>
-                  <li><span>25 nysql databases</span></li>
-                  <li><span>enhanced sercurity</span></li>
+                  <li><span>post sociais</span></li>
+                  <li><span>fecebook ads</span></li>
+                  <li><span>e-mail mkt p.a</span></li>
+                  <li><span>analize kpi u</span></li>
+                  <li><span>geren. redes sociais</span></li>
+                  <li><span>google ads</span></li>
+                  <li><span>e-mail mkt g.a</span></li>
+                  <li><span>adptação seo</span></li>
+                  <li><span>analize kpi l2</span></li>
+                  <li><span>analize de roi</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
@@ -250,6 +207,180 @@
    </div>
 </section>
 <!--Pricing white ends-->
+
+
+    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <form class="getin_form wow fadeInUp"></form>
+                    <div class="col-md-5 p-0">
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7 p-0">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="form-group bottom45">
+                                <textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 text-right m-0 p-0">
+                            <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <!-- aqui esta um espaço entre as colunas-->
+                <div class="col-md-2">
+                    <div class="swiper-slide">
+                    </div>
+                </div>
+                <div class="row col-md-4 mobile-p">
+                    <div class="swiper-slide">
+                        <h2 class="cinzacolor bottom20">contato</h2>
+                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                    </div>
+                    <ul class="social wow BounceIn top20">
+                        <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
+                        <li class="p-5"><a href="whatsapp://send?text=Olá!&phone=+554133196071" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
+                        <li class="p-5"><a href="tel:+554133196071" alt="ligar" title="ligar"><i class="fa fa-phone" alt="ligar" title="ligar"></i> </a> </li>
+                        <li class="p-5"><a href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email"><i class="fa fa-envelope" alt="envie um email" title="envie um email"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+    <section class="single-items item-teen2  parallaxie full-screen" id="parceiros">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+                    <div class="intro-text center">
+                        <h2 class="heading_space">nossos parceiros</h2>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-2"></div>
+            </div>
+            <div id="logo-transparent" class="swiper-container top50 heading_space hover-gray">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-a50-click.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-a50.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-barbearia-visconde.png" alt="barbearia visconde" title="barbearia visconde">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-galeria-glaser.png" alt="barbearia visconde glaser" title="barbearia visconde glaser">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-lrmck.png" alt="[[ l r m c k ]]" title="[[ l r m c k ]]">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-vinicius-mottin.png" alt="vinicius mottin fotografias" title="vinicius mottin fotografias">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-a50tv.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-wec.png" alt="wec - world entertainment corporation" title="wec - world entertainment corporation">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-paulinha-fotografias.png" alt="paulina fotografias" title="paulina fotografias">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-bar-do-silval.png" alt="bar do sival" title="bar do sival">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-rabo-de-galo.png" alt="rabo de galo pomadas" title="rabo de galo pomadas">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-tattoo-zasso.png" alt="studio tattoozasso" title="studio tattoozasso">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-uol.png" alt="uol - universo online" title="uol - universo online">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-elitronicos.png" alt="elitrônicos" title="elitrônicos">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-howstuffworks.png" alt="howstuffworks" title="howstuffworks">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-sita.png" alt="sita aero" title="sita aero">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-oboticario.png" alt="o boticário" title="o boticário">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-cinq.png" alt="cinq technologies" title="cinq technologies">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-renault.png" alt="renault" title="renault">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="logo-item">
+                            <img src="images/logo-diego-tragel.png" alt="diego tragel" title="diego tragel">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer-->
 
 <?php include 'footer.php'; ?>
 
