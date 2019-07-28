@@ -803,7 +803,7 @@ ul.social.dark li a:focus{
 
 /*intro on left with bg*/
 .bg-intro{
-    background: url(../images/bg-intro.jpg) no-repeat;
+    background: url(../images/bg-clientes.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
@@ -812,19 +812,22 @@ ul.social.dark li a:focus{
     width: 100%;
 }
 .bgintro-two{
-   background: url(../images/bg-introtwo.jpg) no-repeat;
+   background: url(../images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-yellow{
-   background: url(../images/bgintro-yellow.jpg) no-repeat;
+   background: url(../images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-light{
-   background: url(../images/bgintro-light.jpg) no-repeat;
+   background: url(../images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-five{
-   background: url(../images/bgintro-five.jpg) no-repeat;
+   background: url(../images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-seven{
-   background: url(../images/bgintro-seven.jpg) no-repeat;
+   background: url(../images/bg-clientes.jpg) no-repeat;
+}
+.image-hero{
+	background: url(../images/bg-clientes.jpg) no-repeat;
 }
 
 /*-----  Intro Style & two Ends ------ */
