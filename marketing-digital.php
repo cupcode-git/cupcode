@@ -69,7 +69,7 @@
                <div class="intro-text">
                   <span class="heading-title bottom25"> anúncios</span>
                   <h2 class="darkcolor bottom45"><a href="blog.html">google adwords</a></h2>
-                  <p>cerca de 3,3 bilhões de buscas no google são realizadas diariamente, sendo a maior empresa de anúncios do mundo, pioneira no mercado, colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
+                  <p>colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
                </div>
             </div>
          </div>
@@ -92,7 +92,7 @@
                <div class="intro-text">
                   <span class="heading-title whitecolor bottom25"> anúncios </span>
                   <h2 class="whitecolor bottom45"><a href="blog.html">facebook ads</a></h2>
-                  <p class="whitecolor">a rede social chegou a 2,27 bilhões de usuários, sendo que 127 milhões são brasileiros, o facebook ads é uma das plataformas de anúncio que mais cresce no mundo, porque ajuda empreendedores e empresas de todos os portes a divulgar sua marca nas redes sociais, os anúncios podem ser facilmente segmentados, ou seja, direcionados a atingir exatamente o perfil de consumidor que a empresa está buscando e atraindo novos clientes em potenciais.</p>
+                  <p class="whitecolor">com o facebook ads, fazemos seu anúncios atingirem uma grande escala, a rede social tem milhares de acesso diários, conseguimos localizar o perfil dos seu público alvo e futuros alvos, levando o seu conteúdo até eles, a cupcode tem sempre um profissional analisando o desempenho.</p>
                </div>
             </div>
          </div>
@@ -109,7 +109,7 @@
                <div class="row">
                   <div class="col-md-7 col-sm-10 col-xs-10">
                      <h3>seo</h3>
-                     <p class="top20">search engine optimization ou otimização para mecanismos de busca, consiste em um conjunto de táticas e otimizações que visam melhor posicionar as páginas nos resultados orgânicos de mecanismos de busca como o google, essas otimizações podem ser feitas sem custo nenhum e trazem ótimos resultados, com as práticas corretas de SEO, é possível observar resultados promissores e muito positivos, o nosso SEO é criativo e esse é o grande diferencial para se destacar nos mecanismos de busca em meio a tantos concorrentes.</p>
+                     <p class="top20">search engine optimization, a cupcode tem a garantia que seu site vai estar nas primeiras páginas do navegadores, isso é possível por que somos especialistas em SEO de forma orgânica sem custo adcional, te colocamos a frente dos outros. </p>
                   </div>
                </div>
             </div>
@@ -119,7 +119,7 @@
                <div class="row left-xs-sm">
                   <div class="col-md-7 col-sm-10 col-xs-10">
                      <h3>kpi</h3>
-                     <p class="top20">key Performance Indicator, que significa indicador-chave de desempenho. esse indicador é utilizado para medir o desempenho dos processos de uma empresa e, com essas informações, colaborar para que alcance seus objetivos, com os dados podemos fazer mudanças e analisar a melhor forma de auxiliar no seu negócio, são indicadores de precisão, trazendo resultados satisfatórios com as métricas sempre atualizadas, para o melhor desenvolvimento da empresa.</p>
+                     <p class="top20">com o kpi coletamos os dados de desempenho do seu negócio, depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados, sempre mantendo o desempenho positivo.</p>
                   </div>
                </div>
             </div>
