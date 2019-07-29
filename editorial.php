@@ -1,20 +1,13 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
-<!--Main Slider-->
-<section class="full-screen personal-banner parallaxie" id="ourhome">
+<!--Ful Screen Section Video with caption-->
+<section class="full-screen gradient-banner center-block image-hero parallaxie" id="ourhome">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
-            <div class="center-block personal-cape text-center">
+            <div class="large-caption text-center wow zoomIn">
                <div class="center-item">
-                  <!--My Image-->
-                  <div class="myphoto">
-                     <img src="images/myphoto.png" alt="">
-                  </div>
-                  <h2 class="  top30 bottom35 darkcolor">Elen Alexander</h2>
-                  <h4 class="bottom45 darkcolor"> I'm Web <span  id="my_designation"></span></h4>
-                  <a href="#ourportfolio" class="button dark scrollings">My Work</a> &nbsp; 
-                  <a href="#map-address" class="button darkhole scrollings">Hire Me</a>
+                  <h2 class="whitecolor bottom60">marketing digital</h2>
                </div>
             </div>
          </div>
@@ -22,7 +15,22 @@
       </div>
    </div>
 </section>
-<!--Main Slider ends -->
+<!--Ful Screen Section Video ends-->
+<!--Single intro with background-->
+<section class="padding bg-intro bgintro-five parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="intro-text">
+               <h2 class="whitecolor bottom45">editorial</h2>
+               <p class="whitecolor">o editorial utiliza as ferramentas tradicionais do marketing e as aplica no planejamento e elaboração de estratégias para atrair, manter e desenvolver um bom relacionamento com clientes, neste caso, leitores, em todas as plataformas físicas, virtuais e eletrônicas utilizadas para gerar e entregar informação, literatura ou simplesmente conteúdo de entretenimento, nosso jornalista cria, artigos, textos, redações e ajustes.</p>
+              
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Single intro ends-->
 <!--Single intro with background-->
 <section class="padding bg-intro bgintro-five parallaxie">
    <div class="container-fluid container-padding">
@@ -30,8 +38,8 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="intro-text">
-               <h2 class="whitecolor bottom45">editorial</h2>
-               <p class="whitecolor">Desde a criação de conteúdo, para redes sociais, blogs como a correção de erros e ajustes, utilizando o SEO, para a melhor otimização para os motores de busca.</p>
+               <h2 class="whitecolor bottom45">criação de conteúdo</h2>
+               <p class="whitecolor">com a criação de conteúdo e a adaptação, utilizamos SEO (search engine optimization ou otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo otimizado sempre aparece nas primeiras páginas dos buscadores google entre outros.</p>
               
             </div>
          </div>
@@ -45,7 +53,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">planos </h2>
+                  <h2 class="darkcolor bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -70,26 +78,22 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div-->
-            <div class="col-md-6 col-sm-4 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">professional</h3>
+			<span class="heading-title bottom25">latte machiatto</span>
+                  <h3 class="bottom15">criação editorial</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>250</h1> <span class="dur">/ year</span>
+                     <h1>1490,90</h1> <span class="dur">/ mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>15 email account</span></li>
-                  <li><span>100gb space</span></li>
-                  <li><span>domain name</span></li>
-                  <li><span>500gb bandwidth</span></li>
-                  <li><span>25 mysql databases</span></li>
-                  <li><span>enhanced sercurity</span></li>
+                  <li><span>4 artigos por mês</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
             </div>
-            <div class="col-md-6 col-sm-4 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">professional</h3>
                   <div class="ammount">
@@ -113,6 +117,63 @@
    </div>
 </section>
 <!--Pricing white ends-->
+
+
+    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <form class="getin_form wow fadeInUp"></form>
+                    <div class="col-md-5 p-0">
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 m-0 p-0">
+                            <div class="form-group bottom45">
+                                <input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7 p-0">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="form-group bottom45">
+                                <textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 text-right m-0 p-0">
+                            <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <!-- aqui esta um espaço entre as colunas-->
+                <div class="col-md-2">
+                    <div class="swiper-slide">
+                    </div>
+                </div>
+                <div class="row col-md-4 mobile-p">
+                    <div class="swiper-slide">
+                        <h2 class="cinzacolor bottom20">contato</h2>
+                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                    </div>
+                    <ul class="social wow BounceIn top20">
+                        <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
+                        <li class="p-5"><a href="whatsapp://send?text=Olá!&phone=+554133196071" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
+                        <li class="p-5"><a href="tel:+554133196071" alt="ligar" title="ligar"><i class="fa fa-phone" alt="ligar" title="ligar"></i> </a> </li>
+                        <li class="p-5"><a href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email"><i class="fa fa-envelope" alt="envie um email" title="envie um email"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer-->
 <?php include 'footer.php'; ?>
 <!--Footer ends-->
 </div>

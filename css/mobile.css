@@ -17,4 +17,28 @@
 		margin-left: 10%;
 	}
 }
+@media screen and (max-width: 1024px){
+	.row.mobile-p.col-md-4 {
+    padding-left: 35px;
+	}
+	
+	.mobile-m-t {
+		text-align: center;
+		margin-left: 10%;
+	}
+	
+	.col-md-12 {
+		padding-right: 0px;
+		padding-left: 0;
+	}
+	
+    .rev-scroll-btn {
+        display: none;;
+    }
+	textarea {
+    max-height: 125px;
+    resize: none;
+	}
+}
+
 
