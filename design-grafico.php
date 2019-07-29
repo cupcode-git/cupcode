@@ -289,7 +289,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center wow fadeInUp">
                <h2 class="darkcolor bottom45">Branding</h2>
-               <p class="bottom15">A construção do branding é essencial para o sucesso de um negócio, o branding envolve funções de investigação, estratégias, criações, design e, por fim, o gerenciamento constante da marca, com o intuito de acompanhar  e otimizar relações com os respectivos públicos-alvos.</p>
+               <p class="bottom15">construimos seu branding, de forma estratégica, criativa com os melhores design sua identidade visual completa única e memorável.</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-1"></div>
@@ -308,7 +308,7 @@
                <i class="fas fa-fingerprint" aria-hidden="true"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
                <hr>
-               <p class="no_bottom">fazemos a sua logo, ela é a representação gráfica do nome da sua empresa ou marca, que determina a sua identidade visual e tem como objetivo facilitar o seu reconhecimento.</p>
+               <p class="no_bottom">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
@@ -316,7 +316,7 @@
                <i class="fa fa-bar-chart"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
                <hr>
-               <p class="no_bottom">a tipografia desempenha um papel crucial no design da identidade visual de uma marca, definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
+               <p class="no_bottom">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
@@ -324,7 +324,7 @@
                <i class="fa fa-bar-chart"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
                <hr>
-               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações, elas tem como objetivo transmitir sentimentos ou remeter a uma identidade visual, quando utilizadas da forma certa, paletas de cores agregam valor aos produtos e serviços que divulgam porque são elas que acentuam suas características fundamentais.</p>
+               <p class="no_bottom">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
             </div>
          </div>
       </div>
@@ -339,7 +339,7 @@
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center bottom15 wow fadeInUp">
                     <h2 class="darkcolor bottom45">papelaria</h2>
-                    <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, tudo deve seguir a identidade visual e ter alta qualidade, um dos elementos mais importantes para a construção da imagem de uma empresa, os itens de papelaria são alguns dos que acabam tendo mais contato direto com fornecedores e clientes.</p>
+                    <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes, através da papelaria é possível com esse meio de comunicação extremamente forte em empresas.</p>
                    
                 </div>
             </div>

@@ -7,7 +7,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="large-caption text-center wow zoomIn">
                <div class="center-item">
-                  <h2 class="whitecolor bottom60">marketing digital</h2>
+                  <h2 class="whitecolor bottom60">editorial</h2>
                </div>
             </div>
          </div>
@@ -23,7 +23,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="intro-text">
                <h2 class="whitecolor bottom45">editorial</h2>
-               <p class="whitecolor">o editorial utiliza as ferramentas tradicionais do marketing e as aplica no planejamento e elaboração de estratégias para atrair, manter e desenvolver um bom relacionamento com clientes, neste caso, leitores, em todas as plataformas físicas, virtuais e eletrônicas utilizadas para gerar e entregar informação, literatura ou simplesmente conteúdo de entretenimento, nosso jornalista cria, artigos, textos, redações e ajustes.</p>
+               <p class="whitecolor">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, fazemos que seu editorial tenha impacto no leitor com conteúdo de qualidade, temos jornalista responsável por cuidar e otimizar os artigos, textos, redações, jornais e texto para blogs.</p>
               
             </div>
          </div>
