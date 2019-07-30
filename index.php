@@ -480,6 +480,19 @@
                         <p>web, papelaria</p>
                     </div>
                 </div>
+				
+				<div class="cbp-item logo print">
+                    <div class="image">
+                        <img src="images/corr-portfolio.jpg" alt="corr portfolio"  title="corr portfolio">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/corr-portfolio.jpg" alt="corr portfolio"  title="corr portfolio"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="corr portfolio" title="corr portfolio"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                        <p>branding, papelaria</p>
+                    </div>
+                </div>
 				<div class="cbp-item logo print">
                     <div class="image">
                         <img src="images/cori-portfolio.jpg" alt="cora portfolio"  title="cora portfolio">
