@@ -19,34 +19,40 @@
 
 
 <!--About Us-->
-<section id="aboutus" class="services-wrapper padding">
+<section id="aboutus" class="services-wrapper padding single-items center-block lightcolor1">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">websites</h2>
+            <div class="item-titles whitecolor text-center wow fadeInLeft">
+               <h2 class="ccdark bottom25">websites</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
       <div class="row">
          <div class="col-md-4 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fas fa-desktop" aria-hidden="true"></i></span>
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+                 <i class="fas fa-desktop"></i>
+               </a>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
                <p class="bottom25 top15">criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, sempre mantendo ele nas primeiras páginas dos navegadores, fazemos do site sua casa na internet.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fa fa-support"></i></span>
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+                 <i class="fas fa-support"></i>
+               </a>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
                <p class="bottom25 top15">com o blog suas páginas na internet tem muita facilidade de serem localizadas, dando um aspecto de confiança, atraindo mais clientes  com o conteúdo sempre atualizado, você acaba se destacando dos demais.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fa fa-support"></i></span>
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			 <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+                 <i class="fas fa-support"></i>
+               </a>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>e-commerce</strong></a> </h4>
                <p class="bottom25 top15">fazemos sua loja virtual e mantemos ela sempre online, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia,  ainda podemos fazer o gerenciamento e atualizações.</p>
             </div>
@@ -56,27 +62,31 @@
 </section>
 <!--About Us ends-->
 <!--About Us-->
-<section id="aboutus" class="services-wrapper padding">
+<section id="aboutus" class="services-wrapper padding single-items center-block lightcolor1">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">adicíonais</h2>
+            <div class="item-titles whitecolor text-center wow fadeInLeft">
+               <h2 class="ccdark bottom25">adicional</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
       <div class="row">
          <div class="col-md-6 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fa fa-paperclip"></i></span>
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+                 <i class="fas fa-paperclip"></i>
+               </a>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>domínio</strong></a> </h4>
                <p class="bottom25 top15">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fas fa-server" aria-hidden="true"></i></span>
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+                 <i class="fas fa-server"></i>
+               </a>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>hospedagem</strong></a> </h4>
                <p class="bottom25 top15">com nossa hospedagem seu site fica no ar funcionando com seus arquivos guardados em nuvem e protegidos, fazemos backup diários, mantendo tudo atualizado.</p>
             </div>
@@ -113,13 +123,13 @@
    </div>
 </section>
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="padding  single-items center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">pacotes</h2>
+               <div class="item-titles whitecolor text-center wow fadeInLeft">
+                  <h2 class="ccdark bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -179,13 +189,13 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="padding  single-items center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">hospedagems para site</h2>
+               <div class="item-titles whitecolor text-center wow fadeInLeft">
+                  <h2 class="ccdark bottom25">hospedagens para site</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -240,13 +250,13 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="padding  single-items center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">dominio</h2>
+               <div class="item-titles whitecolor text-center wow fadeInLeft">
+                  <h2 class="ccdark bottom25">domínio</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -286,13 +296,13 @@
 </section>
 <!--Pricing white ends-->
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="padding  single-items center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">adicional</h2>
+               <div class="item-titles whitecolor text-center wow fadeInLeft">
+                  <h2 class="ccdark bottom25">adicional</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -372,11 +382,11 @@
                     <div class="swiper-slide">
                     </div>
                 </div>
-                <div class="row col-md-4 mobile-p">
+                <div class="row col-md-4 mobile-p lightcolor1">
                     <div class="swiper-slide">
-                        <h2 class="cinzacolor bottom20">contato</h2>
-                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="ccdark bottom20 item-titles whitecolor wow fadeInLeft">contato</h2>
+                        <h3 class="bottom15"><a class="ccdark bottom20 item-titles whitecolor text-center wow fadeInLeft"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="ccdark bottom20 item-titles whitecolor wow fadeInLeft" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>

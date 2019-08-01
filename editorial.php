@@ -157,11 +157,11 @@
                     <div class="swiper-slide">
                     </div>
                 </div>
-                <div class="row col-md-4 mobile-p">
+                <div class="row col-md-4 mobile-p lightcolor1">
                     <div class="swiper-slide">
-                        <h2 class="cinzacolor bottom20">contato</h2>
-                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="ccdark bottom20 item-titles whitecolor wow fadeInLeft">contato</h2>
+                        <h3 class="bottom15"><a class="ccdark bottom20 item-titles whitecolor text-center wow fadeInLeft"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="ccdark bottom20 item-titles whitecolor wow fadeInLeft" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
@@ -244,12 +244,5 @@
 
 <!--Synx scripts-->
 <script src="js/functions.js"></script>
-    
-<!--Google map API-->
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
-<script src="js/map.js"></script>
-
-
 </body>
 </html>
