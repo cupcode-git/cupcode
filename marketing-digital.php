@@ -18,13 +18,13 @@
 <!--Ful Screen Section Video ends-->
 
 <!--Services 3 column-->
-<section id="" class="padding bglight">
+<section id="" class="padding lightcolor1">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
-            <div class="intro-text center bottom15 wow fadeInUp">
-               <h2 class="darkcolor bottom45">redes sociais</h2>
+            <div class="intro-text center lightcolor1 wow fadeInUp">
+               <h2 class="ccdark bottom45">redes sociais</h2>
                <p class="bottom45">como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
               
             </div>
@@ -33,7 +33,7 @@
       </div>
       <div class="row" id="features">
          <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-cogs"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">gerenciamento</a></h4>
                <hr>
@@ -41,7 +41,7 @@
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-edit"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">post</a></h4>
                <hr>
@@ -49,7 +49,7 @@
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
                <hr>
@@ -61,14 +61,14 @@
 </section>
 <!--Services 3 column ends-->
 <!--Blog info -->
-<section id="ourinfo">
+<section id="ourinfo" class="services-wrapper   lightcolor1">
    <div class="container-fluid">
       <div class="row box-info-wrap">
          <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info container-padding padding_half1 equalheight wow fadeInLeft">
-               <div class="intro-text">
+            <div class="box-info container-padding padding_half1 equalheight">
+               <div class="item-titles wow fadeInLeft">
                   <span class="heading-title bottom25"> anúncios</span>
-                  <h2 class="darkcolor bottom45"><a href="blog.html">google adwords</a></h2>
+                  <h2 class="ccdark bottom45"><a href="blog.html">google adwords</a></h2>
                   <p>colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
                </div>
             </div>
@@ -88,10 +88,10 @@
             </div>
          </div>
          <div class="col-md-6 col-sm-6 nopadding">
-            <div class="box-info container-padding padding_half bgdefault equalheight wow fadeInRight">
-               <div class="intro-text">
-                  <span class="heading-title whitecolor bottom25"> anúncios </span>
-                  <h2 class="whitecolor bottom45"><a href="blog.html">facebook ads</a></h2>
+            <div class="box-info container-padding padding_half1 equalheight">
+               <div class="item-titles wow fadeInLeft">
+                  <span class="heading-title bottom25"> anúncios </span>
+                  <h2 class="ccdark bottom45"><a href="blog.html">facebook ads</a></h2>
                   <p class="whitecolor">com o facebook ads, fazemos seu anúncios atingirem uma grande escala, a rede social tem milhares de acesso diários, conseguimos localizar o perfil dos seu público alvo e futuros alvos, levando o seu conteúdo até eles, a cupcode tem sempre um profissional analisando o desempenho.</p>
                </div>
             </div>
@@ -133,9 +133,9 @@
    <div class="pricing-white">
       <div class="container">
          <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">pacotes</h2>
+            <div class="center-block lightcolor1">
+               <div class="intro-text center lightcolor1 wow fadeInUp">
+                  <h2 class="ccdark bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -162,8 +162,8 @@
             </div-->
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">ristreto</span>
-                  <h3 class="bottom15">mkt</h3>
+			<h4 class="heading-titlenovo bottom15">marketing</h4>
+                  <h3 class="bottom15">pacote ristreto</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
                      <h1>498,90</h1> <span class="dur">/ mês</span>
@@ -173,15 +173,15 @@
                   <li><span>posts sociais</span></li>
                   <li><span>fecebook ads</span></li>
                   <li><span>e-mail mkt p.a</span></li>
-                  <li><span>analize kpi u</span></li>
+                  <li><span>analize kpi l1</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">lungo</span>
-                  <h3 class="bottom15">mkt</h3>
+			<h4 class="heading-titlenovo bottom15">marketing</h4>
+                  <h3 class="bottom15">pacote lungo</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
                      <h1>698,90</h1> <span class="dur">/ mês</span>
@@ -209,7 +209,7 @@
 <!--Pricing white ends-->
 
 
-    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+    <section id="contact-form" class="  text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">

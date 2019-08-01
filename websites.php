@@ -19,7 +19,7 @@
 
 
 <!--About Us-->
-<section id="aboutus" class="services-wrapper padding single-items center-block lightcolor1">
+<section id="aboutus" class="services-wrapper top100 center-block lightcolor1">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
@@ -62,7 +62,7 @@
 </section>
 <!--About Us ends-->
 <!--About Us-->
-<section id="aboutus" class="services-wrapper padding single-items center-block lightcolor1">
+<section id="aboutus" class="services-wrapper top100 center-block lightcolor1">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
@@ -123,7 +123,7 @@
    </div>
 </section>
 <!--Floated Counters ends-->
-<section class="padding  single-items center-block lightcolor1">
+<section class="top100 center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -189,7 +189,7 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="padding  single-items center-block lightcolor1">
+<section class="top100 center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -250,7 +250,7 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="padding  single-items center-block lightcolor1">
+<section class="top100 center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -296,7 +296,7 @@
 </section>
 <!--Pricing white ends-->
 <!--Floated Counters ends-->
-<section class="padding  single-items center-block lightcolor1">
+<section class="top100 center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
