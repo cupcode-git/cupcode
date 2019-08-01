@@ -17,12 +17,12 @@
 </section>
 <!--Ful Screen Section Video ends-->
 <!--Single intro with background-->
-<section class="padding bg-intro bgintro-five parallaxie">
+<section class="padding bg-intro lightcolor1 bgintro-five parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
-            <div class="intro-text">
-               <h2 class="whitecolor bottom45">editorial</h2>
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="ccdark bottom45">editorial</h2>
                <p class="whitecolor">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, fazemos que seu editorial tenha impacto no leitor com conteúdo de qualidade, temos jornalista responsável por cuidar e otimizar os artigos, textos, redações, jornais e texto para blogs.</p>
               
             </div>
@@ -32,13 +32,13 @@
 </section>
 <!--Single intro ends-->
 <!--Single intro with background-->
-<section class="padding bg-intro bgintro-five parallaxie">
+<section class="padding bg-intro lightcolor1 bgintro-five parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
-            <div class="intro-text">
-               <h2 class="whitecolor bottom45">criação de conteúdo</h2>
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="ccdark bottom45">criação de conteúdo</h2>
                <p class="whitecolor">com a criação de conteúdo e a adaptação, utilizamos SEO (search engine optimization ou otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo otimizado sempre aparece nas primeiras páginas dos buscadores google entre outros.</p>
               
             </div>
@@ -51,9 +51,9 @@
    <div class="pricing-white">
       <div class="container">
          <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">pacotes</h2>
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2  lightcolor1">
+               <div class="intro-text center lightcolor1 wow fadeInUp">
+                  <h2 class="ccdark bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
