@@ -289,7 +289,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
                <h2 class="ccdark bottom45">Branding</h2>
-               <p class="bottom15">construimos seu branding, de forma estratégica, criativa com os melhores design sua identidade visual completa única e memorável.</p>
+               <p class="bottom15 cclight">construimos seu branding, de forma estratégica, criativa com os melhores design sua identidade visual completa única e memorável.</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-1"></div>
@@ -298,33 +298,33 @@
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bicycle"></i>
-               <h4 class="darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
+               <h4 class="cclight bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
                <hr>
-               <p class="no_bottom">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
+               <p class="no_bottom cclight">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fas fa-fingerprint" aria-hidden="true"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
+               <h4 class="cclight bottom10"><a href="javascript:void(0)">logo</a></h4>
                <hr>
-               <p class="no_bottom">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
+               <p class="no_bottom cclight">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
+               <h4 class="cclight bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
                <hr>
-               <p class="no_bottom">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
+               <p class="no_bottom cclight">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
+               <h4 class="cclight bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
                <hr>
-               <p class="no_bottom">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
+               <p class="no_bottom cclight">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
             </div>
          </div>
       </div>
@@ -339,7 +339,7 @@
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center lightcolor1 wow fadeInUp">
                     <h2 class="ccdark bottom45">papelaria</h2>
-                    <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes, através da papelaria é possível com esse meio de comunicação extremamente forte em empresas.</p>
+                    <p class="bottom45 cclight">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes, através da papelaria é possível com esse meio de comunicação extremamente forte em empresas.</p>
                    
                 </div>
             </div>
@@ -350,8 +350,8 @@
                 <div class="icon_box light equalheight top50 wow fadeInUp">
                     <i class="fa fa-bullhorn"></i>
                     <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong>impresso</strong></h4>
-                        <p class="bottom25">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
+                        <h4 class="cclight bottom10"><strong>impresso</strong></h4>
+                        <p class="bottom25 cclight">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
                         
                     </div>
                 </div>
@@ -360,8 +360,8 @@
                 <div class="icon_box light equalheight top50 wow fadeInUp">
                     <i class="far fa-id-card" aria-hidden="true"></i>
                     <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong> digital</strong></h4>
-                        <p class="bottom25">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
+                        <h4 class="cclight bottom10"><strong> digital</strong></h4>
+                        <p class="bottom25 cclight">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
                         
                     </div>
                 </div>

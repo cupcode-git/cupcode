@@ -62,7 +62,7 @@ a, a:hover, a:focus{
 	outline:none;
 	text-decoration:none;
     color: inherit;
-    transition: 1s;
+	transition: 1s !important;
 }
 input:focus{
     outline: none;
@@ -545,11 +545,13 @@ a.image{
 	text-shadow: -1px 3px 1px rgba(0,0,0,.7);
 }
 .cclight {
-	text-shadow: 1px 1px 1px rgba(0,0,0,.7);
-	transition: 1s;
+    color: #ffffffab;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.7);
+    transition: 1s;
 }
 .cclight:hover {
-	text-shadow: -1px -1px 1px rgba(0,0,0,.7);
+    text-shadow: -1px 2px 1px rgba(0,0,0,.7)!important;
+    color: #ffffffab !important;
 }
 /* Social Icons */
 ul.social_simple li,
@@ -690,13 +692,14 @@ ul.social.dark li a:focus{
     color: #585555;
     border-radius: 10px;
     font-size: 16px;
-    transition: 1s;
+    transition: 1s !important;
 }
 .button.defaulthole:hover, .button.defaulthole:focus,
 .button.defaulthole.active{
     background-color: #bdbdbd40;
     color: #585555;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
+	border-bottom: none;
 }
 .dark-grey {
 	color: #8a8a8a;
@@ -712,21 +715,21 @@ ul.social.dark li a:focus{
     color: #cccccc;
     border-radius: 10px;
     font-size: 16px;
-    transition: 1s;
+    transition: 1s !important;
 }
 .button.defaultholelight:hover, .button.defaultholelight:focus,
 .button.defaultholelight.active{
     background-color: #bdbdbd40;
     color: #585555;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
-    border-bottom: 1px solid #bdbdbd;
+    border-bottom: none;
 }
 .button.defaultholelight {
     border-bottom: 1px solid #dddddd;
     color: #dddddd;
     border-radius: 10px;
     font-size: 16px;
-    transition: 1s;
+    transition: 1s !important;
 }
 .button.defaulthole1:hover, .button.defaulthole1:focus,
 .button.defaulthole1.active{
@@ -739,12 +742,13 @@ ul.social.dark li a:focus{
     color: #bdbdbd;
     border-radius: 10px;
     font-size: 16px;
-    transition: 1s;
+    transition: 1s !important;
 }
 .button.defaulthole2:hover, .button.defaulthole2:focus,
 .button.defaulthole2.active{
     background-color: #bdbdbd40;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
+	border-bottom: none;
 }
 .button i{
     margin-left: 3px;
@@ -1145,6 +1149,7 @@ ul.social li a::before, ul.social li a::after{
 .forma:focus {
     outline: none;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
+	border-bottom: none !important;
 }
 .forma::placeholder {
   color: #ccc;
@@ -2719,7 +2724,6 @@ ul.top-right li a:hover.instagram{
 
 .count_nums,.counter-center h6{
     font-weight: bold;
-    color: #8a8a8a;
 }
 .counter-center.whitecolor .count_nums,
 .counter-center.whitecolor h6{
@@ -2763,15 +2767,6 @@ ul.top-right li a:hover.instagram{
 	max-width: 310px;
 	display: inline-block;
 }
-    .counter-center:hover h6,
-    .counter-center:hover .count_nums {
-        color: #585555;
-    }
-.counter-center.dark:hover h6,
-.counter-center.dark:hover .count_nums{
-    color: #666666;
-}
-
 @media screen and (max-width: 640px){
     .counter-wrap .col-xs-6{
         width: 100%;
