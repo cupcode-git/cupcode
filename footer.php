@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 text-center">
-                  <h2 class="bottom45 text-center darkcolor"><span id="my_designation"></span></h2>
+                  <h2 class="bottom45 text-center lightcolor1 ccdark"><span id="my_designation"></span></h2>
                     <ul class="social wow BounceIn">
                         <li><a href="https://www.facebook.com/cupcodeinc/" target="_blank" alt="fecebook" title="fecebook"><i class="fab fa-facebook" alt="fecebook" title="fecebook"></i> </a> </li>
                         <li><a href="https://www.instagram.com/cupcodeinc/" target="_blank" alt="instagram" title="instagram"><i class="fab fa-instagram" alt="instagram" title="instagram"></i> </a> </li>

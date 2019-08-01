@@ -131,17 +131,17 @@
                                 <i class="fas fa-fingerprint"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">branding</h4>
+                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn cclight" alt="clique aqui" title="clique aqui">branding</h4>
                                 <div style="display: none;" id="hidden-content-b">
-                                    <h2 class="text-center bottom10">branding</h2>
-                                    <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">branding</h2>
+                                    <p class="text-justify cclight">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
+                            <p class="cclight">construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
                         </div>
                     </div>
                     <div class="col-xs-6">
@@ -150,17 +150,17 @@
                                 <i class="fas fa-share-alt"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn">sociais</h4>
+                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn cclight">sociais</h4>
                                 <div style="display: none;" id="hidden-content-b">
-                                    <h2 class="text-center bottom10">sociais</h2>
-                                    <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, usando o Facebook Pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos e muito mais.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">sociais</h2>
+                                    <p class="text-justify cclight">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, usando o Facebook Pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos e muito mais.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole" alt="clique aqui" title="clique aqui">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>gerenciamento das redes  sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
+                            <p class="cclight">gerenciamento das redes  sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
@@ -185,17 +185,17 @@
                                 <i class="fas fa-desktop"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn darkcolor bottom10 " alt="click aqui" title="click aqui">site/blog</h4>
+                                <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn cclight bottom10 " alt="click aqui" title="click aqui">site/blog</h4>
                                 <div style="display: none;" id="hidden-content-e">
-                                    <h2 class="text-center bottom10">site/blog</h2>
-                                    <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela t"ao pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">site/blog</h2>
+                                    <p class="text-justify cclight">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela t"ao pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>criamos seu site, blog ou e-commerce responsivo e intuitivo, leve e de fácil navegação.</p>
+                            <p class="cclight">criamos seu site, blog ou e-commerce responsivo e intuitivo, leve e de fácil navegação.</p>
                         </div>
                     </div>
                     <div class="col-xs-6">
@@ -204,17 +204,17 @@
                                 <i class="fas fa-server"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">hospedagem</h4>
+                                <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">hospedagem</h4>
                                 <div style="display: none;" id="hidden-content-f">
-                                    <h2 class="text-center bottom10">hospedagem</h2>
-                                    <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões, conteúdo focado em SEO e ROI, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">hospedagem</h2>
+                                    <p class="text-justify cclight">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões, conteúdo focado em SEO e ROI, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>temos a melhor configuração para sua empresa ter um site confiável, estável e funcional.</p>
+                            <p class="cclight">temos a melhor configuração para sua empresa ter um site confiável, estável e funcional.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
@@ -239,10 +239,10 @@
                                 <i class="fas fa-edit"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">papelaria</h4>
+                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">papelaria</h4>
                                 <div style="display: none;" id="hidden-content-c">
-                                    <h2 class="text-center bottom10">papelaria</h2>
-                                    <p class="text-justify">criamos sua arte para impressão, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">papelaria</h2>
+                                    <p class="text-justify cclight">criamos sua arte para impressão, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
                                       catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
@@ -250,7 +250,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p>construímos todas suas lâminas para impressão, com qualidade e inteligência.</p>
+                            <p class="cclight">construímos todas suas lâminas para impressão, com qualidade e inteligência.</p>
                         </div>
                     </div>
                     <div class="col-xs-6">
@@ -260,18 +260,18 @@
                             </a>
                             <div class="grid">
                                 <a data-fancybox="group-two" href="images/a50-portfolio.jpg">
-                                    <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">digital</h4>
+                                    <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">digital</h4>
                                 </a>
                                 <div style="display: none;" id="hidden-content-d">
-                                    <h2 class="text-center bottom10">digital</h2>
-                                    <p class="text-justify">artes gráficas para redes sociais, sites, blogs ou qualquer outra mídia digital, além de imagens, também produzimos vídeos e animações que atraem a atenção de seus clientes.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">digital</h2>
+                                    <p class="text-justify cclight">artes gráficas para redes sociais, sites, blogs ou qualquer outra mídia digital, além de imagens, também produzimos vídeos e animações que atraem a atenção de seus clientes.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>imagens, vídeos e animações que atraem a atenção de seus clientes.</p>
+                            <p class="cclight">imagens, vídeos e animações que atraem a atenção de seus clientes.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
@@ -296,17 +296,17 @@
                                 <i class="far fa-newspaper"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">adaptação SEO</h4>
+                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">adaptação SEO</h4>
                                 <div style="display: none;" id="hidden-content-h" class="text-center">
-                                    <h2 class="text-center bottom10">adaptação SEO</h2>
-                                    <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas buscas.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">adaptação SEO</h2>
+                                    <p class="text-justify cclight">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas buscas.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>
+                            <p class="cclight">
                                 adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.
                             </p>
                         </div>
@@ -318,17 +318,17 @@
                                 <i class="far fa-edit"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn darkcolor bottom10 " alt="clique aqui" title="clique aqui">criação</h4>
+                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">criação</h4>
                                 <div style="display: none;" id="hidden-content-g">
-                                    <h2 class="text-center bottom10">criação</h2>
-                                    <p class="text-justify">nós produziremos matérias com foco em tirar o melhor proveito do google e outros mecanismos de buscas na internet, paras colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da área.</p>
+                                    <h2 class="text-center lightcolor1 ccdark bottom10">criação</h2>
+                                    <p class="text-justify cclight">nós produziremos matérias com foco em tirar o melhor proveito do google e outros mecanismos de buscas na internet, paras colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da área.</p>
                                     <div class="text-center">
                                         <a href="javascript:void(0)" class="button defaulthole ">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>
+                            <p class="cclight">
                                 criação de conteúdo, matérias, colocando seu site nas primeiras páginas do google.
                             </p>
                         </div>
@@ -493,17 +493,6 @@
                         <p>branding, papelaria</p>
                     </div>
                 </div>
-				<div class="cbp-item logo print">
-                    <div class="image">
-                        <img src="images/cori-portfolio.jpg" alt="cora portfolio"  title="cora portfolio">
-                    </div>
-                    <div class="overlay light center-block darkcolor">
-                        <ul class="social bottom40">
-                            <li><a data-fancybox="gallery" href="images/cori-portfolio.jpg" alt="cora portfolio"  title="cora portfolio"><i class="fa fa-search-plus"></i></a></li>
-                        </ul>
-                        <p>branding, papelaria</p>
-                    </div>
-                </div>
 				<div class="cbp-item web logo print">
                     <div class="image">
                         <img src="images/a50-portfolio.jpg" alt="a50 portfolio"  title="a50 portfolio">
@@ -573,44 +562,44 @@
                     <div class="counter-center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums" data-to="400" data-speed="2500"> </span>
+                                <span class="count_nums ccdark lightcolor1" data-to="400" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase bottom25">projetos concluídos</h6>
-                        <p class="darkhover">Nossos clientes depositam a confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
+                        <h6 class="text-uppercase cclight lightcolor1 bottom25">projetos concluídos</h6>
+                        <p class="cclight lightcolor1">Nossos clientes depositam a confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
                     <div class="counter-center center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums" data-to="19" data-speed="2500"> </span>
+                                <span class="count_nums ccdark lightcolor1" data-to="19" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase bottom25">anos de experiência</h6>
-                        <p class="darkhover">Passamos por uma longa caminhada, de conhecimento e experiência afinal são 19 anos com os melhores resultados.</p>
+                        <h6 class="text-uppercase cclight lightcolor1 bottom25">anos de experiência</h6>
+                        <p class="cclight lightcolor1">Passamos por uma longa caminhada, de conhecimento e experiência afinal são 19 anos com os melhores resultados.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
                     <div class="counter-center center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums" data-to="298" data-speed="2500"> </span>
+                                <span class="count_nums ccdark lightcolor1" data-to="298" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase bottom25">clientes satisfeitos</h6>
-                        <p class="darkhover">Nossos clientes tem seguranca e confianca na hora de investir, porque fazemos seu investimento trabalhar por você.</p>
+                        <h6 class="text-uppercase cclight lightcolor1 bottom25">clientes satisfeitos</h6>
+                        <p class="cclight lightcolor1">Nossos clientes tem seguranca e confianca na hora de investir, porque fazemos seu investimento trabalhar por você.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
                     <div class="counter-center center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums" data-to="5" data-speed="2500"> </span>
+                                <span class="count_nums ccdark lightcolor1" data-to="5" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase bottom25">dias seu site já está no ar</h6>
-                        <p class="darkhover">Com extrema velocidade e uma excelente qualidade seu site já estará no ar em 5 dias otimizado e responsivo.</p>
+                        <h6 class="text-uppercase cclight lightcolor1 bottom25">dias seu site já está no ar</h6>
+                        <p class="cclight lightcolor1">Com extrema velocidade e uma excelente qualidade seu site já estará no ar em 5 dias otimizado e responsivo.</p>
                     </div>
                 </div>
             </div>

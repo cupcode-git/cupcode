@@ -23,7 +23,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="ccdark bottom45">editorial</h2>
-               <p class="whitecolor">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, fazemos que seu editorial tenha impacto no leitor com conteúdo de qualidade, temos jornalista responsável por cuidar e otimizar os artigos, textos, redações, jornais e texto para blogs.</p>
+               <p class="cclight">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, fazemos que seu editorial tenha impacto no leitor com conteúdo de qualidade, temos jornalista responsável por cuidar e otimizar os artigos, textos, redações, jornais e texto para blogs.</p>
               
             </div>
          </div>
@@ -39,7 +39,7 @@
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="ccdark bottom45">criação de conteúdo</h2>
-               <p class="whitecolor">com a criação de conteúdo e a adaptação, utilizamos SEO (search engine optimization ou otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo otimizado sempre aparece nas primeiras páginas dos buscadores google entre outros.</p>
+               <p class="cclight">com a criação de conteúdo e a adaptação, utilizamos SEO (search engine optimization ou otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo otimizado sempre aparece nas primeiras páginas dos buscadores google entre outros.</p>
               
             </div>
          </div>

@@ -35,8 +35,8 @@
 			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                  <i class="fas fa-desktop"></i>
                </a>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
-               <p class="bottom25 top15">criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, sempre mantendo ele nas primeiras páginas dos navegadores, fazemos do site sua casa na internet.</p>
+               <h4 class="cclight top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
+               <p class="bottom25 top15 cclight">criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, sempre mantendo ele nas primeiras páginas dos navegadores, fazemos do site sua casa na internet.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 equalheight">
@@ -44,8 +44,8 @@
 			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                  <i class="fas fa-support"></i>
                </a>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
-               <p class="bottom25 top15">com o blog suas páginas na internet tem muita facilidade de serem localizadas, dando um aspecto de confiança, atraindo mais clientes  com o conteúdo sempre atualizado, você acaba se destacando dos demais.</p>
+               <h4 class="top30 cclight"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
+               <p class="bottom25 top15 cclight">com o blog suas páginas na internet tem muita facilidade de serem localizadas, dando um aspecto de confiança, atraindo mais clientes  com o conteúdo sempre atualizado, você acaba se destacando dos demais.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 equalheight">
@@ -53,8 +53,8 @@
 			 <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                  <i class="fas fa-support"></i>
                </a>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>e-commerce</strong></a> </h4>
-               <p class="bottom25 top15">fazemos sua loja virtual e mantemos ela sempre online, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia,  ainda podemos fazer o gerenciamento e atualizações.</p>
+               <h4 class="top30 cclight"><a href="javascript:void(0)"><strong>e-commerce</strong></a> </h4>
+               <p class="bottom25 top15 cclight">fazemos sua loja virtual e mantemos ela sempre online, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia,  ainda podemos fazer o gerenciamento e atualizações.</p>
             </div>
          </div>
       </div>
@@ -67,7 +67,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h2 class="ccdark bottom25">adicional</h2>
+               <h2 class="ccdark bottom25">adicionais</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -78,8 +78,8 @@
 			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                  <i class="fas fa-paperclip"></i>
                </a>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>domínio</strong></a> </h4>
-               <p class="bottom25 top15">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
+               <h4 class="cclight top30"><a href="javascript:void(0)"><strong>domínio</strong></a> </h4>
+               <p class="bottom25 top15 cclight">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">
@@ -87,8 +87,8 @@
 			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                  <i class="fas fa-server"></i>
                </a>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>hospedagem</strong></a> </h4>
-               <p class="bottom25 top15">com nossa hospedagem seu site fica no ar funcionando com seus arquivos guardados em nuvem e protegidos, fazemos backup diários, mantendo tudo atualizado.</p>
+               <h4 class="cclight top30"><a href="javascript:void(0)"><strong>hospedagem</strong></a> </h4>
+               <p class="bottom25 top15 cclight">com nossa hospedagem seu site fica no ar funcionando com seus arquivos guardados em nuvem e protegidos, fazemos backup diários, mantendo tudo atualizado.</p>
             </div>
          </div>
       </div>
@@ -98,23 +98,25 @@
 <!--Floated Counters -->
 <section class="padding_top padding_bottom_half bgdefault">
    <div class="container">
-      <div class="row">
-         <div class="col-md-6 col-sm-6 padding_bottom_half">
+      <div class="row col-md-12">
+         <div class="col-md-6 padding_bottom_half">
             <div class="floated-counter whitecolor wow fadeInLeft">
                <div class="row">
-                  <div class="col-md-7 col-sm-10 col-xs-10">
-                     <h3>ssl</h3>
-                     <p class="top20">para demonstrar segurança, com o ssl você vai pode ter um cadeado de segurança no seu site, passando confiança pros seus clientes, que suas informações estarão seguras.</p>
+                  <div class="col-md-12">
+                     <h3 class="cclight">ssl</h3>
+                     <p class="top20 cclight">para demonstrar segurança, com o ssl você vai pode ter um cadeado de segurança no seu site, passando confiança pros seus clientes, que suas informações estarão seguras.</p>
                   </div>
                </div>
             </div>
          </div>
-         <div class="col-md-6 col-sm-6 padding_bottom_half">
+         <div class="col-md-1">
+         </div>
+         <div class="col-md-5 padding_bottom_half">
             <div class="floated-counter whitecolor wow fadeInRight">
                <div class="row">
-                  <div class="col-md-7 col-sm-10 col-xs-10">
-                     <h3>e-mail</h3>
-                     <p class="top20">com a criação do seu e-mail como o da <a href="mailto:cupcode@cupcode.com"><strong>cupcode@cupcode.com</strong></a> sua empresa terá um correio eletrônico profissional, com 10 gigas de armazenamento.</p>
+                  <div class="col-md-12">
+                     <h3 class="cclight">e-mail</h3>
+                     <p class="top20 cclight">com a criação do seu e-mail como o da <a href="mailto:cupcode@cupcode.com"><strong>cupcode@cupcode.com</strong></a> sua empresa terá um correio eletrônico profissional, com 10 gigas de armazenamento.</p>
                   </div>
                </div>
             </div>
