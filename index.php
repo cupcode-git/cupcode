@@ -116,7 +116,7 @@
             </div>
         </div>
     </section>
-    <section class="single-items center-block item-two lightcolor parallaxie full-screen" id="marketing">
+    <section class="single-items center-block item-two lightcolor1 parallaxie full-screen" id="marketing">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
@@ -164,23 +164,23 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole1 top100">ver planos</a>
+                        <a href="javascript:void(0)" class="button defaultholelight top100">ver planos</a>
                     </div>
                 </div>
                 </div>
         </div>
     </section>
-    <section class="single-items center-block item-four parallaxie full-screen" id="websites">
+    <section class="single-items center-block item-four lightcolor1 parallaxie full-screen" id="websites">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-8 col-xs-12">
-                    <div class="item-titles darkcolor text-center wow fadeInRight">
+                    <div class="item-titles whitecolor text-center wow fadeInRight">
                         <h3 class="bottom10">
                             <a>web<strong>sites</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
+                        <div class="icon_box light equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
                                 <i class="fas fa-desktop"></i>
                             </a>
@@ -199,7 +199,7 @@
                         </div>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
+                        <div class="icon_box light equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="fas fa-server"></i>
                             </a>
@@ -224,17 +224,17 @@
             </div>
         </div>
     </section>
-    <section class="single-items center-block item-three parallaxie full-screen" id="grafico">
+    <section class="single-items center-block item-three lightcolor1 parallaxie full-screen" id="grafico">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
-                    <div class="item-titles text-center darkcolor wow fadeInLeft">
+                    <div class="item-titles whitecolor text-center wow fadeInLeft">
                         <h3 class="bottom10">
                             <a>design<strong> gráfico</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
+                        <div class="icon_box light equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="fas fa-edit"></i>
                             </a>
@@ -254,7 +254,7 @@
                         </div>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
+                        <div class="icon_box light equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="far fa-id-card"></i>
                             </a>
@@ -281,17 +281,17 @@
             </div>
         </div>
     </section>
-    <section class="single-items center-block item-seven parallaxie full-screen" id="editorial">
+    <section class="single-items center-block item-seven lightcolor1 parallaxie full-screen" id="editorial">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-8 col-xs-12">
-                    <div class="item-titles text-center darkcolor wow fadeInLeft">
+                    <div class="item-titles whitecolor text-center wow fadeInLeft">
                         <h3 class="bottom10">
                             <a>criação <strong>editorial</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
+                        <div class="icon_box light equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="far fa-newspaper"></i>
                             </a>
@@ -313,7 +313,7 @@
                     </div>
 
                     <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
+                        <div class="icon_box light equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
                                 <i class="far fa-edit"></i>
                             </a>
@@ -577,7 +577,7 @@
                             </div>
                         </div>
                         <h6 class="text-uppercase bottom25">projetos concluídos</h6>
-                        <p>Nossos clientes depositam a confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
+                        <p class="darkhover">Nossos clientes depositam a confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -588,7 +588,7 @@
                             </div>
                         </div>
                         <h6 class="text-uppercase bottom25">anos de experiência</h6>
-                        <p>Passamos por uma longa caminhada, de conhecimento e experiência afinal são 19 anos com os melhores resultados.</p>
+                        <p class="darkhover">Passamos por uma longa caminhada, de conhecimento e experiência afinal são 19 anos com os melhores resultados.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -599,7 +599,7 @@
                             </div>
                         </div>
                         <h6 class="text-uppercase bottom25">clientes satisfeitos</h6>
-                        <p>Nossos clientes tem seguranca e confianca na hora de investir, porque fazemos seu investimento trabalhar por você.</p>
+                        <p class="darkhover">Nossos clientes tem seguranca e confianca na hora de investir, porque fazemos seu investimento trabalhar por você.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -610,7 +610,7 @@
                             </div>
                         </div>
                         <h6 class="text-uppercase bottom25">dias seu site já está no ar</h6>
-                        <p>Com extrema velocidade e uma excelente qualidade seu site já estará no ar em 5 dias otimizado e responsivo.</p>
+                        <p class="darkhover">Com extrema velocidade e uma excelente qualidade seu site já estará no ar em 5 dias otimizado e responsivo.</p>
                     </div>
                 </div>
             </div>
