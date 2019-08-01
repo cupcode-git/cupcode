@@ -24,56 +24,44 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">web sites</h2>
+               <h2 class="darkcolor bottom25">websites</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
       <div class="row">
-         <div class="col-md-6 col-sm-6 equalheight">
+         <div class="col-md-4 col-sm-6 equalheight">
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fas fa-desktop" aria-hidden="true"></i></span>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
                <p class="bottom25 top15">criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, sempre mantendo ele nas primeiras páginas dos navegadores, fazemos do site sua casa na internet.</p>
             </div>
          </div>
-         <div class="col-md-6 col-sm-6 equalheight">
+         <div class="col-md-4 col-sm-6 equalheight">
             <div class="service-central top50 wow fadeInUp">
                <span class="icons"><i class="fa fa-support"></i></span>
                <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
                <p class="bottom25 top15">com o blog suas páginas na internet tem muita facilidade de serem localizadas, dando um aspecto de confiança, atraindo mais clientes  com o conteúdo sempre atualizado, você acaba se destacando dos demais.</p>
             </div>
          </div>
-      </div>
-   </div>
-</section>
-<!--About Us ends-->
-
-<!--Single intro with background-->
-<section class="padding bg-intro bgintro-five parallaxie">
-   <div class="container-fluid container-padding">
-      <div class="row">
-         <div class="col-md-6 col-sm-3"></div>
-         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
-            <div class="intro-text">
-			<span class="heading-title bottom25">sua loja virtual</span>
-               <h2 class="whitecolor bottom45">e-commerce</h2>
-               <p class="whitecolor">fazemos sua loja virtual e mantemos ela sempre online, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia,  ainda podemos fazer o gerenciamento e atualizações.</p>
+         <div class="col-md-4 col-sm-6 equalheight">
+            <div class="service-central top50 wow fadeInUp">
+               <span class="icons"><i class="fa fa-support"></i></span>
+               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>e-commerce</strong></a> </h4>
+               <p class="bottom25 top15">fazemos sua loja virtual e mantemos ela sempre online, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia,  ainda podemos fazer o gerenciamento e atualizações.</p>
             </div>
          </div>
       </div>
    </div>
 </section>
-<!--Single intro ends-->
-
-
+<!--About Us ends-->
 <!--About Us-->
 <section id="aboutus" class="services-wrapper padding">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">websites</h2>
+               <h2 class="darkcolor bottom25">adicíonais</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -197,7 +185,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">hospedagem para site</h2>
+                  <h2 class="darkcolor bottom25">hospedagems para site</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -205,7 +193,7 @@
          <div class="row">
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">site</h3>
+                  <h3 class="bottom15">hospedagem para site</h3>
                   <div class="ammount">
 				  R$
                      <h1>398,90</h1> <span class="dur">/ ano</span>
@@ -215,11 +203,11 @@
                   <li><span>previlegio por 1 ano</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">blog</h3>
+                  <h3 class="bottom15">hospedagem para blog</h3>
                   <div class="ammount">
 				  R$
                      <h1>398,90</h1> <span class="dur">/ ano</span>
@@ -229,11 +217,11 @@
                   <li><span>previlegio por 1 ano</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">e-commerce</h3>
+                  <h3 class="bottom15">hospedagem para e-commerce</h3>
                   <div class="ammount">
 				  R$
                      <h1>678,90</h1> <span class="dur">/ ano</span>
@@ -243,7 +231,7 @@
                   <li><span>previlegio por 1 ano</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar</a>
             </div>
          </div>
       </div>
@@ -266,21 +254,21 @@
          <div class="row">
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">internacional</h3>
+                  <h3 class="bottom15">nacional</h3>
                   <div class="ammount">
 				  R$
                      <h1>45,00</h1> <span class="dur">/ ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>.com.br</span></li>
+                  <li><span>.br</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">nacinal</h3>
+                  <h3 class="bottom15">internacional</h3>
                   <div class="ammount">
 				  R$
                      <h1>40,00</h1> <span class="dur">/ ano</span>
@@ -304,13 +292,13 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">e-mail</h2>
+                  <h2 class="darkcolor bottom25">adicional</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-             <div class="col-md-12 col-sm-6 price-table text-center top50">
+             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">e-mail</h3>
                   <div class="ammount">
@@ -319,31 +307,12 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>cada caixa com 10 gb cada</span></li>
+                  <li><span>cada caixa com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Pricing white ends-->
-
-<!--Floated Counters ends-->
-<section class="padding">
-   <div class="pricing-white">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">ssl</h2>
-               </div>
-            </div>
-            <div class="col-md-2 col-sm-2"></div>
-         </div>
-         <div class="row">
-            <div class="col-md-12 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">ssl</h3>
 			<span class="heading-titlenovo bottom25">com instalação</span>
@@ -362,8 +331,8 @@
       </div>
    </div>
 </section>
-<!--Pricing white ends-->
 
+<!--Pricing white ends-->
     <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
@@ -490,10 +459,5 @@
 
 <!--Synx scripts-->
 <script src="js/functions.js"></script>
-    
-<!--Google map API-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
-<script src="js/map.js"></script>
-
 </body>
 </html>
