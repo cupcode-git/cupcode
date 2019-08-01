@@ -282,13 +282,13 @@
 </section>
 <!-- end Ful Screen hero Banner --> 
 <!--Services 3 column-->
-<section id="about" class="padding bglight">
+<section id="about" class="top100 center-block lightcolor1">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom45">Branding</h2>
+            <div class="intro-text center lightcolor1 wow fadeInUp">
+               <h2 class="ccdark bottom45">Branding</h2>
                <p class="bottom15">construimos seu branding, de forma estratégica, criativa com os melhores design sua identidade visual completa única e memorável.</p>
             </div>
          </div>
@@ -296,15 +296,15 @@
       </div>
       <div class="row" id="features">
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bicycle"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
+               <h4 class="darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
                <hr>
                <p class="no_bottom">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fas fa-fingerprint" aria-hidden="true"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
                <hr>
@@ -312,7 +312,7 @@
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
                <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
                <hr>
@@ -320,9 +320,9 @@
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
+               <h4 class="darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
                <hr>
                <p class="no_bottom">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
             </div>
@@ -332,13 +332,13 @@
 </section>
 <!--Services 3 column ends-->
 <!--Services 3 column-->
-<section id="services-three" class="padding bglight">
+<section id="services-three" class="top100 center-block lightcolor1">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
-                <div class="intro-text center bottom15 wow fadeInUp">
-                    <h2 class="darkcolor bottom45">papelaria</h2>
+                <div class="intro-text center lightcolor1 wow fadeInUp">
+                    <h2 class="ccdark bottom45">papelaria</h2>
                     <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes, através da papelaria é possível com esse meio de comunicação extremamente forte em empresas.</p>
                    
                 </div>
@@ -347,7 +347,7 @@
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
+                <div class="icon_box light equalheight top50 wow fadeInUp">
                     <i class="fa fa-bullhorn"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong>impresso</strong></h4>
@@ -357,7 +357,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
+                <div class="icon_box light equalheight top50 wow fadeInUp">
                     <i class="far fa-id-card" aria-hidden="true"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong> digital</strong></h4>
@@ -370,13 +370,13 @@
     </div>
 </section>
 <!--Services 3 column ends-->
-<section class="padding">
+<section class="top100 center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">pacotes</h2>
+               <div class="intro-text center lightcolor1 wow fadeInUp">
+                  <h2 class="ccdark bottom25">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>

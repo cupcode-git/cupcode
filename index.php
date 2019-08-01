@@ -122,7 +122,7 @@
                 <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
                     <div class="item-titles whitecolor text-center wow fadeInRight">
                         <h3 class="bottom10">
-                            <a><strong>marketing</strong> digital</a>
+                            <a class="ccdark"><strong>marketing</strong> digital</a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
@@ -176,7 +176,7 @@
                 <div class="col-md-6 col-sm-8 col-xs-12">
                     <div class="item-titles whitecolor text-center wow fadeInRight">
                         <h3 class="bottom10">
-                            <a>web<strong>sites</strong></a>
+                            <a class="ccdark">web<strong>sites</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
@@ -230,7 +230,7 @@
                 <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
                     <div class="item-titles whitecolor text-center wow fadeInLeft">
                         <h3 class="bottom10">
-                            <a>design<strong> gráfico</strong></a>
+                            <a class="ccdark">design<strong> gráfico</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
@@ -287,7 +287,7 @@
                 <div class="col-md-6 col-sm-8 col-xs-12">
                     <div class="item-titles whitecolor text-center wow fadeInLeft">
                         <h3 class="bottom10">
-                            <a>criação <strong>editorial</strong></a>
+                            <a class="ccdark">criação <strong>editorial</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
@@ -343,13 +343,13 @@
     </section>
 
     <!--Gallery Grid-->
-    <section id="portfolio" class="padding_bottom">
+    <section id="portfolio" class="padding_bottom lightcolor1">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-2"> </div>
                 <div class="col-md-6 col-sm-8">
                     <div class="intro-text center">
-                        <h2 class="darkcolor heading_space padding_top50">portfólio</h2>
+                        <h2 class="ccdark heading_space padding_top50 item-titles whitecolor text-center wow fadeInLeft">portfólio</h2>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-2"> </div>
@@ -674,12 +674,12 @@
             </div>
         </div>
     </section-->
-    <section class="single-items center-block item-teen3 parallaxie full-screen" id="depoimentos">
+    <section class="single-items center-block lightcolor1 item-teen3 parallaxie full-screen" id="depoimentos">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                     <div class="intro-text center">
-                        <h2 class="darkcolor heading_space">
+                        <h2 class="ccdark heading_space item-titles whitecolor text-center wow fadeInLeft">
                             o que dizem nossos clientes
                         </h2>
                     </div>
@@ -781,12 +781,12 @@
             </div>
         </div>
     </section>
-    <section class="single-items item-teen2  parallaxie full-screen" id="parceiros">
+    <section class="single-items item-teen2 lightcolor1 parallaxie full-screen" id="parceiros">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                     <div class="intro-text center">
-                        <h2 class="heading_space">nossos parceiros</h2>
+                        <h2 class="heading_space ccdark item-titles whitecolor text-center wow fadeInLeft">nossos parceiros</h2>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-2"></div>
