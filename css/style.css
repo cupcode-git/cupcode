@@ -101,7 +101,7 @@ h6{
 
 p{
     font-family: 'Comfortaa', cursive;
-	text-shadow: 0px 1px 1px rgba(0, 0, 0,.2);
+	color: #585858;
 }
 .block{
     display: block;
@@ -550,8 +550,16 @@ a.image{
     transition: 1s;
 }
 .cclight:hover {
-    text-shadow: -1px 2px 1px rgba(0,0,0,.7)!important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.7)!important;
     color: #ffffffab !important;
+}
+.ccdeep {
+	color: #ffffff47;
+	text-shadow: 1px 2px 1px rgba(0,0,0,.7);
+	transition: 1s;
+}
+.ccdeep:hover {
+	text-shadow: -2px 2px 1px rgba(0,0,0,.7);
 }
 /* Social Icons */
 ul.social_simple li,
@@ -689,7 +697,6 @@ ul.social.dark li a:focus{
 }
 .button.defaulthole {
     border-bottom: 1px solid #bdbdbd;
-    color: #585555;
     border-radius: 10px;
     font-size: 16px;
     transition: 1s !important;
@@ -697,7 +704,6 @@ ul.social.dark li a:focus{
 .button.defaulthole:hover, .button.defaulthole:focus,
 .button.defaulthole.active{
     background-color: #bdbdbd40;
-    color: #585555;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
 	border-bottom: none;
 }
@@ -3882,6 +3888,19 @@ i.fab.fa-linkedin:hover {
     transform: scale(0.75);
 	filter: grayscale(1);
     -webkit-filter: grayscale(1);
+}
+#owl-thumbs.owl-dots .owl-dot > img:hover{
+    width: 100%;
+    -webkit-border-radius: 50%;
+	border-radius: 50%;
+    opacity: 0.25;
+    -webkit-transform: scale(0.75);
+    -ms-transform: scale(0.75);
+    -o-transform: scale(0.75);
+    transform: scale(0.75);
+	filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+	box-shadow: -1px 6px 20px 3px rgba(0,0,0,.5);
 }
 #owl-thumbs.owl-dots .owl-dot.active > img{
     opacity: 1;

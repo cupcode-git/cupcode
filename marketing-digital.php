@@ -23,9 +23,9 @@
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
-            <div class="intro-text center lightcolor1 wow fadeInUp">
-               <h2 class="ccdark bottom45">redes sociais</h2>
-               <p class="bottom45 cclight">como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
+            <div class="intro-text light lightcolor1 center lightcolor1 wow fadeInUp">
+               <h2 class="bottom45 ccdark">redes sociais</h2>
+               <p class="bottom45">como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
               
             </div>
          </div>
@@ -33,27 +33,27 @@
       </div>
       <div class="row" id="features">
          <div class="col-md-4 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
                <i class="fa fa-cogs"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">gerenciamento</a></h4>
+               <h4 class="bottom10"><a href="javascript:void(0)">gerenciamento</a></h4>
                <hr>
-               <p class="no_bottom cclight">cuidamos das redes sociais, parcialmente ou total, sempre em busca dos melhores resultados. </p>
+               <p class="no_bottom">cuidamos das redes sociais, parcialmente ou total, sempre em busca dos melhores resultados. </p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
                <i class="fa fa-edit"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">post</a></h4>
+               <h4 class="bottom10"><a href="javascript:void(0)">post</a></h4>
                <hr>
-               <p class="no_bottom cclight">post nas redes sociais, dando conteúdo para o seu público sempre estar atualizado.</p>
+               <p class="no_bottom">post nas redes sociais, dando conteúdo para o seu público sempre estar atualizado.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
                <h4 class="cclight bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
                <hr>
-               <p class="no_bottom  cclight">ao impulsionar um post garantimos que ele atingirá o maior números de pessoas ativas, feito por profissional expert nas redes sociais.</p>
+               <p class="no_bottom">ao impulsionar um post garantimos que ele atingirá o maior números de pessoas ativas, feito por profissional expert nas redes sociais.</p>
             </div>
          </div>
       </div>
@@ -69,7 +69,7 @@
                <div class="item-titles wow fadeInLeft">
                   <span class="heading-title bottom25"> anúncios</span>
                   <h2 class="ccdark bottom45"><a href="blog.html">google adwords</a></h2>
-                  <p class="cclight">colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
+                  <p>colocamos seu site no topo das pesquisas do seu público alvo, nosso profissional analisa os gráficos trazendo sempre resultados positivos, levando o seu conteúdo até o seu alvo, aparecendo em todas as plataformas.</p>
                </div>
             </div>
          </div>
@@ -92,7 +92,7 @@
                <div class="item-titles wow fadeInLeft">
                   <span class="heading-title bottom25"> anúncios </span>
                   <h2 class="ccdark bottom45"><a href="blog.html">facebook ads</a></h2>
-                  <p class="cclight">com o facebook ads, fazemos seu anúncios atingirem uma grande escala, a rede social tem milhares de acesso diários, conseguimos localizar o perfil dos seu público alvo e futuros alvos, levando o seu conteúdo até eles, a cupcode tem sempre um profissional analisando o desempenho.</p>
+                  <p>com o facebook ads, fazemos seu anúncios atingirem uma grande escala, a rede social tem milhares de acesso diários, conseguimos localizar o perfil dos seu público alvo e futuros alvos, levando o seu conteúdo até eles, a cupcode tem sempre um profissional analisando o desempenho.</p>
                </div>
             </div>
          </div>
@@ -109,7 +109,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <h3 class="cclight">seo</h3>
-                     <p class="top20 cclight">search engine optimization, a cupcode tem a garantia que seu site vai estar nas primeiras páginas do navegadores, isso é possível por que somos especialistas em SEO de forma orgânica sem custo adcional, te colocamos a frente dos outros. </p>
+                     <p class="top20">search engine optimization, a cupcode tem a garantia que seu site vai estar nas primeiras páginas do navegadores, isso é possível por que somos especialistas em SEO de forma orgânica sem custo adcional, te colocamos a frente dos outros. </p>
                   </div>
                </div>
             </div>
@@ -121,7 +121,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <h3 class="cclight">kpi</h3>
-                     <p class="top20 cclight">com o kpi coletamos os dados de desempenho do seu negócio, depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados, sempre mantendo o desempenho positivo.</p>
+                     <p class="top20">com o kpi coletamos os dados de desempenho do seu negócio, depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados, sempre mantendo o desempenho positivo.</p>
                   </div>
                </div>
             </div>
