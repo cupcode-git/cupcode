@@ -553,6 +553,15 @@ a.image{
     text-shadow: 1px 1px 1px rgba(0,0,0,.7)!important;
     color: #ffffffab !important;
 }
+.ccofflight {
+    color: #797676;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.7);
+    transition: 1s;
+}
+.ccofflight:hover {
+    text-shadow: 1px 1px 1px rgba(0,0,0,.7)!important;
+    color: #afa1a170 !important;
+}
 .ccdeep {
 	color: #ffffff47;
 	text-shadow: 1px 2px 1px rgba(0,0,0,.7);
