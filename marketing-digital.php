@@ -51,7 +51,7 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
                <i class="fa fa-bar-chart"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
+               <h4 class="bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
                <hr>
                <p class="no_bottom">não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu publico alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
             </div>
@@ -76,14 +76,14 @@
          <div class="col-md-6 col-sm-6 nopadding">
             <div class="box-info">
                <div class="image">
-                  <img alt="image" src="images/bg-counter-dark.jpg" class="equalheight">
+                  <img alt="image" src="images/bg-teste.jpg" class="equalheight">
                </div>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 nopadding">
             <div class="box-info">
                <div class="image">
-                  <img alt="image" src="images/bg-counter-dark.jpg" class="equalheight">
+                  <img alt="image" src="images/bg-teste.jpg" class="equalheight">
                </div>
             </div>
          </div>
