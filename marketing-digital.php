@@ -23,15 +23,10 @@
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
-            <div class="intro-text center lightcolor1 wow fadeInUp">
-               <h2 class="ccdark bottom45">redes sociais</h2>
-<<<<<<< Updated upstream
-               <p class="bottom45 cclight">como as redes sociais geram um grande impacto no mercado digital? são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
-
-=======
+            <div class="intro-text light lightcolor1 center lightcolor1 wow fadeInUp">
+               <h2 class="bottom45 ccdark">redes sociais</h2>
                <p class="bottom45">as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
 
->>>>>>> Stashed changes
             </div>
          </div>
          <div class="col-md-2 col-sm-1"></div>
@@ -50,7 +45,7 @@
                <i class="fa fa-edit"></i>
                <h4 class="bottom10"><a href="javascript:void(0)">post</a></h4>
                <hr>
-               <p class="no_bottom cclight">produzimos posts bem elaborados, com o toque de sua marca, levando em conta seus valores, visão e missão. podemos criar conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estratégicamente para levar a seu publico o que você realmente quer passar.</p>
+               <p class="no_bottom">produzimos posts bem elaborados, com o toque de sua marca, levando em conta seus valores, visão e missão. podemos criar conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estratégicamente para levar a seu publico o que você realmente quer passar.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
@@ -58,7 +53,7 @@
                <i class="fa fa-bar-chart"></i>
                <h4 class="cclight bottom10"><a href="javascript:void(0)">impulsionar</a></h4>
                <hr>
-               <p class="no_bottom  cclight">não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu publico alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
+               <p class="no_bottom">não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu publico alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
             </div>
          </div>
       </div>
@@ -71,10 +66,10 @@
       <div class="row box-info-wrap">
          <div class="col-md-6 col-sm-6 nopadding">
             <div class="box-info container-padding padding_half1 equalheight">
-              <div class="item-titles wow fadeInLeft">
-                <span class="heading-title bottom25"> anúncios</span>
-                <h2 class="ccdark bottom45">google adwords</h2>
-                  <p class="cclight">produzimos e gerenciamos os melhores anuncios para serem exibidos em outros sites pela internet. nossos profissionais analisam todos os dados em tempo real e fazem as modificações necessárias para que seu investimento produza um grande retorno.</p>
+               <div class="item-titles wow fadeInLeft">
+                  <span class="heading-title bottom25"> anúncios</span>
+                  <h2 class="ccdark bottom45">google ads</h2>
+                  <p>produzimos e gerenciamos os melhores anuncios para serem exibidos em outros sites pela internet. nossos profissionais analisam todos os dados em tempo real e fazem as modificações necessárias para que seu investimento produza um grande retorno.</p>
                </div>
             </div>
          </div>
@@ -96,8 +91,8 @@
             <div class="box-info container-padding padding_half1 equalheight">
                <div class="item-titles wow fadeInLeft">
                   <span class="heading-title bottom25"> anúncios </span>
-                  <h2 class="ccdark bottom45"><a href="blog.html">facebook ads</a></h2>
-                  <p class="cclight">anunciar em redes sociais, é hoje, onde as empresas disperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estratégicamente para garantir que somente quem tem interesse pelos seus produtos/serviços seja alcançado e que você não pague apenas por likes.</p>
+                  <h2 class="ccdark bottom45">facebook ads</h2>
+                  <p>anunciar em redes sociais, é hoje, onde as empresas disperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estratégicamente para garantir que somente quem tem interesse pelos seus produtos/serviços seja alcançado e que você não pague apenas por likes.</p>
                </div>
             </div>
          </div>
@@ -112,9 +107,9 @@
          <div class="col-md-6 padding_bottom_half">
             <div class="floated-counter whitecolor wow fadeInLeft">
                <div class="row">
-                 <div class="col-md-12">
+                  <div class="col-md-12">
                      <h3 class="cclight">seo</h3>
-                     <p class="top20 cclight">a cupcode tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos,l para elevar seu site no ranking das pesquisas. </p>
+                     <p class="top20">a cupcode tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos,l para elevar seu site no ranking das pesquisas.</p>
                   </div>
                </div>
             </div>
@@ -173,17 +168,17 @@
                   <h3 class="bottom15">pacote ristreto</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>498,90</h1> <span class="dur">/ mês</span>
+                     <h1>498,90</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>posts em redes sociais</span></li>
                   <li><span>anuncios no facebook ads</span></li>
                   <li><span>e-mail marketing publico alvo</span></li>
-                  <li><span>analize de KPI nível 1</span></li>
+                  <li><span>análize de KPI nível 1</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar plano</a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -191,11 +186,11 @@
                   <h3 class="bottom15">pacote lungo</h3>
                   <div class="ammount">
                      <i class="fa fa-dollar"></i>
-                     <h1>698,90</h1> <span class="dur">/ mês</span>
+                     <h1>698,90</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <h4>todo o conteúdo do pacote ristreto + </h4>
+                  <h3>todo o conteúdo do pacote ristreto +</h3>
                   <li><span>gerenciamento de redes sociais</span></li>
                   <li><span>anuncios no google ads</span></li>
                   <li><span>e-mail marketing para clientes ativos</span></li>
@@ -204,7 +199,7 @@
                   <li><span>análize de ROI (retorno de investimento)</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar plano</a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
             </div>
          </div>
       </div>
@@ -221,7 +216,7 @@
                     <div class="col-md-5 p-0">
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome">
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 m-0 p-0">
