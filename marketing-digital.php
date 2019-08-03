@@ -208,7 +208,7 @@
 <!--Pricing white ends-->
 
 
-    <section id="contact-form" class="  text-left item-five parallaxie full-screen">
+    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
