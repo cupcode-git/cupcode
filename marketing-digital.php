@@ -35,7 +35,7 @@
 			 <div class="col-md-4 col-sm-6">
 				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-i" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fa fa-cogs"></i>
+					<i class="fa fa-cogs cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-i" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">gerenciamento</h4>
@@ -54,7 +54,7 @@
 			 <div class="col-md-4 col-sm-6">
 				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
 				   <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fa fa-edit"></i>
+					<i class="fa fa-edit cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">post</h4>
@@ -73,7 +73,7 @@
 			 <div class="col-md-4 col-sm-6">
 				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fa fa-bar-chart"></i>
+					<i class="fa fa-bar-chart cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">impulsionar</h4>
