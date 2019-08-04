@@ -297,32 +297,76 @@
       <div class="row" id="features">
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
+			     <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui" title="clique aqui">
+					<i class="fa fa-bicycle"></i>
+				</a>
+			<div class="grid">
+				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">manual da marca</h4>
+					<div style="display: none;" id="hidden-content-j">
+				<h2 class="text-center lightcolor1 ccdark bottom10">manual da marca</h2>
+					<p class="text-justify">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
+				<div class="text-center">
+					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+				</div>
+				</div>
+			</div>
                <hr>
                <p class="no_bottom">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-               <i class="fas fa-fingerprint" aria-hidden="true"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">logo</a></h4>
+			   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui" title="clique aqui">
+					<i class="fas fa-fingerprint"></i>
+				</a>
+			<div class="grid">
+				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">logo</h4>
+					<div style="display: none;" id="hidden-content-k">
+				<h2 class="text-center lightcolor1 ccdark bottom10">logo</h2>
+					<p class="text-justify">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
+				<div class="text-center">
+					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+				</div>
+				</div>
+			</div>
                <hr>
                <p class="no_bottom">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
+			   <a data-fancybox data-src="#hidden-content-l" href="javascript:;" alt="clique aqui" title="clique aqui">
+					<i class="fas fa-bar-chart"></i>
+				</a>
+			<div class="grid">
+				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">tipografia</h4>
+					<div style="display: none;" id="hidden-content-l">
+				<h2 class="text-center lightcolor1 ccdark bottom10">tipografia</h2>
+					<p class="text-justify">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
+				<div class="text-center">
+					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+				</div>
+				</div>
+			</div>
                <hr>
                <p class="no_bottom">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="cclight bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
+			   <a data-fancybox data-src="#hidden-content-m" href="javascript:;" alt="clique aqui" title="clique aqui">
+					<i class="fas fa-bar-chart"></i>
+				</a>
+			<div class="grid">
+				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">palheta de cores</h4>
+					<div style="display: none;" id="hidden-content-m">
+				<h2 class="text-center lightcolor1 ccdark bottom10">palheta de cores</h2>
+					<p class="text-justify">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
+				<div class="text-center">
+					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+				</div>
+				</div>
+			</div>
                <hr>
                <p class="no_bottom">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
             </div>
@@ -346,26 +390,44 @@
             <div class="col-md-2 col-sm-1"></div>
         </div>
         <div class="row">
-            <div class="col-md-6 col-sm-6">
-                <div class="icon_box light equalheight top50 wow fadeInUp">
-                    <i class="fa fa-bullhorn"></i>
-                    <div class="cell">
-                        <h4 class="cclight bottom10"><strong>impresso</strong></h4>
-                        <p class="bottom25">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
-                        
-                    </div>
-                </div>
+			<div class="col-md-6 col-sm-6">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			   <a data-fancybox data-src="#hidden-content-n" href="javascript:;" alt="clique aqui" title="clique aqui">
+					<i class="fas fa-bullhorn"></i>
+				</a>
+			<div class="grid">
+				<h4 data-fancybox data-src="#hidden-content-n" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">impresso</h4>
+					<div style="display: none;" id="hidden-content-n">
+				<h2 class="text-center lightcolor1 ccdark bottom10">impresso</h2>
+					<p class="text-justify">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
+				<div class="text-center">
+					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+				</div>
+				</div>
+			</div>
+               <hr>
+               <p class="no_bottom">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
             </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="icon_box light equalheight top50 wow fadeInUp">
-                    <i class="far fa-id-card" aria-hidden="true"></i>
-                    <div class="cell">
-                        <h4 class="cclight bottom10"><strong> digital</strong></h4>
-                        <p class="bottom25">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
-                        
-                    </div>
-                </div>
+         </div>
+		 <div class="col-md-6 col-sm-6">
+            <div class="icon_box light equalheight top50 wow fadeInUp">
+			   <a data-fancybox data-src="#hidden-content-o" href="javascript:;" alt="clique aqui" title="clique aqui">
+					<i class="far fa-id-card"></i>
+				</a>
+			<div class="grid">
+				<h4 data-fancybox data-src="#hidden-content-o" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">digital</h4>
+					<div style="display: none;" id="hidden-content-o">
+				<h2 class="text-center lightcolor1 ccdark bottom10">digital</h2>
+					<p class="text-justify">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
+				<div class="text-center">
+					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+				</div>
+				</div>
+			</div>
+               <hr>
+               <p class="no_bottom">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
             </div>
+         </div>
         </div>
     </div>
 </section>

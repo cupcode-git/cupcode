@@ -1300,7 +1300,7 @@ ul.social li a::before, ul.social li a::after{
     position: relative;
     right: 20px;
 }
-#hidden-content-a,#hidden-content-b,#hidden-content-c,#hidden-content-d,#hidden-content-e,#hidden-content-f,#hidden-content-g,#hidden-content-h {
+#hidden-content-a,#hidden-content-b,#hidden-content-c,#hidden-content-d,#hidden-content-e,#hidden-content-f,#hidden-content-g,#hidden-content-h,#hidden-content-i,#hidden-content-j,#hidden-content-k,#hidden-content-l,#hidden-content-m,#hidden-content-n,#hidden-content-o {
     max-width: 550px;
     transform: translateY(-50px);
     transition: all .33s;
@@ -1308,7 +1308,7 @@ ul.social li a::before, ul.social li a::after{
     border-radius: 20px;
 }
 
-.fancybox-slide--current #hidden-content-a,.fancybox-slide--current #hidden-content-b,.fancybox-slide--current #hidden-content-c,.fancybox-slide--current #hidden-content-d,.fancybox-slide--current #hidden-content-e,.fancybox-slide--current #hidden-content-f,.fancybox-slide--current #hidden-content-g,.fancybox-slide--current #hidden-content-h {
+.fancybox-slide--current #hidden-content-a,.fancybox-slide--current #hidden-content-b,.fancybox-slide--current #hidden-content-c,.fancybox-slide--current #hidden-content-d,.fancybox-slide--current #hidden-content-e,.fancybox-slide--current #hidden-content-f,.fancybox-slide--current #hidden-content-g,.fancybox-slide--current #hidden-content-h,.fancybox-slide--current #hidden-content-i,.fancybox-slide--current #hidden-content-j,.fancybox-slide--current #hidden-content-k,.fancybox-slide--current #hidden-content-l,.fancybox-slide--current #hidden-content-m,.fancybox-slide--current #hidden-content-n,.fancybox-slide--current #hidden-content-o {
   transform: translateY(0);
 }
 .navbar-toggle .top-bar {
@@ -1351,7 +1351,10 @@ ul.social li a::before, ul.social li a::after{
   -o-transform: rotate(0);
   transform: rotate(0);
 }
-
+i.fa.fa-cogs,i.fa.fa-edit,i.fa.fa-bar-chart,i.fa.fa-bicycle,i.fas.fa-fingerprint,i.fas.fa-bar-chart,i.fas.fa-bullhorn,i.far.fa-id-card {
+    text-shadow: 0px 2px 2px rgba(0,0,0,.2);
+    transition: 1s;
+}
 /*Social Icons On Headers*/
 ul.top-right {
 	float: right;
