@@ -432,7 +432,7 @@
     </div>
 </section>
 <!--Services 3 column ends-->
-<section class="top100 center-block lightcolor1">
+<section class="padding center-block lightcolor1">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
