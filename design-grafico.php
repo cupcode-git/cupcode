@@ -298,7 +298,7 @@
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
 			     <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fa fa-bicycle"></i>
+					<i class="fa fa-bicycle cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">manual da marca</h4>
@@ -317,7 +317,7 @@
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fas fa-fingerprint"></i>
+					<i class="fas fa-fingerprint cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">logo</h4>
@@ -336,7 +336,7 @@
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-l" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fas fa-bar-chart"></i>
+					<i class="fas fa-bar-chart cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">tipografia</h4>
@@ -355,7 +355,7 @@
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-m" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fas fa-bar-chart"></i>
+					<i class="fas fa-bar-chart cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">palheta de cores</h4>
@@ -393,7 +393,7 @@
 			<div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-n" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="fas fa-bullhorn"></i>
+					<i class="fas fa-bullhorn cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-n" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">impresso</h4>
@@ -412,7 +412,7 @@
 		 <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-o" href="javascript:;" alt="clique aqui" title="clique aqui">
-					<i class="far fa-id-card"></i>
+					<i class="far fa-id-card cctransparente"></i>
 				</a>
 			<div class="grid">
 				<h4 data-fancybox data-src="#hidden-content-o" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">digital</h4>

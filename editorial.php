@@ -78,7 +78,9 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div-->
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            </div>
+            <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
 			<span class="heading-title bottom25">latte machiatto</span>
                   <h3 class="bottom15">criação editorial</h3>
@@ -93,24 +95,7 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
             </div>
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
-               <div class="price-plan">
-                  <h3 class="bottom15">professional</h3>
-                  <div class="ammount">
-                     <i class="fa fa-dollar"></i>
-                     <h1>250</h1> <span class="dur">/ year</span>
-                  </div>
-               </div>
-               <ul class="top15">
-                  <li><span>15 email account</span></li>
-                  <li><span>100gb space</span></li>
-                  <li><span>domain name</span></li>
-                  <li><span>500gb bandwidth</span></li>
-                  <li><span>25 mysql databases</span></li>
-                  <li><span>enhanced sercurity</span></li>
-               </ul>
-               <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
+            <div class="col-md-4 col-sm-6 price-table text-center top50">
             </div>
          </div>
       </div>

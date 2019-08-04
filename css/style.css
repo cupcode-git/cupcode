@@ -714,7 +714,7 @@ ul.social.dark li a:focus{
 .button.defaulthole.active{
     background-color: #bdbdbd40;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
-	border-bottom: none;
+    border-bottom: 1px solid #bdbdbd40;
 }
 .dark-grey {
 	color: #8a8a8a;
@@ -737,7 +737,7 @@ ul.social.dark li a:focus{
     background-color: #bdbdbd40;
     color: #585555;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
-    border-bottom: none;
+    border-bottom: 1px solid #bdbdbd40;
 }
 .button.defaultholelight {
     border-bottom: 1px solid #dddddd;
@@ -763,7 +763,7 @@ ul.social.dark li a:focus{
 .button.defaulthole2.active{
     background-color: #bdbdbd40;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
-	border-bottom: none;
+    border-bottom: 1px solid #bdbdbd40;
 }
 .button i{
     margin-left: 3px;
@@ -1351,9 +1351,12 @@ ul.social li a::before, ul.social li a::after{
   -o-transform: rotate(0);
   transform: rotate(0);
 }
-i.fa.fa-cogs,i.fa.fa-edit,i.fa.fa-bar-chart,i.fa.fa-bicycle,i.fas.fa-fingerprint,i.fas.fa-bar-chart,i.fas.fa-bullhorn,i.far.fa-id-card {
-    text-shadow: 0px 2px 2px rgba(0,0,0,.2);
-    transition: 1s;
+.cctransparente {
+    text-shadow: 0px 2px 2px rgba(0,0,0,.2) !important;
+    transition: 1s !important;
+}
+.cctransparente:hover {
+	text-shadow: 2px 2px 2px rgba(0,0,0,.7) !important;
 }
 /*Social Icons On Headers*/
 ul.top-right {
