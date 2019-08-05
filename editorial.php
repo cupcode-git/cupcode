@@ -1,6 +1,6 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
 <!--Ful Screen Section Video with caption-->
-<section class="full-screen gradient-banner center-block image-hero parallaxie" id="ourhome">
+<section class="full-screen gradient-banner center-block image-hero-editorial parallaxie" id="ourhome">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
