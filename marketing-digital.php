@@ -1,6 +1,6 @@
 	<?php $title = 'cupcode'; include("header.php"); ?>
 	<!--Ful Screen Section Video with caption-->
-	<section class="full-screen gradient-banner center-block image-hero parallaxie" id="ourhome">
+	<section class="full-screen gradient-banner center-block image-hero-marketing parallaxie" id="ourhome">
 	   <div class="container">
 		  <div class="row">
 			 <div class="col-md-2 col-sm-1"></div>
@@ -109,14 +109,14 @@
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/bg-teste.jpg" class="equalheight">
+					  <img alt="image" src="images/google-ads.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/bg-teste.jpg" class="equalheight">
+					  <img alt="image" src="images/facebook-ads.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>

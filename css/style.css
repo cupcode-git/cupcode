@@ -339,6 +339,9 @@ a.image{
     -webkit-filter: opacity(0.2);
     filter: opacity(0.2);
 }
+img.filter-none {
+    filter: opacity(1);
+}
 .image, .image img {
     position: relative;
 }
@@ -888,6 +891,18 @@ ul.social.dark li a:focus{
 }
 .image-hero{
 	background: url(../images/bg-clientes.jpg) no-repeat;
+}
+.image-hero-marketing{
+	background: url(../images/marketing.jpg) no-repeat;
+    filter: opacity(1) !important;
+}
+.image-hero-websites{
+	background: url(../images/website-construion.jpg) no-repeat;
+    filter: opacity(1) !important;
+}
+.image-hero-editorial{
+	background: url(../images/editorial-mesa-branca.jpg) no-repeat;
+    filter: opacity(1) !important;
 }
 
 /*-----  Intro Style & two Ends ------ */
