@@ -478,6 +478,7 @@
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
 			<div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -493,6 +494,7 @@
                   <li><span>impresso + digital</span></li>
                </ul>
                <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
             </div>
          </div>

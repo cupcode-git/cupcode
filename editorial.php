@@ -53,7 +53,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2  lightcolor1">
                <div class="intro-text center lightcolor1 wow fadeInUp">
-                  <h2 class="ccdark bottom25">pacotes</h2>
+                  <h2 class="ccdark bottom25">pacote</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -78,9 +78,9 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div-->
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-3 col-sm-6 price-table text-center top50">
             </div>
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
 			<span class="heading-title bottom25">latte machiatto</span>
                   <h3 class="bottom15">criação editorial</h3>
@@ -94,8 +94,9 @@
                </ul>
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
             </div>
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-3 col-sm-6 price-table text-center top50">
             </div>
          </div>
       </div>
