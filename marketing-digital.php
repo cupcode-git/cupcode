@@ -212,6 +212,7 @@
 				   </ul>
 				   <div class="clearfix"></div>
 				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
+				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table text-center top50">
 				   <div class="price-plan">
@@ -232,6 +233,7 @@
 					  <li><span>análize de ROI (retorno de investimento)</span></li>
 				   </ul>
 				   <div class="clearfix"></div>
+				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
 				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
 				</div>
 			 </div>
