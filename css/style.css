@@ -719,6 +719,17 @@ ul.social.dark li a:focus{
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
     border-bottom: 1px solid #bdbdbd40;
 }
+.button.contratar {
+    border-bottom: 1px solid #bdbdbd;
+    border-radius: 10px;
+    font-size: 16px;
+    transition: 1s !important;
+}
+.button.contratar:hover, .button.contratar:focus, .button.contratar.active {
+    background-color: #00ff3440;
+    box-shadow: 6px 4px 5px 2px #8e8e8e40;
+    border-bottom: 1px solid #bdbdbd40;
+}
 .dark-grey {
 	color: #8a8a8a;
 }
@@ -1480,8 +1491,10 @@ ul.top-right li a:hover.instagram{
 	margin: 50px 0 30px 0;
 	width: 110px;
 }
-
-
+.mg-20 {
+    padding: 10px 20px;
+    margin: 20px;
+}
 /*SideNav Toggle Buttons*/
 #toggle-slide {
    display: block;

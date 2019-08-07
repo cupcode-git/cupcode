@@ -132,37 +132,67 @@
 		  </div>
 	   </div>
 	</section>
-	<!--blog Info ends-->
-	<!--Floated Counters -->
-	<section class="padding_top padding_bottom_half bgdefault">
-	   <div class="container">
-		  <div class="row col-md-12">
-			 <div class="col-md-6 padding_bottom_half">
-				<div class="floated-counter whitecolor wow fadeInLeft">
-				   <div class="row">
-					  <div class="col-md-12">
-						 <h3 class="cclight">seo</h3>
-						 <p class="top20">a cupcode tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos,l para elevar seu site no ranking das pesquisas.</p>
-					  </div>
+		<section id="ourinfo" class="services-wrapper lightcolor1">
+	   <div class="container-fluid">
+		  <div class="row box-info-wrap">
+			 <div class="col-md-6 col-sm-6 nopadding">
+				<div class="box-info container-padding padding_half1 equalheight">
+				   <div class="item-titles wow fadeInLeft">
+					  <span class="heading-title bottom25"> anúncios</span>
+					  <h2 class="ccdark bottom45">seo</h2>
+					  <p>a cupcode tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos,l para elevar seu site no ranking das pesquisas.</p>
 				   </div>
 				</div>
 			 </div>
-			 <div class="col-md-1 padding_bottom_half">
+			 <div class="col-md-6 col-sm-6 nopadding">
+				<div class="box-info">
+				   <div class="image">
+					  <img alt="image" src="images/google-ads.jpg" class="equalheight filter-none">
+				   </div>
+				</div>
 			 </div>
-			 <div class="col-md-5 padding_bottom_half">
-				<div class="floated-counter whitecolor wow fadeInLeft">
-				   <div class="row">
-					  <div class="col-md-12">
-						 <h3 class="cclight">kpi</h3>
-						 <p class="top20">com o kpi coletamos os dados de desempenho do seu negócio, depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados, sempre mantendo o desempenho positivo.</p>
-					  </div>
+			 <div class="col-md-6 col-sm-6 nopadding">
+				<div class="box-info">
+				   <div class="image">
+					  <img alt="image" src="images/facebook-ads.jpg" class="equalheight filter-none">
+				   </div>
+				</div>
+			 </div>
+			 <div class="col-md-6 col-sm-6 nopadding">
+				<div class="box-info container-padding padding_half1 equalheight">
+				   <div class="item-titles wow fadeInLeft">
+					  <span class="heading-title bottom25"> anúncios </span>
+					  <h2 class="ccdark bottom45">kpi</h2>
+					  <p>com o kpi coletamos os dados de desempenho do seu negócio, depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados, sempre mantendo o desempenho positivo.</p>
 				   </div>
 				</div>
 			 </div>
 		  </div>
 	   </div>
 	</section>
-	<!--Floated Counters ends-->
+	<!--blog Info ends-->
+	<section id="ourinfo" class="services-wrapper lightcolor1">
+	   <div class="container-fluid">
+		  <div class="row box-info-wrap">
+			 <div class="col-md-6 col-sm-6 nopadding">
+				<div class="box-info container-padding padding_half1 equalheight">
+				   <div class="item-titles wow fadeInLeft">
+					  <span class="heading-title bottom25"> anúncios</span>
+					  <h2 class="ccdark bottom45">e-mail marketing</h2>
+					  <p>a cupcode tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos,l para elevar seu site no ranking das pesquisas.</p>
+				   </div>
+				</div>
+			 </div>
+			 <div class="col-md-6 col-sm-6 nopadding">
+				<div class="box-info">
+				   <div class="image">
+					  <img alt="image" src="images/google-ads.jpg" class="equalheight filter-none">
+				   </div>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
 	<!--Services 3 column ends-->
 	<section class="padding">
 	   <div class="pricing-white">
@@ -211,8 +241,8 @@
 					  <li><span>análize de KPI nível 1</span></li>
 				   </ul>
 				   <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
-				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
+				   <a href="javascript:void(0)" class="button defaulthole mg-20 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mg-20 top50">contratar</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table text-center top50">
 				   <div class="price-plan">
@@ -233,8 +263,8 @@
 					  <li><span>análize de ROI (retorno de investimento)</span></li>
 				   </ul>
 				   <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
-				   <a href="javascript:void(0)" class="button defaulthole top50">contratar plano</a>
+				   <a href="javascript:void(0)" class="button defaulthole mg-20 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mg-20 top50">contratar</a>
 				</div>
 			 </div>
 		  </div>

@@ -93,8 +93,8 @@
                   <li><span>4 artigos por mês</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos</a>
+				   <a href="javascript:void(0)" class="button defaulthole mg-20 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mg-20 top50">contratar</a>
             </div>
             <div class="col-md-3 col-sm-6 price-table text-center top50">
             </div>
