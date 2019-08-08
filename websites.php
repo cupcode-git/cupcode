@@ -36,7 +36,7 @@
                  <i class="fas fa-desktop"></i>
                </a>
                <h4 class="cclight top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
-               <p class="bottom25 top15">criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, sempre mantendo ele nas primeiras páginas dos navegadores, fazemos do site sua casa na internet.</p>
+               <p class="bottom25 top15">desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 equalheight">
@@ -45,7 +45,7 @@
                  <i class="fas fa-support"></i>
                </a>
                <h4 class="top30 cclight"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
-               <p class="bottom25 top15">com o blog suas páginas na internet tem muita facilidade de serem localizadas, dando um aspecto de confiança, atraindo mais clientes  com o conteúdo sempre atualizado, você acaba se destacando dos demais.</p>
+               <p class="bottom25 top15">ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 equalheight">
@@ -54,7 +54,7 @@
                  <i class="fas fa-support"></i>
                </a>
                <h4 class="top30 cclight"><a href="javascript:void(0)"><strong>e-commerce</strong></a> </h4>
-               <p class="bottom25 top15">fazemos sua loja virtual e mantemos ela sempre online, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia,  ainda podemos fazer o gerenciamento e atualizações.</p>
+               <p class="bottom25 top15">estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
             </div>
          </div>
       </div>
@@ -75,20 +75,20 @@
       <div class="row">
          <div class="col-md-6 col-sm-6 equalheight">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="domínio" title="dominio">
                  <i class="fas fa-paperclip"></i>
                </a>
                <h4 class="cclight top30"><a href="javascript:void(0)"><strong>domínio</strong></a> </h4>
-               <p class="bottom25 top15">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
+               <p class="bottom25 top15">oferecemos a criação de e-mails profissionais com 10GB de armazenamento por caixa, garantindo um  endereço eletrônico oficial @seu-dominio.com.br, passando maior credibilidade no contato com seus clientes.</p>
             </div>
          </div>
          <div class="col-md-6 col-sm-6 equalheight">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="hospedagem" title="hospedagem">
                  <i class="fas fa-server"></i>
                </a>
                <h4 class="cclight top30"><a href="javascript:void(0)"><strong>hospedagem</strong></a> </h4>
-               <p class="bottom25 top15">com nossa hospedagem seu site fica no ar funcionando com seus arquivos guardados em nuvem e protegidos, fazemos backup diários, mantendo tudo atualizado.</p>
+               <p class="bottom25 top15">com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
             </div>
          </div>
       </div>
@@ -103,8 +103,8 @@
             <div class="floated-counter whitecolor wow fadeInLeft">
                <div class="row">
                   <div class="col-md-12">
-                     <h3 class="cclight">ssl</h3>
-                     <p class="top20">para demonstrar segurança, com o ssl você vai pode ter um cadeado de segurança no seu site, passando confiança pros seus clientes, que suas informações estarão seguras.</p>
+                    <h3 class="cclight">e-mail</h3>
+                     <p class="top20">oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
                   </div>
                </div>
             </div>
@@ -115,8 +115,8 @@
             <div class="floated-counter whitecolor wow fadeInRight">
                <div class="row">
                   <div class="col-md-12">
-                     <h3 class="cclight">e-mail</h3>
-                     <p class="top20">com a criação do seu e-mail como o da <a href="mailto:cupcode@cupcode.com"><strong>cupcode@cupcode.com</strong></a> sua empresa terá um correio eletrônico profissional, com 10 gigas de armazenamento.</p>
+                       <h3 class="cclight">ssl</h3>
+                       <p class="top20">exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
                   </div>
                </div>
             </div>
@@ -142,47 +142,59 @@
                   <h3 class="bottom15">site</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">
-				  R$
-                     <h1>298,90</h1> <span class="dur">/ mês</span>
+				                R$
+                     <h1>298,90</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>paginas responsivas</span></li>
+                  <li><span>paginas responsiívas</span></li>
+                  <li><span>compatibilidade entre navegadores</span></li>
+                  <li><span>seo inteligente</span></li>
+                  <li><span>landing pages</span></li>
+                  <li><span>html5, CSS3 & Bootstrap</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar site</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">blog</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">R$
-                     <h1>398,90</h1> <span class="dur">/ mês</span>
+                     <h1>398,90</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>wordpress</span></li>
+                  <li><span>cadastro de usuários</span></li>
                   <li><span>comentarios</span></li>
                   <li><span>criar paginas</span></li>
                   <li><span>posts</span></li>
+                  <li><span>avaliações</span></li>
+                  <li><span>melhor rankeamento nas buscas</span></li>
+                  <li><span>produção de conteúdo original</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar blog</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">e-commerce</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">
-				  R$
-                     <h1>947,80</h1> <span class="dur">/ mês</span>
+				                a partir de R$
+                     <h1>947,80</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>até 50 produtos no e-commerce</span></li>
+                  <li><span>venda produtos e serviços</span></li>
+                  <li><span>aceite pagamentos online</span></li>
+                  <li><span>cálculo de envio automático</span></li>
+                  <li><span>gerenciamento de clientes</span></li>
+                  <li><span>cadastro de usuários</span></li>
+                  <li><span>woocommerce</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar e-commerce</a>
             </div>
          </div>
       </div>
@@ -197,7 +209,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="item-titles whitecolor text-center wow fadeInLeft">
-                  <h2 class="ccdark bottom25">hospedagens para site</h2>
+                  <h2 class="ccdark bottom25">hospedagens</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -207,8 +219,8 @@
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para site</h3>
                   <div class="ammount">
-				  R$
-                     <h1>398,90</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>398,90</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
@@ -221,8 +233,8 @@
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para blog</h3>
                   <div class="ammount">
-				  R$
-                     <h1>398,90</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>398,90</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
@@ -235,8 +247,8 @@
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para e-commerce</h3>
                   <div class="ammount">
-				  R$
-                     <h1>678,90</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>678,90</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
@@ -268,29 +280,29 @@
                <div class="price-plan">
                   <h3 class="bottom15">nacional</h3>
                   <div class="ammount">
-				  R$
-                     <h1>45,00</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>45,00</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>.br</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">internacional</h3>
                   <div class="ammount">
-				  R$
-                     <h1>40,00</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>40,00</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>.com</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar</a>
             </div>
          </div>
       </div>
@@ -304,7 +316,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="item-titles whitecolor text-center wow fadeInLeft">
-                  <h2 class="ccdark bottom25">adicional</h2>
+                  <h2 class="ccdark bottom25">adicionais</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -314,30 +326,30 @@
                <div class="price-plan">
                   <h3 class="bottom15">e-mail</h3>
                   <div class="ammount">
-				  R$
-                     <h1>50,00</h1> <span class="dur">/ mês</span>
+				                R$
+                     <h1>50,00</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>cada caixa com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar e-mail</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">ssl</h3>
-			<span class="heading-titlenovo bottom25">com instalação</span>
+			            <span class="heading-titlenovo bottom25">com instalação</span>
                   <div class="ammount">
-				  R$
-                     <h1>170,00</h1><span class="dur">/ ano</span>
+				                R$
+                     <h1>120,00</h1><span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar ssl</a>
             </div>
          </div>
       </div>
@@ -378,7 +390,7 @@
                         </div>
                     </div>
                 </div>
-				
+
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
                     <div class="swiper-slide">
@@ -453,7 +465,7 @@
 
 <!-- WOW Transitions -->
 <script src="js/wow.min.js"></script>
-            
+
 <!--Revolution SLider-->
 <script src="js/revolution/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
@@ -467,7 +479,7 @@
 <script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
-   
+
 
 <!--Synx scripts-->
 <script src="js/functions.js"></script>
