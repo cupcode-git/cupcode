@@ -179,7 +179,7 @@
 				   <div class="item-titles wow fadeInLeft">
 					  <span class="heading-title bottom25"> anúncios</span>
 					  <h2 class="ccdark bottom45">e-mail marketing</h2>
-					  <p>a cupcode tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos,l para elevar seu site no ranking das pesquisas.</p>
+					  <p>podemos fazer propagandas com o email marketing, anunciando promoções, itens novos ou conteúdo de interesse dos seu clientes, evitando que seus email virem span,  com uma boa conduta sempre respeitando o seus clientes.</p>
 				   </div>
 				</div>
 			 </div>
