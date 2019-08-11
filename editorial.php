@@ -7,7 +7,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="large-caption text-center wow zoomIn">
                <div class="center-item">
-                  <h2 class="whitecolor bottom60">editorial</h2>
+                  <h2 class="whitecolor ccdark bottom60">editorial</h2>
                </div>
             </div>
          </div>

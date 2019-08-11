@@ -719,16 +719,19 @@ ul.social.dark li a:focus{
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
     border-bottom: 1px solid #bdbdbd40;
 }
+a.button.contratar.mg-20.top50 {
+    color: #5b9860;
+}
 .button.contratar {
-    border-bottom: 1px solid #bdbdbd;
+    border-bottom: 1px solid #5b9860;
     border-radius: 10px;
     font-size: 16px;
     transition: 1s !important;
 }
 .button.contratar:hover, .button.contratar:focus, .button.contratar.active {
-    background-color: #00ff3440;
-    box-shadow: 6px 4px 5px 2px #8e8e8e40;
-    border-bottom: 1px solid #bdbdbd40;
+    background-color: #227d355c;
+    box-shadow: 6px 4px 5px 2px #227d355c;
+    border-bottom: 1px solid #227d355c;
 }
 .dark-grey {
 	color: #8a8a8a;
