@@ -16,7 +16,7 @@
 						 <div class="col-md-8 col-sm-10">
 							<div class="large-caption text-center wow zoomIn">
 							   <div class="center-item">
-								  <h2 class="pdt-250 ccdark lightcolor1 bottom60">editorial</h2>
+								  <h2 class="pdt-250 bottom60 cc-light">editorial</h2>
 							   </div>
 							</div>
 						 </div>
@@ -54,12 +54,12 @@
 	<!--Ful Screen Section Video ends-->
 <!--Ful Screen Section Video ends-->
 <!--Single intro with background-->
-<section class="padding bg-intro lightcolor1 bgintro-6 parallaxie">
+<section class="padding bg-intro bgintro-6 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="ccdark bottom45">editorial</h2>
+               <h2 class="bottom45 cc-light">editorial</h2>
                <p>nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, fazemos que seu editorial tenha impacto no leitor com conteúdo de qualidade, temos jornalista responsável por cuidar e otimizar os artigos, textos, redações, jornais e texto para blogs.</p>
               
             </div>
@@ -69,13 +69,13 @@
 </section>
 <!--Single intro ends-->
 <!--Single intro with background-->
-<section class="padding bg-intro lightcolor1 bgintro-7 parallaxie">
+<section class="padding bg-intro bgintro-7 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="ccdark bottom45">criação de conteúdo</h2>
+               <h2 class="bottom45 cc-light">criação de conteúdo</h2>
                <p>com a criação de conteúdo e a adaptação, utilizamos SEO (search engine optimization ou otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo otimizado sempre aparece nas primeiras páginas dos buscadores google entre outros.</p>
               
             </div>
@@ -88,9 +88,9 @@
    <div class="pricing-white">
       <div class="container">
          <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2  lightcolor1">
-               <div class="intro-text center lightcolor1 wow fadeInUp">
-                  <h2 class="ccdark bottom25">pacote</h2>
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+               <div class="intro-text center wow fadeInUp">
+                  <h2 class="bottom25 cc-light">pacote</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -140,9 +140,7 @@
    </div>
 </section>
 <!--Pricing white ends-->
-
-
-    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -180,11 +178,11 @@
                     <div class="swiper-slide">
                     </div>
                 </div>
-                <div class="row col-md-4 mobile-p lightcolor1">
+                <div class="row col-md-4 mobile-p">
                     <div class="swiper-slide">
-                        <h2 class="ccdark bottom20 item-titles whitecolor wow fadeInLeft">contato</h2>
-                        <h3 class="bottom15"><a class="ccdark bottom20 item-titles whitecolor text-center wow fadeInLeft"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="ccdark bottom20 item-titles whitecolor wow fadeInLeft" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft cc-light">contato</h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft cc-light"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft cc-light" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
