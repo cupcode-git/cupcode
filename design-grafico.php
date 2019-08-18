@@ -282,13 +282,13 @@
 </section>
 <!-- end Ful Screen hero Banner --> 
 <!--Services 3 column-->
-<section id="about" class="top100 center-block lightcolor1">
+<section id="about" class="top100 center-block">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
-               <h2 class="ccdark bottom45">Branding</h2>
+               <h2 class="bottom45 cc-light">Branding</h2>
                <p class="bottom15">construimos seu branding, de forma estratégica, criativa com os melhores design sua identidade visual completa única e memorável.</p>
             </div>
          </div>
@@ -296,17 +296,17 @@
       </div>
       <div class="row" id="features">
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box equalheight top50 wow fadeInUp">
 			     <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">
-					<i class="fa fa-bicycle cctransparente"></i>
+					<i class="fas fa-book cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">manual da marca</h4>
+				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">manual da marca</h4>
 					<div style="display: none;" id="hidden-content-j">
-				<h2 class="text-center lightcolor1 ccdark bottom10">manual da marca</h2>
+				<h2 class="text-center bottom10 cc-light">manual da marca</h2>
 					<p class="text-justify">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -315,17 +315,17 @@
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">
-					<i class="fas fa-fingerprint cctransparente"></i>
+					<i class="fas fa-fingerprint cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">logo</h4>
+				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">logo</h4>
 					<div style="display: none;" id="hidden-content-k">
-				<h2 class="text-center lightcolor1 ccdark bottom10">logo</h2>
+				<h2 class="text-center bottom10 cc-light">logo</h2>
 					<p class="text-justify">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -334,17 +334,17 @@
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-l" href="javascript:;" alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">
-					<i class="fas fa-bar-chart cctransparente"></i>
+					<i class="fas fa-highlighter cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">tipografia</h4>
+				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">tipografia</h4>
 					<div style="display: none;" id="hidden-content-l">
-				<h2 class="text-center lightcolor1 ccdark bottom10">tipografia</h2>
+				<h2 class="text-center bottom10 cc-light">tipografia</h2>
 					<p class="text-justify">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -353,17 +353,17 @@
             </div>
          </div>
          <div class="col-md-6 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-m" href="javascript:;" alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">
-					<i class="fas fa-bar-chart cctransparente"></i>
+					<i class="fas fa-paint-brush cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">palheta de cores</h4>
+				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">palheta de cores</h4>
 					<div style="display: none;" id="hidden-content-m">
-				<h2 class="text-center lightcolor1 ccdark bottom10">palheta de cores</h2>
+				<h2 class="text-center bottom10 cc-light">palheta de cores</h2>
 					<p class="text-justify">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -376,13 +376,13 @@
 </section>
 <!--Services 3 column ends-->
 <!--Services 3 column-->
-<section id="services-three" class="top100 center-block lightcolor1">
+<section id="services-three" class="top100 center-block">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
-                <div class="intro-text center lightcolor1 wow fadeInUp">
-                    <h2 class="ccdark bottom45">papelaria</h2>
+                <div class="intro-text center wow fadeInUp">
+                    <h2 class="bottom45 cc-light">papelaria</h2>
                     <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes, através da papelaria é possível com esse meio de comunicação extremamente forte em empresas.</p>
                    
                 </div>
@@ -391,17 +391,17 @@
         </div>
         <div class="row">
 			<div class="col-md-6 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-n" href="javascript:;" alt="clique aqui e saiba mais sobre impresso" title="clique aqui e saiba mais sobre impresso">
-					<i class="fas fa-bullhorn cctransparente"></i>
+					<i class="far fa-images cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-n" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre impresso" title="clique aqui e saiba mais sobre impresso">impresso</h4>
+				<h4 data-fancybox data-src="#hidden-content-n" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre impresso" title="clique aqui e saiba mais sobre impresso">impresso</h4>
 					<div style="display: none;" id="hidden-content-n">
-				<h2 class="text-center lightcolor1 ccdark bottom10">impresso</h2>
+				<h2 class="text-center bottom10 cc-light">impresso</h2>
 					<p class="text-justify">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -410,17 +410,17 @@
             </div>
          </div>
 		 <div class="col-md-6 col-sm-6">
-            <div class="icon_box light equalheight top50 wow fadeInUp">
+            <div class="icon_box equalheight top50 wow fadeInUp">
 			   <a data-fancybox data-src="#hidden-content-o" href="javascript:;" alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">
-					<i class="far fa-id-card cctransparente"></i>
+					<i class="far fa-id-card cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-o" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">digital</h4>
+				<h4 data-fancybox data-src="#hidden-content-o" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">digital</h4>
 					<div style="display: none;" id="hidden-content-o">
-				<h2 class="text-center lightcolor1 ccdark bottom10">digital</h2>
+				<h2 class="text-center bottom10 cc-light">digital</h2>
 					<p class="text-justify">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -437,8 +437,8 @@
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center lightcolor1 wow fadeInUp">
-                  <h2 class="ccdark bottom25">pacotes</h2>
+               <div class="intro-text center wow fadeInUp">
+                  <h2 class="bottom25 cc-light">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -502,8 +502,7 @@
    </div>
 </section>
 <!--Pricing white ends-->
-
-    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -541,11 +540,11 @@
                     <div class="swiper-slide">
                     </div>
                 </div>
-                <div class="row col-md-4 mobile-p lightcolor1">
+                <div class="row col-md-4 mobile-p">
                     <div class="swiper-slide">
-                        <h2 class="ccdark bottom20 item-titles whitecolor wow fadeInLeft">contato</h2>
-                        <h3 class="bottom15"><a class="ccdark bottom20 item-titles whitecolor text-center wow fadeInLeft"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="ccdark bottom20 item-titles whitecolor wow fadeInLeft" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft cc-light">contato</h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft cc-light"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft cc-light" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>

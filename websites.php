@@ -16,7 +16,7 @@
 						 <div class="col-md-8 col-sm-10">
 							<div class="large-caption text-center wow zoomIn">
 							   <div class="center-item">
-								  <h2 class="pdt-250 ccdark lightcolor1 bottom60">websites</h2>
+								  <h2 class="pdt-250 bottom60 cc-light">websites</h2>
 							   </div>
 							</div>
 						 </div>
@@ -54,29 +54,29 @@
 	<!--Ful Screen Section Video ends-->
 
 <!--About Us-->
-<section id="aboutus" class="services-wrapper top100 center-block lightcolor1">
+<section id="aboutus" class="services-wrapper top100 center-block">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h2 class="ccdark bottom25">websites</h2>
+            <div class="item-titles text-center wow fadeInLeft">
+               <h2 class="bottom25 cc-light">websites</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
       <div class="row">
 	  <div class="col-md-4 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-p" href="javascript:;" alt="clique aqui e saiba mais sobre sites" title="clique aqui e saiba mais sobre sites">
-					<i class="fas fa-desktop cctransparente"></i>
+					<i class="fas fa-desktop cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-p" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre sites" title="clique aqui e saiba mais sobre sites">sites</h4>
+				<h4 data-fancybox data-src="#hidden-content-p" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre sites" title="clique aqui e saiba mais sobre sites">sites</h4>
 					<div style="display: none;" id="hidden-content-p">
-				<h2 class="text-center lightcolor1 ccdark bottom10">sites</h2>
+				<h2 class="text-center bottom10 cc-light">sites</h2>
 					<p class="text-justify">desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -85,17 +85,17 @@
 				</div>
 			 </div>
 			  <div class="col-md-4 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-q" href="javascript:;" alt="clique aqui e saiba mais sobre blogs" title="clique aqui e saiba mais sobre blogs">
-					<i class="fas fa-support cctransparente"></i>
+					<i class="fas fa-support cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-q" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre blogs" title="clique aqui e saiba mais sobre blogs">blogs</h4>
+				<h4 data-fancybox data-src="#hidden-content-q" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre blogs" title="clique aqui e saiba mais sobre blogs">blogs</h4>
 					<div style="display: none;" id="hidden-content-q">
-				<h2 class="text-center lightcolor1 ccdark bottom10">blogs</h2>
+				<h2 class="text-center bottom10 cc-light">blogs</h2>
 					<p class="text-justify">ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -104,17 +104,17 @@
 				</div>
 			 </div>
 			 <div class="col-md-4 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-r" href="javascript:;" alt="clique aqui e saiba mais sobre e-commerce" title="clique aqui e saiba mais sobre e-commerce">
-					<i class="fas fa-support cctransparente"></i>
+					<i class="far fa-window-restore cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-r" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre e-commerce" title="clique aqui e saiba mais sobre e-commerce">e-commerce</h4>
+				<h4 data-fancybox data-src="#hidden-content-r" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre e-commerce" title="clique aqui e saiba mais sobre e-commerce">e-commerce</h4>
 					<div style="display: none;" id="hidden-content-r">
-				<h2 class="text-center lightcolor1 ccdark bottom10">e-commerce</h2>
+				<h2 class="text-center bottom10 cc-light">e-commerce</h2>
 					<p class="text-justify">estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -127,29 +127,29 @@
 </section>
 <!--About Us ends-->
 <!--About Us-->
-<section id="aboutus" class="services-wrapper top100 center-block lightcolor1">
+<section id="aboutus" class="services-wrapper top100 center-block">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h2 class="ccdark bottom25">adicionais</h2>
+               <h2 class="bottom25 cc-light">adicionais</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
       <div class="row">
          <div class="col-md-6 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-s" href="javascript:;" alt="clique aqui e saiba mais sobre domínio" title="clique aqui e saiba mais sobre domínio">
-					<i class="fas fa-support cctransparente"></i>
+					<i class="fas fa-at cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-s" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre domínio" title="clique aqui e saiba mais sobre domínio">domínio</h4>
+				<h4 data-fancybox data-src="#hidden-content-s" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre domínio" title="clique aqui e saiba mais sobre domínio">domínio</h4>
 					<div style="display: none;" id="hidden-content-s">
-				<h2 class="text-center lightcolor1 ccdark bottom10">domínio</h2>
+				<h2 class="text-center bottom10 cc-light">domínio</h2>
 					<p class="text-justify">oferecemos a criação de e-mails profissionais com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio.com.br, passando maior credibilidade no contato com seus clientes.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -158,17 +158,17 @@
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-t" href="javascript:;" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">
-					<i class="fas fa-support cctransparente"></i>
+					<i class="fas fa-server cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-t" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
+				<h4 data-fancybox data-src="#hidden-content-t" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
 					<div style="display: none;" id="hidden-content-t">
-				<h2 class="text-center lightcolor1 ccdark bottom10">hospedagem</h2>
+				<h2 class="text-center bottom10 cc-light">hospedagem</h2>
 					<p class="text-justify">com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -177,17 +177,17 @@
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-u" href="javascript:;" alt="clique aqui e saiba mais sobre e-mail" title="clique aqui e saiba mais sobre e-mail">
-					<i class="fas fa-support cctransparente"></i>
+					<i class="far fa-envelope cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-u" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre e-mail" title="clique aqui e saiba mais sobre e-mail">e-mail</h4>
+				<h4 data-fancybox data-src="#hidden-content-u" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre e-mail" title="clique aqui e saiba mais sobre e-mail">e-mail</h4>
 					<div style="display: none;" id="hidden-content-u">
-				<h2 class="text-center lightcolor1 ccdark bottom10">e-mail</h2>
+				<h2 class="text-center bottom10 cc-light">e-mail</h2>
 					<p class="text-justify">oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole cc-light">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -197,17 +197,17 @@
 			 </div>
 			 
 			 <div class="col-md-6 col-sm-6">
-				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
+				<div class="icon_box equalheight top50 wow fadeInUp">
 				   	   <a data-fancybox data-src="#hidden-content-v" href="javascript:;" alt="clique aqui e saiba mais sobre ssl" title="clique aqui e saiba mais sobre ssl">
-					<i class="fas fa-support cctransparente"></i>
+					<i class="fas fa-lock cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-v" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre ssl" title="clique aqui e saiba mais sobre ssl">ssl</h4>
+				<h4 data-fancybox data-src="#hidden-content-v" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre ssl" title="clique aqui e saiba mais sobre ssl">ssl</h4>
 					<div style="display: none;" id="hidden-content-v">
-				<h2 class="text-center lightcolor1 ccdark bottom10">ssl</h2>
+				<h2 class="text-center bottom10 cc-light">ssl</h2>
 					<p class="text-justify">exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
 				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
@@ -224,8 +224,8 @@
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles whitecolor text-center wow fadeInLeft">
-                  <h2 class="ccdark bottom25">pacotes</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -456,7 +456,7 @@
 </section>
 
 <!--Pricing white ends-->
-    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -489,17 +489,16 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
                     <div class="swiper-slide">
                     </div>
                 </div>
-                <div class="row col-md-4 mobile-p lightcolor1">
+                <div class="row col-md-4 mobile-p">
                     <div class="swiper-slide">
-                        <h2 class="ccdark bottom20 item-titles whitecolor wow fadeInLeft">contato</h2>
-                        <h3 class="bottom15"><a class="ccdark bottom20 item-titles whitecolor text-center wow fadeInLeft"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="ccdark bottom20 item-titles whitecolor wow fadeInLeft" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft cc-light">contato</h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft cc-light"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft cc-light" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
