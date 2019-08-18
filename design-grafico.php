@@ -297,11 +297,11 @@
       <div class="row" id="features">
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			     <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui" title="clique aqui">
+			     <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">
 					<i class="fa fa-bicycle cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">manual da marca</h4>
+				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">manual da marca</h4>
 					<div style="display: none;" id="hidden-content-j">
 				<h2 class="text-center lightcolor1 ccdark bottom10">manual da marca</h2>
 					<p class="text-justify">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
@@ -316,11 +316,11 @@
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">
 					<i class="fas fa-fingerprint cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">logo</h4>
+				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">logo</h4>
 					<div style="display: none;" id="hidden-content-k">
 				<h2 class="text-center lightcolor1 ccdark bottom10">logo</h2>
 					<p class="text-justify">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
@@ -335,11 +335,11 @@
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-l" href="javascript:;" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-l" href="javascript:;" alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">
 					<i class="fas fa-bar-chart cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">tipografia</h4>
+				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">tipografia</h4>
 					<div style="display: none;" id="hidden-content-l">
 				<h2 class="text-center lightcolor1 ccdark bottom10">tipografia</h2>
 					<p class="text-justify">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
@@ -354,11 +354,11 @@
          </div>
          <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-m" href="javascript:;" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-m" href="javascript:;" alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">
 					<i class="fas fa-bar-chart cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">palheta de cores</h4>
+				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">palheta de cores</h4>
 					<div style="display: none;" id="hidden-content-m">
 				<h2 class="text-center lightcolor1 ccdark bottom10">palheta de cores</h2>
 					<p class="text-justify">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
@@ -392,11 +392,11 @@
         <div class="row">
 			<div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-n" href="javascript:;" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-n" href="javascript:;" alt="clique aqui e saiba mais sobre impresso" title="clique aqui e saiba mais sobre impresso">
 					<i class="fas fa-bullhorn cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-n" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">impresso</h4>
+				<h4 data-fancybox data-src="#hidden-content-n" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre impresso" title="clique aqui e saiba mais sobre impresso">impresso</h4>
 					<div style="display: none;" id="hidden-content-n">
 				<h2 class="text-center lightcolor1 ccdark bottom10">impresso</h2>
 					<p class="text-justify">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
@@ -411,11 +411,11 @@
          </div>
 		 <div class="col-md-6 col-sm-6">
             <div class="icon_box light equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-o" href="javascript:;" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-o" href="javascript:;" alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">
 					<i class="far fa-id-card cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-o" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">digital</h4>
+				<h4 data-fancybox data-src="#hidden-content-o" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">digital</h4>
 					<div style="display: none;" id="hidden-content-o">
 				<h2 class="text-center lightcolor1 ccdark bottom10">digital</h2>
 					<p class="text-justify">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
@@ -432,7 +432,7 @@
     </div>
 </section>
 <!--Services 3 column ends-->
-<section class="padding center-block lightcolor1">
+<section class="padding center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">

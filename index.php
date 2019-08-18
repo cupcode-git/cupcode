@@ -116,27 +116,27 @@
             </div>
         </div>
     </section>
-    <section class="single-items center-block item-two lightcolor1 parallaxie full-screen" id="marketing">
+    <section class="single-items center-block item-two parallaxie full-screen" id="marketing">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
-                    <div class="item-titles whitecolor text-center wow fadeInRight">
+                    <div class="item-titles text-center wow fadeInRight">
                         <h3 class="bottom10">
-                            <a class="ccdark"><strong>marketing</strong> digital</a>
+                            <a class="cc-light"><strong>marketing</strong> digital</a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="fas fa-fingerprint"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
+                                <i class="fas fa-fingerprint cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn cclight" alt="clique aqui" title="clique aqui">branding</h4>
+                                <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn cc-light" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">branding</h4>
                                 <div style="display: none;" id="hidden-content-a">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">branding</h2>
+                                    <h2 class="text-center cc-light bottom10">branding</h2>
                                     <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole cclight">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -145,17 +145,17 @@
                         </div>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="fas fa-share-alt"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">
+                                <i class="fas fa-share-alt cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn cclight">sociais</h4>
+                                <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn cc-light">sociais</h4>
                                 <div style="display: none;" id="hidden-content-b">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">sociais</h2>
+                                    <h2 class="text-center cc-light bottom10">sociais</h2>
                                     <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, usando o Facebook Pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos e muito mais.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole cclight" alt="clique aqui" title="clique aqui">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -164,33 +164,33 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaultholelight top100 cclight">ver planos</a>
+                        <a href="javascript:void(0)" class="button defaultholelight top100">ver planos</a>
                     </div>
                 </div>
                 </div>
         </div>
     </section>
-    <section class="single-items center-block item-four lightcolor1 parallaxie full-screen" id="websites">
+    <section class="single-items center-block item-four parallaxie full-screen" id="websites">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-8 col-xs-12">
-                    <div class="item-titles whitecolor text-center wow fadeInRight">
+                    <div class="item-titles text-center wow fadeInRight">
                         <h3 class="bottom10">
-                            <a class="ccdark">web<strong>sites</strong></a>
+                            <a class="cc-light">web<strong>sites</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="click aqui" title="click aqui">
-                                <i class="fas fa-desktop"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site/blog">
+                                <i class="fas fa-desktop cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn cclight bottom10 " alt="click aqui" title="click aqui">site/blog</h4>
+                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn cc-light  bottom10 " alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site/blog">site/blog</h4>
                                 <div style="display: none;" id="hidden-content-c">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">site/blog</h2>
+                                    <h2 class="text-center cc-light bottom10">site/blog</h2>
                                     <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela t"ao pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole cclight">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -199,17 +199,17 @@
                         </div>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="fas fa-server"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">
+                                <i class="fas fa-server cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">hospedagem</h4>
+                                <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn cc-light bottom10 " alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
                                 <div style="display: none;" id="hidden-content-d">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">hospedagem</h2>
+                                    <h2 class="text-center cc-light bottom10">hospedagem</h2>
                                     <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões, conteúdo focado em SEO e ROI, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole cclight">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -218,34 +218,34 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100 cclight">ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="single-items center-block item-three lightcolor1 parallaxie full-screen" id="grafico">
+    <section class="single-items center-block item-three parallaxie full-screen" id="grafico">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
-                    <div class="item-titles whitecolor text-center wow fadeInLeft">
+                    <div class="item-titles text-center wow fadeInLeft">
                         <h3 class="bottom10">
-                            <a class="ccdark">design<strong> gráfico</strong></a>
+                            <a class="cc-light">design<strong> gráfico</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="fas fa-edit"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre papelaria" title="clique aqui e saiba mais sobre papelaria">
+                                <i class="fas fa-edit cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">papelaria</h4>
+                                <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn cc-light bottom10 " alt="clique aqui e saiba mais sobre papelaria" title="clique aqui e saiba mais sobre papelaria">papelaria</h4>
                                 <div style="display: none;" id="hidden-content-e">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">papelaria</h2>
+                                    <h2 class="text-center cc-light bottom10">papelaria</h2>
                                     <p class="text-justify">criamos sua arte para impressão, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
                                       catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button cclight defaulthole">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -254,18 +254,18 @@
                         </div>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="far fa-id-card"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">
+                                <i class="far fa-id-card cc-light"></i>
                             </a>
                             <div class="grid">
-                                    <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">digital</h4>
+                                    <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn cc-light bottom10 " alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">digital</h4>
                                 </a>
                                 <div style="display: none;" id="hidden-content-f">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">digital</h2>
+                                    <h2 class="text-center cc-light bottom10">digital</h2>
                                     <p class="text-justify">artes gráficas para redes sociais, sites, blogs ou qualquer outra mídia digital, além de imagens, também produzimos vídeos e animações que atraem a atenção de seus clientes.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole  cclight">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -274,33 +274,33 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole cclight top100">ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="single-items center-block item-seven lightcolor1 parallaxie full-screen" id="editorial">
+    <section class="single-items center-block item-seven parallaxie full-screen" id="editorial">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-8 col-xs-12">
-                    <div class="item-titles whitecolor text-center wow fadeInLeft">
+                    <div class="item-titles text-center wow fadeInLeft">
                         <h3 class="bottom10">
-                            <a class="ccdark">criação <strong>editorial</strong></a>
+                            <a class="cc-light">criação <strong>editorial</strong></a>
                         </h3>
                     </div>
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="far fa-newspaper"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">
+                                <i class="far fa-newspaper cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">adaptação SEO</h4>
+                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn cc-light bottom10 " alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">adaptação SEO</h4>
                                 <div style="display: none;" id="hidden-content-g" class="text-center">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">adaptação SEO</h2>
+                                    <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
                                     <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas buscas.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -312,17 +312,17 @@
                     </div>
 
                     <div class="col-xs-6">
-                        <div class="icon_box light equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="clique aqui" title="clique aqui">
-                                <i class="far fa-edit"></i>
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">
+                                <i class="far fa-edit cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn cclight bottom10 " alt="clique aqui" title="clique aqui">criação</h4>
+                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn cc-light bottom10 " alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">criação</h4>
                                 <div style="display: none;" id="hidden-content-h">
-                                    <h2 class="text-center lightcolor1 ccdark bottom10">criação</h2>
+                                    <h2 class="text-center cc-light bottom10">criação</h2>
                                     <p class="text-justify">nós produziremos matérias com foco em tirar o melhor proveito do google e outros mecanismos de buscas na internet, paras colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da área.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole cclight ">ver planos</a>
+                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -332,7 +332,7 @@
                     </div>
 
                     <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole cclight top100">ver planos</a>
+                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -340,16 +340,17 @@
     </section>
 
     <!--Gallery Grid-->
-    <section id="portfolio" class="padding_bottom lightcolor1">
+    <section id="portfolio" class="padding_bottom">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-2"> </div>
                 <div class="col-md-6 col-sm-8">
                     <div class="intro-text center">
-                        <h2 class="ccdark heading_space padding_top50 item-titles whitecolor text-center wow fadeInLeft">portfólio</h2>
+                        <h2 class="cc-light heading_space padding_top50 item-titles text-center wow fadeInLeft">portfólio</h2>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-2"> </div>
+                <div class="col-md-3 col-sm-2">
+                </div>
             </div>
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -360,16 +361,27 @@
                         <div data-filter=".web" class="cbp-filter-item">
                             <span>web</span>
                         </div>
-                        <div data-filter=".print" class="cbp-filter-item">
-                            <span>papelaria</span>
-                        </div>
                         <div data-filter=".logo" class="cbp-filter-item">
                             <span>branding</span>
+                        </div>
+                        <div data-filter=".print" class="cbp-filter-item">
+                            <span>papelaria</span>
                         </div>
                     </div>
                 </div>
             </div>
             <div id="masonry-light" class="cbp bottom30">
+                <div class="cbp-item print">
+                    <div class="image">
+                        <img src="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        </ul>
+                        <p>papelaria</p>
+                    </div>
+                </div>
                 <div class="cbp-item web print">
                     <div class="image">
                         <img src="images/rabo-de-galo-portfolio.jpg" alt="rabo de galo" title="rabo de galo">
@@ -416,17 +428,6 @@
 							<li><a href="#" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fas fa-link"></i></a></li>
                         </ul>
                         <p>web, papelaria</p>
-                    </div>
-                </div>
-                <div class="cbp-item print">
-                    <div class="image">
-                        <img src="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio">
-                    </div>
-                    <div class="overlay light center-block darkcolor">
-                        <ul class="social bottom40">
-                            <li><a data-fancybox="gallery" href="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
-                        </ul>
-                        <p>papelaria</p>
                     </div>
                 </div>
                 <div class="cbp-item web print">
@@ -559,10 +560,10 @@
                     <div class="counter-center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums ccdark lightcolor1" data-to="400" data-speed="4500"> </span>
+                                <span class="count_nums cc-light" data-to="400" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase cclight lightcolor1 bottom25">projetos concluídos</h6>
+                        <h6 class="text-uppercase text-ccdark bottom25">projetos concluídos</h6>
                         <p>Nossos clientes depositam a confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
                 </div>
@@ -570,10 +571,10 @@
                     <div class="counter-center center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums ccdark lightcolor1" data-to="19" data-speed="4500"> </span>
+                                <span class="count_nums cc-light" data-to="19" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase cclight lightcolor1 bottom25">anos de experiência</h6>
+                        <h6 class="text-uppercase text-ccdark bottom25">anos de experiência</h6>
                         <p>Passamos por uma longa caminhada, de conhecimento e experiência afinal são 19 anos com os melhores resultados.</p>
                     </div>
                 </div>
@@ -581,10 +582,10 @@
                     <div class="counter-center center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums ccdark lightcolor1" data-to="298" data-speed="4500"> </span>
+                                <span class="count_nums cc-light" data-to="298" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase cclight lightcolor1 bottom25">clientes satisfeitos</h6>
+                        <h6 class="text-uppercase text-ccdark bottom25">clientes satisfeitos</h6>
                         <p>Nossos clientes tem seguranca e confianca na hora de investir, porque fazemos seu investimento trabalhar por você.</p>
                     </div>
                 </div>
@@ -592,10 +593,10 @@
                     <div class="counter-center center padding_bottom_half wow fadeInUp">
                         <div class="number-counters bottom10">
                             <div class="counters">
-                                <span class="count_nums ccdark lightcolor1" data-to="5" data-speed="4500"> </span>
+                                <span class="count_nums cc-light" data-to="5" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase cclight lightcolor1 bottom25">dias seu site já está no ar</h6>
+                        <h6 class="text-uppercase text-ccdark bottom25">dias seu site já está no ar</h6>
                         <p>Com extrema velocidade e uma excelente qualidade seu site já estará no ar em 5 dias otimizado e responsivo.</p>
                     </div>
                 </div>
@@ -751,11 +752,11 @@
                     <div class="swiper-slide">
                     </div>
                 </div>
-                <div class="row col-md-4 mobile-p lightcolor1">
+                <div class="row col-md-4 mobile-p">
                     <div class="swiper-slide">
-                        <h2 class="ccdark bottom20 item-titles whitecolor wow fadeInLeft">contato</h2>
-                        <h3 class="bottom15"><a class="ccdark bottom20 item-titles whitecolor text-center wow fadeInLeft"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="ccdark bottom20 item-titles whitecolor wow fadeInLeft" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft cc-light">contato</h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft cc-light"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft cc-light" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
@@ -767,12 +768,12 @@
             </div>
         </div>
     </section>
-    <section class="single-items item-teen2 lightcolor1 parallaxie full-screen" id="parceiros">
+    <section class="single-items item-teen2 parallaxie full-screen" id="parceiros">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                     <div class="intro-text center">
-                        <h2 class="heading_space ccdark item-titles whitecolor text-center wow fadeInLeft">nossos parceiros</h2>
+                        <h2 class="heading_space ccdark item-titles cc-light text-center wow fadeInLeft">nossos parceiros</h2>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-2"></div>

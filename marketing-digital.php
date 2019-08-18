@@ -1,20 +1,58 @@
-	<?php $title = 'cupcode'; include("header.php"); ?>
-	<!--Ful Screen Section Video with caption-->
-	<section class="full-screen gradient-banner center-block image-hero-marketing parallaxie" id="ourhome">
-	   <div class="container">
-		  <div class="row">
-			 <div class="col-md-2 col-sm-1"></div>
-			 <div class="col-md-8 col-sm-10">
-				<div class="large-caption text-center wow zoomIn">
-				   <div class="center-item">
-					  <h2 class="whitecolor ccdark bottom60">marketing digital</h2>
+<?php $title = 'cupcode'; include("header.php"); ?>
+<!--Ful Screen hero Banner-->
+<section class="no-padding wow fadeIn no-transition">
+   <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
+       <!-- start revolution slider 5.4.1 fullscreen mode -->
+       <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
+	   
+   <h2>marketing digital</h2>
+           <ul>	<!-- slide -->
+               <li data-index="rs-layers" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                   <!-- main image -->
+                   <img src="images/bg-hero-marketing.jpg" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                   <!-- layers -->
+                   <!-- layer nr. 15 -->
+				    <div class="container">
+					  <div class="row">
+						 <div class="col-md-2 col-sm-1"></div>
+						 <div class="col-md-8 col-sm-10">
+							<div class="large-caption text-center wow zoomIn">
+							   <div class="center-item">
+								  <h2 class="pdt-250 ccdark lightcolor1 bottom60">marketing digital</h2>
+							   </div>
+							</div>
+						 </div>
+						 <div class="col-md-2 col-sm-1"></div>
+					  </div>
 				   </div>
-				</div>
-			 </div>
-			 <div class="col-md-2 col-sm-1"></div>
-		  </div>
-	   </div>
-	</section>
+                   <div class="tp-caption rev-scroll-btn revs-dark" 
+                        id="layers-thir" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']" 
+                        data-width="30"
+                        data-height="45"
+                        data-whitespace="nowrap"
+
+                        data-type="button" 
+                        data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":1000}]'
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-responsive="off"
+                        data-frames='[{"from":"y:-50px;opacity:0;","speed":1500,"to":"o:1;","delay":800,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 19; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 400;border-color:rgba(0, 0, 0, 1.00);border-style:solid;border-width:2px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                       <span></span>												
+                   </div>
+               </li>
+           </ul>
+           <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+   </div>
+</section>
 	<!--Ful Screen Section Video ends-->
 
 	<!--Services 3 column-->
@@ -34,11 +72,11 @@
 		  <div class="row" id="features">
 			 <div class="col-md-4 col-sm-6">
 				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
-			   <a data-fancybox data-src="#hidden-content-i" href="javascript:;" alt="clique aqui" title="clique aqui">
+			   <a data-fancybox data-src="#hidden-content-i" href="javascript:;" alt="clique aqui e saiba mais sobre gerenciamento" title="clique aqui e saiba mais sobre gerenciamento">
 					<i class="fa fa-cogs cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-i" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">gerenciamento</h4>
+				<h4 data-fancybox data-src="#hidden-content-i" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre gerenciamento" title="clique aqui e saiba mais sobre gerenciamento">gerenciamento</h4>
 					<div style="display: none;" id="hidden-content-i">
 				<h2 class="text-center lightcolor1 ccdark bottom10">gerenciamento</h2>
 					<p class="text-justify">cuidamos de suas redes sociais, desde seus posts até as solicitações de contatos, respondendo comentários, incentivando interações e engajamento do seu publico. sempre com o maior respeito a sua marca e seu principal bem, os clientes.</p>
@@ -53,11 +91,11 @@
 			 </div>
 			 <div class="col-md-4 col-sm-6">
 				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
-				   <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui" title="clique aqui">
+				   <a data-fancybox data-src="#hidden-content-j" href="javascript:;" alt="clique aqui e saiba mais sobre post" title="clique aqui e saiba mais sobre post">
 					<i class="fa fa-edit cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">post</h4>
+				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre post" title="clique aqui e saiba mais sobre post">post</h4>
 					<div style="display: none;" id="hidden-content-j">
 				<h2 class="text-center lightcolor1 ccdark bottom10">post</h2>
 					<p class="text-justify">produzimos posts bem elaborados, com o toque de sua marca, levando em conta seus valores, visão e missão. podemos criar conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estratégicamente para levar a seu publico o que você realmente quer passar.</p>
@@ -72,11 +110,11 @@
 			 </div>
 			 <div class="col-md-4 col-sm-6">
 				<div class="icon_box light lightcolor1 equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui" title="clique aqui">
+				   	   <a data-fancybox data-src="#hidden-content-k" href="javascript:;" alt="clique aqui e saiba mais sobre impulsionar" title="clique aqui e saiba mais sobre impulsionar">
 					<i class="fa fa-bar-chart cctransparente"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui" title="clique aqui">impulsionar</h4>
+				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="cclight bottom10 " alt="clique aqui e saiba mais sobre impulsionar" title="clique aqui e saiba mais sobre impulsionar">impulsionar</h4>
 					<div style="display: none;" id="hidden-content-k">
 				<h2 class="text-center lightcolor1 ccdark bottom10">impulsionar</h2>
 					<p class="text-justify">não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu publico alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
@@ -109,14 +147,14 @@
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/google-ads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/bg-googleads.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/facebook-ads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/bg-facebookads.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
@@ -147,14 +185,14 @@
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/google-ads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/bg-seo.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/facebook-ads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/bg-kpi.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
@@ -186,7 +224,7 @@
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/google-ads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/bg-emailmarketing.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
@@ -225,7 +263,7 @@
 				   <div class="clearfix"></div>
 				   <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
 				</div-->
-				<div class="col-md-6 col-sm-6 price-table text-center top50">
+				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50">
 				   <div class="price-plan">
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
 					  <h3 class="bottom15">pacote ristreto</h3>
@@ -244,7 +282,7 @@
 				   <a href="javascript:void(0)" class="button defaulthole mg-20 top50">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mg-20 top50">contratar</a>
 				</div>
-				<div class="col-md-6 col-sm-6 price-table text-center top50">
+				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50">
 				   <div class="price-plan">
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
 					  <h3 class="bottom15">pacote lungo</h3>

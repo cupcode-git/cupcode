@@ -1,23 +1,60 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
-<!--Ful Screen Section Video with caption-->
-<section class="full-screen gradient-banner center-block image-hero-editorial parallaxie" id="ourhome">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="large-caption text-center wow zoomIn">
-               <div class="center-item">
-                  <h2 class="whitecolor ccdark bottom60">editorial</h2>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
+<!--Ful Screen hero Banner-->
+<section class="no-padding wow fadeIn no-transition">
+   <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
+       <!-- start revolution slider 5.4.1 fullscreen mode -->
+       <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
+           <ul>	<!-- slide -->
+               <li data-index="rs-layers" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                   <!-- main image -->
+                   <img src="images/bg-hero-editorial.jpg" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                   <!-- layers -->
+                   <!-- layer nr. 15 -->
+				    <div class="container">
+					  <div class="row">
+						 <div class="col-md-2 col-sm-1"></div>
+						 <div class="col-md-8 col-sm-10">
+							<div class="large-caption text-center wow zoomIn">
+							   <div class="center-item">
+								  <h2 class="pdt-250 ccdark lightcolor1 bottom60">editorial</h2>
+							   </div>
+							</div>
+						 </div>
+						 <div class="col-md-2 col-sm-1"></div>
+					  </div>
+				   </div>
+                   <div class="tp-caption rev-scroll-btn revs-dark" 
+                        id="layers-thir" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']" 
+                        data-width="30"
+                        data-height="45"
+                        data-whitespace="nowrap"
+
+                        data-type="button" 
+                        data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":1000}]'
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-responsive="off"
+                        data-frames='[{"from":"y:-50px;opacity:0;","speed":1500,"to":"o:1;","delay":800,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 19; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 400;border-color:rgba(0, 0, 0, 1.00);border-style:solid;border-width:2px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                       <span></span>												
+                   </div>
+               </li>
+           </ul>
+           <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
    </div>
 </section>
+	<!--Ful Screen Section Video ends-->
 <!--Ful Screen Section Video ends-->
 <!--Single intro with background-->
-<section class="padding bg-intro lightcolor1 bgintro-five parallaxie">
+<section class="padding bg-intro lightcolor1 bgintro-6 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -32,7 +69,7 @@
 </section>
 <!--Single intro ends-->
 <!--Single intro with background-->
-<section class="padding bg-intro lightcolor1 bgintro-five parallaxie">
+<section class="padding bg-intro lightcolor1 bgintro-7 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
