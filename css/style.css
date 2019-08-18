@@ -949,7 +949,6 @@ ul.social li a::before, ul.social li a::after{
 #navigation {
   position: absolute;
   padding: 15px 0;
-  display: none;
 }
 #navigation.lightheader{
    position: relative;
@@ -970,7 +969,7 @@ ul.social li a::before, ul.social li a::after{
    display: block;
 }
 .dark #navigation.fixed {
-    background-color: #8a8a8a;
+   background-color: #8a8a8a;
    -webkit-box-shadow: none;
    box-shadow: none;
 }
@@ -1033,9 +1032,10 @@ ul.social li a::before, ul.social li a::after{
 
 #navigation.fixed .navbar-brand .logo,
 .navbar-brand .scrolled-logo{
-    opacity: 0;
-    visibility: hidden;
-    display: none;
+    opacity: 1;
+    visibility: visible;
+    display: block;
+    filter: brightness(1.6);
 }
 #navigation.fixed .navbar-brand {
   width: 89px;
@@ -1044,6 +1044,8 @@ ul.social li a::before, ul.social li a::after{
     opacity: 1;
     visibility: visible;
     display: inline-block;
+    filter: brightness(1);
+    transition: .5s;
 }
 
 /*center logo nav*/
@@ -1326,7 +1328,7 @@ ul.social li a::before, ul.social li a::after{
 .sidebar-nav .navbar-toggle .icon-bar{
     background-color: #8a8a8a !important;
     position: relative;
-    right: 20px; 
+    right: 20px;
 }
 #hidden-content-a,#hidden-content-b,#hidden-content-c,#hidden-content-d,#hidden-content-e,#hidden-content-f,#hidden-content-g,#hidden-content-h,#hidden-content-i,#hidden-content-j,#hidden-content-k,#hidden-content-l,#hidden-content-m,#hidden-content-n,#hidden-content-o,#hidden-content-p,#hidden-content-q,#hidden-content-r,#hidden-content-s,#hidden-content-t,#hidden-content-u,#hidden-content-v,#hidden-content-w,#hidden-content-x,#hidden-content-y,#hidden-content-z {
     max-width: 550px;
@@ -5983,7 +5985,6 @@ footer p {
 @media screen and (max-width: 990px) {
    /*Navigation*/
     #navigation{
-       background: rgba(0,0,0,.55);
        padding: 0;
     }
    #navigation.lighttransparent,
