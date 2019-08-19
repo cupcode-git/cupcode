@@ -119,12 +119,21 @@ button {
 	background: transparent;
 }
 
-
+.compensate-for-scrollbar{
+    margin-right: 17px !important;
+    overflow: overlay !important;
+}
 
 /* Helper Classes & Shorcodes */
 .pdt-250 {
 	padding-top: 250px;
     -webkit-padding-top: 250px;
+}
+.pdt-100 {
+	padding-top: 100px;
+}
+.pdb-100 {
+    padding-bottom: 100px;
 }
 .padding {
     padding: 8.75rem 0;
@@ -231,7 +240,7 @@ button {
     margin-top: 90px;
 }
 .top100 {
-    margin-top: 100px;
+    padding-top: 100px;
 }
 .bottom60{
     margin-bottom: 60px;
@@ -277,6 +286,8 @@ section {
     color: #bdbdbd;
     line-height: 1;
 }
+/*Cor do background */
+/*Fim da cor do background */
 .whitecolor.heading-title{
     color: #fff;
 }
@@ -536,11 +547,26 @@ img.filter-none {
 }
 .cc-light {
     color: #ffffffab;
+    text-shadow: 3px 1px 1px rgba(0,0,0,.7);
+    transition: 0.5s;
+}
+.cc-footer {
+    color: #ffffffab;
     text-shadow: 1px 1px 1px rgba(0,0,0,.7);
     transition: 1s;
 }
+.cc-planos {
+    color: #585858ab;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    transition: 1s;
+}
+.cc-planos:hover {
+    color: #585858ab;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    transition: 1s;
+}
 .cc-light:hover {
-    text-shadow: 1px 1px 1px rgba(0,0,0,.7)!important;
+    text-shadow: -1px 3px 1px rgba(0,0,0,.7)!important;
     color: #ffffffab !important;
 }
 .ccofflight {
@@ -897,6 +923,10 @@ a.button.contratar.mg-10.top50 {
 }
 .bgintro-7{
    background: url(../images/bg-criacaodeconteudo.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-8{
+   background: url(../images/bg-website3.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-seven{

@@ -282,7 +282,7 @@
 </section>
 <!-- end Ful Screen hero Banner --> 
 <!--Services 3 column-->
-<section id="about" class="top100 center-block">
+<section id="about" class=" pdt-100 pdb-100 center-block">
    <div class="container">
       <div class="row">
          <div class="col-md-2 col-sm-1"></div>
@@ -301,7 +301,7 @@
 					<i class="fas fa-book cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">manual da marca</h4>
+				<h4 data-fancybox data-src="#hidden-content-j" href="javascript:;" class="bottom10" alt="clique aqui e saiba mais sobre manual da marca" title="clique aqui e saiba mais sobre manual da marca">manual da marca</h4>
 					<div style="display: none;" id="hidden-content-j">
 				<h2 class="text-center bottom10 cc-light">manual da marca</h2>
 					<p class="text-justify">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
@@ -320,7 +320,7 @@
 					<i class="fas fa-fingerprint cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">logo</h4>
+				<h4 data-fancybox data-src="#hidden-content-k" href="javascript:;" class="bottom10" alt="clique aqui e saiba mais sobre logo" title="clique aqui e saiba mais sobre logo">logo</h4>
 					<div style="display: none;" id="hidden-content-k">
 				<h2 class="text-center bottom10 cc-light">logo</h2>
 					<p class="text-justify">representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
@@ -339,7 +339,7 @@
 					<i class="fas fa-highlighter cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">tipografia</h4>
+				<h4 data-fancybox data-src="#hidden-content-l" href="javascript:;" class="bottom10" alt="clique aqui e saiba mais sobre tipografia" title="clique aqui e saiba mais sobre tipografia">tipografia</h4>
 					<div style="display: none;" id="hidden-content-l">
 				<h2 class="text-center bottom10 cc-light">tipografia</h2>
 					<p class="text-justify">definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
@@ -358,7 +358,7 @@
 					<i class="fas fa-paint-brush cc-light"></i>
 				</a>
 			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">palheta de cores</h4>
+				<h4 data-fancybox data-src="#hidden-content-m" href="javascript:;" class="bottom10" alt="clique aqui e saiba mais sobre palheta de cores" title="clique aqui e saiba mais sobre palheta de cores">palheta de cores</h4>
 					<div style="display: none;" id="hidden-content-m">
 				<h2 class="text-center bottom10 cc-light">palheta de cores</h2>
 					<p class="text-justify">pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
@@ -376,7 +376,7 @@
 </section>
 <!--Services 3 column ends-->
 <!--Services 3 column-->
-<section id="services-three" class="top100 center-block">
+<section id="services-three" class="pdt-100 pdb-100 center-block">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-1"></div>

@@ -54,80 +54,51 @@
 	<!--Ful Screen Section Video ends-->
 
 <!--About Us-->
-<section id="aboutus" class="services-wrapper top100 center-block">
-   <div class="container text-center">
+<section class="padding bg-intro bgintro-6 parallaxie">
+   <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <div class="item-titles text-center wow fadeInLeft">
-               <h2 class="bottom25 cc-light">websites</h2>
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">sites</h2>
+               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
+			   <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
-         <div class="col-md-2 col-sm-2"></div>
       </div>
+   </div>
+</section>
+<!--Single intro ends-->
+<!--Single intro with background-->
+<section class="padding bg-intro bgintro-7 parallaxie">
+   <div class="container-fluid container-padding">
       <div class="row">
-	  <div class="col-md-4 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-p" href="javascript:;" alt="clique aqui e saiba mais sobre sites" title="clique aqui e saiba mais sobre sites">
-					<i class="fas fa-desktop cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-p" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre sites" title="clique aqui e saiba mais sobre sites">sites</h4>
-					<div style="display: none;" id="hidden-content-p">
-				<h2 class="text-center bottom10 cc-light">sites</h2>
-					<p class="text-justify">desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
-				</div>
-			 </div>
-			  <div class="col-md-4 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-q" href="javascript:;" alt="clique aqui e saiba mais sobre blogs" title="clique aqui e saiba mais sobre blogs">
-					<i class="fas fa-support cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-q" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre blogs" title="clique aqui e saiba mais sobre blogs">blogs</h4>
-					<div style="display: none;" id="hidden-content-q">
-				<h2 class="text-center bottom10 cc-light">blogs</h2>
-					<p class="text-justify">ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
-				</div>
-			 </div>
-			 <div class="col-md-4 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-r" href="javascript:;" alt="clique aqui e saiba mais sobre e-commerce" title="clique aqui e saiba mais sobre e-commerce">
-					<i class="far fa-window-restore cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-r" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre e-commerce" title="clique aqui e saiba mais sobre e-commerce">e-commerce</h4>
-					<div style="display: none;" id="hidden-content-r">
-				<h2 class="text-center bottom10 cc-light">e-commerce</h2>
-					<p class="text-justify">estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
-				</div>
-			 </div>
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">blogs</h2>
+               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
+			   <a href="javascript:void(0)#blog" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-8 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+			    <h2 class="bottom45 cc-light">e-commerce</h2>
+               <p>estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
+			   <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
       </div>
    </div>
 </section>
 <!--About Us ends-->
 <!--About Us-->
-<section id="aboutus" class="services-wrapper top100 center-block">
+<section id="aboutus" class="services-wrapper pdt-100 pdb-100 center-block">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
@@ -231,7 +202,7 @@
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="site">
                <div class="price-plan">
                   <h3 class="bottom15">site</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
@@ -250,7 +221,7 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">contratar site</a>
             </div>
-            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
                   <h3 class="bottom15">blog</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
@@ -270,7 +241,7 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">contratar blog</a>
             </div>
-            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
                   <h3 class="bottom15">e-commerce</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
@@ -302,8 +273,8 @@
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles whitecolor text-center wow fadeInLeft">
-                  <h2 class="ccdark bottom25">hospedagens</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">hospedagens</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -366,8 +337,8 @@
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles whitecolor text-center wow fadeInLeft">
-                  <h2 class="ccdark bottom25">domínio</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">domínio</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -414,8 +385,8 @@
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles whitecolor text-center wow fadeInLeft">
-                  <h2 class="ccdark bottom25">adicionais</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">adicionais</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
