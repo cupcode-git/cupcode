@@ -163,8 +163,8 @@
                             <p>gerenciamento das redes  sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
                         </div>
                     </div>
-                    <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
+                    <div class="col-md-12 text-center pdt-100">
+                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
                 </div>
@@ -217,8 +217,8 @@
                             <p>temos a melhor configuração para sua empresa ter um site confiável, estável e funcional.</p>
                         </div>
                     </div>
-                    <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
+                    <div class="col-md-12 text-center pdt-100">
+                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -273,8 +273,8 @@
                             <p>imagens, vídeos e animações que atraem a atenção de seus clientes.</p>
                         </div>
                     </div>
-                    <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
+                    <div class="col-md-12 text-center pdt-100">
+                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -331,8 +331,8 @@
                         </div>
                     </div>
 
-                    <div class="col-md-12 text-center">
-                        <a href="javascript:void(0)" class="button defaulthole top100">ver planos</a>
+                    <div class="col-md-12 text-center pdt-100">
+                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
             </div>
