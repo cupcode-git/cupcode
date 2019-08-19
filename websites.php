@@ -118,14 +118,14 @@
 				<h4 data-fancybox data-src="#hidden-content-s" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre domínio" title="clique aqui e saiba mais sobre domínio">domínio</h4>
 					<div style="display: none;" id="hidden-content-s">
 				<h2 class="text-center bottom10 cc-light">domínio</h2>
-					<p class="text-justify">oferecemos a criação de e-mails profissionais com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio.com.br, passando maior credibilidade no contato com seus clientes.</p>
+					<p class="text-justify">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
 				<div class="text-center">
 					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
 				</div>
 				</div>
 			</div>
 				   <hr>
-				   <p class="no_bottom">oferecemos a criação de e-mails profissionais com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio.com.br, passando maior credibilidade no contato com seus clientes.</p>
+				   <p class="no_bottom">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6">
