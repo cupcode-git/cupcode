@@ -720,31 +720,33 @@
                     <div class="col-md-5 p-0">
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                                <input id="form_nome" class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                                <input id="form_email" class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                             <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                                <input id="form_telefone" class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-7 p-0">
                         <div class="col-md-12 col-sm-12">
                             <div class="form-group bottom45">
-                                <textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                                <textarea id="form_mensagem" class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
                             </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                            <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                            <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                     </div>
                 </div>
+
+
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
                     <div class="swiper-slide">
@@ -947,6 +949,7 @@
 
 
 <!--Synx scripts-->
+<script src="js/email.js"></script>
 <script src="js/functions.js"></script>
 
 </body>
