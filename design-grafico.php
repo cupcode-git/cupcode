@@ -173,7 +173,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">Be Inspired</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">branding</h1></div>
 
                    <!-- layer nr. 11 -->
                    <div class="tp-caption tp-resizeme" 
@@ -194,7 +194,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">be Brave</h1></div> 
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">papelaria</h1></div> 
 
                    <!-- layer nr. 12 -->
                    <div class="tp-caption tp-resizeme" 
@@ -215,7 +215,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">be Branding</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">design gráfico</h1></div>
 
                    <!-- layer nr. 13 -->
                    <div class="tp-caption tp-resizeme" 
@@ -278,105 +278,127 @@
                </li>
            </ul>
            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
-   </div>
-</section>
-<!-- end Ful Screen hero Banner --> 
-<!--Services 3 column-->
-<section id="about" class="padding bglight">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom45">Branding</h2>
-               <p class="bottom15">A construção do branding é essencial para o sucesso de um negócio, o branding envolve funções de investigação, estratégias, criações, design e, por fim, o gerenciamento constante da marca, com o intuito de acompanhar  e otimizar relações com os respectivos públicos-alvos.</p>
-            </div>
          </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
-      <div class="row" id="features">
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bicycle"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Manual da marca</a></h4>
-               <hr>
-               <p class="no_bottom">normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fas fa-fingerprint" aria-hidden="true"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">logo</a></h4>
-               <hr>
-               <p class="no_bottom">fazemos a sua logo, ela é a representação gráfica do nome da sua empresa ou marca, que determina a sua identidade visual e tem como objetivo facilitar o seu reconhecimento.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Tipografia</a></h4>
-               <hr>
-               <p class="no_bottom">a tipografia desempenha um papel crucial no design da identidade visual de uma marca, definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6">
-            <div class="icon_box dark equalheight top60 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
-               <h4 class="  darkcolor bottom10"><a href="javascript:void(0)">Palheta de cores</a></h4>
-               <hr>
-               <p class="no_bottom">Pré definimos sua cores e quais são as melhores combinações, elas tem como objetivo transmitir sentimentos ou remeter a uma identidade visual, quando utilizadas da forma certa, paletas de cores agregam valor aos produtos e serviços que divulgam porque são elas que acentuam suas características fundamentais.</p>
+      </section>
+      <!-- end Ful Screen hero Banner --> 
+      <!--Services 3 column-->
+   <section id="about" class=" pdt-100 pdb-100 center-block">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-2 col-sm-1"></div>
+            <div class="col-md-8 col-sm-10">
+               <div class="intro-text center lightcolor1 wow fadeInUp">
+                  <h2 class="bottom45 cc-light">Branding</h2>
+                  <p class="bottom15">construimos seu branding, de forma estratégica, criativa com os melhores design sua identidade visual completa única e memorável.</p>
+               </div>
             </div>
          </div>
       </div>
-   </div>
-</section>
-<!--Services 3 column ends-->
-<!--Services 3 column-->
-<section id="services-three" class="padding bglight">
+   </section>
+   	<section class="padding bg-intro bgintro-6 parallaxie">
+	   <div class="container-fluid container-padding">
+		  <div class="row">
+			 <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+				<div class="item-titles wow fadeInLeft">
+				   <h2 class="bottom45 cc-light">manual da marca</h2>
+				   <p>normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização.</p>
+			   <a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
+	<section class="padding bg-intro bgintro-7 parallaxie">
+	   <div class="container-fluid container-padding">
+		  <div class="row">
+			 <div class="col-md-6 col-sm-3"></div>
+			 <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+				<div class="item-titles wow fadeInLeft">
+				   <h2 class="bottom45 cc-light">logo</h2>
+				   <p>representação da sua empresa em uma logo, fazemos a logo memorável e com a cara do seu negócio, transformando a sua identidade visual.</p>
+			   <a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
+	<section class="padding bg-intro bgintro-6 parallaxie">
+	   <div class="container-fluid container-padding">
+		  <div class="row">
+			 <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+				<div class="item-titles wow fadeInLeft">
+				   <h2 class="bottom45 cc-light">tipografia</h2>
+				   <p>definimos quais fontes devem ser usadas e como usar, a tipografia em seu logotipo pode ser tão impactante quanto um gráfico.</p>
+			   <a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
+	<section class="padding bg-intro bgintro-7 parallaxie">
+	   <div class="container-fluid container-padding">
+		  <div class="row">
+			 <div class="col-md-6 col-sm-3"></div>
+			 <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+				<div class="item-titles wow fadeInLeft">
+				   <h2 class="bottom45 cc-light">palheta de cores</h2>
+				   <p>pré definimos sua cores e quais são as melhores combinações, transmitindo sua identidade visual, através delas.</p>
+			   <a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
+   <!--Services 3 column ends-->
+   <!--Services 3 column-->
+   <section id="services-three" class="pdt-100 pdb-100 center-block" id="papelariahome">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
-                <div class="intro-text center bottom15 wow fadeInUp">
-                    <h2 class="darkcolor bottom45">papelaria</h2>
-                    <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, tudo deve seguir a identidade visual e ter alta qualidade, um dos elementos mais importantes para a construção da imagem de uma empresa, os itens de papelaria são alguns dos que acabam tendo mais contato direto com fornecedores e clientes.</p>
-                   
-                </div>
-            </div>
-            <div class="col-md-2 col-sm-1"></div>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
-                    <i class="fa fa-bullhorn"></i>
-                    <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong>impresso</strong></h4>
-                        <p class="bottom25">inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
-                    <i class="far fa-id-card" aria-hidden="true"></i>
-                    <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong> digital</strong></h4>
-                        <p class="bottom25">com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
-                        
-                    </div>
+                <div class="intro-text center wow fadeInUp">
+                    <h2 class="bottom45 cc-light">papelaria</h2>
+                    <p class="bottom45">um dos principais meios de comunicacao e divulgacao da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes, através da papelaria é possível com esse meio de comunicação extremamente forte em empresas.</p>
                 </div>
             </div>
         </div>
     </div>
-</section>
+   </section>
+	<section class="padding bg-intro bgintro-6 parallaxie">
+	   <div class="container-fluid container-padding">
+		  <div class="row">
+			 <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+				<div class="item-titles wow fadeInLeft">
+				   <h2 class="bottom45 cc-light">impresso</h2>
+				   <p>inclui artes para impressão, como folders, flyers, panfletos,cartões de fidelidade, cartão de visita, papel timbrado, pasta, envelope entre outros.</p>
+			   <a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
+	<section class="padding bg-intro bgintro-7 parallaxie" id="digitalhome">
+	   <div class="container-fluid container-padding">
+		  <div class="row">
+			 <div class="col-md-6 col-sm-3"></div>
+			 <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+				<div class="item-titles wow fadeInLeft">
+				   <h2 class="bottom45 cc-light">digital</h2>
+				   <p>com o digital serão feitas artes otimizadas e responsiva para todos os tamanho de telas, e com interações para ser usadas nos meio de divulgação online.</p>
+			   <a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</section>
 <!--Services 3 column ends-->
-<section class="padding">
+<section class="padding center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">pacotes</h2>
+               <div class="intro-text center wow fadeInUp">
+                  <h2 class="bottom25 cc-light">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -401,7 +423,7 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">buy Now </a>
             </div-->
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="branding">
                <div class="price-plan">
 			<span class="heading-title bottom25">mocha</span>
                   <h3 class="bottom15">branding</h3>
@@ -415,9 +437,10 @@
                   <li><span>logo + tipografia da marca</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
-			<div class="col-md-6 col-sm-6 price-table text-center top50">
+			<div class="col-md-6 col-sm-6 price-table text-center top50" id="papelaria">
                <div class="price-plan">
 			<span class="heading-title bottom25">capuccinno</span>
                   <h3 class="bottom15">papelaria</h3>
@@ -431,15 +454,15 @@
                   <li><span>impresso + digital</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
    </div>
 </section>
 <!--Pricing white ends-->
-
-    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -479,9 +502,9 @@
                 </div>
                 <div class="row col-md-4 mobile-p">
                     <div class="swiper-slide">
-                        <h2 class="cinzacolor bottom20">contato</h2>
-                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft cc-light">contato</h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft cc-light"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft cc-light" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
@@ -564,10 +587,5 @@
 
 <!--Synx scripts-->
 <script src="js/functions.js"></script>
-    
-<!--Google map API-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
-<script src="js/map.js"></script>
-
 </body> 
 </html>

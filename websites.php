@@ -1,290 +1,465 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
-<!--Main Slider-->
-<div id="revo_main_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
-    <div id="banner-main" class="rev_slider fullwidthabanner no-arrows" style="display:none;" data-version="5.0.7">
-        <ul>
-            <!-- SLIDE  -->
-            <li data-index="rs-17" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500">
-                <!-- MAIN IMAGE -->
-                <img src="images/bg-clientes.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10"  data-no-retina>
-                <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['-80','-80','-80','-80']" 
-                   data-whitespace="nowrap" data-responsive_offset="on"
-                   data-width="['none','none','none','360']" data-type="text"
-                   data-textalign="['center','center','center','center']"
-                   data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" >
-                    <h2 class="  whitecolor">
-                    Most Flexible One Page <span class="block"> HTML5 Template </span>
-                    </h2>
-                </div>
-                <div class="tp-caption tp-resizeme whitecolor" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['40','40','40','40']" 
-                   data-whitespace="nowrap" data-responsive_offset="on"
-                   data-width="['none','none','none','360']" data-type="text"
-                   data-textalign="['center','center','center','center']" data-fontsize="['16','16','16','16']"
-                   data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" >
-                    <p>The integration of web fonts has always been one of the largest contributing factors to diversity in 
-                        <span class="block"> the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important</span>
-                       <span class="block"> role in helping a website’s overall design stand out from the competition.</span>
-                    </p>
-                </div>
-                
-                <div class="tp-caption tp-resizeme" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']"  
-                   data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                    <a href="#services-three" class="button default scrollings">features</a> &nbsp; <a href="javascript:void(0)" class="button whitehole">buy now</a>
-                </div>
-            </li>
-           
-            <!-- SLIDE 2  -->
-            <li data-index="rs-18" data-transition="slideremoveup" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500">
-                <!-- MAIN IMAGE -->
-                <img src="images/bg-clientes.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
-                <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['-80','-80','-80','-80']" 
-                   data-whitespace="nowrap" data-responsive_offset="on"
-                   data-width="['none','none','none','360']" data-type="text"
-                   data-textalign="['center','center','center','center']"
-                   data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" >
-                    <h2 class="  whitecolor">
-                    Most Flexible One Page <span class="block"> HTML5 Template </span>
-                    </h2>
-                </div>
-                <div class="tp-caption tp-resizeme whitecolor" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['40','40','40','40']" 
-                   data-whitespace="nowrap" data-responsive_offset="on"
-                   data-width="['none','none','none','360']" data-type="text"
-                   data-textalign="['center','center','center','center']" data-fontsize="['16','16','16','16']"
-                   data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" >
-                    <p>The integration of web fonts has always been one of the largest contributing factors to diversity in 
-                        <span class="block"> the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important</span>
-                       <span class="block"> role in helping a website’s overall design stand out from the competition.</span>
-                    </p>
-                </div>
-                
-                <div class="tp-caption tp-resizeme" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']"  
-                   data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                    <a href="#services-three" class="button default scrollings">features</a> &nbsp; <a href="javascript:void(0)" class="button whitehole">buy now</a>
-                </div>
-            </li>
-           
-            <!-- SLIDE 3  -->
-            <li data-index="rs-19" data-transition="slideremoveup" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500" class="text-right">
-                <!-- MAIN IMAGE -->
-                <img src="images/bg-clientes.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
-                <!-- LAYER NR. 1 -->
-                
-                <div class="tp-caption tp-resizeme" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['-80','-80','-80','-80']" 
-                   data-whitespace="nowrap" data-responsive_offset="on"
-                   data-width="['none','none','none','360']" data-type="text"
-                   data-textalign="['center','center','center','center']"
-                   data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" >
-                    <h2 class="  whitecolor">
-                    Most Flexible One Page <span class="block"> HTML5 Template </span>
-                    </h2>
-                </div>
-                <div class="tp-caption tp-resizeme whitecolor" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['40','40','40','40']" 
-                   data-whitespace="nowrap" data-responsive_offset="on"
-                   data-width="['none','none','none','360']" data-type="text"
-                   data-textalign="['center','center','center','center']" data-fontsize="['16','16','16','16']"
-                   data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" >
-                    <p>The integration of web fonts has always been one of the largest contributing factors to diversity in 
-                        <span class="block"> the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important</span>
-                       <span class="block"> role in helping a website’s overall design stand out from the competition.</span>
-                    </p>
-                </div>
-                
-                <div class="tp-caption tp-resizeme" 
-                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                   data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']"  
-                   data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                    <a href="#services-three" class="button default scrollings">features</a> &nbsp; <a href="javascript:void(0)" class="button whitehole">buy now</a>
-                </div>
-            </li>
-        </ul>
-    </div>
-</div>
-<!--Main Slider ends -->
+<!--Ful Screen hero Banner-->
+<section class="no-padding wow fadeIn no-transition">
+   <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
+       <!-- start revolution slider 5.4.1 fullscreen mode -->
+       <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
+           <ul>	<!-- slide -->
+               <li data-index="rs-layers" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                   <!-- main image -->
+                   <img src="images/transparent.png" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                   <!-- layers -->
 
-<!--About Us-->
-<section id="aboutus" class="services-wrapper padding">
-   <div class="container text-center">
-      <div class="row">
-         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">web sites</h2>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-2"></div>
-      </div>
-      <div class="row">
-         <div class="col-md-6 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fas fa-desktop" aria-hidden="true"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>sites</strong></a> </h4>
-               <p class="bottom25 top15">criamos sites responsivos, otimizados, rápidos utilizando SEO e bootstrap, a pesquisa do google é amplamente usada por usuários que buscam soluções e serviços para seus problemas, nesse caso o site funciona como um primeiro canal de contato entre seu negócio e seu público, a primeira impressão é fundamental para que esse visitante se transforme em um cliente, criar um site possibilita que sua empresa tenha maior credibilidade perante o seu público-alvo, garantindo que os clientes notem o seu esforço em possuir um relacionamento no ambiente virtual.</p>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fa fa-support"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>blogs</strong></a> </h4>
-               <p class="bottom25 top15">fazemos seu blog com qualidade, com um bom conteúdo  você passa a ser diferenciado no mundo digital. Os potenciais clientes veem você como alguém que sabe o que está fazendo  e passam a confiar mais na sua marca, publicar conteúdo com frequência faz com que sua empresa tenha muito mais páginas indexadas no google do que um website comum, blogs têm espaços para comentários, incentivar essa conversa é uma forma de criar relacionamento com seus clientes.</p>
-            </div>
-         </div>
-      </div>
+                   <!-- layer nr. 1 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-20" 
+                        id="layers-one" 
+                        data-x="['left','left','left','left']" data-hoffset="['-264','-264','-240','-264']" 
+                        data-y="['top','top','top','top']" data-voffset="['30','30','50','80']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"x:left;rZ:-90deg;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 5;border-width:0px;"><img src="images/top_left.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+
+                   <!-- layer nr. 2 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-25" 
+                        id="layers-two" 
+                        data-x="['right','right','right','right']" data-hoffset="['-5','-5','-70','-144']" 
+                        data-y="['top','top','top','top']" data-voffset="['-40','-40','-80','-80']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"x:right;y:-500px;rZ:90deg;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 6;border-width:0px;"><img src="images/top_right.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+
+                   <!-- layer nr. 3 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-10" 
+                        id="layers-three" 
+                        data-x="['left','left','left','left']" data-hoffset="['-392','-392','-540','-638']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-484','-484','-520','-522']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"x:left;rZ:45deg;","speed":2500,"to":"o:1;","delay":650,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 7;border-width:0px;"><img src="images/papers.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+
+                   <!-- layer nr. 4 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-12" 
+                        id="layers-four" 
+                        data-x="['left','left','left','left']" data-hoffset="['134','134','-2','-57']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['67','67','50','6']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"y:bottom;rZ:90deg;","speed":1500,"to":"o:1;","delay":1050,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 8;border-width:0px;"><img src="images/header_marker.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+
+                   <!-- layer nr. 5 -->
+                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
+                        id="layers-five" 
+                        data-x="['left','left','left','left']" data-hoffset="['181','181','30','-39']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-170','-170','-190','-212']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"y:bottom;rZ:-90deg;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 9;border-width:0px;"><img src="images/header_edding.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+
+                   <!-- layer nr. 8 -->
+                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-9" 
+                        id="layers-six" 
+                        data-x="['right','right','right','right']" data-hoffset="['-364','-364','-479','-553']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-155','-155','-180','-202']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"x:right;rZ:-65deg;","speed":1500,"to":"o:1;","delay":700,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 12;border-width:0px;"><img src="images/bottom_right.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+
+                   <!-- layer nr. 9 -->
+                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
+                        id="layers-sev" 
+                        data-x="['right','right','right','right']" data-hoffset="['222','222','105','8']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['8','8','-17','-10']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"x:right;rZ:90deg;","speed":1500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 13;border-width:0px;"><img src="images/bottom_pen.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+
+                   <!-- layer nr. 10 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-eight" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','-90']" 
+                        data-fontsize="['70','70','70','50']"
+                        data-lineheight="['80','80','80','60']"
+                        data-width="['none','none','none','360']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:-50px;rX:-45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":510,"ease":"Power4.easeOut"},{"delay":640,"speed":600,"to":"y:30px;rX:45deg;sX:0.8;sY:0.8;opacity:0;","ease":"Power2.easeInOut"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">blog</h1></div>
+
+                   <!-- layer nr. 11 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-nine" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','-90']" 
+                        data-fontsize="['70','70','70','50']"
+                        data-lineheight="['80','80','80','60']"
+                        data-width="['none','none','none','360']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:-50px;rX:-45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":2940,"ease":"Power4.easeOut"},{"delay":660,"speed":600,"to":"y:30px;rX:45deg;sX:0.8;sY:0.8;opacity:0;","ease":"Power2.easeInOut"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">loja virtual</h1></div> 
+
+                   <!-- layer nr. 12 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-ten" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','-90']" 
+                        data-fontsize="['70','70','70','50']"
+                        data-lineheight="['80','80','80','60']"
+                        data-width="['none','none','none','400']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:-50px;rX:-45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":5390,"ease":"Power4.easeOut"},{"delay":"wait","speed":600,"to":"y:30px;rX:45deg;sX:0.8;sY:0.8;opacity:0;","ease":"Power2.easeInOut"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">websites</h1></div>
+
+                   <!-- layer nr. 13 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-elev" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" 
+                        data-fontsize="['18','16','16','16']"
+                        data-lineheight="['20','20','20','30']"
+                        data-width="['none','none','none','360']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:50px;rX:45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">Lorem Ipsum is simply dummy text of the printing</div>
+
+                   <!-- layer nr. 14 -->
+                   <div class="tp-caption rev-btn" 
+                        id="layers-twel" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['70','70','70','70']" 
+
+                        data-actions=''
+                        data-responsive_offset="on" 
+                        data-responsive="off"
+                        data-frames='[{"from":"y:100px;rX:90deg;opacity:0;","speed":1500,"to":"o:1;","delay":700,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        style="z-index: 19;">
+                        </div>
+
+                   <!-- layer nr. 15 -->
+                   <div class="tp-caption rev-scroll-btn revs-dark" 
+                        id="layers-thir" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']" 
+                        data-width="30"
+                        data-height="45"
+                        data-whitespace="nowrap"
+
+                        data-type="button" 
+                        data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":1000}]'
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-responsive="off"
+                        data-frames='[{"from":"y:-50px;opacity:0;","speed":1500,"to":"o:1;","delay":800,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 19; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 400;border-color:rgba(0, 0, 0, 1.00);border-style:solid;border-width:2px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                       <span></span>												
+                   </div>
+               </li>
+           </ul>
+           <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
    </div>
 </section>
-<!--About Us ends-->
+<!-- end Ful Screen hero Banner --> 
 
-<!--Single intro with background-->
-<section class="padding bg-intro bgintro-five parallaxie">
+<!--About Us-->
+<section class="padding bg-intro bgintro-6 parallaxie"  id="siteshome">
    <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-6 col-sm-3"></div>
-         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
-            <div class="intro-text">
-			<span class="heading-title bottom25">e-commerce</span>
-               <h2 class="whitecolor bottom45">sua loja virtual</h2>
-               <p class="whitecolor">o comércio eletrônico tem se expandido no mundo e no brasil a cada ano, apesar do cenário econômico e político do nosso país, é esperado um crescimento de 16% nos e-commerces em 2019, uma loja virtual exige investimento, mas ele é menor do que aquele que você teria com uma loja física, na internet você não precisa se preocupar com tantos fatores físicos e recursos humanos, não tem gastos com água, energia, equipe, segurança, ou seja, tudo aquilo que uma loja física tem, além disso alugar um local não é barato e é um gasto que você precisa colocar na sua planilha mensalmente, em um e-commerce, por exemplo, seu investimento em um plano de negócios não se compara com o valor de uma locação.Sua loja virtual pode atender qualquer região que você desejar, você pode escolher por vender apenas em seu estado e nos estados vizinhos ou comercializar para o brasil inteiro, é necessário pensar na logística, mas após resolvido isso, sua marca chega em todos os cantos. Isso permite um fortalecimento do seu negócio, e-commerce com até 50 produtos, acima disso solicite o orçamento.</p>
-              
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">sites</h2>
+               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
+			   <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
       </div>
    </div>
 </section>
 <!--Single intro ends-->
-
-
-<!--About Us-->
-<section id="aboutus" class="services-wrapper padding">
+<!--Single intro with background-->
+<section class="padding bg-intro bgintro-7 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">blogs</h2>
+               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
+			   <a href="javascript:void(0)#blog" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-8 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+			    <h2 class="bottom45 cc-light">e-commerce</h2>
+               <p>estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
+			   <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section id="aboutus" class="services-wrapper pdt-100 pdb-100 center-block">
    <div class="container text-center">
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <div class="intro-text center wow fadeInUp">
-               <h2 class="darkcolor bottom25">websites</h2>
+            <div class="item-titles whitecolor text-center wow fadeInLeft">
+               <h2 class="bottom25 cc-light">adicionais</h2>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-8 parallaxie"  id="hospedagemhome">
+   <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-6 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fa fa-paperclip"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>domínio</strong></a> </h4>
-               <p class="bottom25 top15">você já parou para pensar em como um site fica disponível na internet? registrar um domínio é o primeiro passo para começar sua presença online, um domínio de internet é um conjunto de caracteres que você coloca no navegador para encontrar um site na internet como por exemplo cupcode.com.br este conjunto de caracteres funciona como um ponto de referência para que todas as pessoas encontrem o seu site na internet, por isso ele é tão importante, se torna memorável e de fácil acesso para quem precisa encontra o seu site.</p>
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+			    <h2 class="bottom45 cc-light">hospedagem</h2>
+               <p>com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
+			   <a href="javascript:void(0)#hospedagem" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
-         <div class="col-md-6 col-sm-6 equalheight">
-            <div class="service-central top50 wow fadeInUp">
-               <span class="icons"><i class="fas fa-server" aria-hidden="true"></i></span>
-               <h4 class="darkcolor top30"><a href="javascript:void(0)"><strong>hospedagem</strong></a> </h4>
-               <p class="bottom25 top15">um site é um conjunto de arquivos textos, imagens e códigos que juntos formam as páginas que estamos acostumados a encontrar na internet, os arquivos do site são lidos por programas especializados os navegadores, mas antes esses arquivos precisam estar guardados em determinado local, o que chamamos de servidor ou hospedagem, ter esse local para armazenar os arquivos é fundamental, pois o domínio não guarda nenhum conteúdo do site, ele é apenas o endereço eletrônico (ou URL). O que faz esse papel é o servidor, com a hospedagem seu site fica no ar funcionando com seus arquivos guardados em nuvem e protegidos.</p>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-7 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">domínio</h2>
+               <p>o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
+			   <a href="javascript:void(0)#domínio" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-7 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">e-mail</h2>
+               <p>oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
+			   <a href="javascript:void(0)#e-mail" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-8 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+			    <h2 class="bottom45 cc-light">ssl</h2>
+               <p>exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
+			   <a href="javascript:void(0)#ssl" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
       </div>
    </div>
 </section>
 <!--About Us ends-->
-<!--Floated Counters -->
-<section class="padding_top padding_bottom_half bgdefault">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-6 col-sm-6 padding_bottom_half">
-            <div class="floated-counter whitecolor wow fadeInLeft">
-               <div class="row">
-                  <div class="col-md-7 col-sm-10 col-xs-10">
-                     <h3>ssl</h3>
-                     <p class="top20">o SSL (Secure Socket Layer), permite que aplicativos cliente/servidor possam trocar informações em total segurança, protegendo a integridade e a veracidade do conteúdo que trafega na Internet, tal segurança só é possível através da autenticação das partes envolvidas na troca de informações, uma conexão utilizando SSL é sempre iniciada pelo cliente com um cadeado na URL sempre começando com https://, passando confiança pro usuário que seu site é seguro e não a vírus e vazamento de informações.</p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-6 col-sm-6 padding_bottom_half">
-            <div class="floated-counter whitecolor wow fadeInRight">
-               <div class="row">
-                  <div class="col-md-7 col-sm-10 col-xs-10">
-                     <h3>e-mail</h3>
-                     <p class="top20">com a criação do seu e-mail como o da <a href="mailto:cupcode@cupcode.com"><strong>cupcode@cupcode.com</strong></a>  sua empresa terá Um correio eletrônico profissional, com 10 gigas de armazenamento, recebe, armazena e envia  e-mails para usuários, acessível em todos os ISPs (Provedores de Serviços de Internet). caso haja exclusão de e-mails acidentalmente, eles não se perdem pois estão salvos no servidor prontos para ser baixado, quando você precisar.</p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Floated Counters ends-->
-<section class="padding">
+<section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">pacotes</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="site">
                <div class="price-plan">
                   <h3 class="bottom15">site</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">
-				  R$
-                     <h1>298,90</h1> <span class="dur">/ mês</span>
+				                R$
+                     <h1>298,90</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>paginas responsivas</span></li>
+                  <li><span>paginas responsiívas</span></li>
+                  <li><span>compatibilidade entre navegadores</span></li>
+                  <li><span>seo inteligente</span></li>
+                  <li><span>landing pages que atraem</span></li>
+                  <li><span>html5, css3 & bootstrap</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar site</a>
             </div>
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
                   <h3 class="bottom15">blog</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">R$
-                     <h1>398,90</h1> <span class="dur">/ mês</span>
+                     <h1>398,90</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>wordpress</span></li>
-                  <li><span>comentarios</span></li>
-                  <li><span>criar paginas</span></li>
-                  <li><span>posts</span></li>
+                  <li><span>cadastro de usuários</span></li>
+                  <li><span>criação de paginas/posts</span></li>
+                  <li><span>comentarios e avaliações</span></li>
+                  <li><span>melhor rankeamento nas buscas</span></li>
+                  <li><span>produção de conteúdo original</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar blog</a>
             </div>
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
                   <h3 class="bottom15">e-commerce</h3>
 			<span class="heading-titlenovo bottom25">em ate 10x de</span>
                   <div class="ammount">
-				  R$
-                     <h1>947,80</h1> <span class="dur">/ mês</span>
+				                a partir de R$
+                     <h1>947,80</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>até 50 produtos no e-commerce</span></li>
+                  <li><span>venda produtos e serviços</span></li>
+                  <li><span>aceite pagamentos online</span></li>
+                  <li><span>cálculo de envio automático</span></li>
+                  <li><span>gerenciamento de clientes</span></li>
+                  <li><span>cadastro de usuários</span></li>
+                  <li><span>wordpress & woocommerce</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar e-commerce</a>
             </div>
          </div>
       </div>
@@ -293,59 +468,77 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">hospedagem para site</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">hospedagens</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-4 col-sm-6 price-table text-center top50" id="hospedagens">
                <div class="price-plan">
-                  <h3 class="bottom15">site</h3>
+                  <h3 class="bottom15">hospedagem para site</h3>
                   <div class="ammount">
-				  R$
-                     <h1>398,90</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>398,90</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>previlegio por 1 ano</span></li>
+                  <li><span>backup diário</span></li>
+                  <li><span>ssl grátis</span></li>
+                  <li><span>armazenamento em ssd</span></li>
+                  <li><span>alto desempenho</span></li>
+                  <li><span>correções de falhas automáticas</span></li>
+                  <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">blog</h3>
+                  <h3 class="bottom15">hospedagem para blog</h3>
                   <div class="ammount">
-				  R$
-                     <h1>398,90</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>398,90</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>previlegio por 1 ano</span></li>
+                 <li><span>backup diário</span></li>
+                 <li><span>ssl grátis</span></li>
+                 <li><span>armazenamento em ssd</span></li>
+                 <li><span>alto desempenho</span></li>
+                 <li><span>correções de falhas automáticas</span></li>
+                 <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">e-commerce</h3>
+                  <h3 class="bottom15">hospedagem para e-commerce</h3>
                   <div class="ammount">
-				  R$
-                     <h1>678,90</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>678,90</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>previlegio por 1 ano</span></li>
+                 <li><span>backup diário</span></li>
+                 <li><span>ssl grátis</span></li>
+                 <li><span>armazenamento em ssd</span></li>
+                 <li><span>alto desempenho</span></li>
+                 <li><span>correções de falhas automáticas</span></li>
+                 <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
@@ -354,45 +547,47 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">dominio</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">domínio</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="domínio">
+               <div class="price-plan">
+                  <h3 class="bottom15">nacional</h3>
+                  <div class="ammount">
+				                R$
+                     <h1>45,00</h1> <span class="dur">/ano</span>
+                  </div>
+               </div>
+               <ul class="top15">
+                  <li><span>.br</span></li>
+               </ul>
+               <div class="clearfix"></div>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+            </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">internacional</h3>
                   <div class="ammount">
-				  R$
-                     <h1>45,00</h1> <span class="dur">/ ano</span>
-                  </div>
-               </div>
-               <ul class="top15">
-                  <li><span>.com.br</span></li>
-               </ul>
-               <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
-            </div>
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
-               <div class="price-plan">
-                  <h3 class="bottom15">nacinal</h3>
-                  <div class="ammount">
-				  R$
-                     <h1>40,00</h1> <span class="dur">/ ano</span>
+				                R$
+                     <h1>40,00</h1> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>.com</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
@@ -400,73 +595,54 @@
 </section>
 <!--Pricing white ends-->
 <!--Floated Counters ends-->
-<section class="padding">
+<section class="top100 center-block padding">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">e-mail</h2>
+               <div class="item-titles text-center wow fadeInLeft">
+                  <h2 class="bottom25 cc-light">adicionais</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-             <div class="col-md-12 col-sm-6 price-table text-center top50">
+             <div class="col-md-6 col-sm-6 price-table text-center top50" id="e-mail">
                <div class="price-plan">
                   <h3 class="bottom15">e-mail</h3>
                   <div class="ammount">
-				  R$
-                     <h1>50,00</h1> <span class="dur">/ mês</span>
+				                R$
+                     <h1>50,00</h1> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>cada caixa com 10 gb cada</span></li>
+                  <li><span>cada caixa com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar e-mail</a>
             </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!--Pricing white ends-->
-
-<!--Floated Counters ends-->
-<section class="padding">
-   <div class="pricing-white">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="intro-text center">
-                  <h2 class="darkcolor bottom25">ssl</h2>
-               </div>
-            </div>
-            <div class="col-md-2 col-sm-2"></div>
-         </div>
-         <div class="row">
-            <div class="col-md-12 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
                   <h3 class="bottom15">ssl</h3>
-			<span class="heading-titlenovo bottom25">com instalação</span>
+			            <span class="heading-titlenovo bottom25">com instalação</span>
                   <div class="ammount">
-				  R$
-                     <h1>170,00</h1><span class="dur">/ ano</span>
+				                R$
+                     <h1>120,00</h1><span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar planos </a>
+               <a href="javascript:void(0)" class="button defaulthole top50">contratar ssl</a>
             </div>
          </div>
       </div>
    </div>
 </section>
-<!--Pricing white ends-->
 
-    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<!--Pricing white ends-->
+<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -499,7 +675,6 @@
                         </div>
                     </div>
                 </div>
-				
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
                     <div class="swiper-slide">
@@ -507,9 +682,9 @@
                 </div>
                 <div class="row col-md-4 mobile-p">
                     <div class="swiper-slide">
-                        <h2 class="cinzacolor bottom20">contato</h2>
-                        <h3 class="bottom15"><a class="cinzacolor"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="cinzacolor" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft cc-light">contato</h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft cc-light"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft cc-light" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
@@ -574,7 +749,7 @@
 
 <!-- WOW Transitions -->
 <script src="js/wow.min.js"></script>
-            
+
 <!--Revolution SLider-->
 <script src="js/revolution/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
@@ -588,14 +763,9 @@
 <script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
-   
+
 
 <!--Synx scripts-->
 <script src="js/functions.js"></script>
-    
-<!--Google map API-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
-<script src="js/map.js"></script>
-
 </body>
 </html>
