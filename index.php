@@ -127,25 +127,6 @@
                     </div>
                     <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
-                                <i class="fas fa-fingerprint cc-light"></i>
-                            </a>
-                            <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">branding</h4>
-                                <div style="display: none;" id="hidden-content-a">
-                                    <h2 class="text-center bottom10 cc-light">branding</h2>
-                                    <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
-                                    <div class="text-center">
-                                        <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <hr>
-                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">
                                 <i class="fas fa-share-alt cc-light"></i>
                             </a>
@@ -161,6 +142,25 @@
                             </div>
                             <hr>
                             <p>gerenciamento das redes sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
+                                <i class="fas fa-fingerprint cc-light"></i>
+                            </a>
+                            <div class="grid">
+                                <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">anúncios</h4>
+                                <div style="display: none;" id="hidden-content-a">
+                                    <h2 class="text-center bottom10 cc-light">anúncios</h2>
+                                    <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
+                                    <div class="text-center">
+                                        <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
@@ -235,6 +235,25 @@
                     </div>
                     <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
+                                <i class="fas fa-fingerprint cc-light"></i>
+                            </a>
+                            <div class="grid">
+                                <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">branding</h4>
+                                <div style="display: none;" id="hidden-content-f">
+                                    <h2 class="text-center bottom10 cc-light">branding</h2>
+                                    <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
+                                    <div class="text-center">
+                                        <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre papelaria" title="clique aqui e saiba mais sobre papelaria">
                                 <i class="fas fa-edit cc-light"></i>
                             </a>
@@ -251,26 +270,6 @@
                             </div>
                             <hr>
                             <p>construímos todas suas lâminas para impressão, com qualidade e inteligência.</p>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">
-                                <i class="far fa-id-card cc-light"></i>
-                            </a>
-                            <div class="grid">
-                                    <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre digital" title="clique aqui e saiba mais sobre digital">digital</h4>
-                                </a>
-                                <div style="display: none;" id="hidden-content-f">
-                                    <h2 class="text-center cc-light bottom10">digital</h2>
-                                    <p class="text-justify">artes gráficas para redes sociais, sites, blogs ou qualquer outra mídia digital, além de imagens, também produzimos vídeos e animações que atraem a atenção de seus clientes.</p>
-                                    <div class="text-center">
-                                        <a href="design-grafico.php#digitalhome" class="button defaulthole">ver planos</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <hr>
-                            <p>imagens, vídeos e animações que atraem a atenção de seus clientes.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
