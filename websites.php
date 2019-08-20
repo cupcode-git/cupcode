@@ -7,34 +7,263 @@
            <ul>	<!-- slide -->
                <li data-index="rs-layers" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                    <!-- main image -->
-                   <img src="images/bg-hero-websites.jpg" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                   <img src="images/transparent.png" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                    <!-- layers -->
+
+                   <!-- layer nr. 1 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-20" 
+                        id="layers-one" 
+                        data-x="['left','left','left','left']" data-hoffset="['-264','-264','-240','-264']" 
+                        data-y="['top','top','top','top']" data-voffset="['30','30','50','80']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"x:left;rZ:-90deg;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 5;border-width:0px;"><img src="images/top_left.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+
+                   <!-- layer nr. 2 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-25" 
+                        id="layers-two" 
+                        data-x="['right','right','right','right']" data-hoffset="['-5','-5','-70','-144']" 
+                        data-y="['top','top','top','top']" data-voffset="['-40','-40','-80','-80']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"x:right;y:-500px;rZ:90deg;","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 6;border-width:0px;"><img src="images/top_right.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+
+                   <!-- layer nr. 3 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-10" 
+                        id="layers-three" 
+                        data-x="['left','left','left','left']" data-hoffset="['-392','-392','-540','-638']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-484','-484','-520','-522']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"x:left;rZ:45deg;","speed":2500,"to":"o:1;","delay":650,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 7;border-width:0px;"><img src="images/papers.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+
+                   <!-- layer nr. 4 -->
+                   <div class="tp-caption tp-resizeme rs-parallaxlevel-12" 
+                        id="layers-four" 
+                        data-x="['left','left','left','left']" data-hoffset="['134','134','-2','-57']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['67','67','50','6']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"y:bottom;rZ:90deg;","speed":1500,"to":"o:1;","delay":1050,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 8;border-width:0px;"><img src="images/header_marker.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+
+                   <!-- layer nr. 5 -->
+                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
+                        id="layers-five" 
+                        data-x="['left','left','left','left']" data-hoffset="['181','181','30','-39']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-170','-170','-190','-212']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"from":"y:bottom;rZ:-90deg;","speed":1500,"to":"o:1;","delay":1250,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 9;border-width:0px;"><img src="images/header_edding.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+
+                   <!-- layer nr. 8 -->
+                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-9" 
+                        id="layers-six" 
+                        data-x="['right','right','right','right']" data-hoffset="['-364','-364','-479','-553']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-155','-155','-180','-202']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"x:right;rZ:-65deg;","speed":1500,"to":"o:1;","delay":700,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 12;border-width:0px;"><img src="images/bottom_right.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+
+                   <!-- layer nr. 9 -->
+                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
+                        id="layers-sev" 
+                        data-x="['right','right','right','right']" data-hoffset="['222','222','105','8']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['8','8','-17','-10']" 
+                        data-width="none"
+                        data-height="none"
+                        data-whitespace="nowrap"
+
+                        data-type="image" 
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"x:right;rZ:90deg;","speed":1500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['left','left','left','left']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]"
+
+                        style="z-index: 13;border-width:0px;"><img src="images/bottom_pen.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+
+                   <!-- layer nr. 10 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-eight" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','-90']" 
+                        data-fontsize="['70','70','70','50']"
+                        data-lineheight="['80','80','80','60']"
+                        data-width="['none','none','none','360']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:-50px;rX:-45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":510,"ease":"Power4.easeOut"},{"delay":640,"speed":600,"to":"y:30px;rX:45deg;sX:0.8;sY:0.8;opacity:0;","ease":"Power2.easeInOut"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">blog</h1></div>
+
+                   <!-- layer nr. 11 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-nine" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','-90']" 
+                        data-fontsize="['70','70','70','50']"
+                        data-lineheight="['80','80','80','60']"
+                        data-width="['none','none','none','360']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:-50px;rX:-45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":2940,"ease":"Power4.easeOut"},{"delay":660,"speed":600,"to":"y:30px;rX:45deg;sX:0.8;sY:0.8;opacity:0;","ease":"Power2.easeInOut"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">loja virtual</h1></div> 
+
+                   <!-- layer nr. 12 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-ten" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['-60','-60','-60','-90']" 
+                        data-fontsize="['70','70','70','50']"
+                        data-lineheight="['80','80','80','60']"
+                        data-width="['none','none','none','400']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:-50px;rX:-45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":5390,"ease":"Power4.easeOut"},{"delay":"wait","speed":600,"to":"y:30px;rX:45deg;sX:0.8;sY:0.8;opacity:0;","ease":"Power2.easeInOut"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">websites</h1></div>
+
+                   <!-- layer nr. 13 -->
+                   <div class="tp-caption tp-resizeme" 
+                        id="layers-elev" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" 
+                        data-fontsize="['18','16','16','16']"
+                        data-lineheight="['20','20','20','30']"
+                        data-width="['none','none','none','360']"
+                        data-height="none"
+                        data-whitespace="['nowrap','nowrap','nowrap','normal']"
+
+                        data-type="text" 
+                        data-responsive_offset="on" 
+
+                        data-frames='[{"from":"y:50px;rX:45deg;sX:2;sY:2;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        data-textAlign="['center','center','center','center']"
+                        data-paddingtop="[0,0,0,0]"
+                        data-paddingright="[0,0,0,0]"
+                        data-paddingbottom="[0,0,0,0]"
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">Lorem Ipsum is simply dummy text of the printing</div>
+
+                   <!-- layer nr. 14 -->
+                   <div class="tp-caption rev-btn" 
+                        id="layers-twel" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['middle','middle','middle','middle']" data-voffset="['70','70','70','70']" 
+
+                        data-actions=''
+                        data-responsive_offset="on" 
+                        data-responsive="off"
+                        data-frames='[{"from":"y:100px;rX:90deg;opacity:0;","speed":1500,"to":"o:1;","delay":700,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+                        style="z-index: 19;">
+                        </div>
+
                    <!-- layer nr. 15 -->
-				    <div class="container">
-					  <div class="row">
-						 <div class="col-md-2 col-sm-1"></div>
-						 <div class="col-md-8 col-sm-10">
-							<div class="large-caption text-center wow zoomIn">
-							   <div class="center-item">
-								  <h2 class="pdt-250 bottom60 cc-light">websites</h2>
-							   </div>
-							</div>
-						 </div>
-						 <div class="col-md-2 col-sm-1"></div>
-					  </div>
-				   </div>
-                   <div class="tp-caption rev-scroll-btn revs-dark"
-                        id="layers-thir"
-                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']"
+                   <div class="tp-caption rev-scroll-btn revs-dark" 
+                        id="layers-thir" 
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+                        data-y="['bottom','bottom','bottom','bottom']" data-voffset="['100','100','70','50']" 
                         data-width="30"
                         data-height="45"
                         data-whitespace="nowrap"
 
-                        data-type="button"
+                        data-type="button" 
                         data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":"","speed":1000}]'
-                        data-basealign="slide"
-                        data-responsive_offset="on"
+                        data-basealign="slide" 
+                        data-responsive_offset="on" 
                         data-responsive="off"
                         data-frames='[{"from":"y:-50px;opacity:0;","speed":1500,"to":"o:1;","delay":800,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
                         data-textAlign="['left','left','left','left']"
@@ -44,17 +273,17 @@
                         data-paddingleft="[0,0,0,0]"
 
                         style="z-index: 19; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 400;border-color:rgba(0, 0, 0, 1.00);border-style:solid;border-width:2px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                       <span></span>
+                       <span></span>												
                    </div>
                </li>
            </ul>
            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
    </div>
 </section>
-	<!--Ful Screen Section Video ends-->
+<!-- end Ful Screen hero Banner --> 
 
 <!--About Us-->
-<section class="padding bg-intro bgintro-6 parallaxie">
+<section class="padding bg-intro bgintro-6 parallaxie"  id="siteshome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -96,8 +325,6 @@
       </div>
    </div>
 </section>
-<!--About Us ends-->
-<!--About Us-->
 <section id="aboutus" class="services-wrapper pdt-100 pdb-100 center-block">
    <div class="container text-center">
       <div class="row">
@@ -108,89 +335,64 @@
          </div>
          <div class="col-md-2 col-sm-2"></div>
       </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-8 parallaxie"  id="hospedagemhome">
+   <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-6 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-s" href="javascript:;" alt="clique aqui e saiba mais sobre domínio" title="clique aqui e saiba mais sobre domínio">
-					<i class="fas fa-at cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-s" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre domínio" title="clique aqui e saiba mais sobre domínio">domínio</h4>
-					<div style="display: none;" id="hidden-content-s">
-				<h2 class="text-center bottom10 cc-light">domínio</h2>
-					<p class="text-justify">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
-				</div>
-			 </div>
-			 <div class="col-md-6 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-t" href="javascript:;" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">
-					<i class="fas fa-server cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-t" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
-					<div style="display: none;" id="hidden-content-t">
-				<h2 class="text-center bottom10 cc-light">hospedagem</h2>
-					<p class="text-justify">com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
-				</div>
-			 </div>
-			 <div class="col-md-6 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-u" href="javascript:;" alt="clique aqui e saiba mais sobre e-mail" title="clique aqui e saiba mais sobre e-mail">
-					<i class="far fa-envelope cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-u" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre e-mail" title="clique aqui e saiba mais sobre e-mail">e-mail</h4>
-					<div style="display: none;" id="hidden-content-u">
-				<h2 class="text-center bottom10 cc-light">e-mail</h2>
-					<p class="text-justify">oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole cc-light">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
-				</div>
-			 </div>
-
-			 <div class="col-md-6 col-sm-6">
-				<div class="icon_box equalheight top50 wow fadeInUp">
-				   	   <a data-fancybox data-src="#hidden-content-v" href="javascript:;" alt="clique aqui e saiba mais sobre ssl" title="clique aqui e saiba mais sobre ssl">
-					<i class="fas fa-lock cc-light"></i>
-				</a>
-			<div class="grid">
-				<h4 data-fancybox data-src="#hidden-content-v" href="javascript:;" class="bottom10  " alt="clique aqui e saiba mais sobre ssl" title="clique aqui e saiba mais sobre ssl">ssl</h4>
-					<div style="display: none;" id="hidden-content-v">
-				<h2 class="text-center bottom10 cc-light">ssl</h2>
-					<p class="text-justify">exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
-				<div class="text-center">
-					<a href="javascript:void(0)" class="button defaulthole">ver planos</a>
-				</div>
-				</div>
-			</div>
-				   <hr>
-				   <p class="no_bottom">exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
-				</div>
-			 </div>
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+			    <h2 class="bottom45 cc-light">hospedagem</h2>
+               <p>com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
+			   <a href="javascript:void(0)#hospedagem" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-7 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">domínio</h2>
+               <p>o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
+			   <a href="javascript:void(0)#domínio" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-7 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-3"></div>
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+               <h2 class="bottom45 cc-light">e-mail</h2>
+               <p>oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
+			   <a href="javascript:void(0)#e-mail" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="padding bg-intro bgintro-8 parallaxie">
+   <div class="container-fluid container-padding">
+      <div class="row">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+            <div class="item-titles wow fadeInLeft">
+			    <h2 class="bottom45 cc-light">ssl</h2>
+               <p>exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
+			   <a href="javascript:void(0)#ssl" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+            </div>
+         </div>
       </div>
    </div>
 </section>
 <!--About Us ends-->
-<section class="top100 center-block">
+<section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -266,7 +468,7 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="top100 center-block">
+<section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -278,7 +480,7 @@
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-4 col-sm-6 price-table text-center top50" id="hospedagens">
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para site</h3>
                   <div class="ammount">
@@ -295,8 +497,8 @@
                   <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mg-10 top50">entrar em contato</a>
-				   <a href="javascript:void(0)" class="button contratar mg-10 top50">contratar</a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -315,8 +517,8 @@
                  <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mg-10 top50">entrar em contato</a>
-				   <a href="javascript:void(0)" class="button contratar mg-10 top50">contratar</a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -335,8 +537,8 @@
                  <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mg-10 top50">entrar em contato</a>
-				   <a href="javascript:void(0)" class="button contratar mg-10 top50">contratar</a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
@@ -345,7 +547,7 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="top100 center-block">
+<section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -357,7 +559,7 @@
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="domínio">
                <div class="price-plan">
                   <h3 class="bottom15">nacional</h3>
                   <div class="ammount">
@@ -369,8 +571,8 @@
                   <li><span>.br</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mg-10 top50">entrar em contato</a>
-				   <a href="javascript:void(0)" class="button contratar mg-10 top50">contratar</a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -384,8 +586,8 @@
                   <li><span>.com</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mg-10 top50">entrar em contato</a>
-				   <a href="javascript:void(0)" class="button contratar mg-10 top50">contratar</a>
+				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
@@ -405,7 +607,7 @@
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-             <div class="col-md-6 col-sm-6 price-table text-center top50">
+             <div class="col-md-6 col-sm-6 price-table text-center top50" id="e-mail">
                <div class="price-plan">
                   <h3 class="bottom15">e-mail</h3>
                   <div class="ammount">
@@ -419,7 +621,7 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">solicitar e-mail</a>
             </div>
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
                   <h3 class="bottom15">ssl</h3>
 			            <span class="heading-titlenovo bottom25">com instalação</span>

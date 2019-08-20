@@ -136,7 +136,7 @@
                                     <h2 class="text-center bottom10 cc-light">branding</h2>
                                     <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -155,16 +155,16 @@
                                     <h2 class="text-center bottom10 cc-light">sociais</h2>
                                     <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, usando o Facebook Pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos e muito mais.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">ver planos</a>
+                                        <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>gerenciamento das redes  sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
+                            <p>gerenciamento das redes sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
-                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                        <a href="marketing-digital.php" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
                 </div>
@@ -190,12 +190,12 @@
                                     <h2 class="text-center cc-light bottom10">site/blog</h2>
                                     <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela t"ao pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="websites.php#siteshome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>criamos seu site, blog ou e-commerce responsivo e intuitivo, leve e de fácil navegação.</p>
+                            <p>criamos seu site, blog ou e-commerce responsivo e intuitivo, leve e com fácil navegação.</p>
                         </div>
                     </div>
                     <div class="col-xs-6">
@@ -209,7 +209,7 @@
                                     <h2 class="text-center bottom10 cc-light">hospedagem</h2>
                                     <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões, conteúdo focado em SEO e ROI, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="websites.php#hospedagemhome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -218,7 +218,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
-                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                        <a href="websites.php" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -245,7 +245,7 @@
                                     <p class="text-justify">criamos sua arte para impressão, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
                                       catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="design-grafico.php#papelariahome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +265,7 @@
                                     <h2 class="text-center cc-light bottom10">digital</h2>
                                     <p class="text-justify">artes gráficas para redes sociais, sites, blogs ou qualquer outra mídia digital, além de imagens, também produzimos vídeos e animações que atraem a atenção de seus clientes.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="design-grafico.php#digitalhome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -274,7 +274,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
-                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                        <a href="design-grafico.php" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -300,14 +300,12 @@
                                     <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
                                     <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas buscas.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>
-                                adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.
-                            </p>
+                            <p>adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.</p>
                         </div>
                     </div>
 
@@ -322,7 +320,7 @@
                                     <h2 class="text-center cc-light bottom10">criação</h2>
                                     <p class="text-justify">nós produziremos matérias com foco em tirar o melhor proveito do google e outros mecanismos de buscas na internet, paras colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da área.</p>
                                     <div class="text-center">
-                                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                                        <a href="editorial.php#criaçãohome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
@@ -332,7 +330,7 @@
                     </div>
 
                     <div class="col-md-12 text-center pdt-100">
-                        <a href="javascript:void(0)" class="button defaulthole">ver planos</a>
+                        <a href="editorial.php" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
             </div>
@@ -563,8 +561,8 @@
                                 <span class="count_nums cc-light" data-to="400" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase text-ccdark bottom25">projetos concluídos</h6>
-                        <p>Nossos clientes depositam a confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
+                        <h5 class="text-ccdark bottom25">projetos concluídos</h5>
+                        <p>nossos clientes depositam sua confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -574,8 +572,8 @@
                                 <span class="count_nums cc-light" data-to="19" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase text-ccdark bottom25">anos de experiência</h6>
-                        <p>Passamos por uma longa caminhada, de conhecimento e experiência afinal são 19 anos com os melhores resultados.</p>
+                        <h5 class="text-ccdark bottom25">anos de experiência</h5>
+                        <p>passamos por uma longa caminhada de conhecimento e experiência, afinal, não se chega a 20 anos de sucesso sem fazer um bom trabalho.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -585,8 +583,8 @@
                                 <span class="count_nums cc-light" data-to="298" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase text-ccdark bottom25">clientes satisfeitos</h6>
-                        <p>Nossos clientes tem seguranca e confianca na hora de investir, porque fazemos seu investimento trabalhar por você.</p>
+                        <h5 class="text-ccdark bottom25">clientes satisfeitos</h5>
+                        <p>não basta investir, tem que saber onde e o por quê. aqui, fazemos seu investimento trabalhar por você.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -596,8 +594,8 @@
                                 <span class="count_nums cc-light" data-to="5" data-speed="4500"> </span>
                             </div>
                         </div>
-                        <h6 class="text-uppercase text-ccdark bottom25">dias seu site já está no ar</h6>
-                        <p>Com extrema velocidade e uma excelente qualidade seu site já estará no ar em 5 dias otimizado e responsivo.</p>
+                        <h5 class="text-ccdark bottom25">dias seu site já está no ar</h5>
+                        <p>após aprovação do briefing, seu site vai para desenvolvimento e fica pronto em até 5 dias.</p>
                     </div>
                 </div>
             </div>
@@ -687,7 +685,7 @@
                 <div class="item mobile-m-t">
                     <div class="row">
                         <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                            <p class="bottom30">Um serviço prático , pessoal versátil que se encarrega das coisas com desenvoltura, o pessoal entendeu bem oque eu queria, me ofereceu mta coisa que eu nem conhecia e da um ótimo suporte. Já trabalhei com mil empresas de marketing, mas a única que vi resultado.</p>
+                            <p class="bottom30">um serviço prático, pessoal e versátil que entrega tudo com desenvoltura, que entendeu bem o que eu queria, além de me oferecer coisas que eu nem conhecia e dá um ótimo suporte. já trabalhei com várias empresas de marketing, mas a <strong>cupcode</strong> é a única que eu vi resultados.</p>
                             <h4 class="defaultcolor">Raquel Brandalise</h4>
                             <h6>Co-fundadora do <a href="http://www.pomadarabodegalo.com.br" target="_blank">Rabo de Galo</a>.</h6>
                         </div>
@@ -696,7 +694,7 @@
                 <div class="item mobile-m-t">
                     <div class="row">
                         <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                            <p class="bottom30">Quando entrei em contato com a <strong>Cupcode</strong>, eu tinha umas ideias para fazer o marketing das minhas músicas nas redes sociais. Mas eu não tinha muita noção de como fazer isso. Com muita paciência eles me ajudaram em tudo. E eles o fizeram com uma super competência. E não só me ajudando na distribuição dos conteúdos como também na criação das capas dos meus singles e na estruturação de todo o meu site, configuração de e-mail, dicas de domínios para web e afins. Super recomendo :D</p>
+                            <p class="bottom30">com muita paciência e competência, a <strong>cupcode</strong> me ajudou em tudo, não só na distribuição de conteúdos, divulgação das minhas músicas, mas também na confecção das capas dos meus singles e na criação de todo o meu site. super recomendo!</p>
                             <h4 class="defaultcolor">Diego Tragel</h4>
                             <h6>Músico, site <a href="http://www.diegotragel.com.br" target="_blank">Diego Tragel</a>.</h6>
                         </div>
@@ -705,7 +703,7 @@
                 <div class="item mobile-m-t">
                     <div class="row">
                         <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                            <p class="bottom30">Um serviço prático , pessoal versátil que se encarrega das coisas com desenvoltura, o pessoal entendeu bem oque eu queria, me ofereceu mta coisa que eu nem conhecia e da um ótimo suporte. Já trabalhei com mil empresas de marketing, mas a única que vi resultado. </p>
+                            <p class="bottom30">Eu tinha um nome da loja e era apenas escrita, a <strong>cupcode</strong>, depois de uma reunião comigo, fizeram todo o branding da loja, mudamos o nome, para um bem melhor, sem sair do que eu queria, além de dar vida a minha marca. fizeram minha loja virtual e hoje todo meu trabalho de redes sociais e papelaria são com eles, e não pretendo mudar tão cedo!</p>
                             <h4 class="defaultcolor">Eliezer Couto</h4>
                             <h6>Fundador do <a href="http://www.elitronicos.com.br" target="_blank">Elitrônicos</a>.</h6>
                         </div>

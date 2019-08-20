@@ -16,6 +16,9 @@
 		text-align: center;
 		margin-left: 10%;
 	}
+	p.light-b.top30.wow.fadeInUp {
+    font-size: 14px;
+	}
 }
 @media screen and (max-width: 1024px){
 	.row.mobile-p.col-md-4 {
