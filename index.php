@@ -134,33 +134,33 @@
                                 <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn">sociais</h4>
                                 <div style="display: none;" id="hidden-content-b">
                                     <h2 class="text-center bottom10 cc-light">sociais</h2>
-                                    <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados. além da retenção e manutenção constante dos seus clientes e seguidores, anúncios através do Facebook Ads, Google Ads, usando o Facebook Pixel, campanhas de e-mail marketing para publico alvo, e-mail marketing para clientes ativos e muito mais.</p>
+                                    <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados ao agirmos de forma orgânica. além da retenção e manutenção constante dos seus clientes e seguidores,  utilização do Facebook Pixel e muito mais.</p>
                                     <div class="text-center">
                                         <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>gerenciamento das redes sociais, anúncios no google ads, facebook ads, pixel, email marketing e mais.</p>
+                            <p>postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.</p>
                         </div>
                     </div>
                     <div class="col-xs-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
-                                <i class="fas fa-fingerprint cc-light"></i>
+                                <i class="fas fa-bullhorn cc-light"></i>
                             </a>
                             <div class="grid">
                                 <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">anúncios</h4>
                                 <div style="display: none;" id="hidden-content-a">
                                     <h2 class="text-center bottom10 cc-light">anúncios</h2>
-                                    <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
+                                    <p class="text-justify">para investir em anúncios hoje em dia e não perder dinheiro conquistando apenas curtidas, precisa-se ter muito conhecimento, estratégia e uma equipe focada em converter investimento em leads e clientes, e isso a cupcode tem! nós literalmente vamos fazer seu investimento trabalhar por você.</p>
                                     <div class="text-center">
                                         <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
+                            <p>anunciamos com inteligência para você ter o melhor retorno de seu investimento.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
@@ -185,17 +185,17 @@
                                 <i class="fas fa-desktop cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site/blog">site/blog</h4>
+                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site, blog e lojas virtuais">site/blog</h4>
                                 <div style="display: none;" id="hidden-content-c">
                                     <h2 class="text-center cc-light bottom10">site/blog</h2>
-                                    <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem um site dinâmico que chama a atenção e atraem clientes, sabemos exatamente o que seu cliente procura e nós oferecemos a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivo que se adaptarem em todos os tamanhos de tela seja ela gigante ou uma tela t"ao pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
+                                    <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem sites dinâmicos, que chama a atenção e atraem clientes. sabemos exatamente o que seu cliente procura e nós oferecemos isso a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivos que se adaptam em todos os tamanhos de tela seja ela gigante ou uma tela tão pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                     <div class="text-center">
                                         <a href="websites.php#siteshome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>criamos seu site, blog ou e-commerce responsivo e intuitivo, leve e com fácil navegação.</p>
+                            <p>criamos seu site, blog ou loja virtual de forma responsiva e intuitiva, leve e de fácil navegação.</p>
                         </div>
                     </div>
                     <div class="col-xs-6">
@@ -207,7 +207,7 @@
                                 <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
                                 <div style="display: none;" id="hidden-content-d">
                                     <h2 class="text-center bottom10 cc-light">hospedagem</h2>
-                                    <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões, conteúdo focado em SEO e ROI, nós criamos estratégias que fazem você crescer, e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a produção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
+                                    <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a configuração e manutenção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                     <div class="text-center">
                                         <a href="websites.php#hospedagemhome" class="button defaulthole">ver planos</a>
                                     </div>
@@ -261,7 +261,7 @@
                                 <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre papelaria" title="clique aqui e saiba mais sobre papelaria">papelaria</h4>
                                 <div style="display: none;" id="hidden-content-e">
                                     <h2 class="text-center cc-light bottom10">papelaria</h2>
-                                    <p class="text-justify">criamos sua arte para impressão, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
+                                    <p class="text-justify">criamos sua arte para impressão ou digital, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
                                       catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                     <div class="text-center">
                                         <a href="design-grafico.php#papelariahome" class="button defaulthole">ver planos</a>
@@ -269,7 +269,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p>construímos todas suas lâminas para impressão, com qualidade e inteligência.</p>
+                            <p>construímos todas suas lâminas para impressão ou digital, com qualidade e inteligência.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
@@ -297,7 +297,7 @@
                                 <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">adaptação SEO</h4>
                                 <div style="display: none;" id="hidden-content-g" class="text-center">
                                     <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
-                                    <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas buscas.</p>
+                                    <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.</p>
                                     <div class="text-center">
                                         <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
                                     </div>
@@ -314,17 +314,17 @@
                                 <i class="far fa-edit cc-light"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">criação</h4>
+                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação de conteúdo editorial">criação</h4>
                                 <div style="display: none;" id="hidden-content-h">
-                                    <h2 class="text-center cc-light bottom10">criação</h2>
-                                    <p class="text-justify">nós produziremos matérias com foco em tirar o melhor proveito do google e outros mecanismos de buscas na internet, paras colocar seu site nas primeiras páginas de buscas, com conteúdo escrito por especialistas no assunto, escrevemos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da área.</p>
+                                    <h2 class="text-center cc-light bottom10">criação de conteúdo editorial</h2>
+                                    <p class="text-justify">nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.</p>
                                     <div class="text-center">
                                         <a href="editorial.php#criaçãohome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>criação de conteúdo, matérias, colocando seu site nas primeiras páginas do google.</p>
+                            <p>criação de conteúdo editorial, com foco em SEO, colocando seu site nas primeiras páginas do google.</p>
                         </div>
                     </div>
 
@@ -475,7 +475,7 @@
                         <p>web, papelaria</p>
                     </div>
                 </div>
-				
+
 				<div class="cbp-item logo print">
                     <div class="image">
                         <img src="images/corr-portfolio.jpg" alt="corr portfolio"  title="corr portfolio">
