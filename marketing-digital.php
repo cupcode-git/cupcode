@@ -295,7 +295,7 @@
 		  </div>
 	   </div>
 	</section>
-	<section class="padding bg-intro bgintro-6 parallaxie" id="brandinghome">
+	<section class="padding bgintro-3 parallaxie" id="brandinghome">
 	   <div class="container-fluid container-padding">
 		  <div class="row">
 			 <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -308,7 +308,7 @@
 		  </div>
 	   </div>
 	</section>
-	<section class="padding bg-intro bgintro-7 parallaxie">
+	<section class="padding bgintro-4 parallaxie">
 	   <div class="container-fluid container-padding">
 		  <div class="row">
 			 <div class="col-md-6 col-sm-3"></div>
@@ -322,7 +322,7 @@
 		  </div>
 	   </div>
 	</section>
-	<section class="padding bg-intro bgintro-6 parallaxie">
+	<section class="padding bgintro-5 parallaxie">
 	   <div class="container-fluid container-padding">
 		  <div class="row">
 			 <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -484,7 +484,7 @@
 					  <li><span>análize de KPI</span></li>
 				   </ul>
 				   <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
@@ -505,7 +505,7 @@
 					  <li><span>análize de ROI (retorno de investimento)</span></li>
 				   </ul>
 				   <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
 				</div>
 			 </div>
@@ -559,7 +559,7 @@
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
-                        <li class="p-5"><a href="whatsapp://send?text=Olá!&phone=+554133196071" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
+                        <li class="p-5"><a href="https://api.whatsapp.com/send?phone=5541933196071&text=&source=&data=" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
                         <li class="p-5"><a href="tel:+554133196071" alt="ligar" title="ligar"><i class="fa fa-phone" alt="ligar" title="ligar"></i> </a> </li>
                         <li class="p-5"><a href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email"><i class="fa fa-envelope" alt="envie um email" title="envie um email"></i> </a> </li>
                     </ul>
