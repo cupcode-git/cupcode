@@ -861,9 +861,6 @@ ul.top-right li a:hover.instagram{
 #testimonial-single::before {
 	background: rgba(66,217,228,.85);
 }
-#testimonial-single blockquote{
-
-}
 .single-testi h3{
     color: #251b1b;
 }
@@ -1180,8 +1177,6 @@ textarea:-ms-input-placeholder {
 /*-------------------------------*/
     /* Footer*/
 /*-------------------------------*/
-footer p {
-}
 /*-------------------------------*/
     /* Footer ends*/
 /*-------------------------------*/

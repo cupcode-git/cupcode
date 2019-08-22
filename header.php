@@ -25,8 +25,8 @@
     		<script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "(+5541) 9 3319 6071  ", // WhatsApp number
-            call_to_action: "Gostaria de uma consultoria?", // Call to action
+            whatsapp: "(+5541) 3319 6071  ", // WhatsApp number
+            call_to_action: "solicite um orçamento", // Call to action
             position: "left", // Position may be 'right' or 'left'
         };
         var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
