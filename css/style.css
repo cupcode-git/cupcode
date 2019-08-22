@@ -6181,6 +6181,12 @@ footer p {
    .navbar-default.sidebar-nav .social_simple {
       display: none;
    }
+   #navigation.fixed .navbar-collapse.in {
+        background-color: #ffffff03;
+    }
+    .navbar-collapse.in {
+        background-color: #0000004f;
+    }
 
 }
 
@@ -6241,4 +6247,7 @@ footer p {
 
 .m-0 {
 	margin: 0 !important;
+}
+div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.wh-widget-button-icon.wh-messenger-bg-whatsapp {
+    background-color: #7e8585 !important;
 }
