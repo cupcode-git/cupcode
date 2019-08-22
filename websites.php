@@ -282,6 +282,18 @@
 </section>
 <!-- end Ful Screen hero Banner -->
 
+<section id="adicionais" class="services-wrapper pdt-100 pdb-100 center-block">
+   <div class="container text-center">
+      <div class="row">
+         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+            <div class="item-titles whitecolor text-center wow fadeInLeft">
+               <h2 class="bottom25 cc-light">websites</h2>
+            </div>
+         </div>
+         <div class="col-md-2 col-sm-2"></div>
+      </div>
+   </div>
+</section>
 <!--About Us-->
 <section class="padding bg-intro bgintro-6 parallaxie"  id="siteshome">
    <div class="container-fluid container-padding">
@@ -337,7 +349,7 @@
       </div>
    </div>
 </section>
-<section class="padding bg-intro bgintro-8 parallaxie"  id="hospedagemhome">
+<section class="padding bg-intro bgintro-9 parallaxie"  id="hospedagemhome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
@@ -351,7 +363,7 @@
       </div>
    </div>
 </section>
-<section class="padding bg-intro bgintro-7 parallaxie">
+<section class="padding bg-intro bgintro-10 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -364,7 +376,7 @@
       </div>
    </div>
 </section>
-<section class="padding bg-intro bgintro-7 parallaxie">
+<section class="padding bg-intro bgintro-11 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
@@ -378,7 +390,7 @@
       </div>
    </div>
 </section>
-<section class="padding bg-intro bgintro-8 parallaxie">
+<section class="padding bg-intro bgintro-12 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -444,9 +456,9 @@
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
                   <h3 class="bottom15">e-commerce</h3>
-			<span class="heading-titlenovo bottom25">em ate 10x de</span>
+			<span class="heading-titlenovo bottom25">a partir de 10x de</span>
                   <div class="ammount">
-				                a partir de R$
+				                 R$
                      <h1>947,80</h1> <span class="dur">/mês</span>
                   </div>
                </div>
@@ -468,7 +480,7 @@
 <!--Pricing white ends-->
 
 <!--Floated Counters ends-->
-<section class="top100 pdb-100 center-block">
+<section class="top100 pdb-10 center-block">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -479,7 +491,7 @@
             </div>
             <div class="col-md-2 col-sm-2"></div>
          </div>
-         <div class="row">
+         <div class="row col-md-12">
             <div class="col-md-4 col-sm-6 price-table text-center top50" id="hospedagens">
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para site</h3>
@@ -497,7 +509,6 @@
                   <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
@@ -517,7 +528,6 @@
                  <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
@@ -537,10 +547,24 @@
                  <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
+      </div>
+   </div>
+</section>
+<section class="services-wrapper center-block">
+   <div class="container text-center">
+      <div class="row">
+      <div class="col-md-12 col-sm-12">
+            <div class="col-md-4 col-sm-12">
+                   </div>
+                    <div class="col-md-4 col-sm-12">
+				   <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
+                   </div>
+                    <div class="col-md-4 col-sm-12">
+                   </div>
+         <div class="col-md-2 col-sm-2"></div>
       </div>
    </div>
 </section>
@@ -571,7 +595,7 @@
                   <li><span>.br</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
@@ -586,7 +610,7 @@
                   <li><span>.com</span></li>
                </ul>
                <div class="clearfix"></div>
-				   <a href="javascript:void(0)" class="button defaulthole mgr-10 top50">entrar em contato</a>
+				   <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
@@ -688,7 +712,7 @@
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
-                        <li class="p-5"><a href="whatsapp://send?text=Olá!&phone=+554133196071" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
+                        <li class="p-5"><a href="https://api.whatsapp.com/send?phone=5541933196071&text=&source=&data=" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
                         <li class="p-5"><a href="tel:+554133196071" alt="ligar" title="ligar"><i class="fa fa-phone" alt="ligar" title="ligar"></i> </a> </li>
                         <li class="p-5"><a href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email"><i class="fa fa-envelope" alt="envie um email" title="envie um email"></i> </a> </li>
                     </ul>

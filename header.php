@@ -22,6 +22,19 @@
               <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
               <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    		<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "(+5541) 9 3319 6071  ", // WhatsApp number
+            call_to_action: "Gostaria de uma consultoria?", // Call to action
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
 </head>
 <body data-spy="scroll" data-target=".scrolly" data-offset="50">
   <!-- Google Analytics -->

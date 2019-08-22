@@ -19,6 +19,18 @@
 	p.light-b.top30.wow.fadeInUp {
     font-size: 14px;
 	}
+	section#editorial {
+    height: 100% !important;
+	}
+	section#websites {
+	height: 100% !important;	
+	}
+	section#grafico {
+	height: 100% !important;
+	}
+	section#item-one {
+	height: 100% !important;	
+	}
 }
 @media screen and (max-width: 1024px){
 	.row.mobile-p.col-md-4 {

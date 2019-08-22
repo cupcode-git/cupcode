@@ -125,7 +125,7 @@
                             <a class="cc-light"><strong>marketing</strong> digital</a>
                         </h3>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">
                                 <i class="fas fa-share-alt cc-light"></i>
@@ -144,7 +144,7 @@
                             <p>postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.</p>
                         </div>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
                                 <i class="fas fa-bullhorn cc-light"></i>
@@ -179,7 +179,7 @@
                             <a class="cc-light">web<strong>sites</strong></a>
                         </h3>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site/blog">
                                 <i class="fas fa-desktop cc-light"></i>
@@ -198,7 +198,7 @@
                             <p>criamos seu site, blog ou loja virtual de forma responsiva e intuitiva, leve e de fácil navegação.</p>
                         </div>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">
                                 <i class="fas fa-server cc-light"></i>
@@ -233,7 +233,7 @@
                             <a class="cc-light">design<strong> gráfico</strong></a>
                         </h3>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre branding" title="clique aqui e saiba mais sobre branding">
                                 <i class="fas fa-fingerprint cc-light"></i>
@@ -252,7 +252,7 @@
                             <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
                         </div>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre papelaria" title="clique aqui e saiba mais sobre papelaria">
                                 <i class="fas fa-edit cc-light"></i>
@@ -288,7 +288,7 @@
                             <a class="cc-light">criação <strong>editorial</strong></a>
                         </h3>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">
                                 <i class="far fa-newspaper cc-light"></i>
@@ -308,7 +308,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xs-6">
+                    <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">
                                 <i class="far fa-edit cc-light"></i>
@@ -759,7 +759,7 @@
                     </div>
                     <ul class="social wow BounceIn top20">
                         <li class="p-5"><a href="http://m.me/cupcodeinc" target="_blank" alt="messenger" title="messenger"><i class="fab fa-facebook-messenger" alt="messenger" title="messenger"></i> </a> </li>
-                        <li class="p-5"><a href="whatsapp://send?text=Olá!&phone=+554133196071" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
+                        <li class="p-5"><a href="https://api.whatsapp.com/send?phone=5541933196071&text=&source=&data=" alt="whatsapp" title="whatsapp"><i class="fab fa-whatsapp" alt="whatsapp" title="whatsapp"></i> </a> </li>
                         <li class="p-5"><a href="tel:+554133196071" alt="ligar" title="ligar"><i class="fa fa-phone" alt="ligar" title="ligar"></i> </a> </li>
                         <li class="p-5"><a href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email"><i class="fa fa-envelope" alt="envie um email" title="envie um email"></i> </a> </li>
                     </ul>
