@@ -132,6 +132,9 @@ button {
 .pdt-100 {
 	padding-top: 100px;
 }
+.pdb-10 {
+	padding-bottom: 10px;
+}
 .pdb-65 {
 	padding-bottom: 65px;
 }
@@ -920,16 +923,68 @@ a.button.contratar.mgl-10.top50 {
 .bgintro-five{
    background: url(../images/bg-clientes.jpg) no-repeat;
 }
+.bgintro-3{
+   background: url(../images/cafegelado-1.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-4{
+   background: url(../images/cappuccino-2.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-5{
+   background: url(../images/cafelindo-3.jpg) no-repeat;
+   height: 500px;
+}
 .bgintro-6{
-   background: url(../images/bg-editorial.jpg) no-repeat;
+   background: url(../images/bg-marketing1.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-7{
-   background: url(../images/bg-criacaodeconteudo.jpg) no-repeat;
+   background: url(../images/donutsbrancoo3.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-8{
-   background: url(../images/bg-website3.jpg) no-repeat;
+   background: url(../images/donutsrosa2.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-9{
+   background: url(../images/donutsbege5.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-10{
+   background: url(../images/donutsbranco6.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-11{
+   background: url(../images/donutsblackwhite7.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-12{
+   background: url(../images/donutsrosaaa4.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-13{
+   background: url(../images/cupcakedourado1.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-14{
+   background: url(../images/cupcakeazul2.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-15{
+   background: url(../images/cupcakeroxo4.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-16{
+   background: url(../images/cupcakevermelho3.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-17{
+   background: url(../images/cookies.jpg) no-repeat;
+   height: 500px;
+}
+.bgintro-18{
+   background: url(../images/cookies2.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-seven{
