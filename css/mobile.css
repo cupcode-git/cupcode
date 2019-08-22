@@ -31,6 +31,15 @@
 	section#item-one {
 	height: 100% !important;	
 	}
+	p.light-b.top30.wow.fadeInUp {
+    padding: 10px;
+	}
+	section#contact-form {
+    height: 100% !important;
+	}
+	h2.ccdeep.heading_space.item-titles.text-center.wow.fadeInLeft {
+    padding: 5px;
+	}
 }
 @media screen and (max-width: 1024px){
 	.row.mobile-p.col-md-4 {
@@ -53,6 +62,35 @@
 	textarea {
     max-height: 125px;
     resize: none;
+	}
+	p.light-b.top30.wow.fadeInUp {
+    padding: 10px;
+	}
+	section#contact-form {
+    height: 100% !important;
+	}
+}
+@media screen and (max-width: 640px){
+	section#editorial {
+    height: 100% !important;
+	}
+	section#websites {
+	height: 100% !important;	
+	}
+	section#grafico {
+	height: 100% !important;
+	}
+	section#marketing {
+	height: 100% !important;
+	}
+	section#contact-form {
+    height: 100% !important;
+	}
+	p.light-b.top30.wow.fadeInUp {
+    padding: 10px;
+	}
+	h2.ccdeep.heading_space.item-titles.text-center.wow.fadeInLeft {
+    padding: 5px;
 	}
 }
 

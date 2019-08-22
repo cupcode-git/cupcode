@@ -552,8 +552,8 @@ img.filter-none {
 	text-shadow: -1px 3px 1px rgba(0,0,0,.7);
 }
 .cc-light {
-    color: #ffffffab;
-    text-shadow: 3px 2px 1px rgba(0,0,0,.7);
+    color: #ffffff80 !important;
+    text-shadow: 3px 2px 1px rgba(0,0,0,.15);
     transition: 0.5s;
 }
 .cc-footer {
@@ -572,8 +572,7 @@ img.filter-none {
     transition: 1s;
 }
 .cc-light:hover {
-    text-shadow: -1px 3px 1px rgba(0,0,0,.7)!important;
-    color: #ffffffab !important;
+    text-shadow: -2px 2px 1px rgba(0,0,0,.15)!important;
 }
 .ccofflight {
     color: #797676;
