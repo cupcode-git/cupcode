@@ -482,7 +482,6 @@ ul.top-right li a:hover.instagram{
 /*-------------------------------*/
    /* Progress Bars */
 /*-------------------------------*/
-#about{}
 .barwrapper .tooltip > .tooltip-inner {
 	background-color: transparent;
 	color: #686868;
@@ -834,9 +833,6 @@ ul.top-right li a:hover.instagram{
 #testimonial-single::before{
     background: rgba(242,201,0,.85);
 }
-#testimonial-single blockquote{
-
-}
 .single-testi h3{
     color: #251b1b;
 }
@@ -1134,8 +1130,6 @@ textarea:-ms-input-placeholder {
 /*-------------------------------*/
     /* Footer*/
 /*-------------------------------*/
-footer p {
-}
 /*-------------------------------*/
     /* Footer ends*/
 /*-------------------------------*/

@@ -1843,7 +1843,6 @@ ul.top-right li a:hover.instagram{
     background-position: center center;
     position: relative;
 }
-.large-sized .large-caption h2 {}
 
 /* Landscape */
 @media only screen and (min-device-width: 320px) and (max-device-width: 736px)
@@ -2032,7 +2031,6 @@ ul.top-right li a:hover.instagram{
    -webkit-border-radius: 30px;
    border-radius: 30px;
 }
-.bg-for-btc .owl-dots .owl-dot.active {}
 .bg-for-btc .owl-dots .owl-dot::after {
 	background-color: #fff;
 }
@@ -2559,7 +2557,7 @@ ul.top-right li a:hover.instagram{
     height: 100%;
     cursor: pointer;
 }
-.team-slide:hover .team-photo > img{;
+.team-slide:hover .team-photo > img{
     -webkit-transform: scale(1.3);;
     -ms-transform: scale(1.3);;
     -o-transform: scale(1.3);;
@@ -3507,7 +3505,6 @@ ul.top-right li a:hover.instagram{
 .single-items .darkcolor h3{
    text-shadow: 0px 1px 1px rgba(0,0,0,.5);
 }
-.single-items .item-titles h3 strong{}
 .single-items .item-titles p {
 	font-size: 1.125rem;
 }
@@ -6242,7 +6239,7 @@ footer p {
 }
 .hover-gray img:hover {
   -webkit-filter: grayscale(0) !important;
-  filter: grayscale(0 !important;
+  filter: grayscale(0) !important;
 }
 
 .m-0 {
