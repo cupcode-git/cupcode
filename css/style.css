@@ -159,6 +159,12 @@ button {
 .margin_top {
     margin-top: 8.75rem;
 }
+.mgt-50 {
+    margin-top: 50px;
+}
+.mgt-100 {
+    margin-top: 100px;
+}
 .padding_half {
     padding: 4.375rem 0;
     background-color: #b7b7b7;
@@ -986,6 +992,25 @@ a.button.contratar.mgl-10.top50 {
    background: url(../images/cookies2.jpg) no-repeat;
    height: 500px;
 }
+.bgintro-19{
+    background: url(../images/donutsverdefaixa.jpg) no-repeat;
+    height: 250px;
+ }
+ .bgintro-20{
+    background-color: #e6dfd5;
+    height: 250px !important;
+    padding: 0px !important;
+ }
+ .bgintro-21{
+    background-color: #ffa4cb;
+    height: 250px !important;
+    padding: 0px !important;
+ }
+ .bgintro-22 {
+    background-color: #008c81;
+    height: 250px !important;
+    padding: 0px !important;
+}
 .bgintro-seven{
    background: url(../images/bg-clientes.jpg) no-repeat;
 }
@@ -1028,7 +1053,21 @@ ul.social li a::before, ul.social li a::after{
     -o-transition: all 0s !important;
     transition: all 0s !important;
 }
-
+.image-banner {
+    width: 220px;
+    padding-top: 45px;
+}
+.image-banner1 {
+    width: 220px;
+    margin-top: -45px;
+}
+.image-banner2 {
+    width: 220px;
+    margin-top: -25px;
+}
+.bg-hero-color {
+    background-color: #e0e0e0;
+}
 
 /*-------------------------------*/
     /*Navigation Starts */
@@ -3655,7 +3694,6 @@ ul.top-right li a:hover.instagram{
    background-clip: text;
    -webkit-text-fill-color: transparent;
    -moz-text-fill-color: transparent;
-   text-fill-color: transparent;
 }
 .service-central h4{
     font-size: 1.25rem;
