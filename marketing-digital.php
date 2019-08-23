@@ -1,13 +1,12 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
-<section class="no-padding wow fadeIn no-transition">
+<section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
        <!-- start revolution slider 5.4.1 fullscreen mode -->
        <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
            <ul>	<!-- slide -->
                <li data-index="rs-layers" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                    <!-- main image -->
-                   <img src="images/transparent.png" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                    <!-- layers -->
 
                    <!-- layer nr. 1 -->
@@ -352,14 +351,14 @@
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/bg-googleads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/cafezinhonormal.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6 nopadding"  id="sociaishome">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/bg-facebookads.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/cappuccino2.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
@@ -390,14 +389,14 @@
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/bg-seo.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/cafezao.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
 			 <div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				   <div class="image">
-					  <img alt="image" src="images/bg-kpi.jpg" class="equalheight filter-none">
+					  <img alt="image" src="images/cappuccino-3.jpg" class="equalheight filter-none">
 				   </div>
 				</div>
 			 </div>
