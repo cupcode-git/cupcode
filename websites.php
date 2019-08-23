@@ -1,13 +1,12 @@
 <?php $title = 'cupcode'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
-<section class="no-padding wow fadeIn no-transition">
+<section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
        <!-- start revolution slider 5.4.1 fullscreen mode -->
        <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
            <ul>	<!-- slide -->
                <li data-index="rs-layers" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                    <!-- main image -->
-                   <img src="images/transparent.png" data-bgcolor="#e0e0e0" alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                    <!-- layers -->
 
                    <!-- layer nr. 1 -->
@@ -288,6 +287,7 @@
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
                <h2 class="bottom25 cc-light">websites</h2>
+                  <p class="bottom15">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -343,6 +343,7 @@
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
                <h2 class="bottom25 cc-light">adicionais</h2>
+                  <p class="bottom15">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -477,20 +478,29 @@
       </div>
    </div>
 </section>
-<!--Pricing white ends-->
-
+<section class="single-items bgintro-22 parallaxie full-screen">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="item-titles mgt-50 text-center wow fadeInRight">
+               <h3 class="bottom10">
+                  <a class="cc-light"><strong>hospedagens</strong></a>
+               </h3>
+            </div>
+            <div class="col-md-6 col-sm-3"></div>
+            <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+               <div>
+                  <img class="image-banner2" src="images/donutsverdefaixa1.png" />
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <!--Floated Counters ends-->
 <section class="top100 pdb-10 center-block">
    <div class="pricing-white">
       <div class="container">
-         <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles text-center wow fadeInLeft">
-                  <h2 class="bottom25 cc-light">hospedagens</h2>
-               </div>
-            </div>
-            <div class="col-md-2 col-sm-2"></div>
-         </div>
          <div class="row col-md-12">
             <div class="col-md-4 col-sm-6 price-table text-center top50" id="hospedagens">
                <div class="price-plan">
@@ -569,19 +579,28 @@
    </div>
 </section>
 <!--Pricing white ends-->
-
+<section class="single-items bgintro-20 mgt-100 parallaxie full-screen">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="item-titles mgt-50 text-center wow fadeInLeft">
+               <h3 class="bottom10">
+                  <a class="cc-light"><strong>domínio</strong></a>
+               </h3>
+            </div>
+            <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
+               <div>
+                  <img class="image-banner1" src="images/faixadedonutscaixa.png" />
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <!--Floated Counters ends-->
 <section class="top100 pdb-100 center-block">
    <div class="pricing-white">
       <div class="container">
-         <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles text-center wow fadeInLeft">
-                  <h2 class="bottom25 cc-light">domínio</h2>
-               </div>
-            </div>
-            <div class="col-md-2 col-sm-2"></div>
-         </div>
          <div class="row">
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="domínio">
                <div class="price-plan">
@@ -618,18 +637,29 @@
    </div>
 </section>
 <!--Pricing white ends-->
+<section class="single-items bgintro-21 parallaxie full-screen">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="item-titles mgt-50 text-center wow fadeInRight">
+               <h3 class="bottom10">
+                  <a class="cc-light"><strong>adicionais</strong></a>
+               </h3>
+            </div>
+            <div class="col-md-6 col-sm-3"></div>
+            <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+               <div>
+                  <img class="image-banner2" src="images/faixarosadonuts.png" />
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <!--Floated Counters ends-->
 <section class="top100 center-block padding">
    <div class="pricing-white">
       <div class="container">
-         <div class="row">
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-               <div class="item-titles text-center wow fadeInLeft">
-                  <h2 class="bottom25 cc-light">adicionais</h2>
-               </div>
-            </div>
-            <div class="col-md-2 col-sm-2"></div>
-         </div>
          <div class="row">
              <div class="col-md-6 col-sm-6 price-table text-center top50" id="e-mail">
                <div class="price-plan">
