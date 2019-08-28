@@ -92,6 +92,16 @@
 	h2.ccdeep.heading_space.item-titles.text-center.wow.fadeInLeft {
     padding: 5px;
 	}
+	.image-banner2 {
+		width: 220px;
+		padding-right: 100px !important;
+		margin-top: 0px !important;
+	}
+	.image-banner1 {
+		width: 120px;
+		margin-top: -5px;
+		margin-left: 110px;
+	}
 }
 
 
