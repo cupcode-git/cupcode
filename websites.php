@@ -405,7 +405,7 @@
    </div>
 </section>
 <!--About Us ends-->
-<section class="top100 pdb-100 center-block">
+<section class="top100 pdb-100">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -454,7 +454,7 @@
                <div class="clearfix"></div>
                <a href="javascript:void(0)" class="button defaulthole top50">contratar blog</a>
             </div>
-            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="e-commerce">
+            <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
                   <h3 class="bottom15">e-commerce</h3>
 			<span class="heading-titlenovo bottom25">a partir de 10x de</span>
@@ -482,7 +482,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12">
-            <div class="item-titles mgt-50 text-center wow fadeInRight">
+            <div class="item-titles mgt-100 text-center wow fadeInRight">
                <h3 class="bottom10">
                   <a class="cc-light"><strong>hospedagens</strong></a>
                </h3>
@@ -498,7 +498,7 @@
    </div>
 </section>
 <!--Floated Counters ends-->
-<section class="top100 pdb-10 center-block">
+<section class="top100 pdb-10">
    <div class="pricing-white">
       <div class="container">
          <div class="row col-md-12">
@@ -540,7 +540,7 @@
                <div class="clearfix"></div>
 				   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
-            <div class="col-md-4 col-sm-6 price-table text-center top50">
+            <div class="col-md-4  col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para e-commerce</h3>
                   <div class="ammount">
@@ -583,7 +583,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12">
-            <div class="item-titles mgt-50 text-center wow fadeInLeft">
+            <div class="item-titles mgt-100 text-center wow fadeInLeft">
                <h3 class="bottom10">
                   <a class="cc-light"><strong>domínio</strong></a>
                </h3>
@@ -598,7 +598,7 @@
    </div>
 </section>
 <!--Floated Counters ends-->
-<section class="top100 pdb-100 center-block">
+<section class="top100 pdb-100">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
@@ -641,7 +641,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12">
-            <div class="item-titles mgt-50 text-center wow fadeInRight">
+            <div class="item-titles mgt-100 text-center wow fadeInRight">
                <h3 class="bottom10">
                   <a class="cc-light"><strong>adicionais</strong></a>
                </h3>
@@ -657,7 +657,7 @@
    </div>
 </section>
 <!--Floated Counters ends-->
-<section class="top100 center-block padding">
+<section class="top100 padding">
    <div class="pricing-white">
       <div class="container">
          <div class="row">
