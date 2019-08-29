@@ -167,7 +167,7 @@
                         <a href="marketing-digital.php" class="button defaulthole">ver planos</a>
                     </div>
                 </div>
-                </div>
+            </div>
         </div>
     </section>
     <section class="single-items center-block item-four parallaxie full-screen" id="websites">
@@ -262,7 +262,7 @@
                                 <div style="display: none;" id="hidden-content-e">
                                     <h2 class="text-center cc-light bottom10">papelaria</h2>
                                     <p class="text-justify">criamos sua arte para impressão ou digital, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
-                                      catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
+                                    catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                     <div class="text-center">
                                         <a href="design-grafico.php#papelariahome" class="button defaulthole">ver planos</a>
                                     </div>
@@ -307,7 +307,6 @@
                             <p>adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.</p>
                         </div>
                     </div>
-
                     <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
                             <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">
@@ -327,7 +326,6 @@
                             <p>criação de conteúdo editorial, com foco em SEO, colocando seu site nas primeiras páginas do google.</p>
                         </div>
                     </div>
-
                     <div class="col-md-12 text-center pdt-100">
                         <a href="editorial.php" class="button defaulthole">ver planos</a>
                     </div>
@@ -335,7 +333,6 @@
             </div>
         </div>
     </section>
-
     <!--Gallery Grid-->
     <section id="portfolio" class="padding_bottom">
         <div class="container">
@@ -475,7 +472,6 @@
                         <p>web, papelaria</p>
                     </div>
                 </div>
-
 				<div class="cbp-item logo print">
                     <div class="image">
                         <img src="images/corr-portfolio.jpg" alt="corr portfolio"  title="corr portfolio">
@@ -543,7 +539,127 @@
                             <li><a data-fancybox="gallery" href="images/licitacoes-portfolio.jpg" alt="uol licitações"  title="uol licitações"><i class="fa fa-search-plus"></i></a></li>
 							<li><a href="#" alt="uol licitações" title="uol licitações"><i class="fas fa-link"></i></a></li>
                         </ul>
-                        <p>web</p>
+                            <p>web</p>
+                    </div>
+                </div>
+				<div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/checkmob.jpg" alt="checkmob"  title="checkmob">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/checkmob.jpg" alt="checkmob"  title="checkmob"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="checkmob" title="checkmob"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/cinq.jpg" alt="cinq"  title="cinq">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/cinq.jpg" alt="cinq"  title="cinq"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="cinq" title="cinq"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/code9.jpg" alt="code9"  title="code9">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/code9.jpg" alt="code9"  title="code9"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="code9" title="code9"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="howstuffworks" title="howstuffworks"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/joguebola.jpg" alt="joguebola"  title="joguebola">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/joguebola.jpg" alt="joguebola"  title="joguebola"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="joguebola" title="joguebola"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/joguebola2.jpg" alt="joguebola2"  title="joguebola2">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/joguebola2.jpg" alt="joguebola2"  title="joguebola2"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="joguebola2" title="joguebola2"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/lippe.jpg" alt="lippe"  title="lippe">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/lippe.jpg" alt="lippe"  title="lippe"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="lippe" title="lippe"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item print">
+                    <div class="image">
+                        <img src="images/mansaomix.jpg" alt="mansaomix"  title="mansaomix">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/mansaomix.jpg" alt="mansaomix"  title="mansaomix"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="mansaomix" title="mansaomix"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/portfolioprojetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/portfolioprojetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="portfolioprojetox" title="portfolioprojetox"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
+                    </div>
+                </div>
+                <div class="cbp-item web">
+                    <div class="image">
+                        <img src="images/sebrae.jpg" alt="sebrae"  title="sebrae">
+                    </div>
+                    <div class="overlay light center-block darkcolor">
+                        <ul class="social bottom40">
+                            <li><a data-fancybox="gallery" href="images/sebrae.jpg" alt="sebrae"  title="sebrae"><i class="fa fa-search-plus"></i></a></li>
+							<li><a href="#" alt="sebrae" title="sebrae"><i class="fas fa-link"></i></a></li>
+                        </ul>
+                            <p>web</p>
                     </div>
                 </div>
             </div>
@@ -744,8 +860,6 @@
                         </div>
                     </div>
                 </div>
-
-
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
                     <div class="swiper-slide">
@@ -884,10 +998,8 @@
         </div>
     </section>
     <!--Footer-->
-
-<?php include 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
     <!--Footer ends-->
-</div>
 <!-- jQuery Files -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
