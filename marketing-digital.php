@@ -253,7 +253,7 @@
 			<div class="col-md-8 col-sm-10">
 				<div class="intro-text center wow fadeInUp">
 				<h2 class="bottom45 cc-light">redes sociais</h2>
-				<p class="bottom45">as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
+				<p class="bottom45 mobilespc">as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
 				</div>
 			</div>
 		</div>
@@ -459,7 +459,7 @@
 					</div>
 				</div>
 				<ul class="top15">
-					<h3>todo o conteúdo do pacote ristreto +</h3>
+					<h3 class="mobilefont">todo o conteúdo do pacote ristreto +</h3>
 					<li><span>gerenciamento de redes sociais</span></li>
 					<li><span>anuncios no google ads</span></li>
 					<li><span>e-mail marketing para clientes ativos</span></li>
