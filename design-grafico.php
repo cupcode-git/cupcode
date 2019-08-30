@@ -253,7 +253,7 @@
             <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
                 <h2 class="bottom45 cc-light">Branding</h2>
-                <p class="bottom15">construimos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia com o lettering, a palheta de cores e tudo o que você precisa para dar o start no seu negocio.</p>
+                <p class="bottom15 mobilespc">construimos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia com o lettering, a palheta de cores e tudo o que você precisa para dar o start no seu negocio.</p>
             </div>
             </div>
         </div>
@@ -295,7 +295,7 @@
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center wow fadeInUp">
                     <h2 class="bottom45 cc-light">papelaria</h2>
-                    <p class="bottom45">um dos principais meios de comunicação e divulgação da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.</p>
+                    <p class="bottom45 mobilespc">um dos principais meios de comunicação e divulgação da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.</p>
                 </div>
             </div>
         </div>

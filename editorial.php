@@ -252,7 +252,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
                <h2 class="bottom45 cc-light">editorial</h2>
-               <p class="bottom15">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
+               <p class="bottom15 mobilespc">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
             </div>
          </div>
       </div>
@@ -301,7 +301,7 @@
          <div class="row">
             <div class="col-md-3 col-sm-6 price-table text-center top50">
             </div>
-            <div class="col-md-6 col-sm-6 price-table text-center top50">
+            <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
 			<span class="heading-title bottom25">latte machiatto</span>
                   <h3 class="bottom15">criação editorial</h3>
@@ -315,8 +315,6 @@
                <div class="clearfix"></div>
 				<a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
 				<a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
-            </div>
-            <div class="col-md-3 col-sm-6 price-table text-center top50">
             </div>
          </div>
       </div>
