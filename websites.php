@@ -251,7 +251,7 @@
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
                <h2 class="bottom25 cc-light">websites</h2>
-                  <p class="bottom15">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                  <p class="bottom15 mobilespc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -307,7 +307,7 @@
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
                <h2 class="bottom25 cc-light">adicionais</h2>
-                  <p class="bottom15">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                  <p class="bottom15 mobilespc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
