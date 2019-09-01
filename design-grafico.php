@@ -345,9 +345,9 @@
             <div class="price-plan">
 			<span class="heading-title bottom25">mocha</span>
                     <h3 class="bottom15">branding</h3>
-			<span class="heading-titlenovo bottom25">em 12x de </span>
+			<span class="heading-titlenovo bottom25">em 10x de </span>
                     <div class="ammount">R$
-                        <h1>79,00</h1> <span class="dur">/mês</span>
+                        <h1>79,90</h1> <span class="dur">/mês</span>
                     </div>
             </div>
             <ul class="top15">
@@ -366,7 +366,7 @@
                     <h3 class="bottom15">branding & papelaria</h3>
 			<span class="heading-titlenovo bottom25">em 12x de </span>
                     <div class="ammount">R$
-                        <h1>259,90</h1> <span class="dur">/mês</span>
+                        <h1>210,00</h1> <span class="dur">/mês</span>
                     </div>
             </div>
             <ul class="top15">
@@ -387,7 +387,7 @@
                 <h3 class="bottom15">papelaria</h3>
 			<span class="heading-titlenovo bottom25">em 12x de </span>
                     <div class="ammount"> R$
-                        <h1>198,99</h1> <span class="dur">/mês</span>
+                        <h1>170,90</h1> <span class="dur">/mês</span>
                     </div>
             </div>
             <ul class="top15">
