@@ -272,7 +272,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-14 parallaxie">
+	<section class="padding bgintro-14 parallaxie" id="brandinghome">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-3"></div>
@@ -280,7 +280,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">manual da marca</h2>
 				<p>normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização excelente para quando você vai enviar sua logo a terceiros, assim eles tem o manual de como inserir sua marca de maneira correta.</p>
-			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+			<a href="javascript:void(0)" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
 			</div>
 		</div>
