@@ -155,7 +155,7 @@
                                     <h2 class="text-center bottom10 cc-light">anúncios</h2>
                                     <p class="text-justify">para investir em anúncios hoje em dia e não perder dinheiro conquistando apenas curtidas, precisa-se ter muito conhecimento, estratégia e uma equipe focada em converter investimento em leads e clientes, e isso a cupcode tem! nós literalmente vamos fazer seu investimento trabalhar por você.</p>
                                     <div class="text-center">
-                                        <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
+                                        <a href="marketing-digital.php#anuncioshome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
