@@ -259,7 +259,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-3 parallaxie" id="brandinghome">
+	<section class="padding bgintro-3 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -301,7 +301,7 @@
 	</section>
 	<!--Services 3 column ends-->
 	<!--Blog info -->
-	<section id="ourinfo" class="services-wrapper">
+	<section class="services-wrapper"  id="anuncioshome">
 	<div class="container-fluid">
 		<div class="row box-info-wrap">
 			<div class="col-md-6 col-sm-6 nopadding">
