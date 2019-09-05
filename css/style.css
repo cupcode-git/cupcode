@@ -551,11 +551,15 @@ img.filter-none {
     color: #585858;
 }
 .ccdark {
-	text-shadow: 2px 3px 1px rgba(0,0,0,.7);
-	transition: 1s;
+	color: #ffffff47 !important;
+    text-shadow: 1px 2px 1px rgba(0,0,0,.7);
+    transition: 1s;
 }
 .ccdark:hover {
-	text-shadow: -1px 3px 1px rgba(0,0,0,.7);
+    text-shadow: -2px 2px 1px rgba(0,0,0,.7);
+}
+.light {
+    color: #ffffff80 !important;
 }
 .cc-light {
     color: #ffffff80 !important;
@@ -590,7 +594,7 @@ img.filter-none {
     color: #afa1a170 !important;
 }
 .ccdeep {
-	color: #ffffff47;
+	color: #ffffff47 !important;
 	text-shadow: 1px 2px 1px rgba(0,0,0,.7);
 	transition: 1s;
 }
