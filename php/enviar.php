@@ -16,10 +16,10 @@ $mail = new PHPMailer();
 $mail->IsSMTP(); 
  
 // Enviar por SMTP 
-$mail->Host = "mail.cupcode.com.br"; 
+$mail->Host = "email-ssl.com.br"; 
  
 // Você pode alterar este parametro para o endereço de SMTP do seu provedor 
-$mail->Port = 25; 
+$mail->Port = 465; 
  
  
 // Usar autenticação SMTP (obrigatório) 
@@ -28,7 +28,7 @@ $mail->SMTPAuth = true;
 // Usuário do servidor SMTP (endereço de email) 
 // obs: Use a mesma senha da sua conta de email 
 $mail->Username = 'contato@cupcode.com.br'; 
-$mail->Password = 'Lauro1234'; 
+$mail->Password = '(C)upcode;2019*'; 
  
 // Configurações de compatibilidade para autenticação em TLS 
 $mail->SMTPOptions = array( 'ssl' => array( 'verify_peer' => false, 'verify_peer_name' => false, 'allow_self_signed' => true ) ); 
@@ -61,7 +61,7 @@ $mail->IsHTML(true);
 $mail->CharSet = 'UTF-8'; 
  
 // Assunto da mensagem 
-$mail->Subject = "Contato do site"; 
+$mail->Subject = "Novo cntato na cupcode"; 
  
 // Corpo do email 
 $mail->Body = 'Nome:'.$nome.'<br>Email:'.$email.'<br>Telefone:'.$telefone.'<br>Mensagem:'.$mensagem; 
@@ -77,7 +77,9 @@ if ($enviado)
 { 
     echo "Seu email foi enviado com sucesso!"; 
 } else { 
-    echo "Houve um erro enviando o email: ".$mail->ErrorInfo; 
+    echo "Houve um erro enviando o email: ".$mail->ErrorInfo;
+    echo "Envie um e-mail para contato@cupcode.com.br que entraremos em contato contigo.";
+    echo "<br>Sua mensagem: ".mensagem;
 } 
  
  
