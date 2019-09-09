@@ -856,7 +856,7 @@
                             </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                            <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                            <button type="submit" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                     </div>
                 </div>
