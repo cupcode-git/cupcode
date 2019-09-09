@@ -252,7 +252,7 @@
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
-                <h2 class="bottom45 cc-light">Branding</h2>
+                <h2 class="bottom45 ccdeep">Branding</h2>
                 <p class="bottom15 mobilespc">construimos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia com o lettering, a palheta de cores e tudo o que você precisa para dar o start no seu negocio.</p>
             </div>
             </div>
@@ -294,7 +294,7 @@
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center wow fadeInUp">
-                    <h2 class="bottom45 cc-light">papelaria</h2>
+                    <h2 class="bottom45 ccdeep">papelaria</h2>
                     <p class="bottom45 mobilespc">um dos principais meios de comunicação e divulgação da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.</p>
                 </div>
             </div>
@@ -335,7 +335,7 @@
         <div class="row">
         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="intro-text center wow fadeInUp">
-                <h2 class="bottom25 cc-light">pacotes</h2>
+                <h2 class="bottom25 ccdeep">pacotes</h2>
             </div>
         </div>
         <div class="col-md-2 col-sm-2"></div>
@@ -447,7 +447,7 @@
                             </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                            <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                        <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                     </div>
                 </div>
