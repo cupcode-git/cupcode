@@ -251,7 +251,7 @@
          <div class="col-md-2 col-sm-1"></div>
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
-               <h2 class="bottom45 cc-light">editorial</h2>
+               <h2 class="bottom45 ccdeep">editorial</h2>
                <p class="bottom15 mobilespc">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
             </div>
          </div>
@@ -293,7 +293,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="intro-text center wow fadeInUp">
-                  <h2 class="bottom25 cc-light">pacote</h2>
+                  <h2 class="bottom25 ccdeep">pacote</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -350,7 +350,7 @@
                            </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                           <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                        <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                   </div>
                </div>
