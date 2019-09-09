@@ -250,7 +250,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h2 class="bottom25 cc-light">websites</h2>
+               <h2 class="bottom25 ccdeep">websites</h2>
                   <p class="bottom15 mobilespc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
          </div>
@@ -306,7 +306,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h2 class="bottom25 cc-light">adicionais</h2>
+               <h2 class="bottom25 ccdeep">adicionais</h2>
                   <p class="bottom15 mobilespc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             </div>
          </div>
@@ -375,7 +375,7 @@
          <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                <div class="item-titles text-center wow fadeInLeft">
-                  <h2 class="bottom25 cc-light">pacotes</h2>
+                  <h2 class="bottom25 ccdeep">pacotes</h2>
                </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -679,7 +679,7 @@
                            </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                           <button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                        <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                   </div>
                </div>

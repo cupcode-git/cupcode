@@ -252,7 +252,7 @@
 			<div class="col-md-2 col-sm-1"></div>
 			<div class="col-md-8 col-sm-10">
 				<div class="intro-text center wow fadeInUp">
-				<h2 class="bottom45 cc-light">redes sociais</h2>
+				<h2 class="bottom45 ccdeep">redes sociais</h2>
 				<p class="bottom45 mobilespc">as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.</p>
 				</div>
 			</div>
@@ -308,7 +308,7 @@
 				<div class="box-info container-padding padding_half1 equalheight">
 				<div class="item-titles wow fadeInLeft">
 				<span class="heading-title bottom25">anúncios</span>
-					<h2 class="bottom45 cc-light">google ads</h2>
+					<h2 class="bottom45 ccdeep">google ads</h2>
 					<p>produzimos e gerenciamos os melhores anúncios para serem exibidos em outros sites pela internet. nossos profissionais analisam todos os dados em tempo real e fazem as modificações necessárias para que seu investimento produza um grande retorno.</p>
 				</div>
 				</div>
@@ -331,7 +331,7 @@
 				<div class="box-info container-padding padding_half1 equalheight">
 				<div class="item-titles wow fadeInLeft">
 					<span class="heading-title bottom25"> anúncios </span>
-					<h2 class="bottom45 cc-light">facebook ads</h2>
+					<h2 class="bottom45 ccdeep">facebook ads</h2>
 					<p>anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estrategicamente para garantir que somente quem tem interesse pelos seus produtos/serviços seja alcançado e que você não pague apenas por likes.</p>
 				</div>
 				</div>
@@ -346,7 +346,7 @@
 				<div class="box-info container-padding padding_half1 equalheight">
 				<div class="item-titles wow fadeInLeft">
 					<span class="heading-title bottom25">otimização de conteúdo</span>
-					<h2 class="bottom45 cc-light">seo</h2>
+					<h2 class="bottom45 ccdeep">seo</h2>
 					<p>a <strong>cupcode</strong> tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos para elevar seu site no ranking das pesquisas.</p>
 				</div>
 				</div>
@@ -369,7 +369,7 @@
 				<div class="box-info container-padding padding_half1 equalheight">
 				<div class="item-titles wow fadeInLeft">
 				<span class="heading-title bottom25">indicador de desempenho</span>
-					<h2 class="bottom45 cc-light">kpi</h2>
+					<h2 class="bottom45 ccdeep">kpi</h2>
 					<p>com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo o desempenho positivo.</p>
 				</div>
 				</div>
@@ -385,7 +385,7 @@
 				<div class="box-info container-padding padding_half1 equalheight">
 				<div class="item-titles wow fadeInLeft">
 					<span class="heading-title bottom25">mala direta</span>
-					<h2 class="bottom45 cc-light">e-mail marketing</h2>
+					<h2 class="bottom45 ccdeep">e-mail marketing</h2>
 					<p>podemos fazer propagandas com o e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse dos seu clientes, evitando que seus e-mail virem span, com uma boa conduta sempre respeitando o seus clientes.</p>
 				</div>
 				</div>
@@ -407,7 +407,7 @@
 			<div class="row">
 				<div class="center-block">
 				<div class="intro-text center wow fadeInUp">
-					<h2 class="bottom25 cc-light">pacotes</h2>
+					<h2 class="bottom25 ccdeep">pacotes</h2>
 				</div>
 				</div>
 				<div class="col-md-2 col-sm-2"></div>
@@ -503,7 +503,7 @@
 									</div>
 								</div>
 								<div class="col-sm-12 text-right m-0 p-0">
-									<button type="submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+								<button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
 								</div>
 						</div>
 					</div>
