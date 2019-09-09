@@ -61,7 +61,7 @@ $mail->IsHTML(true);
 $mail->CharSet = 'UTF-8'; 
  
 // Assunto da mensagem 
-$mail->Subject = "Novo cntato na cupcode"; 
+$mail->Subject = "Novo contato na cupcode"; 
  
 // Corpo do email 
 $mail->Body = 'Nome:'.$nome.'<br>Email:'.$email.'<br>Telefone:'.$telefone.'<br>Mensagem:'.$mensagem; 
