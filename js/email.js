@@ -1,7 +1,7 @@
 $(document).ready( function(){
     $("#form_submit").click( function(){
         $.ajax({
-            url: "php/enviar.php",
+            url: "enviar.php",
             method: "POST",
             data:{
                 nome:$("#form_nome").val(),

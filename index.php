@@ -716,64 +716,6 @@
             </div>
         </div>
     </section>
-    <!--Single portfolio ends-->
-    <!--Pricing white Structure-->
-    <!--section id="tabela" class="padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-8">
-                    <div class="intro-text center wow fadeInUp">
-                        <span class="heading-title bottom25">melhor que uma estimativa, são valores bem definidos.</span>
-                        <h2 class="darkcolor bottom45">planos para marketing<br> digital</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pricing-white">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-sm-4 price-table text-center top50 wow fadeInUp">
-                        <div class="price-plan">
-                            <h2 class="bottom15">ristreto</h2>
-                            <div class="ammount">
-                                <span>R$</span>
-                                <h1>790</h1> <span class="dur">,90/ mês</span>
-                            </div>
-                        </div>
-                        <ul class="top15">
-                            <li><span>9 posts em redes sociais</span></li>
-                            <li><span>1 atualização no site</span></li>
-                            <li><span>8 adaptações SEO</span></li>
-                            <li><span>5 e-mails marketing</span></li>
-                            <li><span>2 análises de KPI</span></li>
-                            <li><span>2 otimizações do Google AdWords</span></li>
-                        </ul>
-                        <div class="clearfix"></div>
-                        <a href="javascript:void(0)" class="button defaulthole2 top50">comprar</a>
-                    </div>
-                    <div class="col-md-6 col-sm-4 price-table text-center top50 wow fadeInUp">
-                        <div class="price-plan">
-                            <h2 class="bottom15">lungo</h2>
-                            <div class="ammount">
-                                <span>R$</span>
-                                <h1>1290</h1> <span class="dur">,90/ mês</span>
-                            </div>
-                        </div>
-                        <ul class="top15">
-                            <li><span>14 posts em redes sociais</span></li>
-                            <li><span>2 atualizações no site</span></li>
-                            <li><span>14 adaptações SEO</span></li>
-                            <li><span>7 e-mails marketing</span></li>
-                            <li><span>4 análises de KPI</span></li>
-                            <li><span>4 otimizações do Google AdWords</span></li>
-                        </ul>
-                        <div class="clearfix"></div>
-                        <a href="javascript:void(0)" class="button defaulthole2 top50">comprar</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section-->
     <section class="single-items center-block item-teen3 parallaxie full-screen" id="depoimentos">
         <div class="container">
             <div class="row">
@@ -831,34 +773,44 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <form class="getin_form wow fadeInUp"></form>
-                    <div class="col-md-5 p-0">
-                        <div class="col-md-12 col-sm-12 m-0 p-0">
-                            <div class="form-group bottom45">
-                                <input id="form_nome" class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                    <form class="getin_form wow fadeInUp" method="post" action="enviar.php">
+                        <div class="col-md-5 p-0">
+                            <div class="col-md-12 col-sm-12 m-0 p-0">
+                                <div class="form-group bottom45">
+                                    <input id="form_nome" class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" required>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 m-0 p-0">
+                                <div class="form-group bottom45">
+                                    <input id="form_email" class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail" required>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 m-0 p-0">
+                                <div class="form-group bottom45">
+                                    <input id="form_telefone" class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone" required>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-12 col-sm-12 m-0 p-0">
-                            <div class="form-group bottom45">
-                                <input id="form_email" class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                        <div class="col-md-7 p-0">
+                            <div class="col-md-12 col-sm-12">
+                                <div class="form-group bottom45">
+                                    <textarea id="form_mensagem" class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem" required></textarea>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 text-right m-0 p-0">
+                                <button type="submit" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                             </div>
                         </div>
-                        <div class="col-md-12 col-sm-12 m-0 p-0">
-                            <div class="form-group bottom45">
-                                <input id="form_telefone" class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                    </form>
+                    <!-- Starting of successful form message -->
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                Sua mensagem foi enviada com sucesso!
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-7 p-0">
-                        <div class="col-md-12 col-sm-12">
-                            <div class="form-group bottom45">
-                                <textarea id="form_mensagem" class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
-                            </div>
-                        </div>
-                        <div class="col-sm-12 text-right m-0 p-0">
-                            <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
-                        </div>
-                    </div>
+                    <!-- END of alert -->
                 </div>
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
