@@ -293,7 +293,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">impulsionar</h2>
 				<p>não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
-					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings cc-light">ver pacotes</a>
 				</div>
 		</div>
 		</div>
