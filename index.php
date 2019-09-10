@@ -187,7 +187,7 @@
                             <div class="grid">
                                 <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site, blog e lojas virtuais">site/blog</h4>
                                 <div style="display: none;" id="hidden-content-c">
-                                    <h2 class="text-center bottom10 text-dark">site/blog</h2>
+                                    <h2 class="text-center bottom10 cc-light">site/blog</h2>
                                     <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem sites dinâmicos, que chama a atenção e atraem clientes. sabemos exatamente o que seu cliente procura e nós oferecemos isso a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivos que se adaptam em todos os tamanhos de tela seja ela gigante ou uma tela tão pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                     <div class="text-center">
                                         <a href="websites.php#siteshome" class="button defaulthole">ver planos</a>
@@ -856,7 +856,7 @@
                             </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                            <button type="submit" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                            <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                     </div>
                 </div>
