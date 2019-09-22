@@ -867,7 +867,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-lrmck.png" alt="[[ l r m c k ]]" title="[[ l r m c k ]]">
+                            <img src="images/logo-lrmck.png" alt="[[ L R M c K ]]" title="[[ L R M c K ]]">
                         </div>
                     </div>
                     <div class="swiper-slide">
