@@ -151,7 +151,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">artigos</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">artigos</h2></div>
                   <!-- layer nr. 11 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-nine"
@@ -169,7 +169,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">matérias</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">matérias</h2></div>
                   <!-- layer nr. 12 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-ten"
@@ -187,7 +187,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">criação editorial</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">criação editorial</h2></div>
                   <!-- layer nr. 13 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -306,7 +306,7 @@
 			<span class="heading-title bottom25">latte machiatto</span>
                   <h3 class="bottom15">criação editorial</h3>
                   <div class="ammount">          R$
-                     <h1>1490,90</h1> <span class="dur">/mês</span>
+                     <h2>1490,90</h2> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
