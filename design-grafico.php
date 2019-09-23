@@ -151,7 +151,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">branding</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">branding</h2></div>
                 <!-- layer nr. 11 -->
                 <div class="tp-caption tp-resizeme"
                         id="layers-nine"
@@ -169,7 +169,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">papelaria</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">papelaria</h2></div>
                 <!-- layer nr. 12 -->
                 <div class="tp-caption tp-resizeme"
                         id="layers-ten"
@@ -187,7 +187,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">design gráfico</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">design gráfico</h2></div>
                 <!-- layer nr. 13 -->
                 <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -347,7 +347,7 @@
                     <h3 class="bottom15">branding</h3>
 			<span class="heading-titlenovo bottom25">em 10x de </span>
                     <div class="ammount">R$
-                        <h1>79,90</h1> <span class="dur">/mês</span>
+                        <h2>79,90</h2> <span class="dur">/mês</span>
                     </div>
             </div>
             <ul class="top15">
@@ -366,7 +366,7 @@
                     <h3 class="bottom15">branding & papelaria</h3>
 			<span class="heading-titlenovo bottom25">em 12x de </span>
                     <div class="ammount">R$
-                        <h1>210,00</h1> <span class="dur">/mês</span>
+                        <h2>210,00</h2> <span class="dur">/mês</span>
                     </div>
             </div>
             <ul class="top15">
@@ -387,7 +387,7 @@
                 <h3 class="bottom15">papelaria</h3>
 			<span class="heading-titlenovo bottom25">em 12x de </span>
                     <div class="ammount"> R$
-                        <h1>170,90</h1> <span class="dur">/mês</span>
+                        <h2>170,90</h2> <span class="dur">/mês</span>
                     </div>
             </div>
             <ul class="top15">

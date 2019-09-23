@@ -151,7 +151,7 @@
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">redes sociais</h1></div>
+								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">redes sociais</h2></div>
 							<!-- layer nr. 11 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-nine" 
@@ -169,7 +169,7 @@
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">anúncios</h1></div> 
+								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">anúncios</h2></div> 
 							<!-- layer nr. 12 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-ten" 
@@ -187,7 +187,7 @@
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">marketing digital</h1></div>
+								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">marketing digital</h2></div>
 							<!-- layer nr. 13 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-elev" 
@@ -418,7 +418,7 @@
 					<h3 class="bottom15">Standard</h3>
 					<div class="ammount">
 						<i class="fa fa-dollar"></i>
-						<h1>185</h1> <span class="dur">/ year</span>
+						<h2>185</h2> <span class="dur">/ year</span>
 					</div>
 				</div>
 				<ul class="top15">
@@ -437,7 +437,7 @@
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
 					<h3 class="bottom15">pacote ristreto</h3>
 					<div class="ammount">R$
-							<h1>498,90</h1> <span class="dur">/mês</span>
+							<h2>498,90</h2> <span class="dur">/mês</span>
 					</div>
 				</div>
 				<ul class="top15 pdb-65">
@@ -455,7 +455,7 @@
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
 					<h3 class="bottom15">pacote lungo</h3>
 					<div class="ammount"> R$
-							<h1>698,90</h1> <span class="dur">/mês</span>
+							<h2>698,90</h2> <span class="dur">/mês</span>
 					</div>
 				</div>
 				<ul class="top15">
