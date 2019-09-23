@@ -773,7 +773,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <form class="getin_form wow fadeInUp" method="post" action="enviar.php">
+                    <!--form class="getin_form wow fadeInUp" method="post" action="enviar.php">
                         <div class="col-md-5 p-0">
                             <div class="col-md-12 col-sm-12 m-0 p-0">
                                 <div class="form-group bottom45">
@@ -801,7 +801,7 @@
                                 <button type="submit" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                             </div>
                         </div>
-                    </form>
+                    </form-->
                     <!-- Starting of successful form message -->
                     <div class="row">
                         <div class="col-12">
