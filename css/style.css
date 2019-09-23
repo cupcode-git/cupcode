@@ -159,6 +159,9 @@ button {
 .margin_top {
     margin-top: 8.75rem;
 }
+.mgb-10 {
+    margin-bottom: 10px;
+}
 .mgt-50 {
     margin-top: 50px;
 }
@@ -599,10 +602,22 @@ img.filter-none {
 .ccdeep {
 	color: #ffffff47 !important;
 	text-shadow: 1px 2px 1px rgba(0,0,0,.7);
-	transition: 1s;
 }
 .ccdeep:hover {
-	text-shadow: -2px 2px 1px rgba(0,0,0,.7);
+    text-shadow: -2px 2px 1px rgba(0,0,0,.7);
+	transition: 0.5s !important;
+}
+.border-light {
+    border-bottom: 1px solid #ffffff !important;
+}
+.border-dark {
+    border-bottom: 1px solid #585858 !important;
+}
+.border-light:hover {
+    border-bottom: 1px solid #bdbdbd40 !important;
+}
+.border-dark:hover{
+    border-bottom: 1px solid #bdbdbd40 !important;
 }
 /* Social Icons */
 ul.social_simple li,
