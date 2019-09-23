@@ -168,6 +168,9 @@ button {
 .mgt-100 {
     margin-top: 100px;
 }
+.mgb-100 {
+    margin-bottom: 100px;
+}
 .padding_half {
     padding: 4.375rem 0;
     background-color: #b7b7b7;
@@ -765,11 +768,7 @@ ul.social.dark li a:focus{
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
     border-bottom: 1px solid #bdbdbd40;
 }
-a.button.contratar.mgr-10.top50 {
-    color: #5b9860;
-}
-
-a.button.contratar.mgl-10.top50 {
+.contratar {
     color: #5b9860;
 }
 .button.contratar {
@@ -782,6 +781,7 @@ a.button.contratar.mgl-10.top50 {
     background-color: #227d355c;
     box-shadow: 6px 4px 5px 2px #227d355c;
     border-bottom: 1px #227d355c !important;
+    color: #5b9860;
 }
 .dark-grey {
 	color: #8a8a8a;

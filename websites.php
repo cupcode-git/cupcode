@@ -396,7 +396,7 @@
                   <li><span>html5, css3 & bootstrap</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRrA5b2" target="_blank" class="button defaulthole top50">contratar site</a>
+               <a href="https://pag.ae/7VhRrA5b2" target="_blank" class="button defaulthole top50 contratar">contratar site</a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
@@ -414,7 +414,7 @@
                   <li><span>produção de conteúdo original</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRuB8G7" target="_blank" class="button defaulthole top50">contratar blog</a>
+               <a href="https://pag.ae/7VhRuB8G7" target="_blank" class="button defaulthole top50 contratar">contratar blog</a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
@@ -433,10 +433,10 @@
                   <li><span>wordpress & woocommerce</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50">contratar e-commerce</a>
+               <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50 contratar">contratar e-commerce</a>
             </div>
          </div>
-         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre website</a>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre website</a></center>
       </div>
    </div>
    </section>
@@ -517,7 +517,7 @@
                   <a href="http://pag.ae/7VhRzJqb2" target="_blank" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
-         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
       </div>
    </div>
 </section>
@@ -572,7 +572,7 @@
                <a href="http://pag.ae/7VhRDMMg6" target="_blank" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
-         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre dominíos</a>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre dominíos</a></center>
       </div>
    </div>
    </section>
@@ -612,7 +612,7 @@
                   <li><span>caixa com 10 GB</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRG7jTM" target="_blank" class="button defaulthole top50">contratar</a>
+               <a href="http://pag.ae/7VhRG7jTM" target="_blank" class="button defaulthole top50 contratar">contratar</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -625,7 +625,7 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRHkgr7" target="_blank" class="button defaulthole top50">contratar</a>
+               <a href="http://pag.ae/7VhRHkgr7" target="_blank" class="button defaulthole top50 contratar">contratar</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -638,7 +638,7 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRJf467" target="_blank" class="button defaulthole top50">contratar</a>
+               <a href="http://pag.ae/7VhRJf467" target="_blank" class="button defaulthole top50 contratar">contratar</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -651,10 +651,10 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRJ_pX2" target="_blank" class="button defaulthole top50">contratar</a>
+               <a href="http://pag.ae/7VhRJ_pX2" target="_blank" class="button defaulthole top50 contratar">contratar</a>
             </div>
          </div>
-         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas ou solicitar mais caixas</a>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas ou solicitar mais caixas</a></center>
       </div>
    </div>
    </section>
@@ -693,7 +693,7 @@
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50">assinar ssl</a>
+               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar">assinar ssl</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
@@ -707,10 +707,10 @@
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50">assinar ssl</a>
+               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar">assinar ssl</a>
             </div>
          </div>
-         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre ssl</a>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre ssl</a></center>
       </div>
    </div>
    </section>
