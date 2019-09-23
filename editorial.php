@@ -205,7 +205,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">Lorem Ipsum is simply dummy text of the printing</div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">faça seu investimento, trabalhar por você!</div>
                   <!-- layer nr. 14 -->
                   <div class="tp-caption rev-btn"
                         id="layers-twel"
@@ -244,6 +244,18 @@
          <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
    </div>
    </section>
+   <section id="adicionais" class="services-wrapper pdt-100 pdb-100 center-block">
+   <div class="container text-center">
+      <div class="row">
+         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+            <div class="item-titles whitecolor text-center wow fadeInLeft">
+               <h1 class="bottom25 ccdeep">criação de matérias e artigos editoriais com foco em seo.</h1>
+            </div>
+         </div>
+         <div class="col-md-2 col-sm-2"></div>
+      </div>
+   </div>
+   </section>
    <!-- end Ful Screen hero Banner -->
    <section id="criacaoeditorial" class=" pdt-100 pdb-100 center-block">
    <div class="container">
@@ -279,7 +291,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">adaptação de conteúdo</h2>
-               <p>nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los ao SEO, assim atraindo mais clientes para ler seu conteúdo e para se tornaram leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
+               <p>nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los ao pratica SEO, assim, atraíndo mais usuários para ler seu conteúdo e para se tornaram leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
             </div>
          </div>
       </div>
@@ -305,16 +317,17 @@
                <div class="price-plan">
 			<span class="heading-title bottom25">latte machiatto</span>
                   <h3 class="bottom15">criação editorial</h3>
-                  <div class="ammount">          R$
-                     <h2>1490,90</h2> <span class="dur">/mês</span>
+                  <div class="ammount">R$
+                     <h2>1490,90</h2>
+                     <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>4 artigos por mês</span></li>
+                  <li><span>4 artigos por mês com foco em SEO</span></li>
                </ul>
                <div class="clearfix"></div>
-				<a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
-				<a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
+				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
@@ -325,7 +338,7 @@
       <div class="container">
          <div class="row">
             <div class="col-md-6">
-                  <form class="getin_form wow fadeInUp"></form>
+                  <!--form class="getin_form wow fadeInUp">
                   <div class="col-md-5 p-0">
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                            <div class="form-group bottom45">
@@ -353,6 +366,7 @@
                         <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                   </div>
+               </form-->
                </div>
                <!-- aqui esta um espaço entre as colunas-->
                <div class="col-md-2">

@@ -205,7 +205,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">Lorem Ipsum is simply dummy text of the printing</div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">faça seu investimento, trabalhar por você!</div>
                 <!-- layer nr. 14 -->
                 <div class="tp-caption rev-btn"
                         id="layers-twel"
@@ -245,6 +245,18 @@
         </div>
     </section>
     <!-- end Ful Screen hero Banner -->
+    <section id="adicionais" class="services-wrapper pdt-100 pdb-100 center-block">
+   <div class="container text-center">
+      <div class="row">
+         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+            <div class="item-titles whitecolor text-center wow fadeInLeft">
+               <h1 class="bottom25 ccdeep">criação de branding, artes gráficas impressas e digitais</h1>
+            </div>
+         </div>
+         <div class="col-md-2 col-sm-2"></div>
+      </div>
+   </div>
+   </section>
     <!--Services 3 column-->
     <section id="about" class=" pdt-100 pdb-100 center-block">
     <div class="container">
@@ -252,8 +264,8 @@
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
-                <h2 class="bottom45 ccdeep">Branding</h2>
-                <p class="bottom15 mobilespc">construimos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia com o lettering, a palheta de cores e tudo o que você precisa para dar o start no seu negocio.</p>
+                <h2 class="bottom45 ccdeep">branding</h2>
+                <p class="bottom15 mobilespc">construímos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia, a palheta de cores e tudo o que você precisa para dar o start no seu negócio.</p>
             </div>
             </div>
         </div>
@@ -265,7 +277,7 @@
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">logotipo</h2>
-				<p>nossos designers são especialistas em criar um logotipo marcante e único, onde você tenha a representação da sua empresa em um lindo, elegante design. Que começa com um estudo aprofundado sobre a empresa, os conceitos, os traços, unido aos valores, missão e visão de sua empresa.</p>
+				<p>nossos designers são especialistas em criar um logotipo marcante e único, onde você tenha a representação da sua marca em um lindo e elegante design que começa com um estudo aprofundado sobre os conceitos, os traços, unido aos seus valores, missão e visão      .</p>
 			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
 			</div>
@@ -279,7 +291,7 @@
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">manual da marca</h2>
-				<p>normas técnicas, recomendações e especificações para a utilização da identidade de uma marca, assim facilitamos a memorização e a padronização excelente para quando você vai enviar sua logo a terceiros, assim eles tem o manual de como inserir sua marca de maneira correta.</p>
+				<p>normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.</p>
 			<a href="javascript:void(0)" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
 			</div>
@@ -295,7 +307,7 @@
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center wow fadeInUp">
                     <h2 class="bottom45 ccdeep">papelaria</h2>
-                    <p class="bottom45 mobilespc">um dos principais meios de comunicação e divulgação da sua empresa, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.</p>
+                    <p class="bottom45 mobilespc">um dos principais meios de comunicação e divulgação da sua marca, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.</p>
                 </div>
             </div>
         </div>
@@ -307,7 +319,7 @@
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">artes impressas</h2>
-				<p>nclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que sua empresa precise enviar para impressão, nós fazemos isso por você. Fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.</p>
+				<p>inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.</p>
 			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
 			</div>
@@ -344,11 +356,11 @@
             <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="branding">
             <div class="price-plan">
 			<span class="heading-title bottom25">mocha</span>
-                    <h3 class="bottom15">branding</h3>
-			<span class="heading-titlenovo bottom25">em 10x de </span>
-                    <div class="ammount">R$
-                        <h2>79,90</h2> <span class="dur">/mês</span>
-                    </div>
+                <h3 class="bottom15">branding</h3>
+			    <span class="heading-titlenovo bottom25">12x de </span>
+                <div class="ammount">R$
+                    <h2>79,90</h2> <span class="dur">/mês</span>
+                </div>
             </div>
             <ul class="top15">
                 <li><span>logotipo</span></li>
@@ -358,16 +370,16 @@
                 <li><span>manual da marca</span></li>
             </ul>
             <div class="clearfix"></div>
-				<a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50">contratar</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
 			<span class="heading-title bottom25">latte machiatto</span>
-                    <h3 class="bottom15">branding & papelaria</h3>
-			<span class="heading-titlenovo bottom25">em 12x de </span>
-                    <div class="ammount">R$
-                        <h2>210,00</h2> <span class="dur">/mês</span>
-                    </div>
+                <h3 class="bottom15">branding & papelaria</h3>
+			    <!--span class="heading-titlenovo bottom25">12x de </span-->
+                <div class="ammount">R$
+                    <h2>249,90</h2> <span class="dur">/mês</span>
+                </div>
             </div>
             <ul class="top15">
                 <li><span>logotipo</span></li>
@@ -379,41 +391,26 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50">contratar</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
 			<span class="heading-title bottom25">capuccinno</span>
                 <h3 class="bottom15">papelaria</h3>
-			<span class="heading-titlenovo bottom25">em 12x de </span>
-                    <div class="ammount"> R$
-                        <h2>170,90</h2> <span class="dur">/mês</span>
-                    </div>
+			    <!--span class="heading-titlenovo bottom25">em 12x de </span-->
+                <div class="ammount"> R$
+                    <h2>198,90</h2> <span class="dur">/mês</span>
+                </div>
             </div>
             <ul class="top15">
                 <li><span>artes impressas</span></li>
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50">contratar</a>
         </div>
         </div>
-        </div>
-    </div>
-    </section>
-    <section class="services-wrapper pdb-100 center-block">
-    <div class="container text-center">
-        <div class="row">
-        <div class="col-md-12 col-sm-12">
-            <div class="col-md-4 col-sm-12">
-            </div>
-                    <div class="col-md-4 col-sm-12">
-				<a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
-                </div>
-                    <div class="col-md-4 col-sm-12">
-                </div>
-                </div>
-        <div class="col-md-2 col-sm-2"></div>
+        <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a>
         </div>
     </div>
     </section>
@@ -422,34 +419,35 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <form class="getin_form wow fadeInUp"></form>
-                    <div class="col-md-5 p-0">
-                        <div class="col-md-12 col-sm-12 m-0 p-0">
-                            <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                    <!--form class="getin_form wow fadeInUp">
+                        <div class="col-md-5 p-0">
+                            <div class="col-md-12 col-sm-12 m-0 p-0">
+                                <div class="form-group bottom45">
+                                    <input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 m-0 p-0">
+                                <div class="form-group bottom45">
+                                    <input class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 m-0 p-0">
+                                <div class="form-group bottom45">
+                                    <input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-12 col-sm-12 m-0 p-0">
-                            <div class="form-group bottom45">
-                                <input class="forma" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                        <div class="col-md-7 p-0">
+                            <div class="col-md-12 col-sm-12">
+                                <div class="form-group bottom45">
+                                    <textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 text-right m-0 p-0">
+                            <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                             </div>
                         </div>
-                        <div class="col-md-12 col-sm-12 m-0 p-0">
-                            <div class="form-group bottom45">
-                                <input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-7 p-0">
-                        <div class="col-md-12 col-sm-12">
-                            <div class="form-group bottom45">
-                                <textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
-                            </div>
-                        </div>
-                        <div class="col-sm-12 text-right m-0 p-0">
-                        <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
-                        </div>
-                    </div>
+                    </form-->
                 </div>
                 <!-- aqui esta um espaço entre as colunas-->
                 <div class="col-md-2">
