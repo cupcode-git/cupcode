@@ -206,7 +206,7 @@
                             <div class="grid">
                                 <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
                                 <div style="display: none;" id="hidden-content-d">
-                                    <h2 class="text-center bottom10 text-dark">hospedagem</h2>
+                                    <h2 class="text-center bottom10 cc-light">hospedagem</h2>
                                     <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a configuração e manutenção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                     <div class="text-center">
                                         <a href="websites.php#hospedagemhome" class="button defaulthole">ver planos</a>

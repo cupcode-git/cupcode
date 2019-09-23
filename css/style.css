@@ -556,6 +556,9 @@ img.filter-none {
 .text-dark {
     color: #585858;
 }
+.button.text-dark {
+    color: #585858;
+}
 .ccdark {
 	color: #ffffff47 !important;
     text-shadow: 1px 2px 1px rgba(0,0,0,.7);
