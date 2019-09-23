@@ -559,7 +559,10 @@ img.filter-none {
     text-shadow: -2px 2px 1px rgba(0,0,0,.7);
 }
 .light {
-    color: #ffffff80 !important;
+    color: #ffffff !important;
+}
+.text-light {
+    color: #ffffff !important;
 }
 .cc-light {
     color: #ffffff80 !important;

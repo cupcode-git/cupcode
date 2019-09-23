@@ -141,7 +141,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p>postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.</p>
+                            <p class="text-light">postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -160,7 +160,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p>anunciamos com inteligência para você ter o melhor retorno de seu investimento.</p>
+                            <p class="text-light">anunciamos com inteligência para você ter o melhor retorno de seu investimento.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
@@ -185,7 +185,7 @@
                                 <i class="fas fa-desktop"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 " alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site, blog e lojas virtuais">site/blog</h4>
+                                <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre site/blog" title="clique aqui e saiba mais sobre site, blog e lojas virtuais">site/blog</h4>
                                 <div style="display: none;" id="hidden-content-c">
                                     <h2 class="text-center bottom10 cc-light">site/blog</h2>
                                     <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem sites dinâmicos, que chama a atenção e atraem clientes. sabemos exatamente o que seu cliente procura e nós oferecemos isso a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivos que se adaptam em todos os tamanhos de tela seja ela gigante ou uma tela tão pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
@@ -204,7 +204,7 @@
                                 <i class="fas fa-server"></i>
                             </a>
                             <div class="grid">
-                                <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
+                                <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre hospedagem" title="clique aqui e saiba mais sobre hospedagem">hospedagem</h4>
                                 <div style="display: none;" id="hidden-content-d">
                                     <h2 class="text-center bottom10 text-dark">hospedagem</h2>
                                     <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a configuração e manutenção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
@@ -249,7 +249,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p>construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
+                            <p class="text-light">construímos toda a sua identidade visual, desde o logotipo até manual da marca.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -269,7 +269,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p>construímos todas suas lâminas para impressão ou digital, com qualidade e inteligência.</p>
+                            <p class="text-light">construímos todas suas lâminas para impressão ou digital, com qualidade e inteligência.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
