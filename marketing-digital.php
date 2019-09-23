@@ -205,7 +205,7 @@
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 19;">Lorem Ipsum is simply dummy text of the printing</div>
+								data-paddingleft="[0,0,0,0]" style="z-index: 19;">faça seu investimento, trabalhar por você!</div>
 							<!-- layer nr. 14 -->
 						<div class="tp-caption rev-btn" 
 								id="layers-twel" 
@@ -332,7 +332,7 @@
 				<div class="item-titles wow fadeInLeft">
 					<span class="heading-title bottom25"> anúncios </span>
 					<h2 class="bottom45 ccdeep">facebook ads</h2>
-					<p>anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estrategicamente para garantir que somente quem tem interesse pelos seus produtos/serviços seja alcançado e que você não pague apenas por likes.</p>
+					<p>anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estrategicamente para garantir que o público alvo seja aquele que tem interesse pelos seus produtos/serviços e que você não pague apenas por likes.</p>
 				</div>
 				</div>
 			</div>
@@ -370,7 +370,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<span class="heading-title bottom25">indicador de desempenho</span>
 					<h2 class="bottom45 ccdeep">kpi</h2>
-					<p>com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo o desempenho positivo.</p>
+					<p>com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo seu desempenho positivo.</p>
 				</div>
 				</div>
 			</div>
@@ -386,7 +386,7 @@
 				<div class="item-titles wow fadeInLeft">
 					<span class="heading-title bottom25">mala direta</span>
 					<h2 class="bottom45 ccdeep">e-mail marketing</h2>
-					<p>podemos fazer propagandas com o e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse dos seu clientes, evitando que seus e-mail virem span, com uma boa conduta sempre respeitando o seus clientes.</p>
+					<p>podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse dos seu clientes, evitando que seus e-mail virem span, com uma boa conduta sempre respeitando o seus clientes.</p>
 				</div>
 				</div>
 			</div>
@@ -447,8 +447,8 @@
 					<li><span>análize de KPI</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
-				<a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
+				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50">assinar</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
@@ -467,8 +467,8 @@
 					<li><span>análize de ROI (retorno de investimento)</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
-				<a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
+				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50">assinar</a>
 				</div>
 			</div>
 		</div>
@@ -478,8 +478,8 @@
 		<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<form class="getin_form wow fadeInUp"></form>
-						<div class="col-md-5 p-0">
+						<!--form class="getin_form wow fadeInUp">
+							<div class="col-md-5 p-0">
 								<div class="col-md-12 col-sm-12 m-0 p-0">
 									<div class="form-group bottom45">
 										<input class="forma" type="text" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
@@ -495,17 +495,18 @@
 										<input class="forma" type="text" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
 									</div>
 								</div>
-						</div>
-						<div class="col-md-7 p-0">
+							</div>
+							<div class="col-md-7 p-0">
 								<div class="col-md-12 col-sm-12">
 									<div class="form-group bottom45">
 										<textarea class="forma" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
 									</div>
 								</div>
 								<div class="col-sm-12 text-right m-0 p-0">
-								<button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+									<button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
 								</div>
-						</div>
+							</div>
+						</form-->
 					</div>
 					<!-- aqui esta um espaço entre as colunas-->
 					<div class="col-md-2">
