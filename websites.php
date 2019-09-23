@@ -151,7 +151,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">blog</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">blog</h2></div>
                   <!-- layer nr. 11 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-nine"
@@ -169,7 +169,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">loja virtual</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">loja virtual</h2></div>
                   <!-- layer nr. 12 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-ten"
@@ -187,7 +187,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h1 class="darkcolor">websites</h1></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">websites</h2></div>
                   <!-- layer nr. 13 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -205,7 +205,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">Lorem Ipsum is simply dummy text of the printing</div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">faça seu investimento, trabalhar por você.</div>
                   <!-- layer nr. 14 -->
                   <div class="tp-caption rev-btn"
                         id="layers-twel"
@@ -250,8 +250,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h2 class="bottom25 ccdeep">websites</h2>
-                  <p class="bottom15 mobilespc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+               <h1 class="bottom25 ccdeep">desenvolvimento de websites e lojas virtuais</h1>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -265,7 +264,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">sites</h2>
-               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os clientes tenham a melhor experiencia ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão sempre atualizados.</p>
+               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão atualizados.</p>
                         <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
@@ -307,7 +306,7 @@
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
                <h2 class="bottom25 ccdeep">adicionais</h2>
-                  <p class="bottom15 mobilespc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                  <p class="bottom15 mobilespc">sua casa na internet precisa de um terreno? temos hospedagem! precisa de um endereço? temos domínios! segurança? te oferecemos o SSL. temos tudo!</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -361,7 +360,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                         <h2 class="bottom45 cc-light">ssl</h2>
-               <p>exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL em seu site, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscdores, como google e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
+               <p>exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
                         <a href="javascript:void(0)#ssl" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
@@ -384,13 +383,13 @@
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="site">
                <div class="price-plan">
                   <h3 class="bottom15">site</h3>
-                        <span class="heading-titlenovo bottom25">em ate 10x de</span>
+                        <span class="heading-titlenovo bottom25">em até 10x de</span>
                   <div class="ammount">R$
-                     <h1>298,90</h1> <span class="dur">/mês</span>
+                     <h2>298,90</h2> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span>paginas responsiívas</span></li>
+                  <li><span>páginas responsívas</span></li>
                   <li><span>compatibilidade entre navegadores</span></li>
                   <li><span>seo inteligente</span></li>
                   <li><span>landing pages que atraem</span></li>
@@ -402,15 +401,15 @@
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
                   <h3 class="bottom15">blog</h3>
-                        <span class="heading-titlenovo bottom25">em ate 10x de</span>
+                        <span class="heading-titlenovo bottom25">em até 10x de</span>
                   <div class="ammount">R$
-                     <h1>398,90</h1> <span class="dur">/mês</span>
+                     <h2>398,90</h2> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>cadastro de usuários</span></li>
-                  <li><span>criação de paginas/posts</span></li>
-                  <li><span>comentarios e avaliações</span></li>
+                  <li><span>criação de páginas/posts</span></li>
+                  <li><span>comentários e avaliações</span></li>
                   <li><span>melhor rankeamento nas buscas</span></li>
                   <li><span>produção de conteúdo original</span></li>
                </ul>
@@ -422,7 +421,7 @@
                   <h3 class="bottom15">e-commerce</h3>
                         <span class="heading-titlenovo bottom25">a partir de 10x de</span>
                   <div class="ammount"> R$
-                     <h1>947,80</h1> <span class="dur">/mês</span>
+                     <h2>947,80</h2> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul class="top15">
@@ -437,6 +436,7 @@
                <a href="javascript:void(0)" class="button defaulthole top50">contratar e-commerce</a>
             </div>
          </div>
+         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
       </div>
    </div>
    </section>
@@ -468,16 +468,15 @@
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para site</h3>
                   <div class="ammount"> R$
-                     <h1>398,90</h1> <span class="dur">/ano</span>
+                     <h2>198,90</h2> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>backup diário</span></li>
-                  <li><span>ssl grátis</span></li>
-                  <li><span>armazenamento em ssd</span></li>
+                  <li><span>armazenamento em ssd 5 GB</span></li>
+                  <li><span>1 e-mail grátis 10 GB</span></li>
                   <li><span>alto desempenho</span></li>
                   <li><span>correções de falhas automáticas</span></li>
-                  <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
                   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
@@ -486,16 +485,15 @@
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para blog</h3>
                   <div class="ammount"> R$
-                     <h1>398,90</h1> <span class="dur">/ano</span>
+                     <h2>298,90</h2> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                <li><span>backup diário</span></li>
-               <li><span>ssl grátis</span></li>
-               <li><span>armazenamento em ssd</span></li>
+               <li><span>armazenamento em ssd 10 GB</span></li>
+               <li><span>1 e-mail grátis 10 GB</span></li>
                <li><span>alto desempenho</span></li>
                <li><span>correções de falhas automáticas</span></li>
-               <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
                   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
@@ -504,39 +502,25 @@
                <div class="price-plan">
                   <h3 class="bottom15">hospedagem para e-commerce</h3>
                   <div class="ammount"> R$
-                     <h1>678,90</h1> <span class="dur">/ano</span>
+                     <h2>378,90</h2> <span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                <li><span>backup diário</span></li>
                <li><span>ssl grátis</span></li>
-               <li><span>armazenamento em ssd</span></li>
+               <li><span>armazenamento em ssd 50GB</span></li>
+               <li><span>5 e-mails grátis 10 GB cada</span></li>
                <li><span>alto desempenho</span></li>
                <li><span>correções de falhas automáticas</span></li>
-               <li><span>armazenamento em ssd</span></li>
                </ul>
                <div class="clearfix"></div>
                   <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
       </div>
+      <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
    </div>
 </section>
-<section class="services-wrapper center-block">
-   <div class="container text-center">
-      <div class="row">
-      <div class="col-md-12 col-sm-12">
-            <div class="col-md-4 col-sm-12">
-                  </div>
-                  <div class="col-md-4 col-sm-12">
-                     <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
-                  </div>
-                  <div class="col-md-4 col-sm-12">
-                  </div>
-         <div class="col-md-2 col-sm-2"></div>
-      </div>
-   </div>
-   </section>
    <!--Pricing white ends-->
    <section class="single-items bgintro-20 mgt-100 parallaxie full-screen">
    <div class="container">
@@ -565,31 +549,30 @@
                <div class="price-plan">
                   <h3 class="bottom15">nacional</h3>
                   <div class="ammount"> R$
-                     <h1>45,00</h1> <span class="dur">/ano</span>
+                     <h2>45,00</h2> <span class="dur">/ano</span>
                   </div>
                </div>
-               <ul class="top15">
-                  <li><span>.br</span></li>
+               <ul>
+                  <li><span>seu-dominio.com.br</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
                <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">internacional</h3>
                   <div class="ammount"> R$
-                     <h1>40,00</h1> <span class="dur">/ano</span>
+                     <h2>40,00</h2> <span class="dur">/ano</span>
                   </div>
                </div>
-               <ul class="top15">
-                  <li><span>.com</span></li>
+               <ul>
+                  <li><span>seu-dominio.com</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="#contact-form" class="button defaulthole mgr-10 top50 scrollings">entrar em contato</a>
                <a href="javascript:void(0)" class="button contratar mgl-10 top50">contratar</a>
             </div>
          </div>
+         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
       </div>
    </div>
    </section>
@@ -600,7 +583,7 @@
          <div class="col-md-12">
             <div class="item-titles mgt-100 text-center wow fadeInRight">
                <h3 class="bottom10">
-                  <a class="cc-light"><strong>adicionais</strong></a>
+                  <a class="cc-light"><strong>e-mail</strong></a>
                </h3>
             </div>
             <div class="col-md-6 col-sm-3"></div>
@@ -618,43 +601,125 @@
    <div class="pricing-white">
       <div class="container">
          <div class="row">
-            <div class="col-md-6 col-sm-6 price-table text-center top50" id="e-mail">
+            <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15">e-mail</h3>
-                  <div class="ammount">   R$
-                     <h1>50,00</h1> <span class="dur">/mês</span>
+                  <h3 class="bottom15">1 e-mail</h3>
+                  <div class="ammount">R$
+                     <h2>50,00</h2> <span class="dur">/mês</span>
                   </div>
                </div>
-               <ul class="top15">
-                  <li><span>cada caixa com 10 GB cada</span></li>
+               <ul>
+                  <li><span>caixa com 10 GB de armazenamento</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">solicitar e-mail</a>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar 1 e-mail adicional</a>
             </div>
-            <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
+            <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15">ssl</h3>
+                  <h3 class="bottom15">2 e-mails</h3>
+                  <div class="ammount">R$
+                     <h2>75,00</h2> <span class="dur">/mês</span>
+                  </div>
+               </div>
+               <ul>
+                  <li><span>caixas com 10 GB cada</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar 2 e-mails adicionais</a>
+            </div>
+            <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
+               <div class="price-plan">
+                  <h3 class="bottom15">5 e-mails</h3>
+                  <div class="ammount">R$
+                     <h2>150,00</h2> <span class="dur">/mês</span>
+                  </div>
+               </div>
+               <ul>
+                  <li><span>caixas com 10 GB cada</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar 5 e-mails adicionais</a>
+            </div>
+            <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
+               <div class="price-plan">
+                  <h3 class="bottom15">10 e-mails</h3>
+                  <div class="ammount">R$
+                     <h2>280,00</h2> <span class="dur">/mês</span>
+                  </div>
+               </div>
+               <ul>
+                  <li><span>caixas com 10 GB cada</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">solicitar 10 e-mails adicionais</a>
+            </div>
+         </div>
+      </div>
+   </div>
+   </section>
+   <section class="single-items bgintro-20 mgt-100 parallaxie full-screen">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="item-titles mgt-100 text-center wow fadeInLeft">
+               <h3 class="bottom10">
+                  <a class="cc-light"><strong>ssl</strong></a>
+               </h3>
+            </div>
+            <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
+               <div>
+                  <img class="image-banner1" src="images/faixadedonutscaixa.png" />
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   </section>
+   <!--Floated Counters ends-->
+   <section class="top100 pdb-100">
+   <div class="pricing-white">
+      <div class="container">
+         <div class="row">
+         <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
+               <div class="price-plan">
+                  <h3 class="bottom15">contratação de ssl</h3>
                         <span class="heading-titlenovo bottom25">com instalação</span>
                   <div class="ammount">  R$
-                     <h1>120,00</h1><span class="dur">/ano</span>
+                     <h2>120,00</h2><span class="dur">/ano</span>
                   </div>
                </div>
                <ul class="top15">
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="javascript:void(0)" class="button defaulthole top50">contratar ssl</a>
+               <a href="javascript:void(0)" class="button defaulthole top50">assinar ssl</a>
+            </div>
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
+               <div class="price-plan">
+                  <h3 class="bottom15">renovação de ssl</h3>
+                        <span class="heading-titlenovo bottom25">atualização</span>
+                  <div class="ammount">  R$
+                     <h2>100,00</h2><span class="dur">/ano</span>
+                  </div>
+               </div>
+               <ul class="top15">
+                  <li><span>exiba um cadeado de site seguro no seu site</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="javascript:void(0)" class="button defaulthole top50">assinar ssl</a>
             </div>
          </div>
+         <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
       </div>
    </div>
    </section>
+
    <!--Pricing white ends-->
    <section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
       <div class="container">
             <div class="row">
                <div class="col-md-6">
-                  <form class="getin_form wow fadeInUp"></form>
+                  <!--form class="getin_form wow fadeInUp">
                   <div class="col-md-5 p-0">
                         <div class="col-md-12 col-sm-12 m-0 p-0">
                            <div class="form-group bottom45">
@@ -682,6 +747,7 @@
                         <button type="button" id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
                         </div>
                   </div>
+               </form-->
                </div>
                <!-- aqui esta um espaço entre as colunas-->
                <div class="col-md-2">
