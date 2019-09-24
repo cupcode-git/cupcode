@@ -370,7 +370,7 @@
                 <li><span>manual da marca</span></li>
             </ul>
             <div class="clearfix"></div>
-				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50">contratar</a>
+				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
@@ -391,7 +391,7 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50">contratar</a>
+                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
@@ -407,7 +407,7 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50">contratar</a>
+                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
         </div>
         </div>
         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
