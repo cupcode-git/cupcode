@@ -1036,6 +1036,11 @@ ul.social.dark li a:focus{
     height: 250px !important;
     padding: 0px !important;
 }
+.bgintro-23 {
+    background-color: #EADACF;
+    height: 250px !important;
+    padding: 0px !important;
+}
 .bgintro-seven{
    background: url(../images/bg-clientes.jpg) no-repeat;
 }

@@ -669,7 +669,7 @@
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
                <div>
-                  <img class="image-banner1" src="images/faixadedonutscaixa.png" />
+                  <img class="image-banner1" src="images/faixa-donuts.png" />
                </div>
             </div>
          </div>
