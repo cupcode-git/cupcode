@@ -327,7 +327,7 @@
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50">contratar</a>
+				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
             </div>
          </div>
       </div>

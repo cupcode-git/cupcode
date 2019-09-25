@@ -43,8 +43,9 @@
                         <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft ccdeep"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
                         <h3><a class="bottom20 item-titles wow fadeInLeft ccdeep" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                   </div>
-                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 mgb-10 top10"><i class="fab fa-whatsapp" aria-hidden="true"></i>mandar mensagem</a>
-                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top10"><i class="fab fa-facebook-messenger" aria-hidden="true"></i>mandar mensagem</a>
+
+                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 mgb-10 top20"><i class="fab fa-whatsapp" aria-hidden="true"></i> mensagem via whatsapp</a>
+                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top10"><i class="fab fa-facebook-messenger" aria-hidden="true"></i> mensagem via Facebook</a>
                </div>
             </div>
       </div>

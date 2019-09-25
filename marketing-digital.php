@@ -448,7 +448,7 @@
 				</ul>
 				<div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50">assinar</a>
+				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> assinar</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
@@ -468,7 +468,7 @@
 				</ul>
 				<div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50">assinar</a>
+				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> assinar</a>
 				</div>
 			</div>
 		</div>
