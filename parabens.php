@@ -100,10 +100,18 @@
 <!--how works ends-->
 
 <!--Counter white with bg-->
-<section id="bg-counter-dark" class="padding_top padding_bottom_half parallaxie">
+<section id="bg-counter-dark" class="padding_bottom_half parallaxie">
    <div class="container">
       <div class="row counter-wrap text-center">
-         <div class="col-md-3 col-sm-6 col-xs-6"> este mês
+      <div class="col-md-2 col-sm-1"></div>
+         <div class="col-md-8 col-sm-10">
+            <div class="intro-text center bottom15 wow fadeInUp">
+               <h2 class="light mr-100">este mês na cupcode</h2>
+            </div>
+         </div>
+         <div class="col-md-2 col-sm-1"></div>
+      </div>
+         <div class="col-md-3 col-sm-6 col-xs-6">
             <div class="counter-center whitecolor padding_bottom_half wow bounceIn">
                <i class="fa fa-cubes"></i>
                <div class="number-counters bottom10 top15">
@@ -182,7 +190,7 @@
                   <h3 class="bottom15">websites</h3>
                </div>
                <div class="clearfix"></div>
-               <a href="websites.php" class="button default top50">ver pacotes </a>
+               <a href="websites.php" class="button defaulthole top50">ver pacotes </a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50 wow fadeInUp">
                <div class="price-plan">
