@@ -171,6 +171,9 @@ button {
 .mgb-100 {
     margin-bottom: 100px;
 }
+.padding_half-cc {
+    padding: 4.375rem 0;
+}
 .padding_half {
     padding: 4.375rem 0;
     background-color: #b7b7b7;
@@ -181,6 +184,9 @@ button {
 }
 .padding_bottom_half {
     padding-bottom: 4.375rem;
+}
+.mr-100 {
+    margin: 100px;
 }
 .margin_bottom_half{
     margin-bottom: 4.375rem;
@@ -1033,6 +1039,11 @@ ul.social.dark li a:focus{
  }
  .bgintro-22 {
     background-color: #008c81;
+    height: 250px !important;
+    padding: 0px !important;
+}
+.bgintro-23 {
+    background-color: #EADACF;
     height: 250px !important;
     padding: 0px !important;
 }
@@ -2844,7 +2855,7 @@ ul.top-right li a:hover.instagram{
     background: url(../images/bg-counter.jpg) no-repeat;
 }
 #bg-counter-dark{
-    background: url(../images/bg-counter-dark.jpg) no-repeat;
+    background-color: silver;
 }
 #bg-counter-food{
     background: url(../images/food/bg-counter-food.jpg) no-repeat;
