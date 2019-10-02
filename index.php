@@ -716,6 +716,8 @@
             </div>
         </div>
     </section>
+
+    <!-- Depoimentos -->
     <section class="single-items center-block item-teen3 parallaxie full-screen" id="depoimentos">
         <div class="container">
             <div class="row">

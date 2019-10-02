@@ -171,6 +171,9 @@ button {
 .mgb-100 {
     margin-bottom: 100px;
 }
+.padding_half-cc {
+    padding: 4.375rem 0;
+}
 .padding_half {
     padding: 4.375rem 0;
     background-color: #b7b7b7;
