@@ -3635,7 +3635,7 @@ ul.top-right li a:hover.instagram{
 }
 @media screen and (max-width: 767px){
    .single-items{
-      padding: 8rem 0;
+      padding: 8rem 0rem  8rem 0rem;
       background-position: 50% 50%;
    }
    .overlay ul{
