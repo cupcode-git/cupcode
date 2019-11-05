@@ -411,6 +411,24 @@
         </div>
         </div>
         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
+                 <!-- Pacote personalizado inicio -->
+         <div class="row">
+            <div class="col-md-3 col-sm-6 price-table text-center top50">
+            </div>
+            <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
+               <div class="price-plan">
+                  
+                  <div class="ammount"><h2>pacote personalizado</h2>
+                     
+                  </div>
+               </div><p class="p-personalizado">está precisando de algo diferente? Para pacotes personalizados entre em contato, montamos o seu pacote.</p>
+
+               
+               <div class="clearfix"></div>
+               
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20personalizado,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar cotação</a>
+            </div>
+         </div><!-- Pacote personalizado fim -->
         </div>
     </div>
     </section>

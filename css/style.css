@@ -565,6 +565,10 @@ img.filter-none {
 .button.text-dark {
     color: #585858;
 }
+p.p-personalizado {
+    padding: 0px 20px;
+    color: #8a8a8a;
+}
 .ccdark {
 	color: #ffffff47 !important;
     text-shadow: 1px 2px 1px rgba(0,0,0,.7);
