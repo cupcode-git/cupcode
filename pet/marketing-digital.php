@@ -316,14 +316,14 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cafezinhonormal.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/cupcodepetshopmkt-googleads.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 nopadding"  id="sociaishome">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cappuccino2.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/cupcodepetshopmkt-facebookads.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -354,14 +354,14 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cafezao.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/cupcodepetshopmkt-seo.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cappuccino-3.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/cupcodepetshopmkt-kpi.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -393,7 +393,7 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 			<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/bg-emailmarketing.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/cupcodepetshopmkt-email-marketing.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
