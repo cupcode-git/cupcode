@@ -471,6 +471,24 @@
 				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> assinar</a>
 				</div>
 			</div>
+			         <!-- Pacote personalizado inicio -->
+         <div class="row">
+            <div class="col-md-3 col-sm-6">
+            </div>
+            <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
+               <div class="price-plan">
+                  
+                  <div class="ammount"><h2 class="titulo-personalizado">pacotes<br>personalizados</h2>
+                     
+                  </div>
+               </div><p class="p-personalizado">quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.</p>
+
+               
+               <div class="clearfix"></div>
+               
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+            </div>
+         </div><!-- Pacote personalizado fim -->
 		</div>
 	</section>
 	<!--Pricing white ends-->

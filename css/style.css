@@ -355,8 +355,6 @@ a.image{
 .image img {
     width: 100%;
     display: block;
-    -webkit-filter: opacity(0.2);
-    filter: opacity(0.2);
 }
 img.filter-none {
     filter: opacity(1);
@@ -564,6 +562,12 @@ img.filter-none {
 }
 .button.text-dark {
     color: #585858;
+}
+.titulo-personalizado {
+    font-size: 40px;
+}
+.p-personalizado {
+    margin: 0px 30px;
 }
 .ccdark {
 	color: #ffffff47 !important;
@@ -3147,7 +3151,7 @@ ul.top-right li a:hover.instagram{
     padding: 0 0 3rem 0;
 }
 .price-table-marketing{
-    height: 650px;
+    height: 700px;
 }
 .price-table-marketing1 {
     height: 400px;

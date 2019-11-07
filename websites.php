@@ -434,6 +434,7 @@
                </ul>
                <div class="clearfix"></div>
                <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar e-commerce</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20e-commerce%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre website</a></center>
