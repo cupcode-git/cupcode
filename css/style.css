@@ -563,9 +563,11 @@ img.filter-none {
 .button.text-dark {
     color: #585858;
 }
-p.p-personalizado {
-    padding: 0px 20px;
-    color: #8a8a8a;
+.titulo-personalizado {
+    font-size: 40px;
+}
+.p-personalizado {
+    margin: 0px 30px;
 }
 .ccdark {
 	color: #ffffff47 !important;
@@ -3149,7 +3151,7 @@ ul.top-right li a:hover.instagram{
     padding: 0 0 3rem 0;
 }
 .price-table-marketing{
-    height: 650px;
+    height: 700px;
 }
 .price-table-marketing1 {
     height: 400px;
@@ -3637,7 +3639,7 @@ ul.top-right li a:hover.instagram{
 }
 @media screen and (max-width: 767px){
    .single-items{
-      padding: 8rem 0;
+      padding: 8rem 0rem  8rem 0rem;
       background-position: 50% 50%;
    }
    .overlay ul{

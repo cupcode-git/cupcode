@@ -383,7 +383,9 @@
                     <div class="overlay light center-block darkcolor">
                         <ul class="social bottom40">
                             <li><a data-fancybox="gallery" href="images/rabo-de-galo-portfolio.jpg" alt="rabo de galo" title="rabo de galo"><i class="fa fa-search-plus"></i></a></li>
+
                      <li><a href="https://www.pomadarabodegalo.com/" target="_blank" alt="rabo de galo" title="rabo de galo"><i class="fas fa-link"></i></a></li>
+
                         </ul>
                         <p>web, papelaria</p>
                     </div>
