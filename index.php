@@ -943,7 +943,6 @@
 
 
 <!--Synx scripts-->
-<script src="js/email.js"></script>
 <script src="js/functions.js"></script>
 
 </body>
