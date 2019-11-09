@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title><?php if (isset($title)) {echo $title;}
-    else {echo "cupcode - agência de marketing digital e criação de websites";} ?></title>
+    else {echo "agência de marketing digital e criação de websites - cupcode, inc";} ?></title>
     <!-- main styling file  -->
 	<script src="https://kit.fontawesome.com/965317de7b.js"></script>
     <link rel="stylesheet" href="css/site.css">
