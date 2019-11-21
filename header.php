@@ -15,6 +15,12 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title><?php if (isset($title)) {echo $title;}
     else {echo "agência de marketing digital e criação de websites - cupcode, inc";} ?></title>
+    <meta name="description" content="<?php if (isset($description)) {echo $description;}
+    else {echo "a cupcode tem 19 anos de experiência e conta com profissionais altamente qualificados para que seu negócio cresça e seu investimento trabalhe por você. confira nossos valores ou solicite uma cotação personalizada.";} ?>" />
+    <meta name="keywords" content="<?php if (isset($keywords)) {echo $keywords;}
+    else {echo "agencia, marketing, criar, sites, blog, e-commerce, loja virtual, facebook, google, anunciar, ads, editorial, matérias, artigos, design, grafico, digital, free, lancer";} ?>" />
+    <meta name="robots" content="<?php if (isset($robots)) {echo $robots;}
+    else {echo "index, follow";} ?>" />
     <!-- main styling file  -->
 	<script src="https://kit.fontawesome.com/965317de7b.js"></script>
     <link rel="stylesheet" href="css/site.css">

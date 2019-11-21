@@ -1,4 +1,4 @@
-<?php $title = 'cupcode'; include("header.php"); ?>
+<?php $title = 'agência de marketing digital, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados da sua empresa e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, agência, mkt, inbound, outbound, redes sociais, facebook, instagram, ads, google'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
 	<div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -386,7 +386,7 @@
 				<div class="item-titles wow fadeInLeft">
 					<span class="heading-title bottom25">mala direta</span>
 					<h2 class="bottom45 ccdeep">e-mail marketing</h2>
-					<p>podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse dos seu clientes, evitando que seus e-mail virem span, com uma boa conduta sempre respeitando o seus clientes.</p>
+					<p>podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse do seu público-alvo, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.</p>
 				</div>
 				</div>
 			</div>
@@ -448,7 +448,7 @@
 				</ul>
 				<div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> assinar</a>
+				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> assinar</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
@@ -468,7 +468,7 @@
 				</ul>
 				<div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> assinar</a>
+				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> assinar</a>
 				</div>
 			</div>
 			         <!-- Pacote personalizado inicio -->
@@ -501,6 +501,7 @@
 	<!-- jQuery Files -->
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+
 	<!--to view items on reach-->
 	<script src="js/jquery.appear.js"></script>
 	<!--Swiper slider-->

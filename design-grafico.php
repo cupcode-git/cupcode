@@ -1,4 +1,4 @@
-<?php $title = 'cupcode'; include("header.php"); ?>
+<?php $title = 'design gráfico, peças publicitárias e artes para digital e impresso - cupcode, inc.'; $description = 'A Cupcode conta com verdeiros artistas que criam artes para sua marca com todo o respeito a sua identidade visual. Não tem uma? Não tem problema, criamos ela também.'; $keywords = 'design, grafico, identidade, visual, branding, logotipo, logo, logomarca, criação'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
     <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -370,7 +370,7 @@
                 <li><span>manual da marca</span></li>
             </ul>
             <div class="clearfix"></div>
-				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
@@ -391,7 +391,7 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
@@ -407,7 +407,7 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
         </div>
         </div>
         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>

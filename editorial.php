@@ -1,4 +1,4 @@
-<?php $title = 'cupcode'; include("header.php"); ?>
+<?php $title = 'criação editorial, artigos para sites e blogs - cupcode, inc.'; $description = 'A Cupcode conta com jornalistas renomeados que escrevem artigos com foco em SEO para seu site e blog, para atrair seus consumidores e clientes. Vem conferir nossos planos.'; $keywords = 'editorial, criação, matérias, jornalistas, blog, sites, SEO'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -264,7 +264,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
                <h2 class="bottom45 ccdeep">editorial</h2>
-               <p class="bottom15 mobilespc">nós utilizamos o melhor do marketing, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
+               <p class="bottom15 mobilespc">nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
             </div>
          </div>
       </div>
@@ -291,7 +291,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">adaptação de conteúdo</h2>
-               <p>nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los ao pratica SEO, assim, atraíndo mais usuários para ler seu conteúdo e para se tornaram leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
+               <p>nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
             </div>
          </div>
       </div>
@@ -327,7 +327,7 @@
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
 			         <!-- Pacote personalizado inicio -->

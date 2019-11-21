@@ -1,4 +1,4 @@
-﻿<?php $title = 'cupcode - agência de marketing digital e criação de websites'; include("header.php"); ?>
+﻿<?php $title = 'agência de marketing digital, criação de websites, artes graficas e editoriais - cupcode, inc.'; $description = 'Uma agência diferenciada em todos os sentidos, fazemos seu investimento trabalhar por você, para que crescendo juntos, tenhamos mais resultados no agora e no futuro.'; $keywords = 'agência de marketing, digital, criação, sites, loja virtual, editorial, papelaria, branding'; include("header.php"); ?>
     <section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
         <div class="container">
             <div class="row">
@@ -297,19 +297,19 @@
                                 <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">adaptação SEO</h4>
                                 <div style="display: none;" id="hidden-content-g" class="text-center">
                                     <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
-                                    <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.</p>
+                                    <p class="text-justify">adaptamos seus textos para tirarem o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas como google e bing.</p>
                                     <div class="text-center">
                                         <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
                                     </div>
                                 </div>
                             </div>
                             <hr>
-                            <p>adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.</p>
+                            <p>adaptamos seus artigos para serem melhor vistos por mecanismos de buscas na internet.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="icon_box equalheight top50 wow fadeInUp">
-                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn ccdeep" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">
+                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn ccdeep" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação editorial">
                                 <i class="far fa-edit"></i>
                             </a>
                             <div class="grid">
@@ -672,7 +672,7 @@
                             </div>
                         </div>
                         <h5 class="text-ccdark bottom25">projetos concluídos</h5>
-                        <p>nossos clientes depositam sua confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
+                        <p>nossos clientes depositam sua confiança em nós, sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
