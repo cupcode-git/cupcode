@@ -25,7 +25,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 5;border-width:0px;"><img src="images/marketing1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+								style="z-index: 5;border-width:0px;"><img src="images/hero-marketing-1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
 							<!-- layer nr. 2 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-25" 
 								id="layers-two" 
@@ -43,7 +43,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 6;border-width:0px;"><img src="images/marketing2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+								style="z-index: 6;border-width:0px;"><img src="images/hero-marketing-2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
 							<!-- layer nr. 3 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-10" 
 								id="layers-three" 
@@ -61,7 +61,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 7;border-width:0px;"><img src="images/marketing3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+								style="z-index: 7;border-width:0px;"><img src="images/hero-marketing-3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
 							<!-- layer nr. 4 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-12" 
 								id="layers-four" 
@@ -79,7 +79,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 8;border-width:0px;"><img src="images/marketing4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+								style="z-index: 8;border-width:0px;"><img src="images/hero-marketing-4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
 							<!-- layer nr. 5 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
 								id="layers-five" 
@@ -97,7 +97,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 9;border-width:0px;"><img src="images/marketing5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+								style="z-index: 9;border-width:0px;"><img src="images/hero-marketing-5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
 							<!-- layer nr. 8 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-9" 
 								id="layers-six" 
@@ -115,7 +115,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 12;border-width:0px;"><img src="images/marketing6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+								style="z-index: 12;border-width:0px;"><img src="images/hero-marketing-6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
 							<!-- layer nr. 9 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
 								id="layers-sev" 
@@ -133,7 +133,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 13;border-width:0px;"><img src="images/marketing7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+								style="z-index: 13;border-width:0px;"><img src="images/hero-marketing-7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
 							<!-- layer nr. 10 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-eight" 
@@ -316,14 +316,14 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cafezinhonormal.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/marketing-google-ads.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 nopadding"  id="sociaishome">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cappuccino2.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/marketing-facebook-ads.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -354,14 +354,14 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cafezao.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/marketing-seo.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cappuccino-3.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/marketing-kpi.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -393,7 +393,7 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 			<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/bg-emailmarketing.jpg" class="equalheight filter-none">
+					<img alt="image" src="images/marketing-email-marketing.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
