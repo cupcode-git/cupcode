@@ -1,4 +1,4 @@
-﻿<?php $title = 'cupcode - agência de marketing digital e criação de websites'; include("header.php"); ?>
+﻿<?php $title = 'agência de marketing digital, criação de websites, artes graficas e editoriais - cupcode, inc.'; $description = 'Uma agência diferenciada em todos os sentidos, fazemos seu investimento trabalhar por você, para que crescendo juntos, tenhamos mais resultados no agora e no futuro.'; $keywords = 'agência de marketing, digital, criação, sites, loja virtual, editorial, papelaria, branding'; include("header.php"); ?>
     <section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
         <div class="container">
             <div class="row">
@@ -279,45 +279,48 @@
     </div>
     </section>
     <section class="single-items center-block item-seven parallaxie full-screen" id="editorial">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-8 col-xs-12">
-                <div class="item-titles text-center wow fadeInLeft">
-                    <h3 class="bottom10">
-                        <a class="ccdeep">criação <strong>editorial</strong></a>
-                    </h3>
-                </div>
-                <div class="col-md-6">
-                    <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn ccdeep" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">
-                            <i class="far fa-newspaper"></i>
-                        </a>
-                        <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">adaptação SEO</h4>
-                            <div style="display: none;" id="hidden-content-g" class="text-center">
-                                <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
-                                <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.</p>
-                                <div class="text-center">
-                                    <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-8 col-xs-12">
+                    <div class="item-titles text-center wow fadeInLeft">
+                        <h3 class="bottom10">
+                            <a class="ccdeep">criação <strong>editorial</strong></a>
+                        </h3>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn ccdeep" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">
+                                <i class="far fa-newspaper"></i>
+                            </a>
+                            <div class="grid">
+                                <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">adaptação SEO</h4>
+                                <div style="display: none;" id="hidden-content-g" class="text-center">
+                                    <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
+                                    <p class="text-justify">adaptamos seus textos para tirarem o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas como google e bing.</p>
+                                    <div class="text-center">
+                                        <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
+                                    </div>
                                 </div>
                             </div>
+                            <hr>
+                            <p>adaptamos seus artigos para serem melhor vistos por mecanismos de buscas na internet.</p>
                         </div>
                         <hr>
                         <p>adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.</p>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn ccdeep" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação">
-                            <i class="far fa-edit"></i>
-                        </a>
-                        <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 text-dark " alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação de conteúdo editorial">criação</h4>
-                            <div style="display: none;" id="hidden-content-h">
-                                <h2 class="text-center cc-light bottom10">criação de conteúdo editorial</h2>
-                                <p class="text-justify">nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.</p>
-                                <div class="text-center">
-                                    <a href="editorial.php#criaçãohome" class="button defaulthole">ver planos</a>
+                    <div class="col-md-6">
+                        <div class="icon_box equalheight top50 wow fadeInUp">
+                            <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn ccdeep" alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação editorial">
+                                <i class="far fa-edit"></i>
+                            </a>
+                            <div class="grid">
+                                <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 text-dark " alt="clique aqui e saiba mais sobre criação" title="clique aqui e saiba mais sobre criação de conteúdo editorial">criação</h4>
+                                <div style="display: none;" id="hidden-content-h">
+                                    <h2 class="text-center cc-light bottom10">criação de conteúdo editorial</h2>
+                                    <p class="text-justify">nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.</p>
+                                    <div class="text-center">
+                                        <a href="editorial.php#criaçãohome" class="button defaulthole">ver planos</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -659,6 +662,8 @@
                         <div class="counters">
                             <span class="count_nums cc-light" data-to="400" data-speed="4500"></span>
                         </div>
+                        <h5 class="text-ccdark bottom25">projetos concluídos</h5>
+                        <p>nossos clientes depositam sua confiança em nós, sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
                     <h5 class="text-ccdark bottom25">projetos concluídos</h5>
                     <p>nossos clientes depositam sua confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>

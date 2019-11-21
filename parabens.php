@@ -1,4 +1,4 @@
-<?php $title = 'parabéns, você escolheu a cupcode - agência de mkt e criação de sites'; include("header.php"); ?>
+<?php $title = 'parabéns, você escolheu a cupcode para ser sua parceira e crescermos juntos!'; $robots ='noindex, nofollow'; $description = ''; $keywords = ''; include("header.php"); ?>
 <!--bem vindo -->
 <section id="page-banner" class="padding_top parallaxie">
       <div class="container">

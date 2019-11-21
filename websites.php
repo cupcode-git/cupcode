@@ -1,4 +1,4 @@
-<?php $title = 'cupcode'; include("header.php"); ?>
+<?php $title = 'criação de websites, loja virtual e-commerce e blogs - cupcode, inc.'; $description = 'Tenha seu site próprio em até 5 dias! Veja como é fácil e rápido ter sua casa na internet, seja ela um site, blog ou até mesmo uma loja virtual.'; $keywords = 'website, site, loja virtual, e-commerce, vender, internet, como, fazer, loja'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -396,7 +396,7 @@
                   <li><span>html5, css3 & bootstrap</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRrA5b2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar site</a>
+               <a href="https://pag.ae/7VhRrA5b2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar site</a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
@@ -414,7 +414,7 @@
                   <li><span>produção de conteúdo original</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRuB8G7" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar blog</a>
+               <a href="https://pag.ae/7VhRuB8G7" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar blog</a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
@@ -433,7 +433,7 @@
                   <li><span>wordpress & woocommerce</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar e-commerce</a>
+               <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar e-commerce</a>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20e-commerce%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div>
@@ -474,13 +474,13 @@
                </div>
                <ul class="top15">
                   <li><span>backup diário</span></li>
-                  <li><span>armazenamento em ssd 5 GB</span></li>
+                  <li><span>armazenamento em ssd 10 GB</span></li>
                   <li><span>1 e-mail grátis 10 GB</span></li>
                   <li><span>alto desempenho</span></li>
                   <li><span>correções de falhas automáticas</span></li>
                </ul>
                <div class="clearfix"></div>
-                  <a href="http://pag.ae/7VhRxHWX5" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+                  <a href="http://pag.ae/7VhRxHWX5" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -491,13 +491,13 @@
                </div>
                <ul class="top15">
                <li><span>backup diário</span></li>
-               <li><span>armazenamento em ssd 10 GB</span></li>
+               <li><span>armazenamento em ssd 20 GB</span></li>
                <li><span>1 e-mail grátis 10 GB</span></li>
                <li><span>alto desempenho</span></li>
                <li><span>correções de falhas automáticas</span></li>
                </ul>
                <div class="clearfix"></div>
-                  <a href="http://pag.ae/7VhRz1Qun" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+                  <a href="http://pag.ae/7VhRz1Qun" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
             <div class="col-md-4  col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
@@ -515,7 +515,7 @@
                <li><span>correções de falhas automáticas</span></li>
                </ul>
                <div class="clearfix"></div>
-                  <a href="http://pag.ae/7VhRzJqb2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+                  <a href="http://pag.ae/7VhRzJqb2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
@@ -557,7 +557,7 @@
                   <li><span>seu-dominio.com.br</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRAZEm6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+               <a href="http://pag.ae/7VhRAZEm6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -570,7 +570,7 @@
                   <li><span>seu-dominio.com</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRDMMg6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-check-circle"></i> contratar</a>
+               <a href="http://pag.ae/7VhRDMMg6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre dominíos</a></center>
@@ -613,7 +613,7 @@
                   <li><span>caixa com 10 GB</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRG7jTM" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar</a>
+               <a href="http://pag.ae/7VhRG7jTM" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -626,7 +626,7 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRHkgr7" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar</a>
+               <a href="http://pag.ae/7VhRHkgr7" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -639,7 +639,7 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRJf467" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar</a>
+               <a href="http://pag.ae/7VhRJf467" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -652,7 +652,7 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRJ_pX2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> contratar</a>
+               <a href="http://pag.ae/7VhRJ_pX2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas ou solicitar mais caixas</a></center>
@@ -694,7 +694,7 @@
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> assinar ssl</a>
+               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> assinar ssl</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
@@ -708,7 +708,7 @@
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-check-circle"></i> assinar ssl</a>
+               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> assinar ssl</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre ssl</a></center>
@@ -729,6 +729,8 @@
 <script src="js/bootstrap.min.js"></script>
 <!--to view items on reach-->
 <script src="js/jquery.appear.js"></script>
+<!-- PagSeguro LightBox -->
+<script type="text/javascript" src="https://stc.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js"></script>
 <!--Swiper slider-->
 <script src="js/swiper.jquery.min.js"></script>
 <!--Owl slider-->
