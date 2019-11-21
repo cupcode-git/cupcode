@@ -516,11 +516,11 @@
         </div>
     <div class="cbp-item print">
             <div class="image">
-                <img src="images/visconde-portfolio.jpg" alt="visconde"  title="visconde">
+                <img src="images/portfolio-visconde.jpg" alt="visconde"  title="visconde">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/visconde-portfolio.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-visconde.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
                 </ul>
                 <p>papelaria</p>
             </div>
@@ -665,8 +665,6 @@
                         <h5 class="text-ccdark bottom25">projetos concluídos</h5>
                         <p>nossos clientes depositam sua confiança em nós, sem medo, porque sabem que terão o melhor resultado.</p>
                     </div>
-                    <h5 class="text-ccdark bottom25">projetos concluídos</h5>
-                    <p>nossos clientes depositam sua confiança em nós sem medo, porque sabem que terão o melhor resultado.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-6">
