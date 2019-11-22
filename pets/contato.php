@@ -45,7 +45,7 @@
                         <h3><a class="bottom20 item-titles wow fadeInLeft ccdeep" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
                   </div>
 
-                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 mgb-10 top20"><i class="fab fa-whatsapp" aria-hidden="true"></i> mensagem via whatsapp</a>
+                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20site%20Cupcode%20para%20pet%20shop,%20para%20saber%20mais%20sobre,...%20" target="_blank" class="button defaulthole mgr-10 mgb-10 top20"><i class="fab fa-whatsapp" aria-hidden="true"></i> mensagem via whatsapp</a>
                 <a href="https://www.facebook.com/cupcodeinc/?eid=ARBbUKiPtskmE346RlMKgnoE-eHG5I9sTwgyVRpKZOX1WuA6Q3jZR5swNOxdd95UkfCvheln7Qhcp1Jk" target="_blank" class="button defaulthole mgr-10 top10"><i class="fab fa-facebook-messenger" aria-hidden="true"></i> mensagem via Facebook</a>
                </div>
             </div>

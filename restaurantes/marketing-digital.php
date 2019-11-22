@@ -453,13 +453,13 @@
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
-					<h3 class="bottom15">pacote prato principal</h3>
+					<h3 class="bottom15">pacote gourmet</h3>
 					<div class="ammount"> R$
 							<h2>698,90</h2> <span class="dur">/mês</span>
 					</div>
 				</div>
 				<ul class="top15">
-					<h3 class="mobilefont">todo o conteúdo do pacote ristreto +</h3>
+					<h3 class="mobilefont">todo o conteúdo do pacote guarnição +</h3>
 					<li><span>gerenciamento de redes sociais</span></li>
 					<li><span>anuncios no google ads</span></li>
 					<li><span>e-mail marketing para clientes ativos</span></li>
