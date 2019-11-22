@@ -1,4 +1,4 @@
-<?php $title = 'criação de websites e blogs para restaurantes - cupcode, inc.'; $description = 'Tenha o site do seu restaurante no ar em até 5 dias! Veja como é fácil e rápido ter seu restaurante na internet, seja ela um site, blog ou até mesmo uma loja virtual.'; $keywords = 'website, site, loja virtual, restaurante, vender, internet, como, fazer, gastronomia'; include("header.php"); ?>
+<?php $title = 'criação de websites, blogs e lojas virtuais para pet shops - cupcode, inc.'; $description = 'Tenha o site do seu pet shop no ar em até 5 dias! Veja como é fácil e rápido ter seu pet shop na internet, seja ela um site, blog ou até mesmo uma loja virtual.'; $keywords = 'website, site, loja virtual, pet shop, vender, internet, como, fazer, petshop'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -187,7 +187,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">websites para restaurantes</h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">websites para pet shops</h2></div>
                   <!-- layer nr. 13 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -205,7 +205,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">o site do seu restaurante com todo seu cardápio, horario de funcionamento e todas as informações disponível 24/7.</div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">o site do seu pet shop com todo seus serviços e produtos, horario de funcionamento e todas as informações disponível 24/7.</div>
                   <!-- layer nr. 14 -->
                   <div class="tp-caption rev-btn"
                         id="layers-twel"
@@ -264,7 +264,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">sites</h2>
-               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu restaurante, estarão atualizados com cardápio, reservas, contato, pratos do dia, recomendações e muito mais.</p>
+               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu pet shop, estarão atualizados com seus serviços, produtos que podem encontrar, contato, informações sobre banho e tosa, recomendações e muito mais.</p>
                         <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
@@ -280,7 +280,7 @@
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">blogs</h2>
-               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos e cultural sobre o mundo da gastronomia.</p>
+               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdos informativos e dicas sobre o mundo e cuidados dos animais.</p>
                   <a href="javascript:void(0)#blog" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
@@ -293,7 +293,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                   <h2 class="bottom45 cc-light">loja virtual</h2>
-               <p>estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, e cadastro em aplicativos como iFood, Rappi, Uber Eats entre outros.</p>
+               <p>estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações.</p>
                   <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
@@ -306,7 +306,7 @@
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
                <h2 class="bottom25 ccdeep">adicionais</h2>
-                  <p class="bottom15 mobilespc">seu restaurante na internet precisa de um terreno? temos hospedagem! precisa de um endereço? temos domínios! segurança? te oferecemos o SSL. temos tudo para seu restaurante estar 100% online!</p>
+                  <p class="bottom15 mobilespc">seu pet shop na internet precisa de um terreno? temos hospedagem! precisa de um endereço? temos domínios! segurança? te oferecemos o SSL. temos tudo para seu pet shop estar 100% online!</p>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -435,10 +435,10 @@
                </ul>
                <div class="clearfix"></div>
                <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar e-commerce</a>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20e-commerce%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20e-commerce%20personalizado%20para%20pet%20shops,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre website</a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites%20para%20pet%20shops,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre website</a></center>
       </div>
    </div>
    </section>
@@ -519,7 +519,7 @@
                   <a href="http://pag.ae/7VhRzJqb2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites%20para%20pet%20shop,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
       </div>
    </div>
 </section>
@@ -574,7 +574,7 @@
                <a href="http://pag.ae/7VhRDMMg6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre dominíos</a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios%20para%20pet%20shop,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre dominíos</a></center>
       </div>
    </div>
    </section>
@@ -656,7 +656,7 @@
                <a href="http://pag.ae/7VhRJ_pX2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas ou solicitar mais caixas</a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails%20para%20pet%20shop,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas ou solicitar mais caixas</a></center>
       </div>
    </div>
    </section>
@@ -712,7 +712,7 @@
                <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> assinar ssl</a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre ssl</a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL%20para%20sites%20pet%20shop,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre ssl</a></center>
       </div>
    </div>
    </section>

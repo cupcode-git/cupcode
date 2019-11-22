@@ -1,4 +1,4 @@
-<?php $title = 'agência de marketing digital com foco em restaurantes, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados do seu restaurante e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, restaurante, gastronomia, culinária, lanchonetes, agência, mkt, inbound, facebook, instagram, ads, google'; include("header.php"); ?>
+<?php $title = 'agência de marketing digital com foco em pet shops, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados do seu pet shop e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, pet shop, animais, estimação, loja, agência, mkt, inbound, facebook, instagram, ads, google'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
 	<div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -187,7 +187,7 @@
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">marketing digital para restaurantes</h2></div>
+								data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">marketing digital para pet shops</h2></div>
 							<!-- layer nr. 13 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-elev" 
@@ -205,7 +205,7 @@
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 19;">cuidamos do marketing digital do seu restaurante e fazemos saltar os olhos e cair umas gotinhas de saliva de quem vê!</div>
+								data-paddingleft="[0,0,0,0]" style="z-index: 19;">cuidamos do marketing digital do seu pet shop e e digamos que até adestramos seus clientes! ;D</div>
 							<!-- layer nr. 14 -->
 						<div class="tp-caption rev-btn" 
 								id="layers-twel" 
@@ -253,7 +253,7 @@
 			<div class="col-md-8 col-sm-10">
 				<div class="intro-text center wow fadeInUp">
 				<h2 class="bottom45 ccdeep">redes sociais</h2>
-				<p class="bottom45 mobilespc">as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance do público especifico da sua região e que pode se tornar um consumidor, cortando gastos e chegando onde você deve chegar!</p>
+				<p class="bottom45 mobilespc">as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, nosso serviço te coloca ao alcance de um público especifico que busca por cuidados com pets na sua região e que pode se tornar um cliente, cortando gastos e chegando onde você deve chegar!</p>
 				</div>
 			</div>
 		</div>
@@ -265,7 +265,7 @@
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">gerenciamento</h2>
-				<p>cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito com a marca de seu restaurante e seu principal bem, os clientes.</p>
+				<p>cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito com a marca de seu pet shop e seu principal bem, seus os clientes.</p>
 					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
 			</div>
@@ -370,7 +370,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<span class="heading-title bottom25">indicador de desempenho</span>
 					<h2 class="bottom45 ccdeep">kpi</h2>
-					<p>com o kpi coletamos os dados de desempenho do seu restaurante e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua loja, sempre mantendo seu desempenho positivo.</p>
+					<p>com o kpi coletamos os dados de desempenho do seu pet shop e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua loja, sempre mantendo seu desempenho positivo.</p>
 				</div>
 				</div>
 			</div>
@@ -435,7 +435,7 @@
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="gerenciamento">
 				<div class="price-plan">
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
-					<h3 class="bottom15">pacote guarnição</h3>
+					<h3 class="bottom15">pacote pet filhote</h3>
 					<div class="ammount">R$
 							<h2>498,90</h2> <span class="dur">/mês</span>
 					</div>
@@ -447,19 +447,19 @@
 					<li><span>análize de KPI</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Pet%20Filhote%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
 				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> assinar</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
-					<h3 class="bottom15">pacote prato principal</h3>
+					<h3 class="bottom15">pacote pet adulto</h3>
 					<div class="ammount"> R$
 							<h2>698,90</h2> <span class="dur">/mês</span>
 					</div>
 				</div>
 				<ul class="top15">
-					<h3 class="mobilefont">todo o conteúdo do pacote ristreto +</h3>
+					<h3 class="mobilefont">todo o conteúdo do pacote pet filhote +</h3>
 					<li><span>gerenciamento de redes sociais</span></li>
 					<li><span>anuncios no google ads</span></li>
 					<li><span>e-mail marketing para clientes ativos</span></li>
@@ -467,7 +467,7 @@
 					<li><span>análize de ROI (retorno de investimento)</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Pet%20Adulto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
 				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> assinar</a>
 				</div>
 			</div>
@@ -486,7 +486,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado%20para%20pet%20shop,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
 		</div>

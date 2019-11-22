@@ -1,4 +1,4 @@
-<?php $title = 'parabéns, você escolheu a cupcode para ser parceira de seu restaurante e crescermos juntos!'; $robots ='noindex, nofollow'; $description = ''; $keywords = ''; include("header.php"); ?>
+<?php $title = 'parabéns, você escolheu a cupcode para ser parceira de seu pet shop e crescermos juntos!'; $robots ='noindex, nofollow'; $description = ''; $keywords = ''; include("header.php"); ?>
 <!--bem vindo -->
 <section id="page-banner" class="padding_top parallaxie">
       <div class="container">
@@ -30,7 +30,7 @@
                <div class="intro-text">
                   <span class="heading-title darkcolor bottom25"> parabens pela escolha </span>
                   <h2 class="darkcolor bottom45">sua compra foi processada com sucesso</h2>
-                  <p>já estamos cientes disso e em breve entraremos em contato para darmos inicio ao processo de seu serviço. enquanto isso, sinta-se livre para saber o que podemos fazer a mais por você e seu restaurante.</p>
+                  <p>já estamos cientes disso e em breve entraremos em contato para darmos inicio ao processo de seu serviço. enquanto isso, sinta-se livre para saber o que podemos fazer a mais por você e seu pet shop.</p>
                   <div class="row">
                      <div class="col-md-6 col-sm-6">
                         <div class="floated-service equalheight top50">

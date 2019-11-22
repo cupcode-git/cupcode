@@ -407,7 +407,7 @@
                 <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
         </div>
         </div>
-        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
+        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico%20para%20restaurantes,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
 			         <!-- Pacote personalizado inicio -->
          <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -423,7 +423,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado%20para%20restaurantes,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
         </div>

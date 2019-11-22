@@ -280,7 +280,7 @@
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">blogs</h2>
-               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos e cultural sobre o mundo da gastronomia.</p>
+               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdos informativos e cultural sobre o mundo da gastronomia.</p>
                   <a href="javascript:void(0)#blog" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>

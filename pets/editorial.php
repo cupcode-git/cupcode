@@ -187,7 +187,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">criação editorial de culinária e gastronomia para pet shops.</h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor">criação editorial para pet shops.</h2></div>
                   <!-- layer nr. 13 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -205,7 +205,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">nossos jornalistas são especializados em gastronomia e todo tipo de culinária, seja ela basileira, asiática, mexicana, italiana, tailandesa e até mesmo a deliciosa fast food. </div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;">nossos jornalistas são especializados em animais de estimação de todo tipos e raças, seja ele gato, cachorro, coelho, iguana, cavalos e até mesmo animais pessonhentos. </div>
                   <!-- layer nr. 14 -->
                   <div class="tp-caption rev-btn"
                         id="layers-twel"
@@ -249,7 +249,7 @@
       <div class="row">
          <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h1 class="bottom25 ccdeep">criação de matérias e artigos editoriais gastronômicos com foco em seo.</h1>
+               <h1 class="bottom25 ccdeep">criação de matérias e artigos editoriais sobre animais com foco em seo.</h1>
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
@@ -264,7 +264,7 @@
          <div class="col-md-8 col-sm-10">
             <div class="intro-text center lightcolor1 wow fadeInUp">
                <h2 class="bottom45 ccdeep">editorial</h2>
-               <p class="bottom15 mobilespc">nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, fazemos com que seu editorial tenha impacto no leitor com conteúdo de qualidade que chame a atenção e que conquiste-o, não só pela qualidade, mas também pelo paladar, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
+               <p class="bottom15 mobilespc">nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, fazemos com que seu editorial tenha impacto no leitor com conteúdo de qualidade que chame a atenção e que conquiste-o, não só pela qualidade, mas também pelas dicas de cuidados com o pet, tira duvidas de seus donos e muito mais, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.</p>
             </div>
          </div>
       </div>
@@ -278,7 +278,7 @@
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">criação de conteúdo</h2>
-               <p>tenha um jornalista de renome escrevendo artigos e matérias para seu pet shop, artigos específicos de culinária, gastronomia que trazem informações para seus possíveis consumidores, que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.</p>
+               <p>tenha um jornalista de renome escrevendo artigos e matérias para seu pet shop, artigos específicos de cuidados, melhores praticas, dicas para seus bichinhos e tudo que traga informações para seus possíveis consumidores, que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.</p>
             </div>
          </div>
       </div>
@@ -325,7 +325,7 @@
                   <li><span>4 artigos por mês com foco em SEO</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial%20para%20pet%20shop,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
 				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
             </div>
          </div>
@@ -344,7 +344,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado%20para%20pet%20shop,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
       </div>
