@@ -335,32 +335,22 @@
     </section>
     <!--Gallery Grid-->
     <section id="portfolio" class="padding_bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-2"> </div>
-                    <div class="col-md-6 col-sm-8">
-                        <div class="intro-text center">
-                            <h2 class="heading_space padding_top50 item-titles text-center wow fadeInLeft ccdeep">portfólio</h2>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-2"> </div>
+                <div class="col-md-6 col-sm-8">
+                    <div class="intro-text center">
+                        <h2 class="heading_space padding_top50 item-titles text-center wow fadeInLeft ccdeep">portfólio</h2>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <div id="light-filters" class="cbp-l-filters dark bottom30">
-                            <div data-filter="*" class="cbp-filter-item">
-                                <span>todos</span>
-                            </div>
-                            <div data-filter=".web" class="cbp-filter-item">
-                                <span>web</span>
-                            </div>
-                            <div data-filter=".branding" class="cbp-filter-item">
-                                <span>branding</span>
-                            </div>
-                            <div data-filter=".print" class="cbp-filter-item">
-                                <span>papelaria</span>
-                            </div>
+                <div class="col-md-3 col-sm-2">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div id="light-filters" class="cbp-l-filters dark bottom30">
+                        <div data-filter="*" class="cbp-filter-item">
+                            <span>todos</span>
                         </div>
                         <div data-filter=".web" class="cbp-filter-item">
                             <span>web</span>
@@ -374,294 +364,293 @@
                     </div>
                 </div>
             </div>
-            <div id="masonry-light" class="cbp bottom30">
-            <div class="cbp-item print">
-                <div class="image">
-                    <img src="images/portfolio-glaser.jpg" alt="glaser portfolio" title="glaser portfolio">
-                </div>
-                <div class="overlay light center-
-                block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-glaser.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>papelaria</p>
-                </div>
+        <div id="masonry-light" class="cbp bottom30">
+        <div class="cbp-item print">
+            <div class="image">
+                <img src="images/portfolio-glaser.jpg" alt="glaser portfolio" title="glaser portfolio">
             </div>
-            <div class="cbp-item web print">
-                <div class="image">
-                    <img src="images/portfolio-rabo-de-galo.jpg" alt="rabo de galo" title="rabo de galo">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-rabo-de-galo.jpg" alt="rabo de galo" title="rabo de galo"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="https://www.pomadarabodegalo.com/" target="_blank" alt="rabo de galo" title="rabo de galo"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                    <p>web, papelaria</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-glaser.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>papelaria</p>
             </div>
-            <div class="cbp-item web branding print">
-                <div class="image">
-                    <img src="images/portfolio-diego.jpg" alt="diego tragel" title="diego tragel">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-diego.jpg" alt="diego tragel" title="diego tragel"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="www.diegotragel.com" target="_blank" alt="diego tragel" title="diego tragel"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                    <p>web, branding, papelaria</p>
-                </div>
-            </div>
-            <div class="cbp-item print web branding">
-                <div class="image">
-                    <img src="images/portfolio-elitronicos.jpg" alt="elitronicos portfolio" title="elitronicos portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-elitronicos.jpg" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="www.elitronicos.com.br" target="_blank" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                    <p>web, papelaria, branding</p>
-                </div>
-            </div>
-            <div class="cbp-item web print">
-                <div class="image">
-                    <img src="images/portfolio-sofalizando.jpg" alt="sofalizando portfolio" title="sofalizando portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-sofalizando.jpg" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>web, papelaria</p>
-                </div>
-            </div>
-            <div class="cbp-item branding print">
-                <div class="image">
-                    <img src="images/portfolio-bar-do-silval.jpg" alt="bar do silval" title="bar do silval">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-bar-do-silval.jpg" alt="bar do silval" title="bar do silval"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>branding, papelaria</p>
-                </div>
-            </div>
-        <div class="cbp-item web branding">
-                <div class="image">
-                    <img src="images/portfolio-britneynizer.jpg" alt="britneynizer portfolio" title="britneynizer portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-britneynizer.jpg" alt="britneynizer portfolio" title="britneynizer portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>web e branding</p>
-                </div>
-            </div>
+        </div>
         <div class="cbp-item web print">
-                <div class="image">
-                    <img src="images/portfolio-cavaz.jpg" alt="cavaz portfolio" title="cavaz portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-cavaz.jpg" alt="cavaz portfolio" title="cavaz portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>web e papelaria</p>
-                </div>
+            <div class="image">
+                <img src="images/portfolio-rabo-de-galo.jpg" alt="rabo de galo" title="rabo de galo">
             </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-rabo-de-galo.jpg" alt="rabo de galo" title="rabo de galo"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="https://www.pomadarabodegalo.com/" target="_blank" alt="rabo de galo" title="rabo de galo"><i class="fas fa-link"></i></a></li>
+                </ul>
+                <p>web, papelaria</p>
+            </div>
+        </div>
+        <div class="cbp-item web branding print">
+            <div class="image">
+                <img src="images/portfolio-diego.jpg" alt="diego tragel" title="diego tragel">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-diego.jpg" alt="diego tragel" title="diego tragel"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="www.diegotragel.com" target="_blank" alt="diego tragel" title="diego tragel"><i class="fas fa-link"></i></a></li>
+                </ul>
+                <p>web, branding, papelaria</p>
+            </div>
+        </div>
+        <div class="cbp-item print web branding">
+            <div class="image">
+                <img src="images/portfolio-elitronicos.jpg" alt="elitronicos portfolio" title="elitronicos portfolio">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-elitronicos.jpg" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="www.elitronicos.com.br" target="_blank" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fas fa-link"></i></a></li>
+                </ul>
+                <p>web, papelaria, branding</p>
+            </div>
+        </div>
         <div class="cbp-item web print">
-                <div class="image">
-                    <img src="images/portfolio-bolas-fora.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-bolas-fora.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>web e papelaria</p>
-                </div>
+            <div class="image">
+                <img src="images/portfolio-sofalizando.jpg" alt="sofalizando portfolio" title="sofalizando portfolio">
             </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-sofalizando.jpg" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>web, papelaria</p>
+            </div>
+        </div>
         <div class="cbp-item branding print">
-                <div class="image">
-                    <img src="images/portfolio-corr.jpg" alt="corr portfolio"  title="corr portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-corr.jpg" alt="corr portfolio"  title="corr portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>branding e papelaria</p>
-                </div>
+            <div class="image">
+                <img src="images/portfolio-sacola-bar-do-silval.jpg" alt="bar do silval" title="bar do silval">
             </div>
-        <div class="cbp-item web branding print">
-                <div class="image">
-                    <img src="images/portfolio-a50.jpg" alt="a50 portfolio"  title="a50 portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-a50.jpg" alt="a50 portfolio"  title="a50 portfolio"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="www.a50.com.br" target="_blank" alt="a50 portfolio" title="a50 portfolio"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                    <p>web, branding e papelaria</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-sacola-bar-do-silval.jpg" alt="bar do silval" title="bar do silval"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>branding, papelaria</p>
             </div>
-        <div class="cbp-item print">
-                <div class="image">
-                    <img src="images/portfolio-tatoozasso.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-tatoozasso.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>papelaria</p>
-                </div>
+        </div>
+    <div class="cbp-item web branding">
+            <div class="image">
+                <img src="images/portfolio-britney.jpg" alt="britney portfolio" title="britney portfolio">
             </div>
-        <div class="cbp-item web branding print">
-                <div class="image">
-                    <img src="images/portfolio-wec.jpg" alt="wec portfolio"  title="wec portfolio">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-wec.jpg" alt="wec portfolio"  title="wec portfolio"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>web, branding e papelaria</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-britney.jpg" alt="britney portfolio" title="britney portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>web e branding</p>
             </div>
-        <div class="cbp-item print">
-                <div class="image">
-                    <img src="images/portfolio-visconde.jpg" alt="visconde"  title="visconde">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-visconde.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                    <p>papelaria</p>
-                </div>
+        </div>
+    <div class="cbp-item web print">
+            <div class="image">
+                <img src="images/portfolio-cavaz.jpg" alt="cavaz portfolio" title="cavaz portfolio">
             </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-cavaz.jpg" alt="cavaz portfolio" title="cavaz portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>web e papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item web print">
+            <div class="image">
+                <img src="images/portfolio-bolas-fora.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-bolas-fora.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>web e papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item branding print">
+            <div class="image">
+                <img src="images/portfolio-corr.jpg" alt="corr portfolio"  title="corr portfolio">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-corr.jpg" alt="corr portfolio"  title="corr portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>branding e papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item web branding print">
+            <div class="image">
+                <img src="images/portfolio-a50.jpg" alt="a50 portfolio"  title="a50 portfolio">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-a50.jpg" alt="a50 portfolio"  title="a50 portfolio"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="www.a50.com.br" target="_blank" alt="a50 portfolio" title="a50 portfolio"><i class="fas fa-link"></i></a></li>
+                </ul>
+                <p>web, branding e papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item print">
+            <div class="image">
+                <img src="images/portfolio-tatoozasso.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-tatoozasso.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item web branding print">
+            <div class="image">
+                <img src="images/portfolio-wec.jpg" alt="wec portfolio"  title="wec portfolio">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-wec.jpg" alt="wec portfolio"  title="wec portfolio"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>web, branding e papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item print">
+            <div class="image">
+                <img src="images/portfolio-visconde.jpg" alt="visconde"  title="visconde">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-visconde.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                <p>papelaria</p>
+            </div>
+        </div>
+    <div class="cbp-item web">
+            <div class="image">
+                <img src="images/portfolio-licitacoes.jpg" alt="uol licitações"  title="uol licitações">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-licitacoes.jpg" alt="uol licitações"  title="uol licitações"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web</p>
+            </div>
+        </div>
+    <div class="cbp-item web">
+            <div class="image">
+                <img src="images/portfolio-checkmob.jpg" alt="checkmob"  title="checkmob">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-checkmob.jpg" alt="checkmob"  title="checkmob"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="www.checkmob.com.br" target="_blank" alt="checkmob" title="checkmob"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p>web</p>
+            </div>
+        </div>
         <div class="cbp-item web">
-                <div class="image">
-                    <img src="images/portfolio-evento-mpe.jpg" alt="uol evento mpe"  title="uol evento mpe">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-evento-mpe.jpg" alt="uol evento mpe"  title="uol evento mpe"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web</p>
-                </div>
+            <div class="image">
+                <img src="images/portfolio-cinq.jpg" alt="cinq"  title="cinq">
             </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-cinq.jpg" alt="cinq" title="cinq"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="www.cinq.com.br" target="_blank" alt="cinq" title="cinq"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p>web</p>
+            </div>
+        </div>
+        <div class="cbp-item web branding">
+            <div class="image">
+                <img src="images/portfolio-code9.jpg" alt="code9"  title="code9">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-code9.jpg" alt="code9"  title="code9"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web e branding</p>
+            </div>
+        </div>
+        <div class="cbp-item web print">
+            <div class="image">
+                <img src="images/portfolio-howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks"><i class="fa fa-search-plus"></i></a></li>
+                <li><a href="www.howstuffworks.com" target="_blank" alt="howstuffworks" title="howstuffworks"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p>web e papelaria</p>
+            </div>
+        </div>
         <div class="cbp-item web">
-                <div class="image">
-                    <img src="images/portfolio-checkmob.jpg" alt="checkmob"  title="checkmob">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-checkmob.jpg" alt="checkmob"  title="checkmob"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="www.checkmob.com.br" target="_blank" alt="checkmob" title="checkmob"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                        <p>web</p>
-                </div>
+            <div class="image">
+                <img src="images/portfolio-joguebola.jpg" alt="joguebola"  title="joguebola">
             </div>
-            <div class="cbp-item web">
-                <div class="image">
-                    <img src="images/portfolio-cinq.jpg" alt="cinq"  title="cinq">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-cinq.jpg" alt="cinq" title="cinq"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="www.cinq.com.br" target="_blank" alt="cinq" title="cinq"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                        <p>web</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-joguebola.jpg" alt="joguebola"  title="joguebola"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web</p>
             </div>
-            <div class="cbp-item web branding">
-                <div class="image">
-                    <img src="images/portfolio-code-9.jpg" alt="code 9"  title="code 9">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-code-9.jpg" alt="code 9"  title="code 9"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web e branding</p>
-                </div>
+        </div>
+        <div class="cbp-item web branding">
+            <div class="image">
+                <img src="images/portfolio-joguebola2.jpg" alt="joguebola2"  title="joguebola2">
             </div>
-            <div class="cbp-item web print">
-                <div class="image">
-                    <img src="images/portfolio-howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a href="www.howstuffworks.com" target="_blank" alt="howstuffworks" title="howstuffworks"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                        <p>web e papelaria</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-joguebola2.jpg" alt="joguebola2"  title="joguebola2"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web e branding</p>
             </div>
-            <div class="cbp-item web">
-                <div class="image">
-                    <img src="images/portfolio-jogue-bola.jpg" alt="jogue bola"  title="jogue bola">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-jogue-bola.jpg" alt="jogue bola"  title="jogue bola"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web</p>
-                </div>
+        </div>
+        <div class="cbp-item web">
+            <div class="image">
+                <img src="images/portfolio-lippe.jpg" alt="lippe"  title="lippe">
             </div>
-            <div class="cbp-item web branding">
-                <div class="image">
-                    <img src="images/portfolio-jogue-bola-2.jpg" alt="jogue bola"  title="jogue bola">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-jogue-bola2.jpg" alt="jogue bola"  title="jogue bola"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web e branding</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-lippe.jpg" alt="lippe"  title="lippe"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web</p>
             </div>
-            <div class="cbp-item web">
-                <div class="image">
-                    <img src="images/portfolio-lippe.jpg" alt="lippe"  title="lippe">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-lippe.jpg" alt="lippe"  title="lippe"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web</p>
-                </div>
+        </div>
+        <div class="cbp-item print web branding">
+            <div class="image">
+                <img src="images/portfolio-mansaomix.jpg" alt="mansaomix"  title="mansaomix">
             </div>
-            <div class="cbp-item print web branding">
-                <div class="image">
-                    <img src="images/portfolio-mansao-mix.jpg" alt="mansão mix"  title="mansão mix">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-mansao-mix.jpg" alt="mansão mix"  title="mansão mix"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web, papelaria e branding</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-mansaomix.jpg" alt="mansaomix"  title="mansaomix"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web, papelaria e branding</p>
             </div>
-            <div class="cbp-item web branding">
-                <div class="image">
-                    <img src="images/portfolio-projeto-x.jpg" alt="projeto x"  title="projeto x">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-projeto-x.jpg" alt="projeto x"  title="projeto x"><i class="fa fa-search-plus"></i></a></li>
-                    </ul>
-                        <p>web e branding</p>
-                </div>
+        </div>
+        <div class="cbp-item web branding">
+            <div class="image">
+                <img src="images/portfolio-projetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox">
             </div>
-            <div class="cbp-item web">
-                <div class="image">
-                    <img src="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae">
-                </div>
-                <div class="overlay light center-block darkcolor">
-                    <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae"><i class="fa fa-search-plus"></i></a></li>
-                 <li><a alt="sebrae" title="sebrae"><i class="fas fa-link"></i></a></li>
-                    </ul>
-                        <p>web</p>
-                </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-projetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox"><i class="fa fa-search-plus"></i></a></li>
+                </ul>
+                    <p>web e branding</p>
+            </div>
+        </div>
+        <div class="cbp-item web">
+            <div class="image">
+                <img src="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae"><i class="fa fa-search-plus"></i></a></li>
+                <li><a alt="sebrae" title="sebrae"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p>web</p>
             </div>
         </div>
     </div>
-</section>
+    </div>
+    </section>
     <section class="padding_top padding_bottom_half parallaxie item-teen1">
         <div class="container">
             <div class="row counter-wrap text-center">
@@ -715,57 +704,57 @@
 
     <!-- Depoimentos -->
     <section class="single-items center-block item-teen3 parallaxie full-screen" id="depoimentos">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-                    <div class="intro-text center">
-                        <h2 class="ccdeep heading_space item-titles text-center wow fadeInLeft">
-                            o que dizem nossos clientes
-                        </h2>
-                    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+                <div class="intro-text center">
+                    <h2 class="ccdeep heading_space item-titles text-center wow fadeInLeft">
+                        o que dizem nossos clientes
+                    </h2>
                 </div>
-                <div class="col-md-2 col-sm-2"></div>
             </div>
-            <div class="row bottom40">
-                <div class=" col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
-                    <div id="owl-thumbs" class="owl-dots text-center">
-                        <div class="owl-dot active"><img src="images/depoimentos-raquel.jpg"></div>
-                        <div class="owl-dot"><img src="images/depoimentos-diego.jpg"></div>
-                        <div class="owl-dot"><img src="images/depoimentos-eliezer.jpg"></div>
-                    </div>
+            <div class="col-md-2 col-sm-2"></div>
+        </div>
+        <div class="row bottom40">
+            <div class=" col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
+                <div id="owl-thumbs" class="owl-dots text-center">
+                    <div class="owl-dot active"><img src="images/clientes-raquel.jpg" alt=""></div>
+                    <div class="owl-dot"><img src="images/clientes-diego.jpg" alt=""></div>
+                    <div class="owl-dot"><img src="images/clientes-eliezer.jpg" alt=""></div>
                 </div>
-                <div class="col-md-3 col-sm-3"></div>
             </div>
-            <div class="testimonial-text owl-carousel">
-                <div class="item mobile-m-t">
-                    <div class="row">
-                        <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                            <p class="bottom30">um serviço prático, pessoal e versátil que entrega tudo com desenvoltura, que entendeu bem o que eu queria, além de me oferecer coisas que eu nem conhecia e dá um ótimo suporte. já trabalhei com várias empresas de marketing, mas a <strong>cupcode</strong> é a única que eu vi resultados.</p>
-                            <h4 class="defaultcolor">Raquel Brandalise</h4>
-                            <h6>Co-fundadora do <a href="http://www.pomadarabodegalo.com.br" target="_blank">Rabo de Galo</a>.</h6>
-                        </div>
+            <div class="col-md-3 col-sm-3"></div>
+        </div>
+        <div class="testimonial-text owl-carousel">
+            <div class="item mobile-m-t">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+                        <p class="bottom30">um serviço prático, pessoal e versátil que entrega tudo com desenvoltura, que entendeu bem o que eu queria, além de me oferecer coisas que eu nem conhecia e dá um ótimo suporte. já trabalhei com várias empresas de marketing, mas a <strong>cupcode</strong> é a única que eu vi resultados.</p>
+                        <h4 class="defaultcolor">Raquel Brandalise</h4>
+                        <h6>Co-fundadora do <a href="http://www.pomadarabodegalo.com.br" target="_blank">Rabo de Galo</a>.</h6>
                     </div>
                 </div>
-                <div class="item mobile-m-t">
-                    <div class="row">
-                        <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                            <p class="bottom30">com muita paciência e competência, a <strong>cupcode</strong> me ajudou em tudo, não só na distribuição de conteúdos, divulgação das minhas músicas, mas também na confecção das capas dos meus singles e na criação de todo o meu site. super recomendo!</p>
-                            <h4 class="defaultcolor">Diego Tragel</h4>
-                            <h6>Músico, site <a href="http://www.diegotragel.com.br" target="_blank">Diego Tragel</a>.</h6>
-                        </div>
+            </div>
+            <div class="item mobile-m-t">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+                        <p class="bottom30">com muita paciência e competência, a <strong>cupcode</strong> me ajudou em tudo, não só na distribuição de conteúdos, divulgação das minhas músicas, mas também na confecção das capas dos meus singles e na criação de todo o meu site. super recomendo!</p>
+                        <h4 class="defaultcolor">Diego Tragel</h4>
+                        <h6>Músico, site <a href="http://www.diegotragel.com.br" target="_blank">Diego Tragel</a>.</h6>
                     </div>
                 </div>
-                <div class="item mobile-m-t">
-                    <div class="row">
-                        <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                            <p class="bottom30">Eu tinha um nome da loja e era apenas escrita, a <strong>cupcode</strong>, depois de uma reunião comigo, fizeram todo o branding da loja, mudamos o nome, para um bem melhor, sem sair do que eu queria, além de dar vida a minha marca. fizeram minha loja virtual e hoje todo meu trabalho de redes sociais e papelaria são com eles, e não pretendo mudar tão cedo!</p>
-                            <h4 class="defaultcolor">Eliezer Couto</h4>
-                            <h6>Fundador do <a href="http://www.elitronicos.com.br" target="_blank">Elitrônicos</a>.</h6>
-                        </div>
+            </div>
+            <div class="item mobile-m-t">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+                        <p class="bottom30">Eu tinha um nome da loja e era apenas escrita, a <strong>cupcode</strong>, depois de uma reunião comigo, fizeram todo o branding da loja, mudamos o nome, para um bem melhor, sem sair do que eu queria, além de dar vida a minha marca. fizeram minha loja virtual e hoje todo meu trabalho de redes sociais e papelaria são com eles, e não pretendo mudar tão cedo!</p>
+                        <h4 class="defaultcolor">Eliezer Couto</h4>
+                        <h6>Fundador do <a href="http://www.elitronicos.com.br" target="_blank">Elitrônicos</a>.</h6>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     </section>
          <!-- CONTATO -->
 
