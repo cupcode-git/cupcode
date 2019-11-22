@@ -130,7 +130,7 @@
                          <span class="icon-bar bottom-bar"></span>
                      </button>
                      <a class="navbar-brand logo-center" href="index.php">
-                       <img src="images/logo.png" alt="logo" class="scrolled-logo">
+                       <img src="/images/logo.png" alt="logo" class="scrolled-logo">
                       </a>
                   </div>
                   <div id="fixed-collapse-navbar" class="navbar-collapse collapse scrolly">
