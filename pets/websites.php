@@ -671,7 +671,7 @@
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
                <div>
-                  <img alt="Certificado SLL" class="image-banner1" src="images/website-ssl.png" />
+                  <img alt="Certificado SLL" class="image-banner1" src="images/websites-ssl.png" />
                </div>
             </div>
          </div>
