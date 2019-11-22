@@ -23,11 +23,11 @@
     else {echo "index, follow";} ?>" />
     <!-- main styling file  -->
 	<script src="https://kit.fontawesome.com/965317de7b.js"></script>
-    <link rel="stylesheet" href="css/site.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/mobile.css">
-    <link rel="stylesheet" href="css/typo1.css">
-    <link rel="icon" href="images/favicon.png">
+    <link rel="stylesheet" href="/css/site.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/mobile.css">
+    <link rel="stylesheet" href="/css/typo1.css">
+    <link rel="icon" href="/images/favicon.png">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

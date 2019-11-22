@@ -1,4 +1,4 @@
-<?php $title = 'design gráfico para pet shops - cupcode, inc.'; $description = 'Somos especialista em pet shops, criamos artes para sua marca com todo o respeito a sua identidade visual. Não tem uma? Não tem problema, criamos ela também.'; $keywords = 'pet shops, design, identidade visual, branding, logotipo, logo, logomarca, criação'; include("header.php"); ?>
+<?php $title = 'design gráfico para pet shops - cupcode, inc.'; $description = 'Somos especialista em pet shops, criamos artes para sua marca com todo o respeito a sua identidade visual. Não tem uma? Não tem problema, criamos ela também.'; $keywords = 'pet shops, design, identidade visual, branding, logotipo, logo, logomarca, criação'; include("../header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
     <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -432,10 +432,10 @@
     <!--Pricing white ends-->
      <!-- CONTATO -->
 
-        <?php include 'contato.php'; ?>
+        <?php include '../contato.php'; ?>
 
     <!-- CONTATO ENDS -->
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>
 <!-- jQuery Files -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
