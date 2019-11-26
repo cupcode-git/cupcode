@@ -2,28 +2,28 @@
       <div class="container">
          <div class="row">
             <div class="col-md-6">
-               <form action="mail.php" method="REQUEST" class="getin_form wow fadeInUp">
+               <form action="mail.php" method="POST" class="getin_form wow fadeInUp">
                   <div class="col-md-5 p-0">
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
-                           <input class="forma" name="name" type="name" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                           <input class="forma" name="Nome" type="name" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
                         </div>
                      </div>
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
-                           <input class="forma" name="email" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                           <input class="forma" name="E-mail" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
                         </div>
                      </div>
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
-                           <input class="forma" name="fone" type="fone" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                           <input class="forma" name="Telefone" type="fone" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
                         </div>
                      </div>
                   </div>
                      <div class="col-md-7 p-0">
                         <div class="col-md-12 col-sm-12">
                            <div class="form-group bottom45">
-                              <textarea class="forma" name="message" placeholder="digite sua mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                              <textarea type="message" class="forma" name="Mensagem" placeholder="Mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
                            </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
