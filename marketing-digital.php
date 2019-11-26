@@ -264,7 +264,7 @@
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light">gerenciamento</h2>
+				<h2 class="bottom45 ccdeep">gerenciamento</h2>
 				<p>cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito a sua marca e seu principal bem, os clientes.</p>
 					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
@@ -278,7 +278,7 @@
 		<div class="col-md-6 col-sm-3"></div>
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light">post</h2>
+				<h2 class="bottom45 ccdeep">post</h2>
 				<p>produzimos posts bem elaborados com conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estrategicamente para levar a seu público o que você realmente quer passar.</p>
 					<a href="javascript:void(0)#post" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
@@ -292,7 +292,7 @@
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">impulsionar</h2>
-				<p>não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
+				<p class="cc-light">não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
 					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings cc-light">ver pacotes</a>
 				</div>
 		</div>
@@ -434,10 +434,10 @@
 				</div-->
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="gerenciamento">
 				<div class="price-plan">
-				<h4 class="heading-titlenovo bottom15">marketing</h4>
-					<h3 class="bottom15">pacote ristreto</h3>
-					<div class="ammount">R$
-							<h2>498,90</h2> <span class="dur">/mês</span>
+				<h4 class="heading-titlenovo bottom15">marketing digital</h4>
+					<h3 class="bottom15">pacote</h3>
+					<div class="ammount">
+							<h2>ristreto</h2>
 					</div>
 				</div>
 				<ul class="top15 pdb-65">
@@ -447,15 +447,14 @@
 					<li><span>análize de KPI</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhPXtXsM" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> assinar</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
-				<h4 class="heading-titlenovo bottom15">marketing</h4>
-					<h3 class="bottom15">pacote lungo</h3>
-					<div class="ammount"> R$
-							<h2>698,90</h2> <span class="dur">/mês</span>
+				<h4 class="heading-titlenovo bottom15">marketing digital</h4>
+					<h3 class="bottom15">pacote</h3>
+					<div class="ammount">
+							<h2>lungo</h2>
 					</div>
 				</div>
 				<ul class="top15">
@@ -467,8 +466,7 @@
 					<li><span>análize de ROI (retorno de investimento)</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhP_ampq" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> assinar</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
 				</div>
 			</div>
 			         <!-- Pacote personalizado inicio -->
@@ -486,7 +484,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
 		</div>

@@ -277,7 +277,7 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light">criação de conteúdo</h2>
+               <h2 class="bottom45 ccdeep">criação de conteúdo</h2>
                <p>tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.</p>
             </div>
          </div>
@@ -291,7 +291,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">adaptação de conteúdo</h2>
-               <p>nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
+               <p class="cc-light">nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
             </div>
          </div>
       </div>
@@ -315,19 +315,19 @@
             </div>
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">latte machiatto</span>
+			<span class="heading-title bottom25">pacote</span>
                   <h3 class="bottom15">criação editorial</h3>
-                  <div class="ammount">R$
-                     <h2>1490,90</h2>
-                     <span class="dur">/mês</span>
+                  <div class="ammount">
+                     <h2>criação editorial</h2>
                   </div>
                </div>
                <ul class="top15">
+                  <li><span>jornalistas especializados</span></li>
+                  <li><span>criação de conteúdo rico e engajador</span></li>
                   <li><span>4 artigos por mês com foco em SEO</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
          </div>
 			         <!-- Pacote personalizado inicio -->
@@ -345,7 +345,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
       </div>

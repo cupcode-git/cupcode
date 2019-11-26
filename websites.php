@@ -264,8 +264,8 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">sites</h2>
-               <p>desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão atualizados.</p>
-                        <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+               <p class="cc-light">desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão atualizados.</p>
+                        <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos cc-light scrollings">ver pacotes</a>
             </div>
          </div>
       </div>
@@ -279,7 +279,7 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light">blogs</h2>
+               <h2 class="bottom45 ccdeep">blogs</h2>
                <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.</p>
                   <a href="javascript:void(0)#blog" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
@@ -292,9 +292,9 @@
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-                  <h2 class="bottom45 cc-light">e-commerce</h2>
-               <p>estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações, para que você não se preocupe com nada.</p>
-                  <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+               <h2 class="bottom45 cc-light">loja virtual</h2>
+               <p class="cc-light">estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações de seu e-commerce, para que você não se preocupe com mais nada.</p>
+                  <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos cc-light scrollings">ver pacotes</a>
             </div>
          </div>
       </div>
@@ -313,15 +313,15 @@
       </div>
    </div>
    </section>
-   <section class="padding bg-intro bgintro-9 parallaxie"  id="hospedagemhome">
+   <section class="padding bg-intro bgintro-9 parallaxie" id="hospedagemhome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-                        <h2 class="bottom45 cc-light">hospedagem</h2>
-               <p>com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
-                        <a href="javascript:void(0)#hospedagem" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+               <h2 class="bottom45 cc-light">hospedagem</h2>
+               <p class="cc-light">com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.</p>
+                  <a href="javascript:void(0)#hospedagens" class="button defaulthole top50 cc-planos cc-light scrollings">ver pacotes</a>
             </div>
          </div>
       </div>
@@ -332,9 +332,9 @@
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light">domínio</h2>
+               <h2 class="bottom45 ccdeep">domínio</h2>
                <p>o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.</p>
-                        <a href="javascript:void(0)#domínio" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+                  <a href="javascript:void(0)#dominio" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
       </div>
@@ -346,7 +346,7 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light">e-mail</h2>
+               <h2 class="bottom45 ccdeep">e-mail</h2>
                <p>oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.</p>
                         <a href="javascript:void(0)#e-mail" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
@@ -359,7 +359,7 @@
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-                        <h2 class="bottom45 cc-light">ssl</h2>
+                        <h2 class="bottom45 ccdeep0">ssl</h2>
                <p>exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.</p>
                         <a href="javascript:void(0)#ssl" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
@@ -380,12 +380,12 @@
             <div class="col-md-2 col-sm-2"></div>
          </div>
          <div class="row">
-            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="site">
+            <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="sites">
                <div class="price-plan">
-                  <h3 class="bottom15">site</h3>
-                        <span class="heading-titlenovo bottom25">em até 10x de</span>
-                  <div class="ammount">R$
-                     <h2>298,90</h2> <span class="dur">/mês</span>
+                  <h3 class="bottom15">plano websites</h3>
+                        <span class="heading-titlenovo bottom25">sua marca na internet</span>
+                  <div class="ammount">
+                     <h2>sites</h2>
                   </div>
                </div>
                <ul class="top15">
@@ -396,14 +396,14 @@
                   <li><span>html5, css3 & bootstrap</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRrA5b2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar site</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20website%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
-                  <h3 class="bottom15">blog</h3>
-                        <span class="heading-titlenovo bottom25">em até 10x de</span>
-                  <div class="ammount">R$
-                     <h2>398,90</h2> <span class="dur">/mês</span>
+                  <h3 class="bottom15">plano website + blog</h3>
+                        <span class="heading-titlenovo bottom25">cadastro de usuários e materias</span>
+                  <div class="ammount">
+                     <h2>blog</h2>
                   </div>
                </div>
                <ul class="top15">
@@ -414,14 +414,14 @@
                   <li><span>produção de conteúdo original</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRuB8G7" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar blog</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
-                  <h3 class="bottom15">e-commerce</h3>
-                        <span class="heading-titlenovo bottom25">a partir de 10x de</span>
-                  <div class="ammount"> R$
-                     <h2>947,80</h2> <span class="dur">/mês</span>
+                  <h3 class="bottom15">plano e-commerce</h3>
+                        <span class="heading-titlenovo bottom25">venda 24 horas por dia</span>
+                  <div class="ammount">
+                     <h2>loja virtual</h2>
                   </div>
                </div>
                <ul class="top15">
@@ -433,8 +433,7 @@
                   <li><span>wordpress & woocommerce</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://pag.ae/7VhRvH512" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar e-commerce</a>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20e-commerce%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20loja%20virtual,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre website</a></center>
@@ -467,9 +466,9 @@
          <div class="row col-md-12">
             <div class="col-md-4 col-sm-6 price-table text-center top50" id="hospedagens">
                <div class="price-plan">
-                  <h3 class="bottom15">hospedagem para site</h3>
-                  <div class="ammount"> R$
-                     <h2>198,90</h2> <span class="dur">/ano</span>
+                  <h3 class="bottom15">hospedagem para</h3>
+                  <div class="ammount">
+                     <h2>website</h2>
                   </div>
                </div>
                <ul class="top15">
@@ -480,13 +479,13 @@
                   <li><span>correções de falhas automáticas</span></li>
                </ul>
                <div class="clearfix"></div>
-                  <a href="http://pag.ae/7VhRxHWX5" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20websites%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">hospedagem para blog</h3>
-                  <div class="ammount"> R$
-                     <h2>298,90</h2> <span class="dur">/ano</span>
+                  <h3 class="bottom15">hospedagem para</h3>
+                  <div class="ammount">
+                     <h2>blog</h2>
                   </div>
                </div>
                <ul class="top15">
@@ -497,13 +496,13 @@
                <li><span>correções de falhas automáticas</span></li>
                </ul>
                <div class="clearfix"></div>
-                  <a href="http://pag.ae/7VhRz1Qun" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
             <div class="col-md-4  col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
-                  <h3 class="bottom15">hospedagem para e-commerce</h3>
-                  <div class="ammount"> R$
-                     <h2>378,90</h2> <span class="dur">/ano</span>
+                  <h3 class="bottom15">hospedagem para</h3>
+                  <div class="ammount">
+                     <h2>loja virtual</h2>
                   </div>
                </div>
                <ul class="top15">
@@ -515,7 +514,7 @@
                <li><span>correções de falhas automáticas</span></li>
                </ul>
                <div class="clearfix"></div>
-                  <a href="http://pag.ae/7VhRzJqb2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20loja%20virtual%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
@@ -529,7 +528,7 @@
          <div class="col-md-12">
             <div class="item-titles mgt-100 text-center wow fadeInLeft">
                <h3 class="bottom10">
-                  <a class="cc-light"><strong>domínio</strong></a>
+                  <a class="ccdeep"><strong>domínio</strong></a>
                </h3>
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
@@ -549,28 +548,28 @@
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="domínio">
                <div class="price-plan">
                   <h3 class="bottom15">nacional</h3>
-                  <div class="ammount"> R$
-                     <h2>60,00</h2> <span class="dur">/ano</span>
+                  <div class="ammount">
+                     <h2>.com.br</h2>
                   </div>
                </div>
                <ul>
                   <li><span>seu-dominio.com.br</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRAZEm6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20nacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar dominio .com.br</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15">internacional</h3>
-                  <div class="ammount"> R$
-                     <h2>58,00</h2> <span class="dur">/ano</span>
+                  <div class="ammount">
+                     <h2>.com</h2>
                   </div>
                </div>
                <ul>
                   <li><span>seu-dominio.com</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRDMMg6" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20internacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar dominio .com</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre dominíos</a></center>
@@ -606,31 +605,44 @@
                <div class="price-plan">
                   <h3 class="bottom15">1 e-mail</h3>
                   <div class="ammount">R$
-                     <h2>50,00</h2> <span class="dur">/mês</span>
+                     <h2>25,00</h2> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul>
                   <li><span>caixa com 10 GB</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRG7jTM" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20uma%20caixa%20de%20e-mail,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar 1 caixa</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
                   <h3 class="bottom15">2 e-mails</h3>
                   <div class="ammount">R$
-                     <h2>75,00</h2> <span class="dur">/mês</span>
+                     <h2>40,00</h2> <span class="dur">/mês</span>
                   </div>
                </div>
                <ul>
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRHkgr7" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20duas%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar 2 caixas</a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
                   <h3 class="bottom15">5 e-mails</h3>
+                  <div class="ammount">R$
+                     <h2>85,00</h2> <span class="dur">/mês</span>
+                  </div>
+               </div>
+               <ul>
+                  <li><span>caixas com 10 GB cada</span></li>
+               </ul>
+               <div class="clearfix"></div>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20cinco%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar 5 caixas</a>
+            </div>
+            <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
+               <div class="price-plan">
+                  <h3 class="bottom15">10 e-mails</h3>
                   <div class="ammount">R$
                      <h2>150,00</h2> <span class="dur">/mês</span>
                   </div>
@@ -639,20 +651,7 @@
                   <li><span>caixas com 10 GB cada</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRJf467" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
-            </div>
-            <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
-               <div class="price-plan">
-                  <h3 class="bottom15">10 e-mails</h3>
-                  <div class="ammount">R$
-                     <h2>280,00</h2> <span class="dur">/mês</span>
-                  </div>
-               </div>
-               <ul>
-                  <li><span>caixas com 10 GB cada</span></li>
-               </ul>
-               <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRJ_pX2" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20dez%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar 10 caixas</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas ou solicitar mais caixas</a></center>
@@ -665,7 +664,7 @@
          <div class="col-md-12">
             <div class="item-titles mgt-100 text-center wow fadeInLeft">
                <h3 class="bottom10">
-                  <a class="cc-light"><strong>ssl</strong></a>
+                  <a class="ccdeep"><strong>ssl</strong></a>
                </h3>
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
@@ -692,9 +691,10 @@
                </div>
                <ul class="top15">
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
+                  <li><span>com instalação completa</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> assinar ssl</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20do%20ssl,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar ssl</a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
@@ -706,9 +706,10 @@
                </div>
                <ul class="top15">
                   <li><span>exiba um cadeado de site seguro no seu site</span></li>
+                  <li><span>renovação instantanea</li>
                </ul>
                <div class="clearfix"></div>
-               <a href="http://pag.ae/7VhRMjYYH" target="_blank" class="button defaulthole top50 contratar"><i class="fas fa-shopping-cart"></i> assinar ssl</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20atualização%20do%20certificado%20SSL,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> atualizar ssl</a>
             </div>
          </div>
          <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre ssl</a></center>

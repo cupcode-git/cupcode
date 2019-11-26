@@ -276,7 +276,7 @@
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light">logotipo</h2>
+				<h2 class="bottom45 ccdeep">logotipo</h2>
 				<p>nossos designers são especialistas em criar um logotipo marcante e único, onde você tenha a representação da sua marca em um lindo e elegante design que começa com um estudo aprofundado sobre os conceitos, os traços, unido aos seus valores, missão e visão      .</p>
 			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
 				</div>
@@ -291,8 +291,8 @@
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">manual da marca</h2>
-				<p>normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.</p>
-			<a href="javascript:void(0)" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				<p class="cc-light">normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.</p>
+			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos cc-light scrollings">ver pacotes</a>
 				</div>
 			</div>
 		</div>
@@ -319,8 +319,8 @@
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">artes impressas</h2>
-				<p>inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.</p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				<p class="cc-light">inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.</p>
+			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings">ver pacotes</a>
 				</div>
 			</div>
 		</div>
@@ -333,8 +333,8 @@
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">artes digitais</h2>
-				<p>no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.</p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				<p class="cc-light">no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.</p>
+			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings">ver pacotes</a>
 				</div>
 			</div>
 		</div>
@@ -355,11 +355,11 @@
         <div class="row">
             <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="branding">
             <div class="price-plan">
-			<span class="heading-title bottom25">mocha</span>
-                <h3 class="bottom15">branding</h3>
-			    <span class="heading-titlenovo bottom25">12x de </span>
-                <div class="ammount">R$
-                    <h2>79,90</h2> <span class="dur">/mês</span>
+			<span class="heading-title bottom25">design gráfico</span>
+                <h3 class="bottom15">pacote</h3>
+			    <span class="heading-titlenovo bottom25">sua identidade visual completa</span>
+                <div class="ammount">
+                    <h2>branding</h2>
                 </div>
             </div>
             <ul class="top15">
@@ -370,15 +370,15 @@
                 <li><span>manual da marca</span></li>
             </ul>
             <div class="clearfix"></div>
-				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+            <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> solicitar orçamento</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
-			<span class="heading-title bottom25">latte machiatto</span>
-                <h3 class="bottom15">branding & papelaria</h3>
-			    <!--span class="heading-titlenovo bottom25">12x de </span-->
-                <div class="ammount">R$
-                    <h2>249,90</h2> <span class="dur">/mês</span>
+			<span class="heading-title bottom25">design gráfico</span>
+                <h3 class="bottom15">pacote</h3>
+			    <span class="heading-titlenovo bottom25">os dois pacotes juntos, com um super desconto</span>
+                <div class="ammount">
+                    <h2>branding + papelaria</h2>
                 </div>
             </div>
             <ul class="top15">
@@ -391,15 +391,15 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+            <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20+%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> solicitar orçamento</a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
-			<span class="heading-title bottom25">capuccinno</span>
-                <h3 class="bottom15">papelaria</h3>
-			    <!--span class="heading-titlenovo bottom25">em 12x de </span-->
-                <div class="ammount"> R$
-                    <h2>198,90</h2> <span class="dur">/mês</span>
+			<span class="heading-title bottom25">design gráfico</span>
+                <h3 class="bottom15">pacote</h3>
+			    <span class="heading-titlenovo bottom25">todas as suas artes, para impressos e digitais</span>
+                <div class="ammount">
+                    <h2>papelaria</h2>
                 </div>
             </div>
             <ul class="top15">
@@ -407,7 +407,7 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> solicitar orçamento</a>
         </div>
         </div>
         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
@@ -426,7 +426,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
         </div>
