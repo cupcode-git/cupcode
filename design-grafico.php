@@ -25,7 +25,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;border-width:0px;"><img src="images/design1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+                        style="z-index: 5;border-width:0px;"><img src="images/hero-grafico-1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
                 <!-- layer nr. 2 -->
                 <div class="tp-caption tp-resizeme rs-parallaxlevel-25"
                         id="layers-two"
@@ -43,7 +43,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;border-width:0px;"><img src="images/design2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+                        style="z-index: 6;border-width:0px;"><img src="images/hero-grafico-2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
                 <!-- layer nr. 3 -->
                 <div class="tp-caption tp-resizeme rs-parallaxlevel-10"
                         id="layers-three"
@@ -61,7 +61,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7;border-width:0px;"><img src="images/design3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+                        style="z-index: 7;border-width:0px;"><img src="images/hero-grafico-3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
                 <!-- layer nr. 4 -->
                 <div class="tp-caption tp-resizeme rs-parallaxlevel-12"
                         id="layers-four"
@@ -79,7 +79,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 8;border-width:0px;"><img src="images/design4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+                        style="z-index: 8;border-width:0px;"><img src="images/hero-grafico-4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
                 <!-- layer nr. 5 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-five"
@@ -97,7 +97,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 9;border-width:0px;"><img src="images/design5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+                        style="z-index: 9;border-width:0px;"><img src="images/hero-grafico-5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
                 <!-- layer nr. 8 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-9"
                         id="layers-six"
@@ -115,7 +115,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 12;border-width:0px;"><img src="images/design6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+                        style="z-index: 12;border-width:0px;"><img src="images/hero-grafico-6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
                 <!-- layer nr. 9 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-sev"
@@ -133,7 +133,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 13;border-width:0px;"><img src="images/design7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+                        style="z-index: 13;border-width:0px;"><img src="images/hero-grafico-7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
                 <!-- layer nr. 10 -->
                 <div class="tp-caption tp-resizeme"
                         id="layers-eight"
@@ -276,9 +276,9 @@
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light">logotipo</h2>
+				<h2 class="bottom45 ccdeep">logotipo</h2>
 				<p>nossos designers são especialistas em criar um logotipo marcante e único, onde você tenha a representação da sua marca em um lindo e elegante design que começa com um estudo aprofundado sobre os conceitos, os traços, unido aos seus valores, missão e visão      .</p>
-			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -291,8 +291,8 @@
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">manual da marca</h2>
-				<p>normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.</p>
-			<a href="javascript:void(0)" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				<p class="cc-light">normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.</p>
+			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -319,8 +319,8 @@
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">artes impressas</h2>
-				<p>inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.</p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				<p class="cc-light">inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.</p>
+			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -333,8 +333,8 @@
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">artes digitais</h2>
-				<p>no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.</p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+				<p class="cc-light">no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.</p>
+			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -355,11 +355,11 @@
         <div class="row">
             <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="branding">
             <div class="price-plan">
-			<span class="heading-title bottom25">mocha</span>
-                <h3 class="bottom15">branding</h3>
-			    <span class="heading-titlenovo bottom25">12x de </span>
-                <div class="ammount">R$
-                    <h2>79,90</h2> <span class="dur">/mês</span>
+			<span class="heading-title bottom25">design gráfico</span>
+                <h3 class="bottom15">pacote</h3>
+			    <span class="heading-titlenovo bottom25">sua identidade visual completa</span>
+                <div class="ammount">
+                    <h2>branding</h2>
                 </div>
             </div>
             <ul class="top15">
@@ -370,15 +370,14 @@
                 <li><span>manual da marca</span></li>
             </ul>
             <div class="clearfix"></div>
-				<a href="https://pag.ae/7VhSeZn4s" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+            <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
-			<span class="heading-title bottom25">latte machiatto</span>
-                <h3 class="bottom15">branding & papelaria</h3>
-			    <!--span class="heading-titlenovo bottom25">12x de </span-->
-                <div class="ammount">R$
-                    <h2>249,90</h2> <span class="dur">/mês</span>
+                <h3 class="bottom15">pacote</h3>
+			    <span class="heading-titlenovo bottom25">os dois pacotes juntos, com um super desconto</span>
+                <div class="ammount">
+                    <h2>branding + papelaria</h2>
                 </div>
             </div>
             <ul class="top15">
@@ -391,15 +390,15 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSi6FX2" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+            <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20+%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
-			<span class="heading-title bottom25">capuccinno</span>
-                <h3 class="bottom15">papelaria</h3>
-			    <!--span class="heading-titlenovo bottom25">em 12x de </span-->
-                <div class="ammount"> R$
-                    <h2>198,90</h2> <span class="dur">/mês</span>
+			<span class="heading-title bottom25">design gráfico</span>
+                <h3 class="bottom15">pacote</h3>
+			    <span class="heading-titlenovo bottom25">todas as suas artes, para impressos e digitais</span>
+                <div class="ammount">
+                    <h2>papelaria</h2>
                 </div>
             </div>
             <ul class="top15">
@@ -407,7 +406,7 @@
                 <li><span>artes digitais</span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         </div>
         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
@@ -426,7 +425,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
         </div>
@@ -439,53 +438,3 @@
 
     <!-- CONTATO ENDS -->
 <?php include 'footer.php'; ?>
-<!-- jQuery Files -->
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<!--to view items on reach-->
-<script src="js/jquery.appear.js"></script>
-<!--Swiper slider-->
-<script src="js/swiper.jquery.min.js"></script>
-<!--Owl slider-->
-<script src="js/owl.carousel.min.js"></script>
-<!--number counters-->
-<script src="js/jquery-countTo.js"></script>
-<!--equalize the same heights of block-->
-<script src="js/jquery.matchHeight-min.js"></script>
-<!--for parallax bgs-->
-<script src="js/parallaxie.js"></script>
-<!--for CountDown Timer-->
-<script src="js/dscountdown.min.js"></script>
-<!--Open popup fancybox on images-->
-<script src="js/jquery.fancybox.min.js"></script>
-<!--Portfolio galleries-->
-<script src="js/jquery.cubeportfolio.min.js"></script>
-<!--Progressbar s in circle forms-->
-<script src="js/circle-progress.min.js"></script>
-<!--scrollbar on blocks-->
-<script src="js/simplebar.js"></script>
-<!--Video Pops support for youtube, viemo etc-->
-<script src="js/viedobox_video.js"></script>
-<!--youtube background video-->
-<script src="js/jquery.mb.YTPlayer.min.js"></script>
-<!-- Type It -->
-<script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
-<!-- WOW Transitions -->
-<script src="js/wow.min.js"></script>
-<!--Revolution SLider-->
-<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
-<!--Synx scripts-->
-<script src="js/functions.js"></script>
-</body>
-</html>

@@ -25,7 +25,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;border-width:0px;"><img src="images/editorial1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+                        style="z-index: 5;border-width:0px;"><img src="images/hero-editorial-1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
                   <!-- layer nr. 2 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-25"
                         id="layers-two"
@@ -43,7 +43,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;border-width:0px;"><img src="images/editorial2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+                        style="z-index: 6;border-width:0px;"><img src="images/hero-editorial-2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
                   <!-- layer nr. 3 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-10"
                         id="layers-three"
@@ -61,7 +61,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7;border-width:0px;"><img src="images/editorial3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+                        style="z-index: 7;border-width:0px;"><img src="images/hero-editorial-3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
                   <!-- layer nr. 4 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-12"
                         id="layers-four"
@@ -79,7 +79,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 8;border-width:0px;"><img src="images/editorial4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+                        style="z-index: 8;border-width:0px;"><img src="images/hero-editorial-4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
                   <!-- layer nr. 5 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-five"
@@ -97,7 +97,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 9;border-width:0px;"><img src="images/editorial5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+                        style="z-index: 9;border-width:0px;"><img src="images/hero-editorial-5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
                   <!-- layer nr. 8 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-9"
                         id="layers-six"
@@ -115,7 +115,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 12;border-width:0px;"><img src="images/editorial6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+                        style="z-index: 12;border-width:0px;"><img src="images/hero-editorial-6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
                   <!-- layer nr. 9 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-sev"
@@ -133,7 +133,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 13;border-width:0px;"><img src="images/editorial7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+                        style="z-index: 13;border-width:0px;"><img src="images/hero-editorial-7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
                   <!-- layer nr. 10 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-eight"
@@ -277,7 +277,7 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light">criação de conteúdo</h2>
+               <h2 class="bottom45 ccdeep">criação de conteúdo</h2>
                <p>tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.</p>
             </div>
          </div>
@@ -291,7 +291,7 @@
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">adaptação de conteúdo</h2>
-               <p>nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
+               <p class="cc-light">nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.</p>
             </div>
          </div>
       </div>
@@ -315,19 +315,19 @@
             </div>
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
-			<span class="heading-title bottom25">latte machiatto</span>
+			<span class="heading-title bottom25">pacote</span>
                   <h3 class="bottom15">criação editorial</h3>
-                  <div class="ammount">R$
-                     <h2>1490,90</h2>
-                     <span class="dur">/mês</span>
+                  <div class="ammount">
+                     <h2>criação editorial</h2>
                   </div>
                </div>
                <ul class="top15">
+                  <li><span>jornalistas especializados</span></li>
+                  <li><span>criação de conteúdo rico e engajador</span></li>
                   <li><span>4 artigos por mês com foco em SEO</span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20o%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas</a>
-				<a href="http://pag.ae/7VhSs58w7" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
          </div>
 			         <!-- Pacote personalizado inicio -->
@@ -345,7 +345,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
       </div>
@@ -363,53 +363,3 @@
    <!--Footer-->
    <?php include 'footer.php'; ?>
    <!--Footer ends-->
-<!-- jQuery Files -->
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<!--to view items on reach-->
-<script src="js/jquery.appear.js"></script>
-<!--Swiper slider-->
-<script src="js/swiper.jquery.min.js"></script>
-<!--Owl slider-->
-<script src="js/owl.carousel.min.js"></script>
-<!--number counters-->
-<script src="js/jquery-countTo.js"></script>
-<!--equalize the same heights of block-->
-<script src="js/jquery.matchHeight-min.js"></script>
-<!--for parallax bgs-->
-<script src="js/parallaxie.js"></script>
-<!--for CountDown Timer-->
-<script src="js/dscountdown.min.js"></script>
-<!--Open popup fancybox on images-->
-<script src="js/jquery.fancybox.min.js"></script>
-<!--Portfolio galleries-->
-<script src="js/jquery.cubeportfolio.min.js"></script>
-<!--Progressbar s in circle forms-->
-<script src="js/circle-progress.min.js"></script>
-<!--scrollbar on blocks-->
-<script src="js/simplebar.js"></script>
-<!--Video Pops support for youtube, viemo etc-->
-<script src="js/viedobox_video.js"></script>
-<!--youtube background video-->
-<script src="js/jquery.mb.YTPlayer.min.js"></script>
-<!-- Type It -->
-<script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
-<!-- WOW Transitions -->
-<script src="js/wow.min.js"></script>
-<!--Revolution SLider-->
-<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
-<!--Synx scripts-->
-<script src="js/functions.js"></script>
-</body>
-</html>

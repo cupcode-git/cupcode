@@ -1,4 +1,4 @@
-﻿<?php $title = 'agência de marketing digital para restaurantes, criação de websites, artes graficas e editoriais - cupcode, inc.'; $description = 'Uma agência expert em restaurantes e gastronomia, fazemos seu investimento trabalhar por você, para que crescendo juntos, tenhamos mais resultados no agora e no futuro.'; $keywords = 'agência de marketing, restaurantes, gastronimia, culinária, digital, criação, sites, editorial, papelaria, branding'; include("header.php"); ?>
+﻿<?php $title = 'agência de marketing digital para restaurantes, criação de websites, artes graficas e editoriais - cupcode, inc.'; $description = 'Uma agência expert em restaurantes e gastronomia, fazemos seu investimento trabalhar por você, para que crescendo juntos, tenhamos mais resultados no agora e no futuro.'; $keywords = 'agência de marketing, restaurantes, gastronimia, culinária, digital, criação, sites, editorial, papelaria, branding'; include("../header.php"); ?>
     <section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
         <div class="container">
             <div class="row">
@@ -160,7 +160,7 @@
                                 </div>
                             </div>
                             <hr>
-                            <p class="text-light">anunciamos seu restaurante com inteligência, garantindoo melhor retorno de seu investimento.</p>
+                            <p class="text-light">anunciamos seu restaurante com inteligência, garantindo o melhor retorno de seu investimento.</p>
                         </div>
                     </div>
                     <div class="col-md-12 text-center pdt-100">
@@ -297,7 +297,7 @@
                                 <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="clique aqui e saiba mais sobre adaptação SEO" title="clique aqui e saiba mais sobre adaptação SEO">adaptação SEO</h4>
                                 <div style="display: none;" id="hidden-content-g" class="text-center">
                                     <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
-                                    <p class="text-justify">adaptamos seus textos para tirarem o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas, como google e bing.</p>
+                                    <p class="text-justify">adaptamos seus textos para tirarem o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.</p>
                                     <div class="text-center">
                                         <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
                                     </div>
@@ -377,22 +377,23 @@
             <div id="masonry-light" class="cbp bottom30">
             <div class="cbp-item print">
                 <div class="image">
-                    <img src="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio">
+                    <img src="images/portfolio-glaser.jpg" alt="glaser portfolio" title="glaser portfolio">
                 </div>
-                <div class="overlay light center-block darkcolor">
+                <div class="overlay light center-
+                block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/glaser-portfolio.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-glaser.jpg" alt="glaser portfolio" title="glaser portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>papelaria</p>
                 </div>
             </div>
             <div class="cbp-item web print">
                 <div class="image">
-                    <img src="images/rabo-de-galo-portfolio.jpg" alt="rabo de galo" title="rabo de galo">
+                    <img src="images/portfolio-rabo-de-galo.jpg" alt="rabo de galo" title="rabo de galo">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/rabo-de-galo-portfolio.jpg" alt="rabo de galo" title="rabo de galo"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-rabo-de-galo.jpg" alt="rabo de galo" title="rabo de galo"><i class="fa fa-search-plus"></i></a></li>
                  <li><a href="https://www.pomadarabodegalo.com/" target="_blank" alt="rabo de galo" title="rabo de galo"><i class="fas fa-link"></i></a></li>
                     </ul>
                     <p>web, papelaria</p>
@@ -412,11 +413,11 @@
             </div>
             <div class="cbp-item print web branding">
                 <div class="image">
-                    <img src="images/elitronicos-portfolio.jpg" alt="elitronicos portfolio" title="elitronicos portfolio">
+                    <img src="images/portfolio-elitronicos.jpg" alt="elitronicos portfolio" title="elitronicos portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/elitronicos-portfolio.jpg" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-elitronicos.jpg" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fa fa-search-plus"></i></a></li>
                  <li><a href="www.elitronicos.com.br" target="_blank" alt="elitronicos portfolio" title="elitronicos portfolio"><i class="fas fa-link"></i></a></li>
                     </ul>
                     <p>web, papelaria, branding</p>
@@ -424,77 +425,77 @@
             </div>
             <div class="cbp-item web print">
                 <div class="image">
-                    <img src="images/sofalizando-portfolio.jpg" alt="sofalizando portfolio" title="sofalizando portfolio">
+                    <img src="images/portfolio-sofalizando.jpg" alt="sofalizando portfolio" title="sofalizando portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/sofalizando-portfolio.jpg" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-sofalizando.jpg" alt="sofalizando portfolio" title="sofalizando portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>web, papelaria</p>
                 </div>
             </div>
             <div class="cbp-item branding print">
                 <div class="image">
-                    <img src="images/sacola-bar-do-silval-portfolio.jpg" alt="bar do silval" title="bar do silval">
+                    <img src="images/portfolio-bar-do-silval.jpg" alt="bar do silval" title="bar do silval">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/sacola-bar-do-silval-portfolio.jpg" alt="bar do silval" title="bar do silval"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-bar-do-silval.jpg" alt="bar do silval" title="bar do silval"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>branding, papelaria</p>
                 </div>
             </div>
         <div class="cbp-item web branding">
                 <div class="image">
-                    <img src="images/britney-portfolio.jpg" alt="britney portfolio" title="britney portfolio">
+                    <img src="images/portfolio-britneynizer.jpg" alt="britneynizer portfolio" title="britneynizer portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/britney-portfolio.jpg" alt="britney portfolio" title="britney portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-britneynizer.jpg" alt="britneynizer portfolio" title="britneynizer portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>web e branding</p>
                 </div>
             </div>
         <div class="cbp-item web print">
                 <div class="image">
-                    <img src="images/cavaz-portfolio.jpg" alt="cavaz portfolio" title="cavaz portfolio">
+                    <img src="images/portfolio-cavaz.jpg" alt="cavaz portfolio" title="cavaz portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/cavaz-portfolio.jpg" alt="cavaz portfolio" title="cavaz portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-cavaz.jpg" alt="cavaz portfolio" title="cavaz portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>web e papelaria</p>
                 </div>
             </div>
         <div class="cbp-item web print">
                 <div class="image">
-                    <img src="images/bolas-fora-portfolio.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio">
+                    <img src="images/portfolio-bolas-fora.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/bolas-fora-portfolio.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-bolas-fora.jpg" alt="bolas fora portfolio"  title="bolas fora portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>web e papelaria</p>
                 </div>
             </div>
         <div class="cbp-item branding print">
                 <div class="image">
-                    <img src="images/corr-portfolio.jpg" alt="corr portfolio"  title="corr portfolio">
+                    <img src="images/portfolio-corr.jpg" alt="corr portfolio"  title="corr portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/corr-portfolio.jpg" alt="corr portfolio"  title="corr portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-corr.jpg" alt="corr portfolio"  title="corr portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>branding e papelaria</p>
                 </div>
             </div>
         <div class="cbp-item web branding print">
                 <div class="image">
-                    <img src="images/a50-portfolio.jpg" alt="a50 portfolio"  title="a50 portfolio">
+                    <img src="images/portfolio-a50.jpg" alt="a50 portfolio"  title="a50 portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/a50-portfolio.jpg" alt="a50 portfolio"  title="a50 portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-a50.jpg" alt="a50 portfolio"  title="a50 portfolio"><i class="fa fa-search-plus"></i></a></li>
                  <li><a href="www.a50.com.br" target="_blank" alt="a50 portfolio" title="a50 portfolio"><i class="fas fa-link"></i></a></li>
                     </ul>
                     <p>web, branding e papelaria</p>
@@ -502,55 +503,55 @@
             </div>
         <div class="cbp-item print">
                 <div class="image">
-                    <img src="images/tatoozasso-portfolio.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio">
+                    <img src="images/portfolio-tatoozasso.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/tatoozasso-portfolio.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-tatoozasso.jpg" alt="tatoozasso portfolio"  title="tatoozasso portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>papelaria</p>
                 </div>
             </div>
         <div class="cbp-item web branding print">
                 <div class="image">
-                    <img src="images/wec-portfolio.jpg" alt="wec portfolio"  title="wec portfolio">
+                    <img src="images/portfolio-wec.jpg" alt="wec portfolio"  title="wec portfolio">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/wec-portfolio.jpg" alt="wec portfolio"  title="wec portfolio"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-wec.jpg" alt="wec portfolio"  title="wec portfolio"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>web, branding e papelaria</p>
                 </div>
             </div>
         <div class="cbp-item print">
                 <div class="image">
-                    <img src="images/visconde-portfolio.jpg" alt="visconde"  title="visconde">
+                    <img src="images/portfolio-visconde.jpg" alt="visconde"  title="visconde">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/visconde-portfolio.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-visconde.jpg" alt="visconde"  title="visconde"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                     <p>papelaria</p>
                 </div>
             </div>
         <div class="cbp-item web">
                 <div class="image">
-                    <img src="images/licitacoes-portfolio.jpg" alt="uol licitações"  title="uol licitações">
+                    <img src="images/portfolio-evento-mpe.jpg" alt="uol evento mpe"  title="uol evento mpe">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/licitacoes-portfolio.jpg" alt="uol licitações"  title="uol licitações"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-evento-mpe.jpg" alt="uol evento mpe"  title="uol evento mpe"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web</p>
                 </div>
             </div>
         <div class="cbp-item web">
                 <div class="image">
-                    <img src="images/checkmob.jpg" alt="checkmob"  title="checkmob">
+                    <img src="images/portfolio-checkmob.jpg" alt="checkmob"  title="checkmob">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/checkmob.jpg" alt="checkmob"  title="checkmob"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-checkmob.jpg" alt="checkmob"  title="checkmob"><i class="fa fa-search-plus"></i></a></li>
                  <li><a href="www.checkmob.com.br" target="_blank" alt="checkmob" title="checkmob"><i class="fas fa-link"></i></a></li>
                     </ul>
                         <p>web</p>
@@ -558,11 +559,11 @@
             </div>
             <div class="cbp-item web">
                 <div class="image">
-                    <img src="images/cinq.jpg" alt="cinq"  title="cinq">
+                    <img src="images/portfolio-cinq.jpg" alt="cinq"  title="cinq">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/cinq.jpg" alt="cinq" title="cinq"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-cinq.jpg" alt="cinq" title="cinq"><i class="fa fa-search-plus"></i></a></li>
                  <li><a href="www.cinq.com.br" target="_blank" alt="cinq" title="cinq"><i class="fas fa-link"></i></a></li>
                     </ul>
                         <p>web</p>
@@ -570,22 +571,22 @@
             </div>
             <div class="cbp-item web branding">
                 <div class="image">
-                    <img src="images/code9.jpg" alt="code9"  title="code9">
+                    <img src="images/portfolio-code-9.jpg" alt="code 9"  title="code 9">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/code9.jpg" alt="code9"  title="code9"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-code-9.jpg" alt="code 9"  title="code 9"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web e branding</p>
                 </div>
             </div>
             <div class="cbp-item web print">
                 <div class="image">
-                    <img src="images/howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks">
+                    <img src="images/portfolio-howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-howstuffworks.jpg" alt="howstuffworks"  title="howstuffworks"><i class="fa fa-search-plus"></i></a></li>
                  <li><a href="www.howstuffworks.com" target="_blank" alt="howstuffworks" title="howstuffworks"><i class="fas fa-link"></i></a></li>
                     </ul>
                         <p>web e papelaria</p>
@@ -593,66 +594,66 @@
             </div>
             <div class="cbp-item web">
                 <div class="image">
-                    <img src="images/joguebola.jpg" alt="joguebola"  title="joguebola">
+                    <img src="images/portfolio-jogue-bola.jpg" alt="jogue bola"  title="jogue bola">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/joguebola.jpg" alt="joguebola"  title="joguebola"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-jogue-bola.jpg" alt="jogue bola"  title="jogue bola"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web</p>
                 </div>
             </div>
             <div class="cbp-item web branding">
                 <div class="image">
-                    <img src="images/joguebola2.jpg" alt="joguebola2"  title="joguebola2">
+                    <img src="images/portfolio-jogue-bola-2.jpg" alt="jogue bola"  title="jogue bola">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/joguebola2.jpg" alt="joguebola2"  title="joguebola2"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-jogue-bola2.jpg" alt="jogue bola"  title="jogue bola"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web e branding</p>
                 </div>
             </div>
             <div class="cbp-item web">
                 <div class="image">
-                    <img src="images/lippe.jpg" alt="lippe"  title="lippe">
+                    <img src="images/portfolio-lippe.jpg" alt="lippe"  title="lippe">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/lippe.jpg" alt="lippe"  title="lippe"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-lippe.jpg" alt="lippe"  title="lippe"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web</p>
                 </div>
             </div>
             <div class="cbp-item print web branding">
                 <div class="image">
-                    <img src="images/mansaomix.jpg" alt="mansaomix"  title="mansaomix">
+                    <img src="images/portfolio-mansao-mix.jpg" alt="mansão mix"  title="mansão mix">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/mansaomix.jpg" alt="mansaomix"  title="mansaomix"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-mansao-mix.jpg" alt="mansão mix"  title="mansão mix"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web, papelaria e branding</p>
                 </div>
             </div>
             <div class="cbp-item web branding">
                 <div class="image">
-                    <img src="images/portfolioprojetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox">
+                    <img src="images/portfolio-projeto-x.jpg" alt="projeto x"  title="projeto x">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/portfolioprojetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-projeto-x.jpg" alt="projeto x"  title="projeto x"><i class="fa fa-search-plus"></i></a></li>
                     </ul>
                         <p>web e branding</p>
                 </div>
             </div>
             <div class="cbp-item web">
                 <div class="image">
-                    <img src="images/sebrae.jpg" alt="sebrae"  title="sebrae">
+                    <img src="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae">
                 </div>
                 <div class="overlay light center-block darkcolor">
                     <ul class="social bottom40">
-                        <li><a data-fancybox="gallery" href="images/sebrae.jpg" alt="sebrae"  title="sebrae"><i class="fa fa-search-plus"></i></a></li>
+                        <li><a data-fancybox="gallery" href="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae"><i class="fa fa-search-plus"></i></a></li>
                  <li><a alt="sebrae" title="sebrae"><i class="fas fa-link"></i></a></li>
                     </ul>
                         <p>web</p>
@@ -728,9 +729,9 @@
             <div class="row bottom40">
                 <div class=" col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
                     <div id="owl-thumbs" class="owl-dots text-center">
-                        <div class="owl-dot active"><img src="images/raquel.jpg" alt=""></div>
-                        <div class="owl-dot"><img src="images/diego.jpg" alt=""></div>
-                        <div class="owl-dot"><img src="images/eliezer.jpg" alt=""></div>
+                        <div class="owl-dot active"><img src="images/depoimentos-raquel.jpg"></div>
+                        <div class="owl-dot"><img src="images/depoimentos-diego.jpg"></div>
+                        <div class="owl-dot"><img src="images/depoimentos-eliezer.jpg"></div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-3"></div>
@@ -768,10 +769,10 @@
     </section>
          <!-- CONTATO -->
 
-         <?php include 'contato.php'; ?>
+         <?php include '../contato.php'; ?>
 
 <!-- CONTATO ENDS -->
-    <section class="single-items item-teen2 parallaxie full-screen" id="parceiros">
+<section class="single-items item-teen2 parallaxie full-screen" id="parceiros">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
@@ -785,102 +786,102 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-a50-click.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                            <img src="images/parceiros-a50-click.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-a50.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                            <img src="images/parceiros-a50.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-barbearia-visconde.png" alt="barbearia visconde" title="barbearia visconde">
+                            <img src="images/parceiros-barbearia-visconde.png" alt="barbearia visconde" title="barbearia visconde">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-galeria-glaser.png" alt="barbearia visconde glaser" title="barbearia visconde glaser">
+                            <img src="images/parceiros-galeria-glaser.png" alt="barbearia visconde glaser" title="barbearia visconde glaser">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-lrmck.png" alt="[[ L R M c K ]]" title="[[ L R M c K ]]">
+                            <img src="images/parceiros-lrmck.png" alt="[[ L R M c K ]]" title="[[ L R M c K ]]">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-vinicius-mottin.png" alt="vinicius mottin fotografias" title="vinicius mottin fotografias">
+                            <img src="images/parceiros-vinicius-mottin.png" alt="vinicius mottin fotografias" title="vinicius mottin fotografias">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-a50tv.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                            <img src="images/parceiros-a50tv.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-wec.png" alt="wec - world entertainment corporation" title="wec - world entertainment corporation">
+                            <img src="images/parceiros-wec.png" alt="wec - world entertainment corporation" title="wec - world entertainment corporation">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-paulinha-fotografias.png" alt="paulina fotografias" title="paulina fotografias">
+                            <img src="images/parceiros-paulinha-fotografias.png" alt="paulina fotografias" title="paulina fotografias">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-bar-do-silval.png" alt="bar do sival" title="bar do sival">
+                            <img src="images/parceiros-bar-do-silval.png" alt="bar do sival" title="bar do sival">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-rabo-de-galo.png" alt="rabo de galo pomadas" title="rabo de galo pomadas">
+                            <img src="images/parceiros-rabo-de-galo.png" alt="rabo de galo pomadas" title="rabo de galo pomadas">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-tattoo-zasso.png" alt="studio tattoozasso" title="studio tattoozasso">
+                            <img src="images/parceiros-tattoo-zasso.png" alt="studio tattoozasso" title="studio tattoozasso">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-uol.png" alt="uol - universo online" title="uol - universo online">
+                            <img src="images/parceiros-uol.png" alt="uol - universo online" title="uol - universo online">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-elitronicos.png" alt="elitrônicos" title="elitrônicos">
+                            <img src="images/parceiros-elitronicos.png" alt="elitrônicos" title="elitrônicos">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-howstuffworks.png" alt="howstuffworks" title="howstuffworks">
+                            <img src="images/parceiros-howstuffworks.png" alt="howstuffworks" title="howstuffworks">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-sita.png" alt="sita aero" title="sita aero">
+                            <img src="images/parceiros-sita.png" alt="sita aero" title="sita aero">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-oboticario.png" alt="o boticário" title="o boticário">
+                            <img src="images/parceiros-oboticario.png" alt="o boticário" title="o boticário">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-cinq.png" alt="cinq technologies" title="cinq technologies">
+                            <img src="images/parceiros-cinq.png" alt="cinq technologies" title="cinq technologies">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-renault.png" alt="renault" title="renault">
+                            <img src="images/parceiros-renault.png" alt="renault" title="renault">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="logo-item">
-                            <img src="images/logo-diego-tragel.png" alt="diego tragel" title="diego tragel">
+                            <img src="images/parceiros-diego-tragel.png" alt="diego tragel" title="diego tragel">
                         </div>
                     </div>
                 </div>
@@ -888,69 +889,69 @@
         </div>
     </section>
     <!--Footer-->
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
     <!--Footer ends-->
 <!-- jQuery Files -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 <!--to view items on reach-->
-<script src="js/jquery.appear.js"></script>
+<script src="/js/jquery.appear.js"></script>
 <!--Swiper slider-->
-<script src="js/swiper.jquery.min.js"></script>
+<script src="/js/swiper.jquery.min.js"></script>
 <!--Owl slider-->
-<script src="js/owl.carousel.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
 <!--number counters-->
-<script src="js/jquery-countTo.js"></script>
+<script src="/js/jquery-countTo.js"></script>
 <!--equalize the same heights of block-->
-<script src="js/jquery.matchHeight-min.js"></script>
+<script src="/js/jquery.matchHeight-min.js"></script>
 
 <!--for parallax bgs-->
-<script src="js/parallaxie.js"></script>
+<script src="/js/parallaxie.js"></script>
 
 <!--for CountDown Timer-->
-<script src="js/dscountdown.min.js"></script>
+<script src="/js/dscountdown.min.js"></script>
 
 <!--Open popup fancybox on images-->
-<script src="js/jquery.fancybox.min.js"></script>
+<script src="/js/jquery.fancybox.min.js"></script>
 
 <!--Portfolio galleries-->
-<script src="js/jquery.cubeportfolio.min.js"></script>
+<script src="/js/jquery.cubeportfolio.min.js"></script>
 
 <!--Progressbar s in circle forms-->
-<script src="js/circle-progress.min.js"></script>
+<script src="/js/circle-progress.min.js"></script>
 
 <!--scrollbar on blocks-->
-<script src="js/simplebar.js"></script>
+<script src="/js/simplebar.js"></script>
 
 <!--Video Pops support for youtube, viemo etc-->
-<script src="js/viedobox_video.js"></script>
+<script src="/js/viedobox_video.js"></script>
 
 <!--youtube background video-->
-<script src="js/jquery.mb.YTPlayer.min.js"></script>
+<script src="/js/jquery.mb.YTPlayer.min.js"></script>
 
 <!-- Type It -->
 <script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
 
 <!-- WOW Transitions -->
-<script src="js/wow.min.js"></script>
+<script src="/js/wow.min.js"></script>
 
 <!--Revolution SLider-->
-<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
+<script src="/js/revolution/jquery.themepunch.tools.min.js"></script>
+<script src="/js/revolution/jquery.themepunch.revolution.min.js"></script>
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.actions.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.carousel.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.migration.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.navigation.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="/js/revolution/extensions/revolution.extension.video.min.js"></script>
 
 
 <!--Synx scripts-->
-<script src="js/functions.js"></script>
+<script src="/js/functions.js"></script>
 
 </body>
 </html>

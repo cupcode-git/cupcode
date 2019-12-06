@@ -584,7 +584,7 @@ img.filter-none {
     color: #ffffff !important;
 }
 .cc-light {
-    color: #ffffff80 !important;
+    color: #ffffffd1 !important;
     text-shadow: 3px 2px 1px rgba(0,0,0,.15);
     transition: 0.5s;
 }
@@ -944,7 +944,7 @@ ul.social.dark li a:focus{
 
 /*intro on left with bg*/
 .bg-intro{
-    background: url(../images/bg-clientes.jpg) no-repeat;
+    background: url(/images/bg-clientes.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
@@ -953,83 +953,83 @@ ul.social.dark li a:focus{
     width: 100%;
 }
 .bgintro-two{
-   background: url(../images/bg-clientes.jpg) no-repeat;
+   background: url(/images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-yellow{
-   background: url(../images/bg-clientes.jpg) no-repeat;
+   background: url(/images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-light{
-   background: url(../images/bg-clientes.jpg) no-repeat;
+   background: url(/images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-five{
-   background: url(../images/bg-clientes.jpg) no-repeat;
+   background: url(/images/bg-clientes.jpg) no-repeat;
 }
 .bgintro-3{
-   background: url(../images/cafegelado-1.jpg) no-repeat;
+   background: url(/images/marketing-hospedagem-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-4{
-   background: url(../images/cappuccino-2.jpg) no-repeat;
+   background: url(/images/marketing-post-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-5{
-   background: url(../images/cafelindo-3.jpg) no-repeat;
+   background: url(/images/marketing-impulsionar-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-6{
-   background: url(../images/bg-marketing1.jpg) no-repeat;
+   background: url(/images/websites-sites-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-7{
-   background: url(../images/donutsbrancoo3.jpg) no-repeat;
+   background: url(/images/websites-blogs-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-8{
-   background: url(../images/donutsrosa2.jpg) no-repeat;
+   background: url(/images/websites-e-commerce-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-9{
-   background: url(../images/donutsbege5.jpg) no-repeat;
+   background: url(/images/websites-hospedagem-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-10{
-   background: url(../images/donutsbranco6.jpg) no-repeat;
+   background: url(/images/websites-domínio-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-11{
-   background: url(../images/donutsblackwhite7.jpg) no-repeat;
+   background: url(/images/websites-e-mail-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-12{
-   background: url(../images/donutsrosaaa4.jpg) no-repeat;
+   background: url(/images/websites-ssl-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-13{
-   background: url(../images/cupcakedourado1.jpg) no-repeat;
+   background: url(/images/grafico-logotipo-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-14{
-   background: url(../images/cupcakeazul2.jpg) no-repeat;
+   background: url(/images/grafico-manual-da-marca-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-15{
-   background: url(../images/cupcakeroxo4.jpg) no-repeat;
+   background: url(/images/grafico-artes-digitais-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-16{
-   background: url(../images/cupcakevermelho3.jpg) no-repeat;
+   background: url(/images/grafico-artes-impressas-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-17{
-   background: url(../images/cookies.jpg) no-repeat;
+   background: url(/images/editorial-criacao-de-conteudo-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-18{
-   background: url(../images/cookies2.jpg) no-repeat;
+   background: url(/images/editorial-adaptacao-de-conteudo-bg.jpg) no-repeat;
    height: 500px;
 }
 .bgintro-19{
-    background: url(../images/donutsverdefaixa.jpg) no-repeat;
+    background: url(/images/donutsverdefaixa.jpg) no-repeat;
     height: 250px;
  }
  .bgintro-20{
@@ -1053,21 +1053,21 @@ ul.social.dark li a:focus{
     padding: 0px !important;
 }
 .bgintro-seven{
-   background: url(../images/bg-clientes.jpg) no-repeat;
+   background: url(/images/bg-clientes.jpg) no-repeat;
 }
 .image-hero{
-	background: url(../images/bg-clientes.jpg) no-repeat;
+	background: url(/images/bg-clientes.jpg) no-repeat;
 }
 .image-hero-marketing{
-	background: url(../images/marketing.jpg) no-repeat;
+	background: url(/images/marketing.jpg) no-repeat;
     filter: opacity(1) !important;
 }
 .image-hero-websites{
-	background: url(../images/website-construion.jpg) no-repeat;
+	background: url(/images/website-construion.jpg) no-repeat;
     filter: opacity(1) !important;
 }
 .image-hero-editorial{
-	background: url(../images/editorial-mesa-branca.jpg) no-repeat;
+	background: url(/images/editorial-mesa-branca.jpg) no-repeat;
     filter: opacity(1) !important;
 }
 
@@ -1845,16 +1845,16 @@ ul.top-right li a:hover.instagram{
     /*video & Image BAnners Starts */
 /*-------------------------------*/
 .caption-video{
-    background: url(../images/bg-video3.jpg) no-repeat;
+    background: url(/images/bg-video3.jpg) no-repeat;
 }
 .personal-banner{
-   background: url(../images/bg-personal.jpg) no-repeat;
+   background: url(/images/bg-personal.jpg) no-repeat;
 }
 .parallax-static{
-	background: url(../images/bg-parallax-video.jpg) no-repeat;
+	background: url(/images/bg-parallax-video.jpg) no-repeat;
 }
 .parallax-video{
-	background: url(../images/bg-video-cover.jpg) no-repeat;
+	background: url(/images/bg-video-cover.jpg) no-repeat;
 }
 
 .caption-video, .personal-banner, .parallax-video {
@@ -1919,7 +1919,7 @@ ul.top-right li a:hover.instagram{
 
 /*Large Size banner*/
 .large-sized{
-   background: url(../images/bg-large.jpg) no-repeat;
+   background: url(/images/bg-large.jpg) no-repeat;
    background-attachment: fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -2013,7 +2013,7 @@ ul.top-right li a:hover.instagram{
 
 /*Banner*/
 .bg-for-btc{
-   background: url(../images/bg-bitcoin.jpg) no-repeat;
+   background: url(/images/bg-bitcoin.jpg) no-repeat;
    background-attachment: fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -2183,7 +2183,7 @@ ul.top-right li a:hover.instagram{
     /*Page BAnner Starts */
 /*-------------------------------*/
 #page-banner{
-    background: url(../images/slide1.jpg) no-repeat;
+    background: url(/images/slide1.jpg) no-repeat;
     background-attachment: fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -2386,14 +2386,14 @@ ul.top-right li a:hover.instagram{
    /* Background Textfade slider */
 /*-------------------------------*/
 .textfade-bg{
-    background: url(../images/bg-textfade.jpg) no-repeat;
+    background: url(/images/bg-textfade.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
 }
 .textfade-four{
-   background: url(../images/bg-textfade-four.jpg) no-repeat;
+   background: url(/images/bg-textfade-four.jpg) no-repeat;
 }
 .textfade-bg, .textfade-bg .fade-wrapp{
    position: relative;
@@ -2553,7 +2553,7 @@ ul.top-right li a:hover.instagram{
     /*Single Parallax */
 /*-------------------------------*/
 #single-parallx{
-    background: url(../images/single-parallax.jpg) no-repeat;
+    background: url(/images/single-parallax.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
@@ -2562,16 +2562,16 @@ ul.top-right li a:hover.instagram{
     width: 100%;
 }
 #single-parallx.single-parallax-four{
-   background: url(../images/single-parallax-four.jpg) no-repeat;
+   background: url(/images/single-parallax-four.jpg) no-repeat;
 }
 #single-parallx.single-parallax-seven{
-   background: url(../images/single-parallax-seven.jpg) no-repeat;
+   background: url(/images/single-parallax-seven.jpg) no-repeat;
 }
 #single-parallx.light-parallax{
-   background: url(../images/light-parallax.jpg) no-repeat;
+   background: url(/images/light-parallax.jpg) no-repeat;
 }
 #single-parallx.parallx-construction{
-   background: url(../images/construction/bg-counter-construction.jpg) no-repeat;
+   background: url(/images/construction/bg-counter-construction.jpg) no-repeat;
 }
 #single-parallx blockquote{
     font-size: 2rem;
@@ -2857,16 +2857,16 @@ ul.top-right li a:hover.instagram{
 /*-------------------------------*/
 /*hover box counters*/
 #bg-counter{
-    background: url(../images/bg-counter.jpg) no-repeat;
+    background: url(/images/bg-counter.jpg) no-repeat;
 }
 #bg-counter-dark{
     background-color: silver;
 }
 #bg-counter-food{
-    background: url(../images/food/bg-counter-food.jpg) no-repeat;
+    background: url(/images/food/bg-counter-food.jpg) no-repeat;
 }
 #bg-counter-medical {
-   background: url(../images/construction/bg-counter-construction.jpg) no-repeat;
+   background: url(/images/construction/bg-counter-construction.jpg) no-repeat;
 }
 #bg-counter, #bg-counter-dark, #bg-counter-food, #bg-counter-medical{
     background-position: center center;
@@ -2944,7 +2944,7 @@ ul.top-right li a:hover.instagram{
     /*  CountDown Timer */
 /*-------------------------------*/
  #countdown-bg {
-   background: url(../images/countdown-bg.jpg) no-repeat;
+   background: url(/images/countdown-bg.jpg) no-repeat;
    background-position: center center;
    -webkit-background-size: cover;
    background-size: cover;
@@ -2961,7 +2961,7 @@ ul.top-right li a:hover.instagram{
    background:#000;
 }
 #countdown-cols .countdown-photo {
-   background: url(../images/countdown-col.jpg) no-repeat;
+   background: url(/images/countdown-col.jpg) no-repeat;
    background-position: center center;
    -webkit-background-size: cover;
    background-size: cover;
@@ -3076,7 +3076,7 @@ ul.top-right li a:hover.instagram{
 
 /*Newsletter with background*/
 .bgnewsletter {
-   background: url(../images/single-portfolio9.jpg) no-repeat;
+   background: url(/images/single-portfolio9.jpg) no-repeat;
    background-position: center center;
    -webkit-background-size: cover;
    background-size: cover;
@@ -3530,46 +3530,43 @@ ul.top-right li a:hover.instagram{
    overflow: hidden;
 }
 .item-one{
-   background: url(../images/bg-hero.jpg) no-repeat;
+   background: url(/images/home-hero-bg.jpg) no-repeat;
 }
 .item-two{
-   background: url(../images/bg-cv.jpg) no-repeat;
+   background: url(/images/home-marketing-bg.jpg) no-repeat;
 }
 .item-three{
-   background: url(../images/bg-design-grafico.jpg) no-repeat;
+   background: url(/images/home-grafico-bg.jpg) no-repeat;
 }
 .item-four{
-   background: url(../images/bg-websites.jpg) no-repeat;
+   background: url(/images/home-websites-bg.jpg) no-repeat;
 }
 .item-five{
-   background: url(../images/bg-contato.jpg) no-repeat;
+   background: url(/images/bg-contato.jpg) no-repeat;
 }
 .item-six{
-   background: url(../images/bg-videos.jpg) no-repeat;
+   background: url(/images/bg-videos.jpg) no-repeat;
 }
 .item-seven{
-   background: url(../images/bg-criacao-editorial.jpg) no-repeat;
+   background: url(/images/home-editorial-bg.jpg) no-repeat;
 }
 .item-eight{
-   background: url(../images/ipad.jpg) no-repeat;
+   background: url(/images/ipad.jpg) no-repeat;
 }
 .item-nine{
-   background: url(../images/bg-planos.jpg) no-repeat;
-}
-.item-nine3{
-   background: url(../images/bg-potfolio-.gif) no-repeat;
+   background: url(/images/bg-planos.jpg) no-repeat;
 }
 .item-teen{
-   background: url(../images/indicadores.gif) no-repeat;
+   background: url(/images/indicadores.gif) no-repeat;
 }
 .item-teen1{
    background-color: #c7bfbd;
 }
 .item-teen2{
-   background: url(../images/bg-final-do-site.gif) no-repeat;
+   background: url(/images/home-footer-bg.gif) no-repeat;
 }
 .item-teen3 {
-    background: url(../images/bg-fumaca3.jpg) no-repeat;
+    background: url(/images/home-clientes-bg.jpg) no-repeat;
 }
 .single-items{
     background-position: center center;
@@ -3659,7 +3656,7 @@ ul.top-right li a:hover.instagram{
     /*Services*/
 /*-------------------------------*/
 .section-wrapper{
-    background: url(../images/bg-hallf-section.jpg) no-repeat;
+    background: url(/images/bg-hallf-section.jpg) no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -3824,7 +3821,7 @@ ul.top-right li a:hover.instagram{
 
 /*dark bg on white logos*/
 .logo-white{
-    background: url(../images/bg-logos-white.jpg) no-repeat;
+    background: url(/images/bg-logos-white.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
@@ -3872,7 +3869,7 @@ ul.top-right li a:hover.instagram{
     /* Testminials slider */
 /*-------------------------------*/
 #testimonial-single{
-    background: url(../images/bg-testimonial-single.jpg) no-repeat;
+    background: url(/images/bg-testimonial-single.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
@@ -4001,7 +3998,7 @@ ul.top-right li a:hover.instagram{
 
 /*testimonial image */
 #bg-testimonial{
-    background: url(../images/bg-testimonial.jpg) no-repeat;
+    background: url(/images/bg-testimonial.jpg) no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
@@ -4532,7 +4529,7 @@ ul.pagination li.active a:focus {
     /* Map + Address 01 */
 /*-------------------------------*/
 .map-bg{
-    background: url(../images/map-bg.jpg) no-repeat;
+    background: url(/images/map-bg.jpg) no-repeat;
     -webkit-background-size: contain;
     background-size: cover;
     background-position: center center;

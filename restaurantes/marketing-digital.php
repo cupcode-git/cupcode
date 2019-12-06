@@ -1,4 +1,4 @@
-<?php $title = 'agência de marketing digital com foco em restaurantes, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados do seu restaurante e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, restaurante, gastronomia, culinária, lanchonetes, agência, mkt, inbound, facebook, instagram, ads, google'; include("header.php"); ?>
+<?php $title = 'agência de marketing digital com foco em restaurantes, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados do seu restaurante e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, restaurante, gastronomia, culinária, lanchonetes, agência, mkt, inbound, facebook, instagram, ads, google'; include("../header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
 	<div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -25,7 +25,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 5;border-width:0px;"><img src="images/marketing1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+								style="z-index: 5;border-width:0px;"><img src="images/home-marketing-1.png" alt="Marketing Digital" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
 							<!-- layer nr. 2 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-25" 
 								id="layers-two" 
@@ -43,7 +43,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 6;border-width:0px;"><img src="images/marketing2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+								style="z-index: 6;border-width:0px;"><img src="images/home-marketing-2.png" alt="Marketing Digital" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
 							<!-- layer nr. 3 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-10" 
 								id="layers-three" 
@@ -61,7 +61,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 7;border-width:0px;"><img src="images/marketing3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+								style="z-index: 7;border-width:0px;"><img src="images/home-marketing-3.png" alt="Marketing Digital" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
 							<!-- layer nr. 4 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-12" 
 								id="layers-four" 
@@ -79,7 +79,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 8;border-width:0px;"><img src="images/marketing4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+								style="z-index: 8;border-width:0px;"><img src="images/home-marketing-4.png" alt="Marketing Digital" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
 							<!-- layer nr. 5 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
 								id="layers-five" 
@@ -97,7 +97,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 9;border-width:0px;"><img src="images/marketing5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+								style="z-index: 9;border-width:0px;"><img src="images/home-marketing-5.png" alt="Marketing Digital" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
 							<!-- layer nr. 8 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-9" 
 								id="layers-six" 
@@ -115,7 +115,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 12;border-width:0px;"><img src="images/marketing6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+								style="z-index: 12;border-width:0px;"><img src="images/home-marketing-6.png" alt="Marketing Digital" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
 							<!-- layer nr. 9 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
 								id="layers-sev" 
@@ -133,7 +133,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 13;border-width:0px;"><img src="images/marketing7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+								style="z-index: 13;border-width:0px;"><img src="images/home-marketing-7.png" alt="Marketing Digital" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
 							<!-- layer nr. 10 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-eight" 
@@ -316,14 +316,14 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cafezinhonormal.jpg" class="equalheight filter-none">
+					<img alt="Google Ads" src="images/marketing-google-ads.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 nopadding"  id="sociaishome">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cappuccino2.jpg" class="equalheight filter-none">
+					<img alt="Facebook Ads" src="images/marketing-facebook-ads.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -354,14 +354,14 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cafezao.jpg" class="equalheight filter-none">
+					<img alt="SEO" src="images/marketing-seo.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 nopadding">
 				<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/cappuccino-3.jpg" class="equalheight filter-none">
+					<img alt="KPI" src="images/marketing-kpi.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -393,7 +393,7 @@
 			<div class="col-md-6 col-sm-6 nopadding">
 			<div class="box-info">
 				<div class="image">
-					<img alt="image" src="images/bg-emailmarketing.jpg" class="equalheight filter-none">
+					<img alt="E-mail Marketing" src="images/marketing-e-mail-marketing.jpg" class="equalheight filter-none">
 				</div>
 				</div>
 			</div>
@@ -453,13 +453,13 @@
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
 				<h4 class="heading-titlenovo bottom15">marketing</h4>
-					<h3 class="bottom15">pacote prato principal</h3>
+					<h3 class="bottom15">pacote gourmet</h3>
 					<div class="ammount"> R$
 							<h2>698,90</h2> <span class="dur">/mês</span>
 					</div>
 				</div>
 				<ul class="top15">
-					<h3 class="mobilefont">todo o conteúdo do pacote ristreto +</h3>
+					<h3 class="mobilefont">todo o conteúdo do pacote guarnição +</h3>
 					<li><span>gerenciamento de redes sociais</span></li>
 					<li><span>anuncios no google ads</span></li>
 					<li><span>e-mail marketing para clientes ativos</span></li>
@@ -494,58 +494,58 @@
 	<!--Pricing white ends-->
 	     <!-- CONTATO -->
 
-		 <?php include 'contato.php'; ?>
+		 <?php include '../contato.php'; ?>
 
 	<!-- CONTATO ENDS -->
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 	<!-- jQuery Files -->
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
 
 	<!--to view items on reach-->
-	<script src="js/jquery.appear.js"></script>
+	<script src="/js/jquery.appear.js"></script>
 	<!--Swiper slider-->
-	<script src="js/swiper.jquery.min.js"></script>
+	<script src="/js/swiper.jquery.min.js"></script>
 	<!--Owl slider-->
-	<script src="js/owl.carousel.min.js"></script>
+	<script src="/js/owl.carousel.min.js"></script>
 	<!--number counters-->
-	<script src="js/jquery-countTo.js"></script>
+	<script src="/js/jquery-countTo.js"></script>
 	<!--equalize the same heights of block-->
-	<script src="js/jquery.matchHeight-min.js"></script>
+	<script src="/js/jquery.matchHeight-min.js"></script>
 	<!--for parallax bgs-->
-	<script src="js/parallaxie.js"></script>
+	<script src="/js/parallaxie.js"></script>
 	<!--for CountDown Timer-->
-	<script src="js/dscountdown.min.js"></script>
+	<script src="/js/dscountdown.min.js"></script>
 	<!--Open popup fancybox on images-->
-	<script src="js/jquery.fancybox.min.js"></script>
+	<script src="/js/jquery.fancybox.min.js"></script>
 	<!--Portfolio galleries-->
-	<script src="js/jquery.cubeportfolio.min.js"></script>
+	<script src="/js/jquery.cubeportfolio.min.js"></script>
 	<!--Progressbar s in circle forms-->
-	<script src="js/circle-progress.min.js"></script>
+	<script src="/js/circle-progress.min.js"></script>
 	<!--scrollbar on blocks-->
-	<script src="js/simplebar.js"></script>
+	<script src="/js/simplebar.js"></script>
 	<!--Video Pops support for youtube, viemo etc-->
-	<script src="js/viedobox_video.js"></script>
+	<script src="/js/viedobox_video.js"></script>
 	<!--youtube background video-->
-	<script src="js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="/js/jquery.mb.YTPlayer.min.js"></script>
 	<!-- Type It -->
 	<script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
 	<!-- WOW Transitions -->
-	<script src="js/wow.min.js"></script>
+	<script src="/js/wow.min.js"></script>
 	<!--Revolution SLider-->
-	<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-	<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
+	<script src="/js/revolution/jquery.themepunch.tools.min.js"></script>
+	<script src="/js/revolution/jquery.themepunch.revolution.min.js"></script>
 	<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-	<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.actions.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.carousel.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.migration.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.navigation.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
+	<script src="/js/revolution/extensions/revolution.extension.video.min.js"></script>
 	<!--Synx scripts-->
-	<script src="js/functions.js"></script>
+	<script src="/js/functions.js"></script>
 	</body>
 	</html>
