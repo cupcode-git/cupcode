@@ -266,7 +266,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 ccdeep">gerenciamento</h2>
 				<p>cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito a sua marca e seu principal bem, os clientes.</p>
-					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -280,7 +280,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 ccdeep">post</h2>
 				<p>produzimos posts bem elaborados com conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estrategicamente para levar a seu público o que você realmente quer passar.</p>
-					<a href="javascript:void(0)#post" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
+					<a href="javascript:void(0)#post" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -293,7 +293,7 @@
 				<div class="item-titles wow fadeInLeft">
 				<h2 class="bottom45 cc-light">impulsionar</h2>
 				<p class="cc-light">não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em clientes é nossa especialidade.</p>
-					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings cc-light">ver pacotes</a>
+					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings cc-light"><?php echo $btnpacotes; ?></a>
 				</div>
 		</div>
 		</div>
@@ -447,7 +447,7 @@
 					<li><span>análize de KPI</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
@@ -466,7 +466,7 @@
 					<li><span>análize de ROI (retorno de investimento)</span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar orçamento</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 			</div>
 			         <!-- Pacote personalizado inicio -->
@@ -496,54 +496,3 @@
 
 	<!-- CONTATO ENDS -->
 	<?php include 'footer.php'; ?>
-	<!-- jQuery Files -->
-	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-
-	<!--to view items on reach-->
-	<script src="js/jquery.appear.js"></script>
-	<!--Swiper slider-->
-	<script src="js/swiper.jquery.min.js"></script>
-	<!--Owl slider-->
-	<script src="js/owl.carousel.min.js"></script>
-	<!--number counters-->
-	<script src="js/jquery-countTo.js"></script>
-	<!--equalize the same heights of block-->
-	<script src="js/jquery.matchHeight-min.js"></script>
-	<!--for parallax bgs-->
-	<script src="js/parallaxie.js"></script>
-	<!--for CountDown Timer-->
-	<script src="js/dscountdown.min.js"></script>
-	<!--Open popup fancybox on images-->
-	<script src="js/jquery.fancybox.min.js"></script>
-	<!--Portfolio galleries-->
-	<script src="js/jquery.cubeportfolio.min.js"></script>
-	<!--Progressbar s in circle forms-->
-	<script src="js/circle-progress.min.js"></script>
-	<!--scrollbar on blocks-->
-	<script src="js/simplebar.js"></script>
-	<!--Video Pops support for youtube, viemo etc-->
-	<script src="js/viedobox_video.js"></script>
-	<!--youtube background video-->
-	<script src="js/jquery.mb.YTPlayer.min.js"></script>
-	<!-- Type It -->
-	<script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
-	<!-- WOW Transitions -->
-	<script src="js/wow.min.js"></script>
-	<!--Revolution SLider-->
-	<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-	<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
-	<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-	<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-	<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
-	<!--Synx scripts-->
-	<script src="js/functions.js"></script>
-	</body>
-	</html>
