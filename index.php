@@ -135,7 +135,7 @@
                                 <h2 class="text-center bottom10 cc-light">sociais</h2>
                                 <p class="text-justify">nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados ao agirmos de forma orgânica. além da retenção e manutenção constante dos seus clientes e seguidores,  utilização do Facebook Pixel e muito mais.</p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais">ver planos</a>
+                                    <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="clique aqui e saiba mais sobre sociais" title="clique aqui e saiba mais sobre sociais"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +154,7 @@
                                 <h2 class="text-center bottom10 cc-light">anúncios</h2>
                                 <p class="text-justify">para investir em anúncios hoje em dia e não perder dinheiro conquistando apenas curtidas, precisa-se ter muito conhecimento, estratégia e uma equipe focada em converter investimento em leads e clientes, e isso a cupcode tem! nós literalmente vamos fazer seu investimento trabalhar por você.</p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#anuncioshome" class="button defaulthole">ver planos</a>
+                                    <a href="marketing-digital.php#anuncioshome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 text-center pdt-100">
-                    <a href="marketing-digital.php" class="button defaulthole light border-light">ver planos</a>
+                    <a href="marketing-digital.php" class="button defaulthole light border-light"><?php echo $btnplanos; ?></a>
                 </div>
             </div>
         </div>
@@ -189,7 +189,7 @@
                                 <h2 class="text-center bottom10 cc-light">site/blog</h2>
                                 <p class="text-justify">não basta ter uma página na internet, você precisa ter um site funcional e "visível" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem sites dinâmicos, que chama a atenção e atraem clientes. sabemos exatamente o que seu cliente procura e nós oferecemos isso a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivos que se adaptam em todos os tamanhos de tela seja ela gigante ou uma tela tão pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.</p>
                                 <div class="text-center">
-                                    <a href="websites.php#siteshome" class="button defaulthole">ver planos</a>
+                                    <a href="websites.php#siteshome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -208,7 +208,7 @@
                                 <h2 class="text-center bottom10 cc-light">hospedagem</h2>
                                 <p class="text-justify">não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a configuração e manutenção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.</p>
                                 <div class="text-center">
-                                    <a href="websites.php#hospedagemhome" class="button defaulthole">ver planos</a>
+                                    <a href="websites.php#hospedagemhome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -217,7 +217,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 text-center pdt-100">
-                    <a href="websites.php" class="button defaulthole text-dark border-dark">ver planos</a>
+                    <a href="websites.php" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                 </div>
             </div>
         </div>
@@ -243,7 +243,7 @@
                                 <h2 class="text-center bottom10 cc-light">branding</h2>
                                 <p class="text-justify">quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.</p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#brandinghome" class="button defaulthole">ver planos</a>
+                                    <a href="marketing-digital.php#brandinghome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -263,7 +263,7 @@
                                 <p class="text-justify">criamos sua arte para impressão ou digital, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas,
                                 catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.</p>
                                 <div class="text-center">
-                                    <a href="design-grafico.php#papelariahome" class="button defaulthole">ver planos</a>
+                                    <a href="design-grafico.php#papelariahome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +272,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 text-center pdt-100">
-                    <a href="design-grafico.php" class="button defaulthole text-dark border-dark">ver planos</a>
+                    <a href="design-grafico.php" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                 </div>
             </div>
         </div>
@@ -298,7 +298,7 @@
                                 <h2 class="text-center cc-light bottom10">adaptação SEO</h2>
                                 <p class="text-justify">adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.</p>
                                 <div class="text-center">
-                                    <a href="editorial.php#editorialhome" class="button defaulthole">ver planos</a>
+                                    <a href="editorial.php#editorialhome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -317,7 +317,7 @@
                                 <h2 class="text-center cc-light bottom10">criação de conteúdo editorial</h2>
                                 <p class="text-justify">nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.</p>
                                 <div class="text-center">
-                                    <a href="editorial.php#criaçãohome" class="button defaulthole">ver planos</a>
+                                    <a href="editorial.php#criaçãohome" class="button defaulthole"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 text-center pdt-100">
-                    <a href="editorial.php" class="button defaulthole text-dark border-dark">ver planos</a>
+                    <a href="editorial.php" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                 </div>
             </div>
         </div>
