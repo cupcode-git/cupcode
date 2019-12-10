@@ -476,7 +476,7 @@
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
                   
-                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pctpersonalizado; ?></h2>
+                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes'<br/>'. $personalizados; ?></h2>
                      
                   </div>
                </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
