@@ -1,4 +1,17 @@
 <?php
+    // aqui vai os textos de editorial
+    $artigos = "artigos";
+    $materias = "matérias";
+    $criacaodeconteudo = "criação de conteúdo";
+    $adaptacaodeconteudo = "adaptação de conteúdo;";
+    $pct_editorial_1 = "jornalistas especializados";
+    $pct_editorial_2 = "criação de conteúdo rico e engajador";
+    $pct_editorial_3 = "4 artigos por mês com foco em SEO";
+    $descricao_txt_adaptacao_de_conteudo = "nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.";
+    $descricao_txt_criacao_de_conteudo = "tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.";
+    $descricao_titulo_editorial = "criação de matérias e artigos editoriais com foco em seo.";
+    $descricao_txt_editorial; = " nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.";
+
     // aqui vai os textos de design grafico
     $branding = "branding";
     $logotipo = "logotipo";
