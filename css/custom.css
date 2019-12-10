@@ -1,0 +1,151 @@
+/*========================== 
+    ♠ background-images ♠
+============================*/
+
+/* Background hero */
+.hero-index {
+    background: url(/images/home-hero-bg.jpg) no-repeat;
+}
+.hero-markting {
+    background: url(/images/marketing-hero-bg.jpg) no-repeat;
+}
+.hero-website {
+    background: url(/images/websites-hero-bg.jpg) no-repeat;
+}
+.hero-grafico {
+    background: url(/images/grafico-hero-bg.jpg) no-repeat;
+}
+.hero-editorial {
+    background: url(/images/editorial-hero-bg.jpg) no-repeat;
+}
+/* Fim> Background hero*/
+
+/* background geral */
+.geral-bg-1 {
+    background: url(/images/bg-contato.jpg) no-repeat;
+}
+.geral-bg-2 {
+    background: url(/images/home-footer-bg.gif) no-repeat;
+}
+/* Fim> Background geral*/
+
+/* Background home seções */
+.home-bg-1{
+    background: url(/images/home-marketing-bg.jpg) no-repeat;
+}
+.home-bg-2{
+    background: url(/images/home-grafico-bg.jpg) no-repeat;
+}
+.home-bg-3{
+    background: url(/images/home-websites-bg.jpg) no-repeat;
+}
+.home-bg-4{
+    background: url(/images/home-editorial-bg.jpg) no-repeat;
+}
+.home-bg-5{
+    background-color: #c7bfbd;
+}
+.home-bg-6{
+    background: url(/images/home-clientes-bg.jpg) no-repeat;
+}
+/* Fim> Background home seções */
+
+/* Background marketing seções */
+.marketing-bg-1 {
+    background: url(/images/marketing-hospedagem-bg.jpg) no-repeat;
+    height: 500px;
+}
+.marketing-bg-2 {
+    background: url(/images/marketing-post-bg.jpg) no-repeat;
+    height: 500px;
+}
+.marketing-bg-3 {
+    background: url(/images/marketing-impulsionar-bg.jpg) no-repeat;
+    height: 500px;
+}
+/* Fim> Background marketing seções */
+
+/* Background websites seções */
+.websites-bg-1 {
+    background: url(/images/websites-sites-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-2 {
+    background: url(/images/websites-blogs-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-3 {
+    background: url(/images/websites-e-commerce-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-4 {
+    background: url(/images/websites-hospedagem-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-5 {
+    background: url(/images/websites-domínio-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-6 {
+    background: url(/images/websites-e-mail-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-7 {
+    background: url(/images/websites-ssl-bg.jpg) no-repeat;
+    height: 500px;
+}
+.websites-bg-8 {
+    background-color: #008c81;
+    height: 250px!important;
+    padding: 0!important;
+}
+.websites-bg-9 {
+    background-color: #e6dfd5;
+    height: 250px!important;
+    padding: 0!important;
+}
+.websites-bg-10 {
+    background-color: #ffa4cb;
+    height: 250px!important;
+    padding: 0!important;
+}
+.websites-bg-11 {
+    background-color: #e6dfd5;
+    height: 250px!important;
+    padding: 0!important;
+}
+/* Fim> Background websites seções */
+
+/* Background gráfico seções */
+.grafico-bg-1{
+    background: url(/images/grafico-logotipo-bg.jpg) no-repeat;
+    height: 500px;
+}
+.grafico-bg-2{
+    background: url(/images/grafico-manual-da-marca-bg.jpg) no-repeat;
+    height: 500px;
+}
+.grafico-bg-3{
+    background: url(/images/grafico-artes-impressas-bg.jpg) no-repeat;
+    height: 500px;
+}
+.grafico-bg-4{
+    background: url(/images/grafico-artes-digitais-bg.jpg) no-repeat;
+    height: 500px;
+}
+/* Fim> Background gráfico seções */
+
+/* Background editorial seções */
+.editorial-bg-1 {
+    background: url(/images/editorial-criacao-de-conteudo-bg.jpg) no-repeat;
+    height: 500px;
+}
+.editorial-bg-2 {
+    background: url(/images/editorial-adaptacao-de-conteudo-bg.jpg) no-repeat;
+    height: 500px;
+}
+/* Fim> Background editorial seções */
+
+/*===============================
+    ♠ Fim> background-images ♠
+=================================*/

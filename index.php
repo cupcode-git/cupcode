@@ -755,12 +755,10 @@
         </div>
     </div>
     </section>
-        <!-- CONTATO -->
+    <!-- CONTATO -->
 
-        <?php include 'contato.php'; ?>
+    <?php include 'contato.php'; ?>
 
-    <!-- CONTATO ENDS -->
-    
     <!--Footer-->
     <?php include 'footer.php'; ?>
     <!--Footer ends-->
