@@ -1,5 +1,3 @@
-<?php $title = 'design gráfico, peças publicitárias e artes para digital e impresso - cupcode, inc.'; $description = 'A Cupcode conta com verdeiros artistas que criam artes para sua marca com todo o respeito a sua identidade visual. Não tem uma? Não tem problema, criamos ela também.'; $keywords = 'design, grafico, identidade, visual, branding, logotipo, logo, logomarca, criação'; include("header.php"); ?>
-<!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
     <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
     <!-- start revolution slider 5.4.1 fullscreen mode -->
@@ -187,7 +185,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $design . $grafico; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $design." ".$grafico; ?></h2></div>
                 <!-- layer nr. 13 -->
                 <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -318,7 +316,7 @@
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $artes . $impressas; ?></h2>
+				<h2 class="bottom45 cc-light"><?php echo $artes." ".$impressas; ?></h2>
 				<p class="cc-light"><?php echo $descricao_txt_artes_impressas; ?></p>
 			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
@@ -332,7 +330,7 @@
 			<div class="col-md-6 col-sm-3"></div>
 			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $artes . $digitais; ?></h2>
+				<h2 class="bottom45 cc-light"><?php echo $artes." ".$digitais; ?></h2>
 				<p class="cc-light"><?php echo $descricao_txt_artes_digitais; ?></p>
 			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
@@ -355,7 +353,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="branding">
             <div class="price-plan">
-			<span class="heading-title bottom25"><?php echo $design. $grafico; ?></span>
+			<span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
 			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_1; ?></span>
                 <div class="ammount">
@@ -377,7 +375,7 @@
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
 			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_2; ?></span>
                 <div class="ammount">
-                    <h2><?php echo $branding. '+'. $papelaria; ?></h2>
+                    <h2><?php echo $branding. " + <br />". $papelaria; ?></h2>
                 </div>
             </div>
             <ul class="top15">
@@ -394,7 +392,7 @@
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
-			<span class="heading-title bottom25">design gráfico</span>
+			<span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
 			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_3; ?></span>
                 <div class="ammount">
@@ -409,7 +407,7 @@
                 <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         </div>
-        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
+        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas; ?></a></center>
 			         <!-- Pacote personalizado inicio -->
          <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -417,7 +415,7 @@
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
                   
-                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes.'<br />'. $personalizados; ?></h2>
+                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br />". $personalizados; ?></h2>
                      
                   </div>
                </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
@@ -425,16 +423,9 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $solicitar_personalizacao; ?></a>
             </div>
          </div><!-- Pacote personalizado fim -->
         </div>
     </div>
     </section>
-    <!--Pricing white ends-->
-     <!-- CONTATO -->
-
-        <?php include 'contato.php'; ?>
-
-    <!-- CONTATO ENDS -->
-<?php include 'footer.php'; ?>

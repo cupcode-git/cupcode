@@ -1,5 +1,3 @@
-<?php $title = 'criação editorial, artigos para sites e blogs - cupcode, inc.'; $description = 'A Cupcode conta com jornalistas renomeados que escrevem artigos com foco em SEO para seu site e blog, para atrair seus consumidores e clientes. Vem conferir nossos planos.'; $keywords = 'editorial, criação, matérias, jornalistas, blog, sites, SEO'; include("header.php"); ?>
-<!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
       <!-- start revolution slider 5.4.1 fullscreen mode -->
@@ -187,7 +185,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $criacao. $editorial; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $criacao." ".$editorial; ?></h2></div>
                   <!-- layer nr. 13 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -316,9 +314,9 @@
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
 			<span class="heading-title bottom25"><?php echo $pacote; ?></span>
-                  <h3 class="bottom15"><?php echo $criacao. $editorial; ?></h3>
+                  <h3 class="bottom15"><?php echo $criacao." ".$editorial; ?></h3>
                   <div class="ammount">
-                     <h2><?php echo $criacao. $editorial; ?></h2>
+                     <h2><?php echo $criacao." ".$editorial; ?></h2>
                   </div>
                </div>
                <ul class="top15">
@@ -337,7 +335,7 @@
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
                   
-                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes.'<br />'. $personalizados; ?></h2>
+                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br />".$personalizados; ?></h2>
                      
                   </div>
                </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
@@ -345,21 +343,9 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20editorial%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $solicitar_personalizacao; ?></a>
             </div>
          </div><!-- Pacote personalizado fim -->
       </div>
    </div>
    </section>
-   <!--Pricing white ends-->
-   
-
-   <!-- CONTATO -->
-
-   <?php include 'contato.php'; ?>
-
-   <!-- CONTATO ENDS -->
-
-   <!--Footer-->
-   <?php include 'footer.php'; ?>
-   <!--Footer ends-->

@@ -73,6 +73,7 @@
   $tirarduvsobre = 'tirar dúvidas sobre';
   $para = 'para';
 ?>
+<?php include 'texts.php'; ?>
 <!-- Fim das variáveis -->
 <!--Preloader-->
 <div class="loader">

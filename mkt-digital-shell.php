@@ -1,5 +1,3 @@
-<?php $title = 'agência de marketing digital, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados da sua empresa e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, agência, mkt, inbound, outbound, redes sociais, facebook, instagram, ads, google'; include("header.php"); ?>
-<!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
 	<div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
 		<!-- start revolution slider 5.4.1 fullscreen mode -->
@@ -476,7 +474,7 @@
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
                   
-                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes'<br/>'. $personalizados; ?></h2>
+                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br/>". $personalizados; ?></h2>
                      
                   </div>
                </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
@@ -484,15 +482,8 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $solicitar_personalizacao; ?></a>
             </div>
          </div><!-- Pacote personalizado fim -->
 		</div>
 	</section>
-	<!--Pricing white ends-->
-	     <!-- CONTATO -->
-
-		 <?php include 'contato.php'; ?>
-
-	<!-- CONTATO ENDS -->
-	<?php include 'footer.php'; ?>
