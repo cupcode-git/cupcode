@@ -2,7 +2,6 @@
     $title = 'criação de websites, loja virtual e-commerce e blogs - cupcode, inc.';
     $description = 'Tenha seu site próprio em até 5 dias! Veja como é fácil e rápido ter sua casa na internet, seja ela um site, blog ou até mesmo uma loja virtual.';
     $keywords = 'website, site, loja virtual, e-commerce, vender, internet, como, fazer, loja';
-    $csscustom = '/css/custom.css';
  include("header.php"); 
 ?>
 <!--Ful Screen hero Banner-->
@@ -15,19 +14,15 @@
     $descdominios = 'o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.'; 
     $descemails = 'oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.'; 
     $descssl = 'exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.'; 
-    $h1 = 'desenvolvimento de websites e lojas virtuais';
-    $adicionais = 'adicionais';
-    $hospedagens = 'hospedagens';
-    $dominios = 'domínios';
-    $emails = 'e-mails';
-    $sll = 'ssl'
-
+    
  include("websites-shell.php"); 
 ?>
 
    <!--Pricing white ends-->
         <!-- CONTATO -->
+
         <?php include 'contato.php'; ?>
+
     <!-- CONTATO ENDS -->
 <?php include 'footer.php'; ?>
 <!--Footer ends-->
