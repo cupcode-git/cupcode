@@ -1,7 +1,7 @@
 <?php
 
   /*=================================================================
-                        Titulos para o site todo
+                        Títulos para o site todo
     ===================================================================*/
 
     $marketing = "marketing";
@@ -44,24 +44,14 @@
     $pacotes = "pacotes";
     $ristreto = "ristreto";
     $lungo = "lungo";
-    $pctpersonalizado = "pacotes<br>personalizados";
-    $pct_mkt_digital_1 = "posts em redes sociais";
-    $pct_mkt_digital_2 = "anuncios no facebook ads";
-    $pct_mkt_digital_3 = "e-mail marketing publico alvo";
-    $pct_mkt_digital_4 = "análize de KPI";
-    $pct_mkt_digital_5 = "todo o conteúdo do pacote ristreto +";
-    $pct_mkt_digital_6 = "gerenciamento de redes sociais";
-    $pct_mkt_digital_7 = "anuncios no google ads";
-    $pct_mkt_digital_8 = "e-mail marketing para clientes ativos";
-    $pct_mkt_digital_9 = "adptação de conteúdo para SEO";
-    $pct_mkt_digital_10 = "análize de ROI (retorno de investimento)";
+    $personalizado = "personalizados";
 
     /*=================================================================
-                                INDEX
+                            PÁGINA - INDEX
     ===================================================================*/
-    /*=================================================================
+    /*-----------------------------------------------------------------
                         INICIO - Boxes index
-    ===================================================================*/
+    -----------------------------------------------------------------*/
 
     $boxtxtsociais = "nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados ao agirmos de forma orgânica. além da retenção e manutenção constante dos seus clientes e seguidores,  utilização do Facebook Pixel e muito mais.";
     $boxtxtanuncios = "para investir em anúncios hoje em dia e não perder dinheiro conquistando apenas curtidas, precisa-se ter muito conhecimento, estratégia e uma equipe focada em converter investimento em leads e clientes, e isso a cupcode tem! nós literalmente vamos fazer seu investimento trabalhar por você.";
@@ -72,13 +62,9 @@
     $boxtxtadapseo = "adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.";
     $boxtxtcriaedit = "nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.";
 
-    /*=================================================================
-                        FIM - Boxes index
-    ===================================================================*/
-
-    /*=================================================================
+    /*-----------------------------------------------------------------
                         INICIO - Resumos dos boxes index
-    ===================================================================*/
+    -----------------------------------------------------------------*/
     $resumotxtsociais = "postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.";
     $resumotxtanuncios = "anunciamos com inteligência para você ter o melhor retorno de seu investimento.";
     $resumotxtsites = "criamos seu site, blog ou loja virtual de forma responsiva e intuitiva, leve e de fácil navegação.";
@@ -87,22 +73,19 @@
     $resumotxtpapelaria = "fazemos todas suas lâminas para impressão ou digital, com qualidade e inteligência.";
     $resumotxtadapseo = "adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.";
     $resumotxtcriaedit = "criação de conteúdo editorial, com foco em SEO, colocando seu site nas primeiras páginas do google.";
-    /*=================================================================
-                        FIM - Resumos dos boxes index
-    ===================================================================*/
 
-    /*=================================================================
+    /*-----------------------------------------------------------------
                         INICIO - Portfolio
-    ===================================================================*/
+    -----------------------------------------------------------------*/
 
 
     /*=================================================================
-                        INICIO - Portfolio
+                        PÁGINA - Marketing Digital
     ===================================================================*/
 
-    /*=================================================================
-                        inicio - Boxes marketing digital
-    ===================================================================*/
+    /*-----------------------------------------------------------------
+                        inicio - Descrições de marketing digital
+    -----------------------------------------------------------------*/
     $descricaotxthero = "faça seu investimento, trabalhar por você!";
     $descricaotxtredessociais = "as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.";
     $descricaotxtgerenciamento = "cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito a sua marca e seu principal bem, os clientes.";
@@ -114,4 +97,18 @@
     $descricaotxtkpi = "com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo seu desempenho positivo.";
     $descricaotxtemailmarketing = "podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse do seu público-alvo, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.";
     $descricaotxtpctpersonalizado = "quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.";
-?>
+
+    /*-----------------------------------------------------------------
+        inicio - Descrições dos pacotes de marketing digital
+    ------------------------------------------------------------------*/
+    $pct_mkt_digital_1 = "posts em redes sociais";
+    $pct_mkt_digital_2 = "anuncios no facebook ads";
+    $pct_mkt_digital_3 = "e-mail marketing publico alvo";
+    $pct_mkt_digital_4 = "análize de KPI";
+    $pct_mkt_digital_5 = "todo o conteúdo do pacote ristreto +";
+    $pct_mkt_digital_6 = "gerenciamento de redes sociais";
+    $pct_mkt_digital_7 = "anuncios no google ads";
+    $pct_mkt_digital_8 = "e-mail marketing para clientes ativos";
+    $pct_mkt_digital_9 = "adptação de conteúdo para SEO";
+    $pct_mkt_digital_10 = "análize de ROI (retorno de investimento)";
+    ?>
