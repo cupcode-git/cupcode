@@ -5,10 +5,7 @@
 	$csscustom = '/css/custom.css';
 include("header.php"); 
 ?>
-<?php 
-include("mkt-digital-shell.php"); 
-// Conteúdo aqui ☻☻☻
-?>
+<?php include 'mkt-digital-shell.php'; ?>
 <!--Inicio Contato -->
 <?php include 'contato.php'; ?>
 <!--Fim Contato -->
