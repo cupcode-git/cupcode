@@ -52,7 +52,28 @@
     gtag('config', 'UA-141037054-1');
   </script>
   <!-- /Google Analytics -->
-
+  <!-- variáveis para todos os sites -->
+<?php 
+  $btnpacotes = 'ver pacotes';
+  $btnplanos = 'ver planos';
+  $pacote = 'pacote';
+  $plano = 'plano';
+  $pacotes = 'pacotes';
+  $planos = 'planos';
+  $slogan = 'faça seu investimento, trabalhar por você.';
+  $solicorca = 'solicitar orçamento';
+  $blogs = 'blogs';
+  $blog = 'blog';
+  $lojavirtual = 'loja virtual';
+  $websites = 'web sites';
+  $sites = 'sites';
+  $site = 'site';
+  $ecommerce = 'e-commerce';
+  $tirarduvsobre = 'tirar dúvidas sobre';
+  $para = 'para';
+?>
+<?php include 'texts.php'; ?>
+<!-- Fim das variáveis -->
 <!--Preloader-->
 <div class="loader">
    <div class="loader-inner">
