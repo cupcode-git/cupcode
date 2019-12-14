@@ -158,35 +158,35 @@
                   <div id="fixed-collapse-navbar" class="navbar-collapse collapse scrolly">
                      <div class="navbar-left-1">
                         <ul class="nav navbar-nav navbar-left">
-                           <li><a href="index.php">home</a></li>
-                           <li><a class="scrollings" href="marketing-digital.php">marketing</a></li>
-                           <li><a class="scrollings" href="websites.php">websites</a> </li>
-                           <li><a class="scrollings" href="design-grafico.php">gráfico</a></li>
+                           <li><a href="index.php"><?php echo $home; ?></a></li>
+                           <li><a class="scrollings" href="marketing-digital.php"><?php echo $marketing; ?></a></li>
+                           <li><a class="scrollings" href="websites.php"><?php echo $websites; ?></a> </li>
+                           <li><a class="scrollings" href="design-grafico.php"><?php echo $grafico; ?></a></li>
                         </ul>
                      </div>
                      <div class="navbar-right-1">
                         <ul class="nav navbar-nav navbar-right">
-                           <li><a href="editorial.php" class="scrollings">editorial</a></li>
-                           <li><a href="index.php#portfolio">portfólio</a></li>
+                           <li><a href="editorial.php" class="scrollings"><?php echo $editorial; ?></a></li>
+                           <li><a href="index.php#portfolio"><?php echo $portfolio; ?></a></li>
                            <li class="static dropdown">
-                           <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">planos</a>
+                           <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"><?php echo $planos; ?></a>
                            <ul class="megamenu-content dropdown-menu">
                               <li>
                                  <div class="row">
                                     <div class="col-sm-12">
-                                       <h5 class="title">planos</h5>
+                                       <h5 class="title"><?php echo $planos; ?></h5>
                                        <ul>
-                                          <li><a href="marketing-digital.php">marketing</a></li>
-                                          <li><a href="websites.php">websites</a></li>
-                                          <li><a href="design-grafico.php">gráfico</a></li>
-                                          <li><a href="editorial.php">editorial</a></li>
+                                          <li><a href="marketing-digital.php"><?php echo $marketing; ?></a></li>
+                                          <li><a href="websites.php"><?php echo $websites; ?></a></li>
+                                          <li><a href="design-grafico.php"><?php echo $graficos; ?></a></li>
+                                          <li><a href="editorial.php"><?php echo $editorial; ?></a></li>
                                        </ul>
                                     </div>
                                  </div>
                               </li>
                            </ul>
                         </li>
-                           <li><a href="#contact-form" class="scrollings">contato</a></li>
+                           <li><a href="#contact-form" class="scrollings"><?php echo $contato; ?></a></li>
                         </ul>
                      </div>
                   </div>
