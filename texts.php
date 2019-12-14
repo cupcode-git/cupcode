@@ -15,9 +15,12 @@
     $website = "website";
     $websites = "websites";
     $siteseblogs = "sites e blogs";
+    $sitesblogselojas = "sites, blogs e lojas virtuais"
+    $ssl = " ssl";
     $redessociais = "redes sociais";
     $design = "design";
     $grafico = "gráfico";
+    $graficos = "gráficos";
     $designGráfico = "design gráfico";
     $papelaria = "papelaria";
     $clickemais = "clique aqui e saiba mais sobre";
@@ -45,11 +48,14 @@
     $pacotes = "pacotes";
     $ristreto = "ristreto";
     $lungo = "lungo";
-    $personalizado = "personalizados";
+    $personalizado = "personalizado";
     $contato = "contato";
     $copyright = "copyright &copy;";
-    $ano = "2019";
+    $ano = 2019;
     $allrights = "todos os direitos reservados.";
+    $personalizados = "personalizados";
+    $solicitar_personalizacao = "solicitar personalização";
+    $btn_duvidas = "tirar duvidas sobre os pacotes";
 
     /*=================================================================
                             PÁGINA - INDEX
