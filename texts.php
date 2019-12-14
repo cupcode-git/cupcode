@@ -3,7 +3,7 @@
   /*=================================================================
                         Títulos para o site todo
     ===================================================================*/
-    $sitename = "cupcode"
+    $sitename = "cupcode";
     $home = "home";
     $marketing = "marketing";
     $digital = "digital";
@@ -47,9 +47,9 @@
     $lungo = "lungo";
     $personalizado = "personalizados";
     $contato = "contato";
-    $copyright = "copyright &copy;"
-    $ano = "2019"
-    $allrights = "todos os direitos reservados."
+    $copyright = "copyright &copy;";
+    $ano = "2019";
+    $allrights = "todos os direitos reservados.";
 
     /*=================================================================
                             PÁGINA - INDEX
