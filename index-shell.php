@@ -370,8 +370,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-1.jpg" alt="<?php echo $portfolio1; ?>" title="<?php echo $portfolio1; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link1 != "") {
-                            echo "<li><a href='" $portfolio_link1 ."' target='_blank' alt='". $portfolio1 ."' title='". $portfolio1 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link1)) {
+                            echo "<li><a href=/" $portfolio_link1 ./" target=/"_blank/" alt=/". $portfolio1 ./" title=/". $portfolio1 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -387,8 +387,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-2.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>"><i class="fa fa-search-plus"></i></a></li>
                 <?php 
-                    if ($portfolio_link2 != "") {
-                        echo "<li><a href='" $portfolio_link2 ."' target='_blank' alt='". $portfolio2 ."' title='". $portfolio2 "'><i class='fas fa-link'></i></a></li>";
+                    if ( isset($portfolio_link2)) {
+                        echo "<li><a href=/" $portfolio_link2 ./" target=/"_blank/" alt=/". $portfolio2 ./" title=/". $portfolio2 /"><i class=/"fas fa-link/"></i></a></li>";
                     }
                     endif;
                 ?>
@@ -404,8 +404,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-3.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link3 != "") {
-                            echo "<li><a href='" $portfolio_link3 ."' target='_blank' alt='". $portfolio3 ."' title='". $portfolio3 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link3)) {
+                            echo "<li><a href=/" $portfolio_link3 ./" target=/"_blank/" alt=/". $portfolio3 ./" title=/". $portfolio3 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -421,8 +421,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-elitronicos.jpg" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link4 != "") {
-                            echo "<li><a href='" $portfolio_link4 ."' target='_blank' alt='". $portfolio4 ."' title='". $portfolio4 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link4)) {
+                            echo "<li><a href=/" $portfolio_link4 ./" target=/"_blank/" alt=/". $portfolio4 ./" title=/". $portfolio4 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -438,8 +438,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-5.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link5 != "") {
-                            echo "<li><a href='" $portfolio_link5 ."' target='_blank' alt='". $portfolio5 ."' title='". $portfolio5 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link5)) {
+                            echo "<li><a href=/" $portfolio_link5 ./" target=/"_blank/" alt=/". $portfolio5 ./" title=/". $portfolio5 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -455,8 +455,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-6.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link6 != "") {
-                            echo "<li><a href='" $portfolio_link6 ."' target='_blank' alt='". $portfolio6 ."' title='". $portfolio6 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link6)) {
+                            echo "<li><a href=/" $portfolio_link6 ./" target=/"_blank/" alt=/". $portfolio6 ./" title=/". $portfolio6 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -472,8 +472,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-7.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link7 != "") {
-                            echo "<li><a href='" $portfolio_link7 ."' target='_blank' alt='". $portfolio7 ."' title='". $portfolio7 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link7)) {
+                            echo "<li><a href=/" $portfolio_link7 ./" target=/"_blank/" alt=/". $portfolio7 ./" title=/". $portfolio7 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -489,8 +489,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-8.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link8 != "") {
-                            echo "<li><a href='" $portfolio_link8 ."' target='_blank' alt='". $portfolio8 ."' title='". $portfolio8 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link8)) {
+                            echo "<li><a href=/" $portfolio_link8 ./" target=/"_blank/" alt=/". $portfolio8 ./" title=/". $portfolio8 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -506,8 +506,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-9.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link9 != "") {
-                            echo "<li><a href='" $portfolio_link9 ."' target='_blank' alt='". $portfolio9 ."' title='". $portfolio9 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link9)) {
+                            echo "<li><a href=/" $portfolio_link9 ./" target=/"_blank/" alt=/". $portfolio9 ./" title=/". $portfolio9 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -523,8 +523,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-10.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link != "") {
-                            echo "<li><a href='" $portfolio_link10 ."' target='_blank' alt='". $portfolio10 ."' title='". $portfolio10 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link)) {
+                            echo "<li><a href=/" $portfolio_link10 ./" target=/"_blank/" alt=/". $portfolio10 ./" title=/". $portfolio10 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -540,8 +540,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-11.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link11 != "") {
-                            echo "<li><a href='" $portfolio_link11 ."' target='_blank' alt='". $portfolio11 ."' title='". $portfolio11 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link11)) {
+                            echo "<li><a href=/" $portfolio_link11 ./" target=/"_blank/" alt=/". $portfolio11 ./" title=/". $portfolio11 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -557,8 +557,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-12.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link12 != "") {
-                            echo "<li><a href='" $portfolio_link12 ."' target='_blank' alt='". $portfolio12 ."' title='". $portfolio12 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link12)) {
+                            echo "<li><a href=/" $portfolio_link12 ./" target=/"_blank/" alt=/". $portfolio12 ./" title=/". $portfolio12 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -574,8 +574,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-13.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>"><i class="fa fa-search-plus"></i></a></li>
                     <?php 
-                        if ($portfolio_link13 != "") {
-                            echo "<li><a href='" $portfolio_link13 ."' target='_blank' alt='". $portfolio13 ."' title='". $portfolio13 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link13)) {
+                            echo "<li><a href=/" $portfolio_link13 ./" target=/"_blank/" alt=/". $portfolio13 ./" title=/". $portfolio13 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -592,8 +592,8 @@
                     <li><a data-fancybox="gallery" href="images/portfolio-14.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>"><i class="fa fa-search-plus"></i></a></li>
                     
                     <?php 
-                        if ($portfolio_link14 != "") {
-                            echo "<li><a href='" $portfolio_link14 ."' target='_blank' alt='". $portfolio14 ."' title='". $portfolio14 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link14)) {
+                            echo "<li><a href=/" $portfolio_link14 ./" target=/"_blank/" alt=/". $portfolio14 ./" title=/". $portfolio14 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -609,8 +609,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-15.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>"><i class="fa fa-search-plus"></i></a></li>
 <?php 
-                        if ($portfolio_link15 != "") {
-                            echo "<li><a href='" $portfolio_link15 ."' target='_blank' alt='". $portfolio15 ."' title='". $portfolio15 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link15)) {
+                            echo "<li><a href=/" $portfolio_link15 ./" target=/"_blank/" alt=/". $portfolio15 ./" title=/". $portfolio15 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -626,8 +626,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-16.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>"><i class="fa fa-search-plus"></i></a></li>
 <?php 
-                        if ($portfolio_link16 != "") {
-                            echo "<li><a href='" $portfolio_link16 ."' target='_blank' alt='". $portfolio16 ."' title='". $portfolio16 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link16)) {
+                            echo "<li><a href=/" $portfolio_link16 ./" target=/"_blank/" alt=/". $portfolio16 ./" title=/". $portfolio16 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -644,8 +644,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-17.jpg" alt="<?php echo $portfolio17; ?>" title="<?php echo $portfolio17; ?>"><i class="fa fa-search-plus"></i></a></li>
 <?php 
-                        if ($portfolio_link17 != "") {
-                            echo "<li><a href='" $portfolio_link17 ."' target='_blank' alt='". $portfolio17 ."' title='". $portfolio17 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link17)) {
+                            echo "<li><a href=/" $portfolio_link17 ./" target=/"_blank/" alt=/". $portfolio17 ./" title=/". $portfolio17 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -661,8 +661,8 @@
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-18.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>"><i class="fa fa-search-plus"></i></a></li>
 <?php 
-                        if ($portfolio_link != "") {
-                            echo "<li><a href='" $portfolio_link 18."' target='_blank' alt='". $portfolio18 ."' title='". $portfolio18 "'><i class='fas fa-link'></i></a></li>";
+                        if ( isset($portfolio_link)) {
+                            echo "<li><a href=/" $portfolio_link 18./" target=/"_blank/" alt=/". $portfolio18 ./" title=/". $portfolio18 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -677,9 +677,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-19.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link19 != "") {
-                            echo "<li><a href='" $portfolio_link19 ."' target='_blank' alt='". $portfolio19 ."' title='". $portfolio19 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link19)) {
+                            echo "<li><a href=/" $portfolio_link19 ./" target=/"_blank/" alt=/". $portfolio19 ./" title=/". $portfolio19 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -695,9 +695,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-20.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link20 != "") {
-                            echo "<li><a href='" $portfolio_link20 ."' target='_blank' alt='". $portfolio20 ."' title='". $portfolio20 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link20)) {
+                            echo "<li><a href=/" $portfolio_link20 ./" target=/"_blank/" alt=/". $portfolio20 ./" title=/". $portfolio20 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -712,9 +712,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-21.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link21 != "") {
-                            echo "<li><a href='" $portfolio_link21 ."' target='_blank' alt='". $portfolio21 ."' title='". $portfolio21 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link21)) {
+                            echo "<li><a href=/" $portfolio_link21 ./" target=/"_blank/" alt=/". $portfolio21 ./" title=/". $portfolio21 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -729,9 +729,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-22.jpg" alt="<?php echo $portfolio22; ?>"  title="<?php echo $portfolio22; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link22 != "") {
-                            echo "<li><a href='" $portfolio_link22 ."' target='_blank' alt='". $portfolio22 ."' title='". $portfolio22 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link22)) {
+                            echo "<li><a href=/" $portfolio_link22 ./" target=/"_blank/" alt=/". $portfolio22 ./" title=/". $portfolio22 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -746,9 +746,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-23.jpg" alt="<?php echo $portfolio23; ?>"  title="<?php echo $portfolio23; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link23 != "") {
-                            echo "<li><a href='" $portfolio_link23 ."' target='_blank' alt='". $portfolio23 ."' title='". $portfolio23 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link23)) {
+                            echo "<li><a href=/" $portfolio_link23 ./" target=/"_blank/" alt=/". $portfolio23 ./" title=/". $portfolio23 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -763,9 +763,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-24.jpg" alt="<?php echo $portfolio24; ?>"  title="<?php echo $portfolio24; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link24 != "") {
-                            echo "<li><a href='" $portfolio_link24 ."' target='_blank' alt='". $portfolio24 ."' title='". $portfolio24 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link24)) {
+                            echo "<li><a href=/" $portfolio_link24 ./" target=/"_blank/" alt=/". $portfolio24 ./" title=/". $portfolio24 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
@@ -780,9 +780,9 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-25.jpg" alt="<?php echo $portfolio25; ?>"  title="<?php echo $portfolio25; ?>"><i class="fa fa-search-plus"></i></a></li>
-<?php 
-                        if ($portfolio_link25 != "") {
-                            echo "<li><a href='" $portfolio_link25 ."' target='_blank' alt='". $portfolio25 ."' title='". $portfolio25 "'><i class='fas fa-link'></i></a></li>";
+                    <?php 
+                        if ( isset($portfolio_link25)) {
+                            echo "<li><a href=/" $portfolio_link25 ./" target=/"_blank/" alt=/". $portfolio25 ./" title=/". $portfolio25 /"><i class=/"fas fa-link/"></i></a></li>";
                         }
                         endif;
                     ?>
