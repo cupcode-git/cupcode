@@ -89,7 +89,7 @@
                             Portfolio
     -----------------------------------------------------------------*/
     $portfolio1 = "Barbearia Visconde Glaser - Papelaria";
-    $portfolio_link1 = "";
+    $portfolio_link1 = '';
     $portfolio2 = "Rabo de Galo - Loja Virtual, Papelaria e Marketing Digital";
     $portfolio_link2 = "https://www.pomadarabodegalo.com.br";
     $portfolio3 = "Diego Tragel - Website, Design Gráfico, Branding e Marketing Digital";

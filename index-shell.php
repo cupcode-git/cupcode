@@ -369,11 +369,375 @@
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-1.jpg" alt="<?php echo $portfolio1; ?>" title="<?php echo $portfolio1; ?>"><i class="fa fa-search-plus"></i></a></li>
-                    <?php if ( isset($portfolio_link1)) : ?>
+                    <?php if (empty($portfolio_link1)) : ?>
                         <li><a href="<?php $portfolio_link1; ?>" target="_blank" alt="<?php $portfolio1; ?>" title="<?php $portfolio1; ?>"><i class="fas fa-link"></i></a></li>
                     <?php endif; ?>
                 </ul>
                 <p><?php echo $papelaria; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-2.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-2.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>"><i class="fa fa-search-plus"></i></a></li>
+                <?php 
+                    if (empty($portfolio_link2)) : ?>
+                        <li><a href="<?php $portfolio_link2 ?>" target='_blank' alt="<?php $portfolio2 ?>" title="<?php $portfolio2 ?>"><i class='fas fa-link'></i></a></li>
+                    <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $branding ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-3.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-3.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link3)) : ?>
+                            <li><a href="<?php $portfolio_link3 ?>" target='_blank' alt="<?php $portfolio3 ?>" title="<?php $portfolio3 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $branding; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $papelaria ." ". $web ." ". $branding; ?>">
+            <div class="image">
+                <img src="images/portfolio-4.jpg" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-elitronicos.jpg" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link4)) : ?>
+                            <li><a href="<?php $portfolio_link4 ?>" target='_blank' alt="<?php $portfolio4 ?>" title="<?php $portfolio4 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $papelaria; ?>, <?php echo $branding; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-5.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-5.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link5)) : ?>
+                            <li><a href="<?php $portfolio_link5 ?>" target='_blank' alt="<?php $portfolio5 ?>" title="<?php $portfolio5 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $branding ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-6.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-6.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link6)) : ?>
+                            <li><a href="<?php $portfolio_link6 ?>" target='_blank' alt="<?php $portfolio6 ?>" title="<?php $portfolio6 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $branding; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $web ." ". $branding; ?>">
+            <div class="image">
+                <img src="images/portfolio-7.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-7.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link7)) : ?>
+                            <li><a href="<?php $portfolio_link7 ?>" target='_blank' alt="<?php $portfolio7 ?>" title="<?php $portfolio7 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web ." ". $branding; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $$web ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-8.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-8.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link8)) : ?>
+                            <li><a href="<?php $portfolio_link8 ?>" target='_blank' alt="<?php $portfolio8 ?>" title="<?php $portfolio8 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-9.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-9.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link9)) : ?>
+                            <li><a href="<?php $portfolio_link9 ?>" target='_blank' alt="<?php $portfolio9 ?>" title="<?php $portfolio9 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $branding ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-10.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-10.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link)) : ?>
+                            <li><a href="<?php $portfolio_link10 ?>" target='_blank' alt="<?php $portfolio10 ?>" title="<?php $portfolio10 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $branding; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $web ." ". $branding ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-11.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-11.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link11)) : ?>
+                            <li><a href="<?php $portfolio_link11 ?>" target='_blank' alt="<?php $portfolio11 ?>" title="<?php $portfolio11 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $branding; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-12.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-12.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link12)) : ?>
+                            <li><a href="<?php $portfolio_link12 ?>" target='_blank' alt="<?php $portfolio12 ?>" title="<?php $portfolio12 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $web ." ". $branding ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-13.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-13.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link13)) : ?>
+                            <li><a href="<?php $portfolio_link13 ?>" target='_blank' alt="<?php $portfolio13 ?>" title="<?php $portfolio13 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $web; ?>, <?php echo $branding; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-14.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-14.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    
+                    <?php 
+                        if (empty($portfolio_link14)) : ?>
+                            <li><a href="<?php $portfolio_link14 ?>" target='_blank' alt="<?php $portfolio14 ?>" title="<?php $portfolio14 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                <p><?php echo $papelaria; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $web; ?>">
+            <div class="image">
+                <img src="images/portfolio-15.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-15.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if (empty($portfolio_link15)) : ?>
+                            <li><a href="<?php $portfolio_link15 ?>" target='_blank' alt="<?php $portfolio15 ?>" title="<?php $portfolio15 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?></p>
+            </div>
+        </div>
+    <div class="cbp-item <?php echo $web; ?>">
+            <div class="image">
+                <img src="images/portfolio-16.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-16.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if (empty($portfolio_link16)) : ?>
+                            <li><a href="<?php $portfolio_link16 ?>" target='_blank' alt="<?php $portfolio16 ?>" title="<?php $portfolio16 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                <li><a href="www.checkmob.com.br" target="_blank" alt="<?php echo $portfolio16; ?>" title="<?php echo $portfolio16; ?>"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p><?php echo $web; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web; ?>">
+            <div class="image">
+                <img src="images/portfolio-17.jpg" alt="<?php echo $portfolio17; ?>"  title="<?php echo $portfolio17; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-17.jpg" alt="<?php echo $portfolio17; ?>" title="<?php echo $portfolio17; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if (empty($portfolio_link17)) : ?>
+                            <li><a href="<?php $portfolio_link17 ?>" target='_blank' alt="<?php $portfolio17 ?>" title="<?php $portfolio17 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $branding; ?>">
+            <div class="image">
+                <img src="images/portfolio-18.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-18.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if (empty($portfolio_link)) : ?>
+                            <li><a href="<?php $portfolio_link 18?>" target='_blank' alt="<?php $portfolio18 ?>" title="<?php $portfolio18 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?>, <?php echo $branding; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
+            <div class="image">
+                <img src="images/portfolio-19.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-19.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link19)) : ?>
+                            <li><a href="<?php $portfolio_link19 ?>" target='_blank' alt="<?php $portfolio19 ?>" title="<?php $portfolio19 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                <li><a href="www.howstuffworks.com" target="_blank" alt="<?php echo $portfolio19; ?>" title="<?php echo $portfolio19; ?>"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web; ?>">
+            <div class="image">
+                <img src="images/portfolio-20.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-20.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link20)) : ?>
+                            <li><a href="<?php $portfolio_link20 ?>" target='_blank' alt="<?php $portfolio20 ?>" title="<?php $portfolio20 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $branding; ?>">
+            <div class="image">
+                <img src="images/portfolio-21.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-21.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link21)) : ?>
+                            <li><a href="<?php $portfolio_link21 ?>" target='_blank' alt="<?php $portfolio21 ?>" title="<?php $portfolio21 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?>, <?php echo $branding; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web; ?>">
+            <div class="image">
+                <img src="images/portfolio-22.jpg" alt="<?php echo $portfolio22; ?>"  title="<?php echo $portfolio22; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-22.jpg" alt="<?php echo $portfolio22; ?>"  title="<?php echo $portfolio22; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link22)) : ?>
+                            <li><a href="<?php $portfolio_link22 ?>" target='_blank' alt="<?php $portfolio22 ?>" title="<?php $portfolio22 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $papelaria ." ". $web ." ". $branding; ?>">
+            <div class="image">
+                <img src="images/portfolio-23.jpg" alt="<?php echo $portfolio23; ?>"  title="<?php echo $portfolio23; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-23.jpg" alt="<?php echo $portfolio23; ?>"  title="<?php echo $portfolio23; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link23)) : ?>
+                            <li><a href="<?php $portfolio_link23 ?>" target='_blank' alt="<?php $portfolio23 ?>" title="<?php $portfolio23 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?>, <?php echo $papelaria; ?>, <?php echo $branding; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web ." ". $branding; ?>">
+            <div class="image">
+                <img src="images/portfolio-24.jpg" alt="<?php echo $portfolio24; ?>"  title="<?php echo $portfolio24; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-24.jpg" alt="<?php echo $portfolio24; ?>"  title="<?php echo $portfolio24; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link24)) : ?>
+                            <li><a href="<?php $portfolio_link24 ?>" target='_blank' alt="<?php $portfolio24 ?>" title="<?php $portfolio24 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                </ul>
+                    <p><?php echo $web; ?>, <?php echo $branding; ?></p>
+            </div>
+        </div>
+        <div class="cbp-item <?php echo $web; ?>">
+            <div class="image">
+                <img src="images/portfolio-25.jpg" alt="<?php echo $portfolio25; ?>"  title="<?php echo $portfolio25; ?>">
+            </div>
+            <div class="overlay light center-block darkcolor">
+                <ul class="social bottom40">
+                    <li><a data-fancybox="gallery" href="images/portfolio-25.jpg" alt="<?php echo $portfolio25; ?>"  title="<?php echo $portfolio25; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if (empty($portfolio_link25)) : ?>
+                            <li><a href="<?php $portfolio_link25 ?>" target='_blank' alt="<?php $portfolio25 ?>" title="<?php $portfolio25 ?>"><i class='fas fa-link'></i></a></li>
+                        <?php endif; ?>
+                <li><a alt="<?php echo $portfolio25; ?>" title="<?php echo $portfolio25; ?>"><i class="fas fa-link"></i></a></li>
+                </ul>
+                    <p><?php echo $web ?></p>
             </div>
         </div>
     </div>
