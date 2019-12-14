@@ -3,7 +3,8 @@
   /*=================================================================
                         Títulos para o site todo
     ===================================================================*/
-
+    $sitename = "cupcode"
+    $home = "home";
     $marketing = "marketing";
     $digital = "digital";
     $mktdigital = "marketing digital";
@@ -45,6 +46,10 @@
     $ristreto = "ristreto";
     $lungo = "lungo";
     $personalizado = "personalizados";
+    $contato = "contato";
+    $copyright = "copyright &copy;"
+    $ano = "2019"
+    $allrights = "todos os direitos reservados."
 
     /*=================================================================
                             PÁGINA - INDEX
@@ -80,53 +85,53 @@
     $portfolio1 = "Barbearia Visconde Glaser - Papelaria";
     $portfolio_link1 = "";
     $portfolio2 = "Rabo de Galo - Loja Virtual, Papelaria e Marketing Digital";
-    $portfolio_link1 = "https://www.pomadarabodegalo.com.br";
+    $portfolio_link2 = "https://www.pomadarabodegalo.com.br";
     $portfolio3 = "Diego Tragel - Website, Design Gráfico, Branding e Marketing Digital";
-    $portfolio_link1 = "http://www.diegotragel.com.br";
+    $portfolio_link3 = "http://www.diegotragel.com.br";
     $portfolio4 = "Elitronicos - Branding, Loja virtual, Papelaria e Marketing Digital";
-    $portfolio_link1 = "https://www.elitronicos.com.br";
+    $portfolio_link4 = "https://www.elitronicos.com.br";
     $portfolio5 = "Canal Sofalizando - Branding, edição de vídeos e efeitos especiais";
-    $portfolio_link1 = "";
+    $portfolio_link5 = "";
     $portfolio6 = "Bar do Sival - Branding e Papelaria";
-    $portfolio_link1 = "";
+    $portfolio_link6 = "";
     $portfolio7 = "BritneyNIZER - Website, Design Gráfico e Marketing Digital";
-    $portfolio_link1 = "";
+    $portfolio_link7 = "";
     $portfolio8 = "Cavaz - about everything - Loja virtual e Marketing Digital";
-    $portfolio_link1 = "";
+    $portfolio_link8 = "";
     $portfolio9 = "Bolas Fora - Blog, Design Gráfico, Branding e Marketing Digital";
-    $portfolio_link1 = "";
+    $portfolio_link9 = "";
     $portfolio10 = "Corr - Branding e Papelaria";
-    $portfolio_link1 = "";
+    $portfolio_link10 = "";
     $portfolio11 = "Grupo A50 de Comunicação - Branding, Website, Design Gráfico, Marketing Digital e Papelaria";
-    $portfolio_link1 = "https://www.a50.com.br";
+    $portfolio_link11 = "https://www.a50.com.br";
     $portfolio12 = "TattooZasso - Papelaria, Edição de vídeo e Website";
-    $portfolio_link1 = "";
+    $portfolio_link12 = "";
     $portfolio13 = "WEC - World Entertainment Corp. - Branding, Website e Papelaria";
-    $portfolio_link1 = "";
+    $portfolio_link13 = "";
     $portfolio14 = "Barbearia Visconde - Papelaria";
-    $portfolio_link1 = "http://www.barbeariavisconde.com.br";
+    $portfolio_link14 = "http://www.barbeariavisconde.com.br";
     $portfolio15 = "UOL - Evento MPE: Licitações Públicas - Website";
-    $portfolio_link1 = "";
+    $portfolio_link15 = "";
     $portfolio16 = "CheckMob - Website, App Design";
-    $portfolio_link1 = "https://www.checkmob.com.br";
+    $portfolio_link16 = "https://www.checkmob.com.br";
     $portfolio17 = "CINQ Technologies - Website, App Design e Digital Publishing";
-    $portfolio_link1 = "https://www.cinq.com.br";
+    $portfolio_link17 = "https://www.cinq.com.br";
     $portfolio18 = "Code 9 - Website, Design Gráfico e Marketing Digital";
-    $portfolio_link1 = "";
+    $portfolio_link18 = "";
     $portfolio19 = "HowStuffWorks - Design Gráfico, Animações e Website";
-    $portfolio_link1 = "https://www.howstuffworks.com";
+    $portfolio_link19 = "https://www.howstuffworks.com";
     $portfolio20 = "Portugal Gay Tour - Branding";
-    $portfolio_link1 = "";
+    $portfolio_link20 = "";
     $portfolio21 = "Jogue Bola - Website, Design Gráfico e Marketing Digital";
-    $portfolio_link1 = "";
+    $portfolio_link21 = "";
     $portfolio22 = "GoComing - App Design, Branding e Design Gráfico";
-    $portfolio_link1 = "http://www.gocoming.com.br";
+    $portfolio_link22 = "http://www.gocoming.com.br";
     $portfolio23 = "Mansão Mix - Website, Desgin Gráfico, Branding, Marketing Digital e Papelaria.";
-    $portfolio_link1 = "";
+    $portfolio_link23 = "";
     $portfolio24 = "ProjetoX - Website, Branding, Design Gráfico e Papelaria";
-    $portfolio_link1 = "";
+    $portfolio_link24 = "";
     $portfolio25 = "SEBRAE - Rodada de Negocios - Website";
-    $portfolio_link1 = "";
+    $portfolio_link25 = "";
 
     /*=================================================================
                         PÁGINA - Marketing Digital
@@ -165,7 +170,7 @@
     ===================================================================*/
 
     /*-----------------------------------------------------------------
-                        inicio - Descrições de Websites
+                        Descrições de Websites
     -----------------------------------------------------------------*/
     $descsites = 'desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão atualizados.'; 
     $descblogs = 'ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.'; 
@@ -207,7 +212,7 @@
     $btn_email_websites_4 = " solicitar 10 caixas";
     $btn_email_websites_1 = " solicitar 1 caixa";
     /*-----------------------------------------------------------------
-        inicio - Descrições dos pacotes de Websites
+                Descrições dos pacotes de Websites
     ------------------------------------------------------------------*/
     $pct_titulo_websites_1 = "sua marca na internet";
     $pct_titulo_websites_2 = "cadastro de usuários e materias";
@@ -270,7 +275,7 @@
     ===================================================================*/
 
     /*-----------------------------------------------------------------
-                        inicio - Descrições de Design gráfico
+                    Descrições de Design gráfico
     -----------------------------------------------------------------*/
     $branding = "branding";
     $logotipo = "logotipo";
@@ -286,7 +291,7 @@
     $descricao_txt_titulo = "criação de branding, artes gráficas impressas e digitais";
     $descricao_txt_branding = "construímos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia, a palheta de cores e tudo o que você precisa para dar o start no seu negócio.";
     /*-----------------------------------------------------------------
-        inicio - Descrições dos pacotes de Design gráfico
+            Descrições dos pacotes de Design gráfico
     ------------------------------------------------------------------*/
     $descricao_pcts_design_grafico_1 = "sua identidade visual completa";
     $descricao_pcts_design_grafico_2 = "os dois pacotes juntos, com um super desconto";
@@ -304,7 +309,7 @@
     ===================================================================*/
 
     /*-----------------------------------------------------------------
-                        inicio - Descrições de Editorial
+                        Descrições de Editorial
     -----------------------------------------------------------------*/
     $artigos = "artigos";
     $materias = "matérias";
@@ -315,7 +320,7 @@
     $descricao_titulo_editorial = "criação de matérias e artigos editoriais com foco em seo.";
     $descricao_txt_editorial = " nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.";
     /*-----------------------------------------------------------------
-        inicio - Descrições dos pacotes de Editorial
+                Descrições dos pacotes de Editorial
     ------------------------------------------------------------------*/
     $pct_editorial_1 = "jornalistas especializados";
     $pct_editorial_2 = "criação de conteúdo rico e engajador";

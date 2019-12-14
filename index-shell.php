@@ -875,12 +875,3 @@
         </div>
     </div>
     </section>
-        <!-- CONTATO -->
-
-        <?php include 'contato.php'; ?>
-
-    <!-- CONTATO ENDS -->
-    
-    <!--Footer-->
-    <?php include 'footer.php'; ?>
-    <!--Footer ends-->
