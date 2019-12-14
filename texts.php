@@ -17,7 +17,7 @@
     $redessociais = "redes sociais";
     $design = "design";
     $grafico = "gráfico";
-    $designgrafico = "design gráfico";
+    $designGráfico = "design gráfico";
     $papelaria = "papelaria";
     $clickemais = "clique aqui e saiba mais sobre";
     $hospedagem = "hospedagem";
@@ -50,7 +50,7 @@
                             PÁGINA - INDEX
     ===================================================================*/
     /*-----------------------------------------------------------------
-                        INICIO - Boxes index
+                              Boxes index
     -----------------------------------------------------------------*/
 
     $boxtxtsociais = "nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados ao agirmos de forma orgânica. além da retenção e manutenção constante dos seus clientes e seguidores,  utilização do Facebook Pixel e muito mais.";
@@ -63,7 +63,7 @@
     $boxtxtcriaedit = "nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.";
 
     /*-----------------------------------------------------------------
-                        INICIO - Resumos dos boxes index
+                        Resumos dos boxes index
     -----------------------------------------------------------------*/
     $resumotxtsociais = "postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.";
     $resumotxtanuncios = "anunciamos com inteligência para você ter o melhor retorno de seu investimento.";
@@ -75,16 +75,65 @@
     $resumotxtcriaedit = "criação de conteúdo editorial, com foco em SEO, colocando seu site nas primeiras páginas do google.";
 
     /*-----------------------------------------------------------------
-                        INICIO - Portfolio
+                            Portfolio
     -----------------------------------------------------------------*/
-
+    $portfolio1 = "Barbearia Visconde Glaser - Papelaria";
+    $portfolio_link1 = "";
+    $portfolio2 = "Rabo de Galo - Loja Virtual, Papelaria e Marketing Digital";
+    $portfolio_link1 = "https://www.pomadarabodegalo.com.br";
+    $portfolio3 = "Diego Tragel - Website, Design Gráfico, Branding e Marketing Digital";
+    $portfolio_link1 = "http://www.diegotragel.com.br";
+    $portfolio4 = "Elitronicos - Branding, Loja virtual, Papelaria e Marketing Digital";
+    $portfolio_link1 = "https://www.elitronicos.com.br";
+    $portfolio5 = "Canal Sofalizando - Branding, edição de vídeos e efeitos especiais";
+    $portfolio_link1 = "";
+    $portfolio6 = "Bar do Sival - Branding e Papelaria";
+    $portfolio_link1 = "";
+    $portfolio7 = "BritneyNIZER - Website, Design Gráfico e Marketing Digital";
+    $portfolio_link1 = "";
+    $portfolio8 = "Cavaz - about everything - Loja virtual e Marketing Digital";
+    $portfolio_link1 = "";
+    $portfolio9 = "Bolas Fora - Blog, Design Gráfico, Branding e Marketing Digital";
+    $portfolio_link1 = "";
+    $portfolio10 = "Corr - Branding e Papelaria";
+    $portfolio_link1 = "";
+    $portfolio11 = "Grupo A50 de Comunicação - Branding, Website, Design Gráfico, Marketing Digital e Papelaria";
+    $portfolio_link1 = "https://www.a50.com.br";
+    $portfolio12 = "TattooZasso - Papelaria, Edição de vídeo e Website";
+    $portfolio_link1 = "";
+    $portfolio13 = "WEC - World Entertainment Corp. - Branding, Website e Papelaria";
+    $portfolio_link1 = "";
+    $portfolio14 = "Barbearia Visconde - Papelaria";
+    $portfolio_link1 = "http://www.barbeariavisconde.com.br";
+    $portfolio15 = "UOL - Evento MPE: Licitações Públicas - Website";
+    $portfolio_link1 = "";
+    $portfolio16 = "CheckMob - Website, App Design";
+    $portfolio_link1 = "https://www.checkmob.com.br";
+    $portfolio17 = "CINQ Technologies - Website, App Design e Digital Publishing";
+    $portfolio_link1 = "https://www.cinq.com.br";
+    $portfolio18 = "Code 9 - Website, Design Gráfico e Marketing Digital";
+    $portfolio_link1 = "";
+    $portfolio19 = "HowStuffWorks - Design Gráfico, Animações e Website";
+    $portfolio_link1 = "https://www.howstuffworks.com";
+    $portfolio20 = "Portugal Gay Tour - Branding";
+    $portfolio_link1 = "";
+    $portfolio21 = "Jogue Bola - Website, Design Gráfico e Marketing Digital";
+    $portfolio_link1 = "";
+    $portfolio22 = "GoComing - App Design, Branding e Design Gráfico";
+    $portfolio_link1 = "http://www.gocoming.com.br";
+    $portfolio23 = "Mansão Mix - Website, Desgin Gráfico, Branding, Marketing Digital e Papelaria.";
+    $portfolio_link1 = "";
+    $portfolio24 = "ProjetoX - Website, Branding, Design Gráfico e Papelaria";
+    $portfolio_link1 = "";
+    $portfolio25 = "SEBRAE - Rodada de Negocios - Website";
+    $portfolio_link1 = "";
 
     /*=================================================================
                         PÁGINA - Marketing Digital
     ===================================================================*/
 
     /*-----------------------------------------------------------------
-                        inicio - Descrições de marketing digital
+                    Descrições de marketing digital
     -----------------------------------------------------------------*/
     $descricaotxthero = "faça seu investimento, trabalhar por você!";
     $descricaotxtredessociais = "as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.";
@@ -99,7 +148,7 @@
     $descricaotxtpctpersonalizado = "quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.";
 
     /*-----------------------------------------------------------------
-        inicio - Descrições dos pacotes de marketing digital
+              Descrições dos pacotes de marketing digital
     ------------------------------------------------------------------*/
     $pct_mkt_digital_1 = "posts em redes sociais";
     $pct_mkt_digital_2 = "anuncios no facebook ads";
@@ -111,4 +160,201 @@
     $pct_mkt_digital_8 = "e-mail marketing para clientes ativos";
     $pct_mkt_digital_9 = "adptação de conteúdo para SEO";
     $pct_mkt_digital_10 = "análize de ROI (retorno de investimento)";
-    ?>
+    /*=================================================================
+                        PÁGINA - Websites
+    ===================================================================*/
+
+    /*-----------------------------------------------------------------
+                        inicio - Descrições de Websites
+    -----------------------------------------------------------------*/
+    $descsites = 'desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão atualizados.'; 
+    $descblogs = 'ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos.'; 
+    $desclojavirtual = 'estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações de seu e-commerce, para que você não se preocupe com mais nada.'; 
+    $descadicionais = 'sua casa na internet precisa de um terreno? temos hospedagem! precisa de um endereço? temos domínios! segurança? te oferecemos o SSL. temos tudo!'; 
+    $deschospedagens = 'com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas.'; 
+    $descdominios = 'o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos.'; 
+    $descemails = 'oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes.'; 
+    $descssl = 'exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele.'; 
+    $h1 = 'desenvolvimento de websites e lojas virtuais';
+    $adicionais = 'adicionais';
+    $hospedagens = 'hospedagens';
+    $dominios = 'domínios';
+    $emails = 'e-mails';
+    $email = 'e-mail';
+    $ssl = 'ssl';
+    $lojavirtual = "loja virtual";
+    $nacional = "nacional";
+    $internacional = "internacional";
+    $btn_com_br = " solicitar dominio .com.br";
+    $btn_com = " solicitar dominio .com";
+    $reais = "R$";
+    $mes = "/mês";
+    $ano = "/ano";
+    $valor_pcts_websites_1 = "25,00";
+    $valor_pcts_websites_2 = "40,00";
+    $valor_pcts_websites_3 = "85,00";
+    $valor_pcts_websites_4 = "150,00";
+    $valor_pcts_websites_5 = "120,00";
+    $valor_pcts_websites_6 = "100,00";
+    $btn_ssl_websites_1 = " solicitar ssl";
+    $btn_ssl_websites_2 = " atualizar ssl";
+    $btn_duvidas_websites_1 = " tirar duvidas sobre dominíos";
+    $btn_duvidas_websites_2 = " tirar duvidas ou solicitar mais caixas";
+    $btn_duvidas_websites_3 = " tirar duvidas sobre ssl";
+    $btn_email_websites_1 = " solicitar 1 caixa";
+    $btn_email_websites_2 = " solicitar 2 caixas";
+    $btn_email_websites_3 = " solicitar 5 caixas";
+    $btn_email_websites_4 = " solicitar 10 caixas";
+    $btn_email_websites_1 = " solicitar 1 caixa";
+    /*-----------------------------------------------------------------
+        inicio - Descrições dos pacotes de Websites
+    ------------------------------------------------------------------*/
+    $pct_titulo_websites_1 = "sua marca na internet";
+    $pct_titulo_websites_2 = "cadastro de usuários e materias";
+    $pct_titulo_websites_3 = "venda 24 horas por dia";
+    $pct_titulo_websites_4 = ".com.br";
+    $pct_titulo_websites_5 = ".com";
+    $pct_titulo_websites_6 = "1 e-mail";
+    $pct_titulo_websites_7 = "2 e-mails";
+    $pct_titulo_websites_8 = "5 e-mails";
+    $pct_titulo_websites_9 = "10 e-mails";
+    $pct_titulo_websites_10 = "contratação de ssl";
+    $pct_titulo_websites_11 = "com instalação";
+    $pct_titulo_websites_12 = "renovação de ssl";
+    $pct_titulo_websites_13 = "atualização";
+    $pct_websites_1 = "páginas responsívas";
+    $pct_websites_2 = "compatibilidade entre navegadores";
+    $pct_websites_3 = "seo inteligente";
+    $pct_websites_4 = "landing pages que atraem";
+    $pct_websites_5 = "html5, css3 & bootstrap";
+    $pct_websites_6 = "cadastro de usuários";
+    $pct_websites_7 = "criação de páginas/posts";
+    $pct_websites_8 = "comentários e avaliações";
+    $pct_websites_9 = "melhor rankeamento nas buscas";
+    $pct_websites_10 = "produção de conteúdo original";
+    $pct_websites_11 = "venda produtos e serviços";
+    $pct_websites_12 = "aceite pagamentos online";
+    $pct_websites_13 = "cálculo de envio automático";
+    $pct_websites_14 = "gerenciamento de clientes";
+    $pct_websites_15 = "cadastro de usuários";
+    $pct_websites_16 = "wordpress & woocommerce";
+    $pct_websites_17 = "backup diário";
+    $pct_websites_18 = "armazenamento em ssd 10 GB";
+    $pct_websites_19 = "1 e-mail grátis 10 GB";
+    $pct_websites_20 = "alto desempenho";
+    $pct_websites_21 = "correções de falhas automáticas";
+    $pct_websites_22 = "backup diário";
+    $pct_websites_23 = "armazenamento em ssd 20 GB";
+    $pct_websites_24 = "1 e-mail grátis 10 GB";
+    $pct_websites_25 = "alto desempenho";
+    $pct_websites_26 = "correções de falhas automáticas";
+    $pct_websites_27 = "backup diário";
+    $pct_websites_28 = "ssl grátis";
+    $pct_websites_29 = "armazenamento em ssd 50GB";
+    $pct_websites_30 = "5 e-mails grátis 10 GB cada";
+    $pct_websites_31 = "alto desempenho";
+    $pct_websites_32 = "correções de falhas automáticas";
+    $pct_websites_33 = "seu-dominio.com.br";
+    $pct_websites_34 = "seu-dominio.com";
+    $pct_websites_35 = "caixa com 10 GB";
+    $pct_websites_36 = "caixas com 10 GB cada";
+    $pct_websites_37 = "caixas com 10 GB cada";
+    $pct_websites_38 = "caixas com 10 GB cada";
+    $pct_websites_39 = "exiba um cadeado de site seguro no seu site";
+    $pct_websites_40 = "com instalação completa";
+    $pct_websites_41 = "exiba um cadeado de site seguro no seu site";
+    $pct_websites_42 = "renovação instantanea";
+
+    /*=================================================================
+                        PÁGINA - Design gráfico
+    ===================================================================*/
+
+    /*-----------------------------------------------------------------
+                        inicio - Descrições de Design gráfico
+    -----------------------------------------------------------------*/
+    $branding = "branding";
+    $logotipo = "logotipo";
+    $manualdamarca = "manual da marca";
+    $artes = "artes";
+    $impressas = "impressas";
+    $digitais = "digitais";
+    $descricao_txt_artes_digitais = "no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.";
+    $descricao_txt_artes_impressas = "inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.";
+    $descricao_txt_papelaria = "um dos principais meios de comunicação e divulgação da sua marca, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.";
+    $descricao_txt_manualdamarca = "normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.";
+    $descricao_txt_logotipo = "nossos designers são especialistas em criar um logotipo marcante e único, onde você tenha a representação da sua marca em um lindo e elegante design que começa com um estudo aprofundado sobre os conceitos, os traços, unido aos seus valores, missão e visão.";
+    $descricao_txt_titulo = "criação de branding, artes gráficas impressas e digitais";
+    $descricao_txt_branding = "construímos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia, a palheta de cores e tudo o que você precisa para dar o start no seu negócio.";
+    /*-----------------------------------------------------------------
+        inicio - Descrições dos pacotes de Design gráfico
+    ------------------------------------------------------------------*/
+    $descricao_pcts_design_grafico_1 = "sua identidade visual completa";
+    $descricao_pcts_design_grafico_2 = "os dois pacotes juntos, com um super desconto";
+    $descricao_pcts_design_grafico_3 = "todas as suas artes, para impressos e digitais";
+    $pct_design_grafico_1 = "logotipo";
+    $pct_design_grafico_2 = "tipografia";
+    $pct_design_grafico_3 = "palheta de cores";
+    $pct_design_grafico_4 = "slogan";
+    $pct_design_grafico_5 = "manual da marca";
+    $pct_design_grafico_6 = "artes impressas";
+    $pct_design_grafico_7 = "artes digitais";
+
+    /*=================================================================
+                        PÁGINA - Editorial
+    ===================================================================*/
+
+    /*-----------------------------------------------------------------
+                        inicio - Descrições de Editorial
+    -----------------------------------------------------------------*/
+    $artigos = "artigos";
+    $materias = "matérias";
+    $criacaodeconteudo = "criação de conteúdo";
+    $adaptacaodeconteudo = "adaptação de conteúdo";
+    $descricao_txt_adaptacao_de_conteudo = "nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.";
+    $descricao_txt_criacao_de_conteudo = "tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.";
+    $descricao_titulo_editorial = "criação de matérias e artigos editoriais com foco em seo.";
+    $descricao_txt_editorial = " nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.";
+    /*-----------------------------------------------------------------
+        inicio - Descrições dos pacotes de Editorial
+    ------------------------------------------------------------------*/
+    $pct_editorial_1 = "jornalistas especializados";
+    $pct_editorial_2 = "criação de conteúdo rico e engajador";
+    $pct_editorial_3 = "4 artigos por mês com foco em SEO";
+   
+    /*-----------------------------------------------------------------
+                      Numeros e contadores
+    ------------------------------------------------------------------*/
+    $cont_titulo1 = "projetos concluídos";
+    $cont_titulo2 = "anos de experiência";
+    $cont_titulo3 = "clientes satisfeitos";
+    $cont_titulo4 = "dias seu site já está no ar";
+
+    $cont_desc1 = "nossos clientes depositam sua confiança em nós, sem medo, porque sabem que terão o melhor resultado.";
+    $cont_desc2 = "passamos por uma longa caminhada de conhecimento e experiência, afinal, não se chega a 20 anos de sucesso sem fazer um bom trabalho.";
+    $cont_desc3 = "não basta investir, tem que saber onde e o por quê. aqui, fazemos seu investimento trabalhar por você.";
+    $cont_desc4 = "após aprovação do briefing, seu site vai para desenvolvimento e fica pronto em até 5 dias.";
+
+    /*-----------------------------------------------------------------
+                      Testimonials
+    ------------------------------------------------------------------*/
+    $testimonial_title = "o que dizem nossos clientes";
+
+    $testimonial1 = "um serviço prático, pessoal e versátil que entrega tudo com desenvoltura, que entendeu bem o que eu queria, além de me oferecer coisas que eu nem conhecia e dá um ótimo suporte. já trabalhei com várias empresas de marketing, mas a <strong>cupcode</strong> é a única que eu vi resultados.";
+    $testimonial_client1 = "Raquel Brandalise";
+    $testimonial_position1 = "Co-fundadora do";
+    $testimonial_link1 = "http://www.pomadarabodegalo.com.br";
+    $testimonial_company1 = "Pomadas Rabo de Galo";
+    
+    $testimonial2 = "com muita paciência e competência, a <strong>cupcode</strong> me ajudou em tudo, não só na distribuição de conteúdos, divulgação das minhas músicas, mas também na confecção das capas dos meus singles e na criação de todo o meu site. super recomendo!";
+    $testimonial_client2 = "Diego Tragel";
+    $testimonial_position2 = "Músico, site";
+    $testimonial_link2 = "http://www.diegotragel.com.br";
+    $testimonial_company2 = "Diego Tragel";
+
+    $testimonial3 = "eu tinha um nome da loja e era apenas escrita, a <strong>cupcode</strong>, depois de uma reunião comigo, fizeram todo o branding da loja, mudamos o nome, para um bem melhor, sem sair do que eu queria, além de dar vida a minha marca. fizeram minha loja virtual e hoje todo meu trabalho de redes sociais e papelaria são com eles, e não pretendo mudar tão cedo!";
+    $testimonial_client3 = "Eliezer Couto";
+    $testimonial_position3 = "Fundador do";
+    $testimonial_link3 = "http://www.elitronicos.com.br";
+    $testimonial_company3 = "Elitrônicos";
+
+   ?>
