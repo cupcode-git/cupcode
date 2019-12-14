@@ -1,5 +1,4 @@
-﻿<?php include("header.php"); ?>
-    <section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
+﻿    <section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
         <div class="container">
             <div class="row">
                 <div class="col-12">
