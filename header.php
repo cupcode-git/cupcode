@@ -54,25 +54,6 @@
   </script>
   <!-- /Google Analytics -->
   <!-- variáveis para todos os sites -->
-<?php 
-  $btnpacotes = 'ver pacotes';
-  $btnplanos = 'ver planos';
-  $pacote = 'pacote';
-  $plano = 'plano';
-  $pacotes = 'pacotes';
-  $planos = 'planos';
-  $slogan = 'faça seu investimento, trabalhar por você.';
-  $solicorca = 'solicitar orçamento';
-  $blogs = 'blogs';
-  $blog = 'blog';
-  $lojavirtual = 'loja virtual';
-  $websites = 'web sites';
-  $sites = 'sites';
-  $site = 'site';
-  $ecommerce = 'e-commerce';
-  $tirarduvsobre = 'tirar dúvidas sobre';
-  $para = 'para';
-?>
 <?php include 'texts.php'; ?>
 <!-- Fim das variáveis -->
 <!--Preloader-->

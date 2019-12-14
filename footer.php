@@ -9,7 +9,7 @@
                         <li><a href="https://www.linkedin.com/company/cupcodeinc/" target="_blank" alt="linkedin" title="linkedin"><i class="fab fa-linkedin" alt="linkedin" title="linkedin"></i> </a> </li>
                         <li><a href="https://twitter.com/cupcodeinc" target="_blank" alt="twitter" title="twitter"><i class="fab fa-twitter" alt="twitter" title="twitter"></i> </a> </li>
                     </ul>
-                    <p class="light-b top30 wow fadeInUp"><?php echo $copyright . " " . $ano . " " . $sitename . " " . $allrights; ?></p>
+                    <p class="light-b top30 wow fadeInUp"><?php echo $copyright . " " . date(Y) . " " . $sitename . " " . $allrights; ?></p>
                 </div>
             </div>
         </div>
