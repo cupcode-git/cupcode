@@ -126,7 +126,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="<?php echo $clickemais; ?> <?php echo $redessociais; ?>" title="<?php echo $clickemais; ?> <?php echo $redessociais; ?>">
+                        <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="<?php echo $clickemais ." ". $redessociais; ?>" title="<?php echo $clickemais ." ". $redessociais; ?>">
                             <i class="fas fa-share-alt cc-light"></i>
                         </a>
                         <div class="grid">
@@ -135,7 +135,7 @@
                                 <h2 class="text-center bottom10 cc-light"><?php echo $redessociais; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtsociais; ?></p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="<?php echo $clickemais; ?> <?php echo $redessociais; ?>" title="<?php echo $clickemais; ?> <?php echo $redessociais; ?>"><?php echo $btnplanos; ?></a>
+                                    <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="<?php echo $clickemais ." ". $redessociais; ?>" title="<?php echo $clickemais ." ". $redessociais; ?>"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -145,11 +145,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="<?php echo $clickemais; ?> <?php echo $branding; ?>" title="<?php echo $clickemais; ?> <?php echo $branding; ?>">
+                        <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>">
                             <i class="fas fa-bullhorn cc-light"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn light" alt="<?php echo $clickemais; ?> <?php echo $branding; ?>" title="<?php echo $clickemais; ?> <?php echo $branding; ?>"><?php echo $anuncios; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn light" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>"><?php echo $anuncios; ?></h4>
                             <div style="display: none;" id="hidden-content-a">
                                 <h2 class="text-center bottom10 cc-light"><?php echo $anuncios; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtanuncios; ?></p>
@@ -180,11 +180,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais; ?> <?php echo $siteseblogs; ?>" title="<?php echo $clickemais; ?> <?php echo $siteseblogs; ?>">
+                        <a data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais ." ". $siteseblogs; ?>" title="<?php echo $clickemais ." ". $siteseblogs; ?>">
                             <i class="fas fa-desktop"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais; ?> <?php echo $siteseblogs; ?>" title="<?php echo $clickemais; ?> site, blog e lojas virtuais"><?php echo $siteseblogs; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $siteseblogs; ?>" title="<?php echo $clickemais; ?> site, blog e lojas virtuais"><?php echo $siteseblogs; ?></h4>
                             <div style="display: none;" id="hidden-content-c">
                                 <h2 class="text-center bottom10 cc-light"><?php echo $siteseblogs; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtsites; ?></p>
@@ -199,11 +199,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais; ?> <?php echo $hospedagem; ?>" title="<?php echo $clickemais; ?> <?php echo $hospedagem; ?>">
+                        <a data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais ." ". $hospedagem; ?>" title="<?php echo $clickemais ." ". $hospedagem; ?>">
                             <i class="fas fa-server"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais; ?> <?php echo $hospedagem; ?>" title="<?php echo $clickemais; ?> <?php echo $hospedagem; ?>"><?php echo $hospedagem; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $hospedagem; ?>" title="<?php echo $clickemais ." ". $hospedagem; ?>"><?php echo $hospedagem; ?></h4>
                             <div style="display: none;" id="hidden-content-d">
                                 <h2 class="text-center bottom10 cc-light"><?php echo $hospedagem; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxthost; ?></p>
@@ -234,11 +234,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="<?php echo $clickemais; ?> <?php echo $branding; ?>" title="<?php echo $clickemais; ?> <?php echo $branding; ?>">
+                        <a data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>">
                             <i class="fas fa-fingerprint ccdeep"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn text-dark" alt="<?php echo $clickemais; ?> <?php echo $branding; ?>" title="<?php echo $clickemais; ?> <?php echo $branding; ?>"><?php echo $branding; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn text-dark" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>"><?php echo $branding; ?></h4>
                             <div style="display: none;" id="hidden-content-f">
                                 <h2 class="text-center bottom10 cc-light"><?php echo $branding; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtbranding; ?></p>
@@ -253,11 +253,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="<?php echo $clickemais; ?> <?php echo $papelaria; ?>" title="<?php echo $clickemais; ?> <?php echo $papelaria; ?>">
+                        <a data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn" alt="<?php echo $clickemais ." ". $papelaria; ?>" title="<?php echo $clickemais ." ". $papelaria; ?>">
                             <i class="fas fa-edit ccdeep"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais; ?> <?php echo $papelaria; ?>" title="<?php echo $clickemais; ?> <?php echo $papelaria; ?>"><?php echo $papelaria; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $papelaria; ?>" title="<?php echo $clickemais ." ". $papelaria; ?>"><?php echo $papelaria; ?></h4>
                             <div style="display: none;" id="hidden-content-e">
                                 <h2 class="text-center cc-light bottom10"><?php echo $papelaria; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtpapelaria; ?></p>
@@ -288,11 +288,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais; ?> <?php echo $adapseo; ?>" title="<?php echo $clickemais; ?> <?php echo $adapseo; ?>">
+                        <a data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais ." ". $adapseo; ?>" title="<?php echo $clickemais ." ". $adapseo; ?>">
                             <i class="far fa-newspaper"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais; ?> <?php echo $adapseo; ?>" title="<?php echo $clickemais; ?> <?php echo $adapseo; ?>"><?php echo $adapseo; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $adapseo; ?>" title="<?php echo $clickemais ." ". $adapseo; ?>"><?php echo $adapseo; ?></h4>
                             <div style="display: none;" id="hidden-content-g" class="text-center">
                                 <h2 class="text-center cc-light bottom10"><?php echo $adapseo; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtadapseo; ?></p>
@@ -307,11 +307,11 @@
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
-                        <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais; ?> <?php echo $criacao; ?>" title="<?php echo $clickemais; ?> <?php echo $criacao; ?>">
+                        <a data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn ccdeep" alt="<?php echo $clickemais ." ". $criacao; ?>" title="<?php echo $clickemais ." ". $criacao; ?>">
                             <i class="far fa-edit"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 text-dark " alt="<?php echo $clickemais; ?> <?php echo $criacao; ?>" title="<?php echo $clickemais; ?> <?php echo $criacontedit; ?>"><?php echo $criacao; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 text-dark " alt="<?php echo $clickemais ." ". $criacao; ?>" title="<?php echo $clickemais ." ". $criacontedit; ?>"><?php echo $criacao; ?></h4>
                             <div style="display: none;" id="hidden-content-h">
                                 <h2 class="text-center cc-light bottom10"><?php echo $criacontedit; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtcriaedit; ?></p>
@@ -365,180 +365,256 @@
         <div id="masonry-light" class="cbp bottom30">
         <div class="cbp-item <?php echo $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-glaser.jpg" alt="<?php echo $portfolio1; ?>" title="<?php echo $portfolio1; ?>">
+                <img src="images/portfolio-1.jpg" alt="<?php echo $portfolio1; ?>" title="<?php echo $portfolio1; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-glaser.jpg" alt="<?php echo $portfolio1; ?>" title="<?php echo $portfolio1; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-1.jpg" alt="<?php echo $portfolio1; ?>" title="<?php echo $portfolio1; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if ($portfolio_link1 != "") {
+                            echo "<li><a href='". $portfolio_link1 ."' target='_blank' alt='". $portfolio1 ."' title='". $portfolio1 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $papelaria; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $papelaria; ?>">
+        <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-rabo-de-galo.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>">
+                <img src="images/portfolio-2.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-rabo-de-galo.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>"><i class="fa fa-search-plus"></i></a></li>
-                <li><a href="https://www.pomadarabodegalo.com/" target="_blank" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>"><i class="fas fa-link"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-2.jpg" alt="<?php echo $portfolio2; ?>" title="<?php echo $portfolio2; ?>"><i class="fa fa-search-plus"></i></a></li>
+                <?php 
+                    if ($portfolio_link2 != "") {
+                        echo "<li><a href='". $portfolio_link2 ."' target='_blank' alt='". $portfolio2 ."' title='". $portfolio2 ."'><i class='fas fa-link'></i></a></li>";
+                    }
+                ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?> <?php echo $papelaria; ?>">
+        <div class="cbp-item <?php echo $web ." ". $branding ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-diego.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>">
+                <img src="images/portfolio-3.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-diego.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>"><i class="fa fa-search-plus"></i></a></li>
-                <li><a href="www.diegotragel.com" target="_blank" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>"><i class="fas fa-link"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-3.jpg" alt="<?php echo $portfolio3; ?>" title="<?php echo $portfolio3; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if ($portfolio_link3 != "") {
+                            echo "<li><a href='". $portfolio_link3 ."' target='_blank' alt='". $portfolio3 ."' title='". $portfolio3 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $branding; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $papelaria; ?> <?php echo $web; ?> <?php echo $branding; ?>">
+        <div class="cbp-item <?php echo $papelaria ." ". $web ." ". $branding; ?>">
             <div class="image">
-                <img src="images/portfolio-elitronicos.jpg" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>">
+                <img src="images/portfolio-4.jpg" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
                     <li><a data-fancybox="gallery" href="images/portfolio-elitronicos.jpg" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>"><i class="fa fa-search-plus"></i></a></li>
-                <li><a href="www.elitronicos.com.br" target="_blank" alt="<?php echo $portfolio4; ?>" title="<?php echo $portfolio4; ?>"><i class="fas fa-link"></i></a></li>
+                    <?php 
+                        if ($portfolio_link4 != "") {
+                            echo "<li><a href='". $portfolio_link4 ."' target='_blank' alt='". $portfolio4 ."' title='". $portfolio4 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $papelaria; ?>, <?php echo $branding; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $papelaria; ?>">
+        <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-sofalizando.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>">
+                <img src="images/portfolio-5.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-sofalizando.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-5.jpg" alt="<?php echo $portfolio5; ?>" title="<?php echo $portfolio5; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if ($portfolio_link5 != "") {
+                            echo "<li><a href='". $portfolio_link5 ."' target='_blank' alt='". $portfolio5 ."' title='". $portfolio5 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $branding; ?> <?php echo $papelaria; ?>">
+        <div class="cbp-item <?php echo $branding ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-sacola-bar-do-silval.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>">
+                <img src="images/portfolio-6.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-sacola-bar-do-silval.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-6.jpg" alt="<?php echo $portfolio6; ?>" title="<?php echo $portfolio6; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if ($portfolio_link6 != "") {
+                            echo "<li><a href='". $portfolio_link6 ."' target='_blank' alt='". $portfolio6 ."' title='". $portfolio6 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $branding; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-    <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?>">
+    <div class="cbp-item <?php echo $web ." ". $branding; ?>">
             <div class="image">
-                <img src="images/portfolio-britney.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>">
+                <img src="images/portfolio-7.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-britney.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-7.jpg" alt="<?php echo $portfolio7; ?>" title="<?php echo $portfolio7; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <?php 
+                        if ($portfolio_link7 != "") {
+                            echo "<li><a href='". $portfolio_link7 ."' target='_blank' alt='". $portfolio7 ."' title='". $portfolio7 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
-                <p><?php echo $web; ?> <?php echo $branding; ?></p>
+                <p><?php echo $web ." ". $branding; ?></p>
             </div>
         </div>
-    <div class="cbp-item <?php echo $$web; ?> <?php echo $papelaria; ?>">
+    <div class="cbp-item <?php echo $$web ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-cavaz.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>">
+                <img src="images/portfolio-8.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-cavaz.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-8.jpg" alt="<?php echo $portfolio8; ?>" title="<?php echo $portfolio8; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link8 != "") {
+                            echo "<li><a href='". $portfolio_link8 ."' target='_blank' alt='". $portfolio8 ."' title='". $portfolio8 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-    <div class="cbp-item <?php echo $web; ?> <?php echo $papelaria; ?>">
+    <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-bolas-fora.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>">
+                <img src="images/portfolio-9.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-bolas-fora.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-9.jpg" alt="<?php echo $portfolio9; ?>"  title="<?php echo $portfolio9; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link9 != "") {
+                            echo "<li><a href='". $portfolio_link9 ."' target='_blank' alt='". $portfolio9 ."' title='". $portfolio9 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-    <div class="cbp-item <?php echo $branding; ?> <?php echo $papelaria; ?>">
+    <div class="cbp-item <?php echo $branding ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-corr.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>">
+                <img src="images/portfolio-10.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-corr.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-10.jpg" alt="<?php echo $portfolio10; ?>"  title="<?php echo $portfolio10; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link != "") {
+                            echo "<li><a href='". $portfolio_link10 ."' target='_blank' alt='". $portfolio10 ."' title='". $portfolio10 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $branding; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
-    <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?> <?php echo $papelaria; ?>">
+    <div class="cbp-item <?php echo $web ." ". $branding ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-a50.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>">
+                <img src="images/portfolio-11.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-a50.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>"><i class="fa fa-search-plus"></i></a></li>
-                <li><a href="www.a50.com.br" target="_blank" alt="<?php echo $portfolio11; ?>" title="<?php echo $portfolio11; ?>"><i class="fas fa-link"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-11.jpg" alt="<?php echo $portfolio11; ?>"  title="<?php echo $portfolio11; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link11 != "") {
+                            echo "<li><a href='". $portfolio_link11 ."' target='_blank' alt='". $portfolio11 ."' title='". $portfolio11 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $branding; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
     <div class="cbp-item <?php echo $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-tatoozasso.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>">
+                <img src="images/portfolio-12.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-tatoozasso.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-12.jpg" alt="<?php echo $portfolio12; ?>"  title="<?php echo $portfolio12; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link12 != "") {
+                            echo "<li><a href='". $portfolio_link12 ."' target='_blank' alt='". $portfolio12 ."' title='". $portfolio12 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $papelaria; ?></p>
             </div>
         </div>
-    <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?> <?php echo $papelaria; ?>">
+    <div class="cbp-item <?php echo $web ." ". $branding ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-wec.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>">
+                <img src="images/portfolio-13.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-wec.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-13.jpg" alt="<?php echo $portfolio13; ?>"  title="<?php echo $portfolio13; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link13 != "") {
+                            echo "<li><a href='". $portfolio_link13 ."' target='_blank' alt='". $portfolio13 ."' title='". $portfolio13 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $web; ?>, <?php echo $branding; ?>, <?php echo $papelaria; ?></p>
             </div>
         </div>
     <div class="cbp-item <?php echo $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-visconde.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>">
+                <img src="images/portfolio-14.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-visconde.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-14.jpg" alt="<?php echo $portfolio14; ?>"  title="<?php echo $portfolio14; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link14 != "") {
+                            echo "<li><a href='". $portfolio_link14 ."' target='_blank' alt='". $portfolio14 ."' title='". $portfolio14 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                 <p><?php echo $papelaria; ?></p>
             </div>
         </div>
     <div class="cbp-item <?php echo $web; ?>">
             <div class="image">
-                <img src="images/portfolio-licitacoes.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>">
+                <img src="images/portfolio-15.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-licitacoes.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-15.jpg" alt="<?php echo $portfolio15; ?>"  title="<?php echo $portfolio15; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link15 != "") {
+                            echo "<li><a href='". $portfolio_link15 ."' target='_blank' alt='". $portfolio15 ."' title='". $portfolio15 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?></p>
             </div>
         </div>
     <div class="cbp-item <?php echo $web; ?>">
             <div class="image">
-                <img src="images/portfolio-checkmob.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>">
+                <img src="images/portfolio-16.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-checkmob.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-16.jpg" alt="<?php echo $portfolio16; ?>"  title="<?php echo $portfolio16; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link16 != "") {
+                            echo "<li><a href='". $portfolio_link16 ."' target='_blank' alt='". $portfolio16 ."' title='". $portfolio16 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 <li><a href="www.checkmob.com.br" target="_blank" alt="<?php echo $portfolio16; ?>" title="<?php echo $portfolio16; ?>"><i class="fas fa-link"></i></a></li>
                 </ul>
                     <p><?php echo $web; ?></p>
@@ -546,34 +622,48 @@
         </div>
         <div class="cbp-item <?php echo $web; ?>">
             <div class="image">
-                <img src="images/portfolio-cinq.jpg" alt="<?php echo $portfolio17; ?>"  title="<?php echo $portfolio17; ?>">
+                <img src="images/portfolio-17.jpg" alt="<?php echo $portfolio17; ?>"  title="<?php echo $portfolio17; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-cinq.jpg" alt="<?php echo $portfolio17; ?>" title="<?php echo $portfolio17; ?>"><i class="fa fa-search-plus"></i></a></li>
-                <li><a href="www.cinq.com.br" target="_blank" alt="<?php echo $portfolio17; ?>" title="<?php echo $portfolio17; ?>"><i class="fas fa-link"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-17.jpg" alt="<?php echo $portfolio17; ?>" title="<?php echo $portfolio17; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link17 != "") {
+                            echo "<li><a href='". $portfolio_link17 ."' target='_blank' alt='". $portfolio17 ."' title='". $portfolio17 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?>">
+        <div class="cbp-item <?php echo $web ." ". $branding; ?>">
             <div class="image">
-                <img src="images/portfolio-code9.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>">
+                <img src="images/portfolio-18.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-code9.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-18.jpg" alt="<?php echo $portfolio18; ?>"  title="<?php echo $portfolio18; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link != "") {
+                            echo "<li><a href='". $portfolio_link 18."' target='_blank' alt='". $portfolio18 ."' title='". $portfolio18 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?>, <?php echo $branding; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $papelaria; ?>">
+        <div class="cbp-item <?php echo $web ." ". $papelaria; ?>">
             <div class="image">
-                <img src="images/portfolio-howstuffworks.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>">
+                <img src="images/portfolio-19.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-howstuffworks.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-19.jpg" alt="<?php echo $portfolio19; ?>"  title="<?php echo $portfolio19; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link19 != "") {
+                            echo "<li><a href='". $portfolio_link19 ."' target='_blank' alt='". $portfolio19 ."' title='". $portfolio19 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 <li><a href="www.howstuffworks.com" target="_blank" alt="<?php echo $portfolio19; ?>" title="<?php echo $portfolio19; ?>"><i class="fas fa-link"></i></a></li>
                 </ul>
                     <p><?php echo $web; ?>, <?php echo $papelaria; ?></p>
@@ -581,67 +671,97 @@
         </div>
         <div class="cbp-item <?php echo $web; ?>">
             <div class="image">
-                <img src="images/portfolio-joguebola.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>">
+                <img src="images/portfolio-20.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-joguebola.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-20.jpg" alt="<?php echo $portfolio20; ?>"  title="<?php echo $portfolio20; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link20 != "") {
+                            echo "<li><a href='". $portfolio_link20 ."' target='_blank' alt='". $portfolio20 ."' title='". $portfolio20 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?>">
+        <div class="cbp-item <?php echo $web ." ". $branding; ?>">
             <div class="image">
-                <img src="images/portfolio-joguebola2.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>">
+                <img src="images/portfolio-21.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-joguebola2.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-21.jpg" alt="<?php echo $portfolio21; ?>"  title="<?php echo $portfolio21; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link21 != "") {
+                            echo "<li><a href='". $portfolio_link21 ."' target='_blank' alt='". $portfolio21 ."' title='". $portfolio21 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?>, <?php echo $branding; ?></p>
             </div>
         </div>
         <div class="cbp-item <?php echo $web; ?>">
             <div class="image">
-                <img src="images/portfolio-lippe.jpg" alt="lippe"  title="lippe">
+                <img src="images/portfolio-22.jpg" alt="<?php echo $portfolio22; ?>"  title="<?php echo $portfolio22; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-lippe.jpg" alt="lippe"  title="lippe"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-22.jpg" alt="<?php echo $portfolio22; ?>"  title="<?php echo $portfolio22; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link22 != "") {
+                            echo "<li><a href='". $portfolio_link22 ."' target='_blank' alt='". $portfolio22 ."' title='". $portfolio22 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $papelaria; ?> <?php echo $web; ?> <?php echo $branding; ?>">
+        <div class="cbp-item <?php echo $papelaria ." ". $web ." ". $branding; ?>">
             <div class="image">
-                <img src="images/portfolio-mansaomix.jpg" alt="mansaomix"  title="mansaomix">
+                <img src="images/portfolio-23.jpg" alt="<?php echo $portfolio23; ?>"  title="<?php echo $portfolio23; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-mansaomix.jpg" alt="mansaomix"  title="mansaomix"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-23.jpg" alt="<?php echo $portfolio23; ?>"  title="<?php echo $portfolio23; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link23 != "") {
+                            echo "<li><a href='". $portfolio_link23 ."' target='_blank' alt='". $portfolio23 ."' title='". $portfolio23 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?>, <?php echo $papelaria; ?>, <?php echo $branding; ?></p>
             </div>
         </div>
-        <div class="cbp-item <?php echo $web; ?> <?php echo $branding; ?>">
+        <div class="cbp-item <?php echo $web ." ". $branding; ?>">
             <div class="image">
-                <img src="images/portfolio-projetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox">
+                <img src="images/portfolio-24.jpg" alt="<?php echo $portfolio24; ?>"  title="<?php echo $portfolio24; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-projetox.jpg" alt="portfolioprojetox"  title="portfolioprojetox"><i class="fa fa-search-plus"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-24.jpg" alt="<?php echo $portfolio24; ?>"  title="<?php echo $portfolio24; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link24 != "") {
+                            echo "<li><a href='". $portfolio_link24 ."' target='_blank' alt='". $portfolio24 ."' title='". $portfolio24 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
                 </ul>
                     <p><?php echo $web; ?>, <?php echo $branding; ?></p>
             </div>
         </div>
         <div class="cbp-item <?php echo $web; ?>">
             <div class="image">
-                <img src="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae">
+                <img src="images/portfolio-25.jpg" alt="<?php echo $portfolio25; ?>"  title="<?php echo $portfolio25; ?>">
             </div>
             <div class="overlay light center-block darkcolor">
                 <ul class="social bottom40">
-                    <li><a data-fancybox="gallery" href="images/portfolio-sebrae.jpg" alt="sebrae"  title="sebrae"><i class="fa fa-search-plus"></i></a></li>
-                <li><a alt="sebrae" title="sebrae"><i class="fas fa-link"></i></a></li>
+                    <li><a data-fancybox="gallery" href="images/portfolio-25.jpg" alt="<?php echo $portfolio25; ?>"  title="<?php echo $portfolio25; ?>"><i class="fa fa-search-plus"></i></a></li>
+<?php 
+                        if ($portfolio_link25 != "") {
+                            echo "<li><a href='". $portfolio_link25 ."' target='_blank' alt='". $portfolio25 ."' title='". $portfolio25 ."'><i class='fas fa-link'></i></a></li>";
+                        }
+                    ?>
+                <li><a alt="<?php echo $portfolio25; ?>" title="<?php echo $portfolio25; ?>"><i class="fas fa-link"></i></a></li>
                 </ul>
                     <p><?php echo $web ?></p>
             </div>
@@ -658,8 +778,8 @@
                         <div class="counters">
                             <span class="count_nums cc-light" data-to="400" data-speed="4500"></span>
                         </div>
-                        <h5 class="text-ccdark bottom25">projetos concluídos</h5>
-                        <p>nossos clientes depositam sua confiança em nós, sem medo, porque sabem que terão o melhor resultado.</p>
+                        <h5 class="text-ccdark bottom25"><?php echo $cont_titulo1; ?></h5>
+                        <p><?php echo $cont_desc1; ?></p>
                     </div>
                 </div>
             </div>
@@ -670,8 +790,8 @@
                             <span class="count_nums cc-light" data-to="19" data-speed="4500"> </span>
                         </div>
                     </div>
-                    <h5 class="text-ccdark bottom25">anos de experiência</h5>
-                    <p>passamos por uma longa caminhada de conhecimento e experiência, afinal, não se chega a 20 anos de sucesso sem fazer um bom trabalho.</p>
+                    <h5 class="text-ccdark bottom25"><?php echo $cont_titulo2; ?></h5>
+                    <p><?php echo $cont_desc2; ?></p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-6">
@@ -681,8 +801,8 @@
                             <span class="count_nums cc-light" data-to="298" data-speed="4500"> </span>
                         </div>
                     </div>
-                    <h5 class="text-ccdark bottom25">clientes satisfeitos</h5>
-                    <p>não basta investir, tem que saber onde e o por quê. aqui, fazemos seu investimento trabalhar por você.</p>
+                    <h5 class="text-ccdark bottom25"><?php echo $cont_titulo3; ?></h5>
+                    <p><?php echo $cont_desc3; ?></p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-6">
@@ -692,8 +812,8 @@
                             <span class="count_nums cc-light" data-to="5" data-speed="4500"> </span>
                         </div>
                     </div>
-                    <h5 class="text-ccdark bottom25">dias seu site já está no ar</h5>
-                    <p>após aprovação do briefing, seu site vai para desenvolvimento e fica pronto em até 5 dias.</p>
+                    <h5 class="text-ccdark bottom25"><?php echo $cont_titulo4; ?></h5>
+                    <p><?php echo $cont_desc4; ?></p>
                 </div>
             </div>
         </div>
@@ -707,7 +827,7 @@
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                 <div class="intro-text center">
                     <h2 class="ccdeep heading_space item-titles text-center wow fadeInLeft">
-                        o que dizem nossos clientes
+                        <?php echo $testimonial_title; ?>
                     </h2>
                 </div>
             </div>
@@ -716,38 +836,39 @@
         <div class="row bottom40">
             <div class=" col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
                 <div id="owl-thumbs" class="owl-dots text-center">
-                    <div class="owl-dot active"><img src="images/clientes-raquel.jpg" alt=""></div>
-                    <div class="owl-dot"><img src="images/clientes-diego.jpg" alt=""></div>
-                    <div class="owl-dot"><img src="images/clientes-eliezer.jpg" alt=""></div>
+                    <div class="owl-dot active"><img src="images/testimonial-1.jpg" alt=""></div>
+                    <div class="owl-dot"><img src="images/clientes-2.jpg" alt=""></div>
+                    <div class="owl-dot"><img src="images/clientes-3.jpg" alt=""></div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-3"></div>
+            
+            <div class="col-md-3 col-sm-3"></div>   
         </div>
         <div class="testimonial-text owl-carousel">
             <div class="item mobile-m-t">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                        <p class="bottom30">um serviço prático, pessoal e versátil que entrega tudo com desenvoltura, que entendeu bem o que eu queria, além de me oferecer coisas que eu nem conhecia e dá um ótimo suporte. já trabalhei com várias empresas de marketing, mas a <strong>cupcode</strong> é a única que eu vi resultados.</p>
-                        <h4 class="defaultcolor">Raquel Brandalise</h4>
-                        <h6>Co-fundadora do <a href="http://www.pomadarabodegalo.com.br" target="_blank"><?php echo $depoimento1; ?></a>.</h6>
+                        <p class="bottom30"><?php echo $testimonial1; ?></p>
+                        <h4 class="defaultcolor"><?php echo $testimonial_client1; ?></h4>
+                        <h6><?php echo $testimonial_position1; ?> <a href="<?php echo $testimonial_link1; ?>" target="_blank"><?php echo $testimonial_company1; ?></a>.</h6>
                     </div>
                 </div>
             </div>
             <div class="item mobile-m-t">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                        <p class="bottom30">com muita paciência e competência, a <strong>cupcode</strong> me ajudou em tudo, não só na distribuição de conteúdos, divulgação das minhas músicas, mas também na confecção das capas dos meus singles e na criação de todo o meu site. super recomendo!</p>
-                        <h4 class="defaultcolor">Diego Tragel</h4>
-                        <h6>Músico, site <a href="http://www.diegotragel.com.br" target="_blank">Diego Tragel</a>.</h6>
+                        <p class="bottom30"><?php echo $testimonial2; ?></p>
+                        <h4 class="defaultcolor"><?php echo $testimonial_client2; ?></h4>
+                        <h6><?php echo $testimonial_position3; ?> <a href="<?php echo $testimonial_link2; ?>" target="_blank"><?php echo $testimonial_company2; ?></a>.</h6>
                     </div>
                 </div>
             </div>
             <div class="item mobile-m-t">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-                        <p class="bottom30">Eu tinha um nome da loja e era apenas escrita, a <strong>cupcode</strong>, depois de uma reunião comigo, fizeram todo o branding da loja, mudamos o nome, para um bem melhor, sem sair do que eu queria, além de dar vida a minha marca. fizeram minha loja virtual e hoje todo meu trabalho de redes sociais e papelaria são com eles, e não pretendo mudar tão cedo!</p>
-                        <h4 class="defaultcolor">Eliezer Couto</h4>
-                        <h6>Fundador do <a href="http://www.elitronicos.com.br" target="_blank">Elitrônicos</a>.</h6>
+                        <p class="bottom30"><?php echo $testimonial3; ?></p>
+                        <h4 class="defaultcolor"><?php echo $testimonial_client3; ?></h4>
+                        <h6><?php echo $testimonial_position3; ?> <a href="<?php echo $testimonial_link3; ?>" target="_blank"><?php echo $testimonial_company3; ?></a>.</h6>
                     </div>
                 </div>
             </div>
