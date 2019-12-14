@@ -98,56 +98,113 @@
     /*-----------------------------------------------------------------
                             Portfolio
     -----------------------------------------------------------------*/
+    $portfolio_tipo_1 = "web";
+    $portfolio_tipo_2 = "branding";
+    $portfolio_tipo_3 = "papelaria";
+    $portfolio_tipo_4 = "design";
+    $portfolio_tipo_5 = "mkt";
+    $portfolio_tipo_6 = "ads";
+
+
     $portfolio1 = "Barbearia Visconde Glaser - Papelaria";
     $portfolio_link1 = "";
+    $portfolio1_classes = "papelaria";
+    
     $portfolio2 = "Rabo de Galo - Loja Virtual, Papelaria e Marketing Digital";
     $portfolio_link2 = "https://www.pomadarabodegalo.com.br";
+    $portfolio2_classes = "web papelaria mkt";
+    
     $portfolio3 = "Diego Tragel - Website, Design Gráfico, Branding e Marketing Digital";
     $portfolio_link3 = "http://www.diegotragel.com.br";
+    $portfolio3_classes = "web design branding mkt";
+    
     $portfolio4 = "Elitronicos - Branding, Loja virtual, Papelaria e Marketing Digital";
     $portfolio_link4 = "https://www.elitronicos.com.br";
+    $portfolio4_classes = "web branding papelaria mkt";
+    
     $portfolio5 = "Canal Sofalizando - Branding, edição de vídeos e efeitos especiais";
     $portfolio_link5 = "";
+    $portfolio5_classes = "branding";
+    
     $portfolio6 = "Bar do Sival - Branding e Papelaria";
     $portfolio_link6 = "";
+    $portfolio5_classes = "branding papelaria";
+
     $portfolio7 = "BritneyNIZER - Website, Design Gráfico e Marketing Digital";
     $portfolio_link7 = "";
+    $portfolio5_classes = "web design mkt";
+
     $portfolio8 = "Cavaz - about everything - Loja virtual e Marketing Digital";
     $portfolio_link8 = "";
+    $portfolio5_classes = "web mkt";
+
     $portfolio9 = "Bolas Fora - Blog, Design Gráfico, Branding e Marketing Digital";
     $portfolio_link9 = "";
+    $portfolio5_classes = "web design branding mkt";
+
     $portfolio10 = "Corr - Branding e Papelaria";
     $portfolio_link10 = "";
+    $portfolio5_classes = "branding papelaria";
+
     $portfolio11 = "Grupo A50 de Comunicação - Branding, Website, Design Gráfico, Marketing Digital e Papelaria";
     $portfolio_link11 = "https://www.a50.com.br";
+    $portfolio5_classes = "web branding design mkt papelaria";
+
     $portfolio12 = "TattooZasso - Papelaria, Edição de vídeo e Website";
     $portfolio_link12 = "";
+    $portfolio5_classes = "papelaria web";
+
     $portfolio13 = "WEC - World Entertainment Corp. - Branding, Website e Papelaria";
     $portfolio_link13 = "";
+    $portfolio5_classes = "web branding papelaria";
+
     $portfolio14 = "Barbearia Visconde - Papelaria";
     $portfolio_link14 = "http://www.barbeariavisconde.com.br";
+    $portfolio5_classes = "papelaria";
+
     $portfolio15 = "UOL - Evento MPE: Licitações Públicas - Website";
     $portfolio_link15 = "";
+    $portfolio5_classes = "web";
+
     $portfolio16 = "CheckMob - Website, App Design";
     $portfolio_link16 = "https://www.checkmob.com.br";
+    $portfolio5_classes = "web design";
+
     $portfolio17 = "CINQ Technologies - Website, App Design e Digital Publishing";
     $portfolio_link17 = "https://www.cinq.com.br";
+    $portfolio5_classes = "web design";
+
     $portfolio18 = "Code 9 - Website, Design Gráfico e Marketing Digital";
     $portfolio_link18 = "";
+    $portfolio5_classes = "web design mkt";
+
     $portfolio19 = "HowStuffWorks - Design Gráfico, Animações e Website";
     $portfolio_link19 = "https://www.howstuffworks.com";
+    $portfolio5_classes = "web design";
+
     $portfolio20 = "Portugal Gay Tour - Branding";
     $portfolio_link20 = "";
+    $portfolio5_classes = "branding";
+
     $portfolio21 = "Jogue Bola - Website, Design Gráfico e Marketing Digital";
     $portfolio_link21 = "";
+    $portfolio5_classes = "web design mkt";
+
     $portfolio22 = "GoComing - App Design, Branding e Design Gráfico";
     $portfolio_link22 = "http://www.gocoming.com.br";
+    $portfolio5_classes = "design branding";
+
     $portfolio23 = "Mansão Mix - Website, Desgin Gráfico, Branding, Marketing Digital e Papelaria.";
     $portfolio_link23 = "";
+    $portfolio5_classes = "web design branding mkt papelaria";
+
     $portfolio24 = "ProjetoX - Website, Branding, Design Gráfico e Papelaria";
     $portfolio_link24 = "";
+    $portfolio5_classes = "web branding design papelaria";
+
     $portfolio25 = "SEBRAE - Rodada de Negocios - Website";
     $portfolio_link25 = "";
+    $portfolio5_classes = "web";
 
     /*=================================================================
                         PÁGINA - Marketing Digital
