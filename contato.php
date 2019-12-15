@@ -56,7 +56,7 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                 <div class="intro-text center">
-                    <h2 class="heading_space ccdark item-titles cc-light text-center wow fadeInLeft"><?php echo $parceiros_titulo; ?>nossos parceiros</h2>
+                    <h2 class="heading_space ccdark item-titles cc-light text-center wow fadeInLeft"><?php echo $parceiros_titulo; ?></h2>
                 </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -65,102 +65,102 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros1_link; ?>images/parceiros-a50-click.png" alt="<?php echo $parceiros1; ?>grupo a50 de comunicação" title="<?php echo $parceiros1; ?>grupo a50 de comunicação">
+                        <img src="<?php echo $parceiros1_link; ?>" alt="<?php echo $parceiros1; ?>" title="<?php echo $parceiros1; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros2_link; ?>-a50.png" alt="<?php echo $parceiros2; ?>grupo a50 de comunicação" title="<?php echo $parceiros2; ?>grupo a50 de comunicação">
+                        <img src="<?php echo $parceiros2_link; ?>" alt="<?php echo $parceiros2; ?>" title="<?php echo $parceiros2; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros3_link; ?>-barbearia-visconde.png" alt="<?php echo $parceiros3; ?>barbearia visconde" title="<?php echo $parceiros3; ?>barbearia visconde">
+                        <img src="<?php echo $parceiros3_link; ?>" alt="<?php echo $parceiros3; ?>" title="<?php echo $parceiros3; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros4_link; ?>-galeria-glaser.png" alt="<?php echo $parceiros4; ?>barbearia visconde glaser" title="<?php echo $parceiros4; ?>barbearia visconde glaser">
+                        <img src="<?php echo $parceiros4_link; ?>" alt="<?php echo $parceiros4; ?>" title="<?php echo $parceiros4; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros5_link; ?>-lrmck.png" alt="<?php echo $parceiros5; ?>[[ L R M c K ]]" title="<?php echo $parceiros5; ?>[[ L R M c K ]]">
+                        <img src="<?php echo $parceiros5_link; ?>" alt="<?php echo $parceiros5; ?>" title="<?php echo $parceiros5; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros6_link; ?>-vinicius-mottin.png" alt="<?php echo $parceiros6; ?>vinicius mottin fotografias" title="<?php echo $parceiros6; ?>vinicius mottin fotografias">
+                        <img src="<?php echo $parceiros6_link; ?>" alt="<?php echo $parceiros6; ?>" title="<?php echo $parceiros6; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros7_link; ?>-a50tv.png" alt="<?php echo $parceiros7; ?>grupo a50 de comunicação" title="<?php echo $parceiros7; ?>grupo a50 de comunicação">
+                        <img src="<?php echo $parceiros7_link; ?>" alt="<?php echo $parceiros7; ?>" title="<?php echo $parceiros7; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros8_link; ?>-wec.png" alt="<?php echo $parceiros8; ?>wec - world entertainment corporation" title="<?php echo $parceiros8; ?>wec - world entertainment corporation">
+                        <img src="<?php echo $parceiros8_link; ?>" alt="<?php echo $parceiros8; ?>" title="<?php echo $parceiros8; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros9_link; ?>-paulinha-fotografias.png" alt="<?php echo $parceiros9; ?>paulina fotografias" title="<?php echo $parceiros9; ?>paulina fotografias">
+                        <img src="<?php echo $parceiros9_link; ?>" alt="<?php echo $parceiros9; ?>" title="<?php echo $parceiros9; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros10_link; ?>-bar-do-silval.png" alt="<?php echo $parceiros10; ?>bar do sival" title="<?php echo $parceiros10; ?>bar do sival">
+                        <img src="<?php echo $parceiros10_link; ?>" alt="<?php echo $parceiros10; ?>" title="<?php echo $parceiros10; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros11_link; ?>-rabo-de-galo.png" alt="<?php echo $parceiros11; ?>rabo de galo pomadas" title="<?php echo $parceiros11; ?>rabo de galo pomadas">
+                        <img src="<?php echo $parceiros11_link; ?>" alt="<?php echo $parceiros11; ?>" title="<?php echo $parceiros11; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros12_link; ?>-tattoo-zasso.png" alt="<?php echo $parceiros12; ?>studio tattoozasso" title="<?php echo $parceiros12; ?>studio tattoozasso">
+                        <img src="<?php echo $parceiros12_link; ?>" alt="<?php echo $parceiros12; ?>" title="<?php echo $parceiros12; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros13_link; ?>-uol.png" alt="<?php echo $parceiros13; ?>uol - universo online" title="<?php echo $parceiros13; ?>uol - universo online">
+                        <img src="<?php echo $parceiros13_link; ?>" alt="<?php echo $parceiros13; ?>" title="<?php echo $parceiros13; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros14_link; ?>-elitronicos.png" alt="<?php echo $parceiros14; ?>elitrônicos" title="<?php echo $parceiros14; ?>elitrônicos">
+                        <img src="<?php echo $parceiros14_link; ?>" alt="<?php echo $parceiros14; ?>" title="<?php echo $parceiros14; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros15_link; ?>-howstuffworks.png" alt="<?php echo $parceiros15; ?>howstuffworks" title="<?php echo $parceiros15; ?>howstuffworks">
+                        <img src="<?php echo $parceiros15_link; ?>" alt="<?php echo $parceiros15; ?>" title="<?php echo $parceiros15; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros16_link; ?>-sita.png" alt="<?php echo $parceiros16; ?>sita aero" title="<?php echo $parceiros16; ?>sita aero">
+                        <img src="<?php echo $parceiros16_link; ?>" alt="<?php echo $parceiros16; ?>" title="<?php echo $parceiros16; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros17_link; ?>-oboticario.png" alt="<?php echo $parceiros17; ?>o boticário" title="<?php echo $parceiros17; ?>o boticário">
+                        <img src="<?php echo $parceiros17_link; ?>" alt="<?php echo $parceiros17; ?>" title="<?php echo $parceiros17; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros18_link; ?>-cinq.png" alt="<?php echo $parceiros18; ?>cinq technologies" title="<?php echo $parceiros18; ?>cinq technologies">
+                        <img src="<?php echo $parceiros18_link; ?>" alt="<?php echo $parceiros18; ?>" title="<?php echo $parceiros18; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros19_link; ?>-renault.png" alt="<?php echo $parceiros19; ?>renault" title="<?php echo $parceiros19; ?>renault">
+                        <img src="<?php echo $parceiros19_link; ?>" alt="<?php echo $parceiros19; ?>" title="<?php echo $parceiros19; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="<?php echo $parceiros20_link; ?>-diego-tragel.png" alt="<?php echo $parceiros20; ?>diego tragel" title="<?php echo $parceiros20; ?>diego tragel">
+                        <img src="<?php echo $parceiros20_link; ?>" alt="<?php echo $parceiros20; ?>" title="<?php echo $parceiros20; ?>">
                     </div>
                 </div>
             </div>
