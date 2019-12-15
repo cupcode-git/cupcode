@@ -259,7 +259,6 @@
     $dominios = "domínios";
     $emails = "e-mails";
     $email = "e-mail";
-    $ssl = "ssl";
     $lojavirtual = "loja virtual";
     $nacional = "nacional";
     $internacional = "internacional";
