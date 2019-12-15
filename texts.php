@@ -107,7 +107,7 @@
     $parceiros5 = "[[ L R M c K ]]";
     $parceiros5_link = "images/parceiros-5.png";
 
-    $parceiros6 = "Vinicis Mottim Fotografias";
+    $parceiros6 = "Discovery Channell";
     $parceiros6_link = "images/parceiros-6.png";
 
     $parceiros7 = "A50 TV";
@@ -151,6 +151,9 @@
 
     $parceiros20 = "Diego Tragel";
     $parceiros20_link = "images/parceiros-20.png";
+    
+    $parceiros21 = "Vinicius Mottin Fotografias";
+    $parceiros21_link = "images/parceiros-21.png";
 
     /*=================================================================
                             PÁGINA - INDEX
