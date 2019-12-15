@@ -132,10 +132,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn text-dark"><?php echo $redessociais; ?></h4>
                             <div style="display: none;" id="hidden-content-b">
-                                <h2 class="text-center bottom10 cc-light"><?php echo $redessociais; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $redessociais; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtsociais; ?></p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#sociaishome" class="button defaulthole" alt="<?php echo $clickemais ." ". $redessociais; ?>" title="<?php echo $clickemais ." ". $redessociais; ?>"><?php echo $btnplanos; ?></a>
+                                    <a href="marketing-digital.php#sociaishome" class="button defaulthole text-dark border-dark" alt="<?php echo $clickemais ." ". $redessociais; ?>" title="<?php echo $clickemais ." ". $redessociais; ?>"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -151,10 +151,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn text-dark" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>"><?php echo $anuncios; ?></h4>
                             <div style="display: none;" id="hidden-content-a">
-                                <h2 class="text-center bottom10 cc-light"><?php echo $anuncios; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $anuncios; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtanuncios; ?></p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#anuncioshome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="marketing-digital.php#anuncioshome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -186,10 +186,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-c" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $siteseblogs; ?>" title="<?php echo $clickemais . " " . $sitesblogselojas; ?> "><?php echo $siteseblogs; ?></h4>
                             <div style="display: none;" id="hidden-content-c">
-                                <h2 class="text-center bottom10 cc-light"><?php echo $siteseblogs; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $siteseblogs; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtsites; ?></p>
                                 <div class="text-center">
-                                    <a href="websites.php#siteshome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="websites.php#siteshome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -205,10 +205,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-d" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $hospedagem; ?>" title="<?php echo $clickemais ." ". $hospedagem; ?>"><?php echo $hospedagem; ?></h4>
                             <div style="display: none;" id="hidden-content-d">
-                                <h2 class="text-center bottom10 cc-light"><?php echo $hospedagem; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $hospedagem; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxthost; ?></p>
                                 <div class="text-center">
-                                    <a href="websites.php#hospedagemhome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="websites.php#hospedagemhome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -240,10 +240,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-f" href="javascript:;" class="btn text-dark" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>"><?php echo $branding; ?></h4>
                             <div style="display: none;" id="hidden-content-f">
-                                <h2 class="text-center bottom10 cc-light"><?php echo $branding; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $branding; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtbranding; ?></p>
                                 <div class="text-center">
-                                    <a href="marketing-digital.php#brandinghome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="design-grafico.php#brandinghome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -259,10 +259,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-e" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $papelaria; ?>" title="<?php echo $clickemais ." ". $papelaria; ?>"><?php echo $papelaria; ?></h4>
                             <div style="display: none;" id="hidden-content-e">
-                                <h2 class="text-center cc-light bottom10"><?php echo $papelaria; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $papelaria; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtpapelaria; ?></p>
                                 <div class="text-center">
-                                    <a href="design-grafico.php#papelariahome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="design-grafico.php#papelariahome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -294,10 +294,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-g" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $adapseo; ?>" title="<?php echo $clickemais ." ". $adapseo; ?>"><?php echo $adapseo; ?></h4>
                             <div style="display: none;" id="hidden-content-g" class="text-center">
-                                <h2 class="text-center cc-light bottom10"><?php echo $adapseo; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $adapseo; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtadapseo; ?></p>
                                 <div class="text-center">
-                                    <a href="editorial.php#editorialhome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="editorial.php#editorialhome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -313,10 +313,10 @@
                         <div class="grid">
                             <h4 data-fancybox data-src="#hidden-content-h" href="javascript:;" class="btn bottom10 text-dark" alt="<?php echo $clickemais ." ". $criacao; ?>" title="<?php echo $clickemais ." ". $criacontedit; ?>"><?php echo $criacao; ?></h4>
                             <div style="display: none;" id="hidden-content-h">
-                                <h2 class="text-center cc-light bottom10"><?php echo $criacontedit; ?></h2>
+                                <h2 class="text-center bottom10 ccdeep"><?php echo $criacontedit; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtcriaedit; ?></p>
                                 <div class="text-center">
-                                    <a href="editorial.php#criaçãohome" class="button defaulthole"><?php echo $btnplanos; ?></a>
+                                    <a href="editorial.php#criaçãohome" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                                 </div>
                             </div>
                         </div>

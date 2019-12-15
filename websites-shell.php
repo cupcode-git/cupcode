@@ -1,5 +1,5 @@
 <!--Ful Screen hero Banner-->
-<section class="no-padding wow bg-hero-color fadeIn no-transition">
+<section class="no-padding wow hero-website fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
       <!-- start revolution slider 5.4.1 fullscreen mode -->
       <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
@@ -150,7 +150,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $blogs; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="text-light"><?php echo $blogs; ?></h2></div>
                   <!-- layer nr. 11 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-nine"
@@ -168,7 +168,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $lojavirtual; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="text-light"><?php echo $lojavirtual; ?></h2></div>
                   <!-- layer nr. 12 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-ten"
@@ -186,9 +186,9 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $websites; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="text-light"><?php echo $websites; ?></h2></div>
                   <!-- layer nr. 13 -->
-                  <div class="tp-caption tp-resizeme"
+                  <div class="tp-caption tp-resizeme text-light"
                         id="layers-elev"
                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                         data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']"
