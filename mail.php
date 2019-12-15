@@ -12,5 +12,5 @@ $content="From: $name \n E-mail: $email \n Telefone: $fone \n Mensagem: $message
 $recipient = "contato@cupcode.com.br"; // Vai enviar para o remetente que se encontra dentro do $recipient
 $mailheader = "From: $email \r\n"; // Vai declarar para onde vai ser feito o envio
 mail($recipient, $subject, $content, $mailheader) or die("Falha ao fazer o envio dos dados, tente novamente mais tarde!"); // Vai setar erro se tiver erro
-echo "<script>window.location='index.php#contact-form';alert('$name, sua mensagem foi enviada com sucesso! Estaremos retornando em breve');</script>";
+echo "<script>document.getElementById("alertaEmail").innerHTML = "A mensagem que vc quer exibir"</script>";
 ?>

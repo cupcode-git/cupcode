@@ -941,7 +941,9 @@ ul.social.dark li a:focus{
   display: block;
   margin: 0 auto 1.125rem;
 }
-
+.bg-hero-color {
+    background-color: #656565;
+}
 /*intro on left with bg*/
 .bg-intro{
     background: url(/images/bg-clientes.jpg) no-repeat;
