@@ -1358,7 +1358,8 @@ ul.social li a::before, ul.social li a::after{
 .forma:focus {
     outline: none;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
-	border-bottom: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0) !important;
+    background: rgba(0, 0, 0, 0.02);
 }
 .forma::placeholder {
   color: #afaeae
