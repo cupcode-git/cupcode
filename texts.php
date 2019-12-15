@@ -66,6 +66,91 @@
     $solicorca = "solicitar orçamento";
     $tirarduvsobre = "tirar dúvidas sobre";
     $para = "para";
+    $btnenviar = "enviar";
+
+    /*=================================================================
+                              CONTATO
+    ===================================================================*/
+    
+    $digitenome = "digite seu nome";
+    $digiteemail = "digite seu e-mail";
+    $digitefone = "digite seu telefone";
+    $digitemensagem = "digite sua mensagem";
+    $fone_link = "tel:+554133196071";
+    $ligar = "ligar para a cupcode";
+    $ccfone = "(41) 3319-6071";
+    $contatoemail = "contato@cupcode.com.br";
+    $enviaremail = "envie um email";
+    $mensagemwhatsapp = "mensagem via whatsapp";
+    $mensagemwhatsapp_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20site%20Cupcode%20,%20para%20saber%20mais%20sobre,...%20";
+    $mensagemfacebook = "mensagem via facebook";
+    $mensagemfacebook_link = "https://www.facebook.com/cupcodeinc/?eid=ARBbUKiPtskmE346RlMKgnoE-eHG5I9sTwgyVRpKZOX1WuA6Q3jZR5swNOxdd95UkfCvheln7Qhcp1Jk";
+
+    /*-----------------------------------------------------------------
+                              Parceiros
+    -----------------------------------------------------------------*/
+
+    $$parceiros_titulo = "nossos parceiros";
+
+    $parceiros1 = "Click A50";
+    $parceiros1_link = "images/parceiros-1.png";
+
+    $parceiros2 = "Grupo A50 de Comunicão";
+    $parceiros2_link = "images/parceiros-2.png";
+
+    $parceiros3 = "Barbearia Visconde";
+    $parceiros3_link = "images/parceiros-3.png";
+    
+    $parceiros4 = "Barbearia Visconde Glaser";
+    $parceiros4_link = "images/parceiros-4.png";
+
+    $parceiros5 = "[[ L R M c K ]]";
+    $parceiros5_link = "images/parceiros-5.png";
+
+    $parceiros6 = "Vinicis Mottim Fotografias";
+    $parceiros6_link = "images/parceiros-6.png";
+
+    $parceiros7 = "A50 TV";
+    $parceiros7_link = "images/parceiros-7.png";
+
+    $parceiros8 = "WEC - World Entertainment Corporation";
+    $parceiros8_link = "images/parceiros-8.png";
+
+    $parceiros9 = "Paulina Fotografias";
+    $parceiros9_link = "images/parceiros-9.png";
+
+    $parceiros10 = "Bar do Sival";
+    $parceiros10_link = "images/parceiros-10.png";
+
+    $parceiros11 = "Pomada Rabo de Galo";
+    $parceiros11_link = "images/parceiros-11.png";
+
+    $parceiros12 = "Estúdio TattooZasso";
+    $parceiros12_link = "images/parceiros-12.png";
+
+    $parceiros13 = "UOL - Universo Online";
+    $parceiros13_link = "images/parceiros-13.png";
+
+    $parceiros14 = "Elitrônicos";
+    $parceiros14_link = "images/parceiros-14.png";
+
+    $parceiros15 = "HowStuffWorks";
+    $parceiros15_link = "images/parceiros-15.png";
+
+    $parceiros16 = "SITA Aero";
+    $parceiros16_link = "images/parceiros-16.png";
+
+    $parceiros17 = "O Boticário";
+    $parceiros17_link = "images/parceiros-17.png";
+
+    $parceiros18 = "CINQ Technologies";
+    $parceiros18_link = "images/parceiros-18.png";
+
+    $parceiros19 = "Renault";
+    $parceiros19_link = "images/parceiros-19.png";
+
+    $parceiros20 = "Diego Tragel";
+    $parceiros20_link = "images/parceiros-20.png";
 
     /*=================================================================
                             PÁGINA - INDEX
