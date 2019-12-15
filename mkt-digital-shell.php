@@ -1,4 +1,4 @@
-<section class="no-padding wow bg-hero-color fadeIn no-transition">
+<section class="no-padding wow hero-marketing fadeIn no-transition">
 	<div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
 		<!-- start revolution slider 5.4.1 fullscreen mode -->
 		<div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
