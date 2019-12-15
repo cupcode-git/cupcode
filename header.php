@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt_BR">
 <head>
    <!-- Google Tag Manager -->
@@ -28,7 +28,6 @@
     <link rel="stylesheet" href="/css/mobile.css">
     <link rel="stylesheet" href="/css/typo1.css">
     <link rel="icon" href="/images/favicon.png">
-
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
