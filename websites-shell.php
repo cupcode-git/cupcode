@@ -358,7 +358,7 @@
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-                        <h2 class="bottom45 ccdeep0"><?php echo $sll; ?></h2>
+                        <h2 class="bottom45 ccdeep"><?php echo $ssl; ?></h2>
                <p><?php echo $descssl; ?></p>
                         <a href="javascript:void(0)#ssl" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
             </div>
@@ -484,7 +484,7 @@
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $hospedagem." ".$para; ?></h3>
                   <div class="ammount">
-                     <h2><?php echo $blog; ?>blog</h2>
+                     <h2><?php echo $blog; ?></h2>
                   </div>
                </div>
                <ul class="top15">
@@ -544,7 +544,7 @@
    <div class="pricing-white">
       <div class="container">
          <div class="row">
-            <div class="col-md-6 col-sm-6 price-table text-center top50" id="domínio">
+            <div class="col-md-6 col-sm-6 price-table text-center top50" id="dominio">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $nacional; ?></h3>
                   <div class="ammount">
@@ -663,7 +663,7 @@
          <div class="col-md-12">
             <div class="item-titles mgt-100 text-center wow fadeInLeft">
                <h3 class="bottom10">
-                  <a class="ccdeep"><strong><?php echo $ssl ?></strong></a>
+                  <a class="ccdeep"><strong><?php echo $ssl; ?></strong></a>
                </h3>
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">

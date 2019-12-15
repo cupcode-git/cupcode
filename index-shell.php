@@ -121,16 +121,16 @@
             <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
                 <div class="item-titles text-center wow fadeInRight">
                     <h3 class="bottom10">
-                        <a class="cc-light"><strong><?php echo $marketing; ?></strong> <?php echo $digital; ?></a>
+                        <a class="ccdeep"><strong><?php echo $marketing.' '.$digital; ?></a>
                     </h3>
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
                         <a data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn" alt="<?php echo $clickemais ." ". $redessociais; ?>" title="<?php echo $clickemais ." ". $redessociais; ?>">
-                            <i class="fas fa-share-alt cc-light"></i>
+                            <i class="fas fa-share-alt ccdeep"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn light"><?php echo $redessociais; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-b" href="javascript:;" class="btn text-dark"><?php echo $redessociais; ?></h4>
                             <div style="display: none;" id="hidden-content-b">
                                 <h2 class="text-center bottom10 cc-light"><?php echo $redessociais; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtsociais; ?></p>
@@ -140,16 +140,16 @@
                             </div>
                         </div>
                         <hr>
-                        <p class="text-light"><?php echo $resumotxtsociais; ?></p>
+                        <p><?php echo $resumotxtsociais; ?></p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="icon_box equalheight top50 wow fadeInUp">
                         <a data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>">
-                            <i class="fas fa-bullhorn cc-light"></i>
+                            <i class="fas fa-bullhorn ccdeep"></i>
                         </a>
                         <div class="grid">
-                            <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn light" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>"><?php echo $anuncios; ?></h4>
+                            <h4 data-fancybox data-src="#hidden-content-a" href="javascript:;" class="btn text-dark" alt="<?php echo $clickemais ." ". $branding; ?>" title="<?php echo $clickemais ." ". $branding; ?>"><?php echo $anuncios; ?></h4>
                             <div style="display: none;" id="hidden-content-a">
                                 <h2 class="text-center bottom10 cc-light"><?php echo $anuncios; ?></h2>
                                 <p class="text-justify"><?php echo $boxtxtanuncios; ?></p>
@@ -159,11 +159,11 @@
                             </div>
                         </div>
                         <hr>
-                        <p class="text-light"><?php echo $resumotxtanuncios; ?></p>
+                        <p><?php echo $resumotxtanuncios; ?></p>
                     </div>
                 </div>
                 <div class="col-md-12 text-center pdt-100">
-                    <a href="marketing-digital.php" class="button defaulthole light border-light"><?php echo $btnplanos; ?></a>
+                    <a href="marketing-digital.php" class="button defaulthole text-dark border-dark"><?php echo $btnplanos; ?></a>
                 </div>
             </div>
         </div>
@@ -267,7 +267,7 @@
                             </div>
                         </div>
                         <hr>
-                        <p><?php echo $boxtxtpapelaria; ?></p>
+                        <p><?php echo $resumotxtpapelaria; ?></p>
                     </div>
                 </div>
                 <div class="col-md-12 text-center pdt-100">

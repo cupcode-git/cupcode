@@ -396,7 +396,7 @@
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
 			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_3; ?></span>
                 <div class="ammount">
-                    <h2>papelaria</h2>
+                    <h2><?php echo $papelaria; ?></h2>
                 </div>
             </div>
             <ul class="top15">
