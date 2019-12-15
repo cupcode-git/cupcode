@@ -203,7 +203,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><?php echo $descricaotxthero; ?></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><?php echo $slogan; ?></div>
                   <!-- layer nr. 14 -->
                   <div class="tp-caption rev-btn"
                         id="layers-twel"

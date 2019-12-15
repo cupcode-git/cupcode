@@ -150,7 +150,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $blogs; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="text-light"><?php echo $blogs; ?></h2></div>
                   <!-- layer nr. 11 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-nine"
@@ -168,7 +168,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $lojavirtual; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="text-light"><?php echo $lojavirtual; ?></h2></div>
                   <!-- layer nr. 12 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-ten"
@@ -186,9 +186,9 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $websites; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="text-light"><?php echo $websites; ?></h2></div>
                   <!-- layer nr. 13 -->
-                  <div class="tp-caption tp-resizeme"
+                  <div class="tp-caption tp-resizeme text-light"
                         id="layers-elev"
                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                         data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']"
