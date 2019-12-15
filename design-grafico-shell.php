@@ -269,7 +269,7 @@
         </div>
     </div>
     </section>
-    <section class="padding bgintro-13 parallaxie" id="brandinghome">
+    <section class="padding grafico-bg-1 parallaxie" id="brandinghome">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -282,7 +282,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-14 parallaxie" id="brandinghome">
+	<section class="padding grafico-bg-2 parallaxie" id="brandinghome">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-3"></div>
@@ -311,7 +311,7 @@
         </div>
     </div>
     </section>
-	<section class="padding bgintro-16 parallaxie">
+	<section class="padding grafico-bg-3 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -324,7 +324,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-15 parallaxie" id="digitalhome">
+	<section class="padding grafico-bg-4 parallaxie" id="digitalhome">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-3"></div>

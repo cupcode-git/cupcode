@@ -257,7 +257,7 @@
    </div>
    </section>
    <!--About Us-->
-   <section class="padding bg-intro bgintro-6 parallaxie"  id="siteshome">
+   <section class="padding websites-bg-1 parallaxie"  id="siteshome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -272,7 +272,7 @@
    </section>
    <!--Single intro ends-->
    <!--Single intro with background-->
-   <section class="padding bg-intro bgintro-7 parallaxie">
+   <section class="padding websites-bg-2 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
@@ -286,7 +286,7 @@
       </div>
    </div>
    </section>
-   <section class="padding bg-intro bgintro-8 parallaxie">
+   <section class="padding websites-bg-3 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -312,7 +312,7 @@
       </div>
    </div>
    </section>
-   <section class="padding bg-intro bgintro-9 parallaxie" id="hospedagemhome">
+   <section class="padding websites-bg-4 parallaxie" id="hospedagemhome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
@@ -326,7 +326,7 @@
       </div>
    </div>
    </section>
-   <section class="padding bg-intro bgintro-10 parallaxie">
+   <section class="padding websites-bg-5 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -339,7 +339,7 @@
       </div>
    </div>
    </section>
-   <section class="padding bg-intro bgintro-11 parallaxie">
+   <section class="padding websites-bg-6 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
@@ -353,7 +353,7 @@
       </div>
    </div>
    </section>
-   <section class="padding bg-intro bgintro-12 parallaxie">
+   <section class="padding websites-bg-7 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -439,7 +439,7 @@
       </div>
    </div>
    </section>
-   <section class="single-items bgintro-22 parallaxie full-screen">
+   <section class="single-items websites-bg-8 parallaxie full-screen">
    <div class="container">
       <div class="row">
          <div class="col-md-12">
@@ -521,7 +521,7 @@
    </div>
 </section>
    <!--Pricing white ends-->
-   <section class="single-items bgintro-20 mgt-100 parallaxie full-screen">
+   <section class="single-items websites-bg-9 mgt-100 parallaxie full-screen">
    <div class="container">
       <div class="row">
          <div class="col-md-12">
@@ -576,7 +576,7 @@
    </div>
    </section>
    <!--Pricing white ends-->
-   <section class="single-items bgintro-21 parallaxie full-screen">
+   <section class="single-items websites-bg-10 parallaxie full-screen">
    <div class="container">
       <div class="row">
          <div class="col-md-12">
@@ -657,7 +657,7 @@
       </div>
    </div>
    </section>
-   <section class="single-items bgintro-20 mgt-100 parallaxie full-screen">
+   <section class="single-items websites-bg-11 mgt-100 parallaxie full-screen">
    <div class="container">
       <div class="row">
          <div class="col-md-12">
