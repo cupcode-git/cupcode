@@ -4,7 +4,7 @@
 
 /* Background hero */
 .hero-index {
-    background: url(/images/hero-home-bg.jpg) no-repeat;
+    background: url(/images/home-hero-bg.jpg) no-repeat;
 }
 .hero-marketing {
     background: url(/images/hero-marketing-bg.jpg) no-repeat;
@@ -34,10 +34,10 @@
     background: url(/images/home-marketing-bg.jpg) no-repeat;
 }
 .home-bg-2{
-    background: url(/images/home-grafico-bg.jpg) no-repeat;
+    background: url(/images/home-websites-bg.jpg) no-repeat;
 }
 .home-bg-3{
-    background: url(/images/home-websites-bg.jpg) no-repeat;
+    background: url(/images/home-grafico-bg.jpg) no-repeat;
 }
 .home-bg-4{
     background: url(/images/home-editorial-bg.jpg) no-repeat;

@@ -30,7 +30,9 @@
                            <button id="form_submit" class="button defaulthole2" alt="<?php echo $btnenviar; ?>" title="<?php echo $btnenviar; ?>"><i class="fas fa-paper-plane"></i></button>
                         </div>
                      </div>
-                  <div class="alert-msg"> </div>
+                     <div id="alertaEmail" class="alert-success"> 
+                      
+                      </div>
                </form>
             </div>
                <!-- aqui esta um espaço entre as colunas-->
