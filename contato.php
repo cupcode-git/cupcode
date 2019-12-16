@@ -2,7 +2,7 @@
       <div class="container">
          <div class="row">
             <div class="col-md-6">
-               <form action="mail.php" method="POST" class="getin_form wow fadeInUp">
+               <form accept-charset="utf-8" action="mail.php" method="POST" class="getin_form wow fadeInUp">
                   <div class="col-md-5 p-0">
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
