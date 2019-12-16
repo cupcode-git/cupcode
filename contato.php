@@ -1,4 +1,4 @@
-<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<section id="contact-form" class="single-items text-left geral-bg-1 parallaxie full-screen">
       <div class="container">
          <div class="row">
             <div class="col-md-6">

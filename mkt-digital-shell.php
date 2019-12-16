@@ -257,7 +257,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-3 parallaxie">
+	<section class="padding marketing-bg-1 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
@@ -270,7 +270,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-4 parallaxie">
+	<section class="padding marketing-bg-2 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
 		<div class="col-md-6 col-sm-3"></div>
@@ -284,7 +284,7 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding bgintro-5 parallaxie">
+	<section class="padding marketing-bg-1 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">

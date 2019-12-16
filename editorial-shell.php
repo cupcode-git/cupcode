@@ -269,7 +269,7 @@
    </div>
    </section>
    <!--Single intro with background-->
-   <section class="padding bgintro-17 parallaxie" id="criaçãohome">
+   <section class="padding editorial-bg-1 parallaxie" id="criaçãohome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
@@ -283,7 +283,7 @@
    </div>
    </section>
    <!--Single intro with background-->
-   <section class="padding bgintro-18 parallaxie"  id="editorialhome">
+   <section class="padding editorial-bg-2 parallaxie"  id="editorialhome">
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
