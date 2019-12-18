@@ -355,7 +355,7 @@
             <div class="price-plan">
 			<span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
-			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_1; ?></span>
+			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_1_1; ?></span>
                 <div class="ammount">
                     <h2><?php echo $branding; ?></h2>
                 </div>
@@ -373,19 +373,19 @@
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
-			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_2; ?></span>
+			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_2_2; ?></span>
                 <div class="ammount">
                     <h2><?php echo $branding. " + <br />". $papelaria; ?></h2>
                 </div>
             </div>
             <ul class="top15">
-                <li><span><?php echo $pct_design_grafico_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_2; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_3; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_4; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_5; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_6; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_7; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_1_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_3_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_4_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_5_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_6_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_7_1; ?></span></li>
             </ul>
             <div class="clearfix"></div>
             <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20+%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
@@ -394,14 +394,14 @@
             <div class="price-plan">
 			<span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
-			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_3; ?></span>
+			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_3_3; ?></span>
                 <div class="ammount">
                     <h2><?php echo $papelaria; ?></h2>
                 </div>
             </div>
             <ul class="top15">
-                <li><span><?php echo $pct_design_grafico_6; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_7; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_6_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_7_1; ?></span></li>
             </ul>
             <div class="clearfix"></div>
                 <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>

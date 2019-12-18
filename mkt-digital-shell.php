@@ -439,10 +439,10 @@
 					</div>
 				</div>
 				<ul class="top15 pdb-65">
-					<li><span><?php echo $pct_mkt_digital_1; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_2; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_3; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_4; ?></span></li>
+					<li><span><?php echo $pct_mkt_1_1; ?></span></li>
+					<li><span><?php echo $pct_mkt_2_1; ?></span></li>
+					<li><span><?php echo $pct_mkt_3_1; ?></span></li>
+					<li><span><?php echo $pct_mkt_4_1; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -456,12 +456,12 @@
 					</div>
 				</div>
 				<ul class="top15">
-					<h3 class="mobilefont"><?php echo $pct_mkt_digital_5; ?></h3>
-					<li><span><?php echo $pct_mkt_digital_6; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_7; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_8; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_9; ?></span></li>
-					<li><span><?php echo $pct_mkt_digital_10; ?></span></li>
+					<h3 class="mobilefont"><?php echo $pct_mkt_5_2; ?></h3>
+					<li><span><?php echo $pct_mkt_6_2; ?></span></li>
+					<li><span><?php echo $pct_mkt_7_2; ?></span></li>
+					<li><span><?php echo $pct_mkt_8_2; ?></span></li>
+					<li><span><?php echo $pct_mkt_9_2; ?></span></li>
+					<li><span><?php echo $pct_mkt_10_2; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>

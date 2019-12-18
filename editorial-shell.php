@@ -320,9 +320,9 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_editorial_1; ?></span></li>
-                  <li><span><?php echo $pct_editorial_2; ?></span></li>
-                  <li><span><?php echo $pct_editorial_3; ?></span></li>
+                  <li><span><?php echo $pct_editorial_1_1; ?></span></li>
+                  <li><span><?php echo $pct_editorial_2_1; ?></span></li>
+                  <li><span><?php echo $pct_editorial_3_1; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Criação%20Editorial,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
