@@ -382,17 +382,17 @@
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="sites">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $plano." ".$websites; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_1; ?></span>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_1_1; ?></span>
                   <div class="ammount">
                      <h2><?php echo $site; ?></h2>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_1; ?></span></li>
-                  <li><span><?php echo $pct_websites_2; ?></span></li>
-                  <li><span><?php echo $pct_websites_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_4; ?></span></li>
-                  <li><span><?php echo $pct_websites_5; ?></span></li>
+                  <li><span><?php echo $pct_websites_1_1; ?></span></li>
+                  <li><span><?php echo $pct_websites_2_1; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_1; ?></span></li>
+                  <li><span><?php echo $pct_websites_4_1; ?></span></li>
+                  <li><span><?php echo $pct_websites_5_1; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20website%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -400,17 +400,17 @@
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $plano." ".$websites." + ".$blog; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_2; ?></span>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_2_2; ?></span>
                   <div class="ammount">
                      <h2><?php echo $blog; ?></h2>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_6; ?></span></li>
-                  <li><span><?php echo $pct_websites_7; ?></span></li>
-                  <li><span><?php echo $pct_websites_8; ?></span></li>
-                  <li><span><?php echo $pct_websites_9; ?></span></li>
-                  <li><span><?php echo $pct_websites_10; ?></span></li>
+                  <li><span><?php echo $pct_websites_6_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_7_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_8_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_9_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_10_2; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -418,18 +418,18 @@
             <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $plano." ".$ecommerce; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_3; ?></span>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_3_3; ?></span>
                   <div class="ammount">
                      <h2><?php echo $lojavirtual; ?></h2>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_11; ?></span></li>
-                  <li><span><?php echo $pct_websites_12; ?></span></li>
-                  <li><span><?php echo $pct_websites_13; ?></span></li>
-                  <li><span><?php echo $pct_websites_14; ?></span></li>
-                  <li><span><?php echo $pct_websites_15; ?></span></li>
-                  <li><span><?php echo $pct_websites_16; ?></span></li>
+                  <li><span><?php echo $pct_websites_11_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_12_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_13_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_14_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_15_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_16_3; ?></span></li>
                </ul>
                <div class="clearfix"></div>
 				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20loja%20virtual,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -471,11 +471,11 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_17; ?></span></li>
-                  <li><span><?php echo $pct_websites_18; ?></span></li>
-                  <li><span><?php echo $pct_websites_19; ?></span></li>
-                  <li><span><?php echo $pct_websites_20; ?></span></li>
-                  <li><span><?php echo $pct_websites_21; ?></span></li>
+                  <li><span><?php echo $pct_websites_17_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_18_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_19_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_20_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_21_4; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20websites%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -488,11 +488,11 @@
                   </div>
                </div>
                <ul class="top15">
-               <li><span><?php echo $pct_websites_22; ?></span></li>
-               <li><span><?php echo $pct_websites_23; ?></span></li>
-               <li><span><?php echo $pct_websites_24; ?></span></li>
-               <li><span><?php echo $pct_websites_25; ?></span></li>
-               <li><span><?php echo $pct_websites_26; ?></span></li>
+               <li><span><?php echo $pct_websites_22_5; ?></span></li>
+               <li><span><?php echo $pct_websites_23_5; ?></span></li>
+               <li><span><?php echo $pct_websites_24_5; ?></span></li>
+               <li><span><?php echo $pct_websites_25_5; ?></span></li>
+               <li><span><?php echo $pct_websites_26_5; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -505,12 +505,12 @@
                   </div>
                </div>
                <ul class="top15">
-               <li><span><?php echo $pct_websites_27; ?></span></li>
-               <li><span><?php echo $pct_websites_28; ?></span></li>
-               <li><span><?php echo $pct_websites_29; ?></span></li>
-               <li><span><?php echo $pct_websites_30; ?></span></li>
-               <li><span><?php echo $pct_websites_31; ?></span></li>
-               <li><span><?php echo $pct_websites_32; ?></span></li>
+               <li><span><?php echo $pct_websites_27_6; ?></span></li>
+               <li><span><?php echo $pct_websites_28_6; ?></span></li>
+               <li><span><?php echo $pct_websites_29_6; ?></span></li>
+               <li><span><?php echo $pct_websites_30_6; ?></span></li>
+               <li><span><?php echo $pct_websites_31_6; ?></span></li>
+               <li><span><?php echo $pct_websites_32_6; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20loja%20virtual%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -548,11 +548,11 @@
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $nacional; ?></h3>
                   <div class="ammount">
-                     <h2><?php echo $pct_titulo_websites_4; ?></h2>
+                     <h2><?php echo $pct_titulo_websites_4_4; ?></h2>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_33; ?></span></li>
+                  <li><span><?php echo $pct_websites_33_7; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20nacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com_br; ?></a>
@@ -561,11 +561,11 @@
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $internacional; ?></h3>
                   <div class="ammount">
-                     <h2><?php echo $pct_titulo_websites_5; ?></h2>
+                     <h2><?php echo $pct_titulo_websites_5_5; ?></h2>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_34; ?></span></li>
+                  <li><span><?php echo $pct_websites_34_8; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20internacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com; ?></a>
@@ -602,52 +602,52 @@
          <div class="row">
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_6; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_6_6; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_1; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_35; ?></span></li>
+                  <li><span><?php echo $pct_websites_35_9; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20uma%20caixa%20de%20e-mail,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_1; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_7; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_7_7; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_2; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_36; ?></span></li>
+                  <li><span><?php echo $pct_websites_36_10; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20duas%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_2; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_8; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_8_8; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_3; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_37; ?></span></li>
+                  <li><span><?php echo $pct_websites_37_11; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20cinco%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_3; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_9; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_9_9; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_4; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_38; ?></span></li>
+                  <li><span><?php echo $pct_websites_38_12; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20dez%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_4; ?></a>
@@ -682,30 +682,30 @@
          <div class="row">
          <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_10; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_11; ?></span>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_10_10; ?></h3>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_10; ?></span>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_5; ?></h2><span class="dur"><?php echo $ano; ?></span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_39; ?></span></li>
-                  <li><span><?php echo $pct_websites_40; ?></span></li>
+                  <li><span><?php echo $pct_websites_39_13; ?></span></li>
+                  <li><span><?php echo $pct_websites_40_13; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20do%20ssl,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_1; ?></a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_12; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_13; ?></span>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_12_11; ?></h3>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_13_11; ?></span>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_6; ?></h2><span class="dur"><?php echo $ano; ?></span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_41; ?></span></li>
-                  <li><span><?php echo $pct_websites_42; ?></li>
+                  <li><span><?php echo $pct_websites_41_14; ?></span></li>
+                  <li><span><?php echo $pct_websites_42_14; ?></li>
                </ul>
                <div class="clearfix"></div>
                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20atualização%20do%20certificado%20SSL,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_2; ?></a>
