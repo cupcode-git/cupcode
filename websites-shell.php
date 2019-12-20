@@ -395,7 +395,7 @@
                   <li><span><?php echo $pct_websites_5_1; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20website%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="<?php echo $pct_websites_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
@@ -413,7 +413,7 @@
                   <li><span><?php echo $pct_websites_10_2; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="<?php echo $pct_websites_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
@@ -432,10 +432,10 @@
                   <li><span><?php echo $pct_websites_16_3; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20loja%20virtual,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+				<a href="<?php echo $pct_websites_3_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $tirarduvsobre; ?> <?php echo $websites; ?></a></center>
+         <center><a href="<?php echo $pct_websites_4_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $tirarduvsobre; ?> <?php echo $websites; ?></a></center>
       </div>
    </div>
    </section>
@@ -478,7 +478,7 @@
                   <li><span><?php echo $pct_websites_21_4; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20websites%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="<?php echo $pct_websites_5_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -495,7 +495,7 @@
                <li><span><?php echo $pct_websites_26_5; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="<?php echo $pct_websites_6_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4  col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
@@ -513,10 +513,10 @@
                <li><span><?php echo $pct_websites_32_6; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20loja%20virtual%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="<?php echo $pct_websites_7_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
+         <center><a href="<?php echo $pct_websites_8_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
       </div>
    </div>
 </section>
@@ -555,7 +555,7 @@
                   <li><span><?php echo $pct_websites_33_7; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20nacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com_br; ?></a>
+               <a href="<?php echo $pct_websites_9_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com_br; ?></a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -568,10 +568,10 @@
                   <li><span><?php echo $pct_websites_34_8; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20internacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com; ?></a>
+               <a href="<?php echo $pct_websites_10_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com; ?></a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_1; ?></a></center>
+         <center><a href="<?php echo $pct_websites_11_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_1; ?></a></center>
       </div>
    </div>
    </section>
@@ -611,7 +611,7 @@
                   <li><span><?php echo $pct_websites_35_9; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20uma%20caixa%20de%20e-mail,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_1; ?></a>
+               <a href="<?php echo $pct_websites_12_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_1; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -624,7 +624,7 @@
                   <li><span><?php echo $pct_websites_36_10; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20duas%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_2; ?></a>
+               <a href="<?php echo $pct_websites_13_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_2; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -637,7 +637,7 @@
                   <li><span><?php echo $pct_websites_37_11; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20cinco%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_3; ?></a>
+               <a href="<?php echo $pct_websites_14_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_3; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
@@ -650,10 +650,10 @@
                   <li><span><?php echo $pct_websites_38_12; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20dez%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_4; ?></a>
+               <a href="<?php echo $pct_websites_15_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_4; ?></a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_2; ?></a></center>
+         <center><a href="<?php echo $pct_websites_16_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_2; ?></a></center>
       </div>
    </div>
    </section>
@@ -693,7 +693,7 @@
                   <li><span><?php echo $pct_websites_40_13; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20do%20ssl,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_1; ?></a>
+               <a href="<?php echo $pct_websites_17_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_1; ?></a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
@@ -708,10 +708,10 @@
                   <li><span><?php echo $pct_websites_42_14; ?></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20atualização%20do%20certificado%20SSL,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_2; ?></a>
+               <a href="<?php echo $pct_websites_18_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_2; ?></a>
             </div>
          </div>
-         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_3; ?></a></center>
+         <center><a href="<?php echo $pct_websites_19_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_3; ?></a></center>
       </div>
    </div>
    </section>
