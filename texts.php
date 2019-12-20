@@ -316,15 +316,15 @@
               Descrições dos pacotes de marketing digital
     ------------------------------------------------------------------*/
     $pct_mkt_1_1 = "posts em redes sociais";
-    $pct_mkt_2_1 = "anuncios no facebook ads";
-    $pct_mkt_3_1 = "e-mail marketing publico alvo";
-    $pct_mkt_4_1 = "análize de KPI";
-    $pct_mkt_5_2 = "todo o conteúdo do pacote ristreto +";
-    $pct_mkt_6_2 = "gerenciamento de redes sociais";
-    $pct_mkt_7_2 = "anuncios no google ads";
-    $pct_mkt_8_2 = "e-mail marketing para clientes ativos";
-    $pct_mkt_9_2 = "adptação de conteúdo para SEO";
-    $pct_mkt_10_2 = "análize de ROI (retorno de investimento)";
+    $pct_mkt_1_2 = "anuncios no facebook ads";
+    $pct_mkt_1_3 = "e-mail marketing publico alvo";
+    $pct_mkt_1_4 = "análize de KPI";
+    $pct_mkt_2_5 = "todo o conteúdo do pacote ristreto +";
+    $pct_mkt_2_6 = "gerenciamento de redes sociais";
+    $pct_mkt_2_7 = "anuncios no google ads";
+    $pct_mkt_2_8 = "e-mail marketing para clientes ativos";
+    $pct_mkt_2_9 = "adptação de conteúdo para SEO";
+    $pct_mkt_2_10 = "análize de ROI (retorno de investimento)";
     /*=================================================================
                         PÁGINA - Websites
     ===================================================================*/
@@ -387,47 +387,47 @@
     $pct_titulo_websites_12_11 = "renovação de ssl";
     $pct_titulo_websites_13_11 = "atualização";
     $pct_websites_1_1 = "páginas responsívas";
-    $pct_websites_2_1 = "compatibilidade entre navegadores";
-    $pct_websites_3_1 = "seo inteligente";
-    $pct_websites_4_1 = "landing pages que atraem";
-    $pct_websites_5_1 = "html5, css3 & bootstrap";
-    $pct_websites_6_2 = "cadastro de usuários";
-    $pct_websites_7_2 = "criação de páginas/posts";
-    $pct_websites_8_2 = "comentários e avaliações";
-    $pct_websites_9_2 = "melhor rankeamento nas buscas";
-    $pct_websites_10_2 = "produção de conteúdo original";
-    $pct_websites_11_3 = "venda produtos e serviços";
-    $pct_websites_12_3 = "aceite pagamentos online";
-    $pct_websites_13_3 = "cálculo de envio automático";
-    $pct_websites_14_3 = "gerenciamento de clientes";
-    $pct_websites_15_3 = "cadastro de usuários";
-    $pct_websites_16_3 = "wordpress & woocommerce";
-    $pct_websites_17_4 = "backup diário";
-    $pct_websites_18_4 = "armazenamento em ssd 10 GB";
-    $pct_websites_19_4 = "1 e-mail grátis 10 GB";
-    $pct_websites_20_4 = "alto desempenho";
-    $pct_websites_21_4 = "correções de falhas automáticas";
-    $pct_websites_22_5 = "backup diário";
-    $pct_websites_23_5 = "armazenamento em ssd 20 GB";
-    $pct_websites_24_5 = "1 e-mail grátis 10 GB";
-    $pct_websites_25_5 = "alto desempenho";
-    $pct_websites_26_5 = "correções de falhas automáticas";
-    $pct_websites_27_6 = "backup diário";
-    $pct_websites_28_6 = "ssl grátis";
-    $pct_websites_29_6 = "armazenamento em ssd 50GB";
-    $pct_websites_30_6 = "5 e-mails grátis 10 GB cada";
-    $pct_websites_31_6 = "alto desempenho";
-    $pct_websites_32_6 = "correções de falhas automáticas";
-    $pct_websites_33_7 = "seu-dominio.com.br";
-    $pct_websites_34_8 = "seu-dominio.com";
-    $pct_websites_35_9 = "caixa com 10 GB";
-    $pct_websites_36_10 = "caixas com 10 GB cada";
-    $pct_websites_37_11 = "caixas com 10 GB cada";
-    $pct_websites_38_12 = "caixas com 10 GB cada";
-    $pct_websites_39_13 = "exiba um cadeado de site seguro no seu site";
-    $pct_websites_40_13 = "com instalação completa";
-    $pct_websites_41_14 = "exiba um cadeado de site seguro no seu site";
-    $pct_websites_42_14 = "renovação instantanea";
+    $pct_websites_1_2 = "compatibilidade entre navegadores";
+    $pct_websites_1_3 = "seo inteligente";
+    $pct_websites_1_4 = "landing pages que atraem";
+    $pct_websites_1_5 = "html5, css3 & bootstrap";
+    $pct_websites_2_6 = "cadastro de usuários";
+    $pct_websites_2_7 = "criação de páginas/posts";
+    $pct_websites_2_8 = "comentários e avaliações";
+    $pct_websites_2_9 = "melhor rankeamento nas buscas";
+    $pct_websites_2_10 = "produção de conteúdo original";
+    $pct_websites_3_11 = "venda produtos e serviços";
+    $pct_websites_3_12 = "aceite pagamentos online";
+    $pct_websites_3_13 = "cálculo de envio automático";
+    $pct_websites_3_14 = "gerenciamento de clientes";
+    $pct_websites_3_15 = "cadastro de usuários";
+    $pct_websites_3_16 = "wordpress & woocommerce";
+    $pct_websites_4_17 = "backup diário";
+    $pct_websites_4_18 = "armazenamento em ssd 10 GB";
+    $pct_websites_4_19 = "1 e-mail grátis 10 GB";
+    $pct_websites_4_20 = "alto desempenho";
+    $pct_websites_4_21 = "correções de falhas automáticas";
+    $pct_websites_5_22 = "backup diário";
+    $pct_websites_5_23 = "armazenamento em ssd 20 GB";
+    $pct_websites_5_24 = "1 e-mail grátis 10 GB";
+    $pct_websites_5_25 = "alto desempenho";
+    $pct_websites_5_26 = "correções de falhas automáticas";
+    $pct_websites_6_27 = "backup diário";
+    $pct_websites_6_28 = "ssl grátis";
+    $pct_websites_6_29 = "armazenamento em ssd 50GB";
+    $pct_websites_6_30 = "5 e-mails grátis 10 GB cada";
+    $pct_websites_6_31 = "alto desempenho";
+    $pct_websites_6_32 = "correções de falhas automáticas";
+    $pct_websites_7_33 = "seu-dominio.com.br";
+    $pct_websites_8_34 = "seu-dominio.com";
+    $pct_websites_9_35 = "caixa com 10 GB";
+    $pct_websites_10_36 = "caixas com 10 GB cada";
+    $pct_websites_11_37 = "caixas com 10 GB cada";
+    $pct_websites_12_38 = "caixas com 10 GB cada";
+    $pct_websites_13_39 = "exiba um cadeado de site seguro no seu site";
+    $pct_websites_13_40 = "com instalação completa";
+    $pct_websites_14_41 = "exiba um cadeado de site seguro no seu site";
+    $pct_websites_14_42 = "renovação instantanea";
 
     /*=================================================================
                         PÁGINA - Design gráfico
@@ -456,12 +456,12 @@
     $descricao_pcts_design_grafico_2_2 = "os dois pacotes juntos, com um super desconto";
     $descricao_pcts_design_grafico_3_3 = "todas as suas artes, para impressos e digitais";
     $pct_design_grafico_1_1 = "logotipo";
-    $pct_design_grafico_2_1 = "tipografia";
-    $pct_design_grafico_3_1 = "palheta de cores";
-    $pct_design_grafico_4_1 = "slogan";
-    $pct_design_grafico_5_1 = "manual da marca";
-    $pct_design_grafico_6_1 = "artes impressas";
-    $pct_design_grafico_7_1 = "artes digitais";
+    $pct_design_grafico_1_2 = "tipografia";
+    $pct_design_grafico_1_3 = "palheta de cores";
+    $pct_design_grafico_1_4 = "slogan";
+    $pct_design_grafico_1_5 = "manual da marca";
+    $pct_design_grafico_1_6 = "artes impressas";
+    $pct_design_grafico_1_7 = "artes digitais";
 
     /*=================================================================
                         PÁGINA - Editorial
@@ -483,8 +483,8 @@
                 Descrições dos pacotes de Editorial
     ------------------------------------------------------------------*/
     $pct_editorial_1_1 = "jornalistas especializados";
-    $pct_editorial_2_1 = "criação de conteúdo rico e engajador";
-    $pct_editorial_3_1 = "4 artigos por mês com foco em SEO";
+    $pct_editorial_1_2 = "criação de conteúdo rico e engajador";
+    $pct_editorial_1_3 = "4 artigos por mês com foco em SEO";
    
     /*-----------------------------------------------------------------
                       Numeros e contadores
