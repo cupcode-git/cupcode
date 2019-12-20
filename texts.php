@@ -311,7 +311,6 @@
     $descricaotxtkpi = "com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo seu desempenho positivo.";
     $descricaotxtemailmarketing = "podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse do seu público-alvo, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.";
     $descricaotxtpctpersonalizado = "quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.";
-    $mktdigitalpara = "";
 
     /*-----------------------------------------------------------------
               Descrições dos pacotes de marketing digital
@@ -342,7 +341,6 @@
     $descemails = "oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes."; 
     $descssl = "exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele."; 
     $h1 = "desenvolvimento de websites e lojas virtuais";
-    $websitespara = "";
     $adicionais = "adicionais";
     $hospedagens = "hospedagens";
     $dominios = "domínios";
@@ -444,7 +442,6 @@
     $artes = "artes";
     $impressas = "impressas";
     $digitais = "digitais";
-    $designgraficopara = "";
     $descricao_txt_artes_digitais = "no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.";
     $descricao_txt_artes_impressas = "inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.";
     $descricao_txt_papelaria = "um dos principais meios de comunicação e divulgação da sua marca, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.";
@@ -475,9 +472,9 @@
     -----------------------------------------------------------------*/
     $artigos = "artigos";
     $materias = "matérias";
+    $editorialpara = "";
     $criacaodeconteudo = "criação de conteúdo";
     $adaptacaodeconteudo = "adaptação de conteúdo";
-    $editorialpara ="";
     $descricao_txt_adaptacao_de_conteudo = "nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.";
     $descricao_txt_criacao_de_conteudo = "tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.";
     $descricao_titulo_editorial = "criação de matérias e artigos editoriais com foco em seo.";

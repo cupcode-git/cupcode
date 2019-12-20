@@ -388,7 +388,7 @@
                 <li><span><?php echo $pct_design_grafico_7_1; ?></span></li>
             </ul>
             <div class="clearfix"></div>
-            <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20+%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
+            <a href="<?php echo $pct_design_grafico_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
@@ -404,10 +404,10 @@
                 <li><span><?php echo $pct_design_grafico_7_1; ?></span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Papelaria%20de%20Design%20Gráfico,%20por%20favor.%20"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
+                <a href="<?php echo $pct_design_grafico_2_link; ?>"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         </div>
-        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas; ?></a></center>
+        <center><a href="<?php echo $pct_design_grafico_3_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas; ?></a></center>
 			         <!-- Pacote personalizado inicio -->
          <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -423,7 +423,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
+				<a href="<?php echo $pct_design_grafico_4_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
             </div>
          </div><!-- Pacote personalizado fim -->
         </div>

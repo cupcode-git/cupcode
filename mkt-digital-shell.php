@@ -445,7 +445,7 @@
 					<li><span><?php echo $pct_mkt_4_1; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+				<a href="<?php echo $pct_mkt_digital_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
@@ -464,7 +464,7 @@
 					<li><span><?php echo $pct_mkt_10_2; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+				<a href="<?php echo $pct_mkt_digital_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 			</div>
 			         <!-- Pacote personalizado inicio -->
@@ -482,7 +482,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
+				<a href="<?php echo $pct_mkt_digital_3_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
             </div>
          </div><!-- Pacote personalizado fim -->
 		</div>
