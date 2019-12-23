@@ -440,9 +440,9 @@
 				</div>
 				<ul class="top15 pdb-65">
 					<li><span><?php echo $pct_mkt_1_1; ?></span></li>
-					<li><span><?php echo $pct_mkt_2_1; ?></span></li>
-					<li><span><?php echo $pct_mkt_3_1; ?></span></li>
-					<li><span><?php echo $pct_mkt_4_1; ?></span></li>
+					<li><span><?php echo $pct_mkt_1_2; ?></span></li>
+					<li><span><?php echo $pct_mkt_1_3; ?></span></li>
+					<li><span><?php echo $pct_mkt_1_4; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
 				<a href="<?php echo $pct_mkt_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -456,34 +456,34 @@
 					</div>
 				</div>
 				<ul class="top15">
-					<h3 class="mobilefont"><?php echo $pct_mkt_5_2; ?></h3>
-					<li><span><?php echo $pct_mkt_6_2; ?></span></li>
-					<li><span><?php echo $pct_mkt_7_2; ?></span></li>
-					<li><span><?php echo $pct_mkt_8_2; ?></span></li>
-					<li><span><?php echo $pct_mkt_9_2; ?></span></li>
-					<li><span><?php echo $pct_mkt_10_2; ?></span></li>
+					<h3 class="mobilefont"><?php echo $pct_mkt_2_5; ?></h3>
+					<li><span><?php echo $pct_mkt_2_6; ?></span></li>
+					<li><span><?php echo $pct_mkt_2_7; ?></span></li>
+					<li><span><?php echo $pct_mkt_2_8; ?></span></li>
+					<li><span><?php echo $pct_mkt_2_9; ?></span></li>
+					<li><span><?php echo $pct_mkt_2_10; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
 				<a href="<?php echo $pct_mkt_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 			</div>
-			         <!-- Pacote personalizado inicio -->
-         <div class="row">
-            <div class="col-md-3 col-sm-6">
-            </div>
-            <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
-               <div class="price-plan">
-                  
-                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br/>". $personalizados; ?></h2>
-                     
-                  </div>
-               </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
+					<!-- Pacote personalizado inicio -->
+		<div class="row">
+			<div class="col-md-3 col-sm-6">
+			</div>
+			<div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
+			<div class="price-plan">
+				
+				<div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br/>". $personalizados; ?></h2>
+					
+				</div>
+			</div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
 
-               
-               <div class="clearfix"></div>
-               
-				<a href="<?php echo $pct_mkt_personalizado_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
-            </div>
-         </div><!-- Pacote personalizado fim -->
+			
+			<div class="clearfix"></div>
+			
+				<a href="<?php echo $pct_mkt_digital_3_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
+			</div>
+		</div><!-- Pacote personalizado fim -->
 		</div>
 	</section>

@@ -244,17 +244,17 @@
     </section>
     <!-- end Ful Screen hero Banner -->
     <section id="adicionais" class="services-wrapper pdt-100 pdb-100 center-block">
-   <div class="container text-center">
-      <div class="row">
-         <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
             <div class="item-titles whitecolor text-center wow fadeInLeft">
-               <h1 class="bottom25 ccdeep"><?php echo $descricao_txt_titulo; ?></h1>
+            <h1 class="bottom25 ccdeep"><?php echo $descricao_txt_titulo; ?></h1>
             </div>
-         </div>
-         <div class="col-md-2 col-sm-2"></div>
-      </div>
-   </div>
-   </section>
+        </div>
+        <div class="col-md-2 col-sm-2"></div>
+    </div>
+</div>
+</section>
     <!--Services 3 column-->
     <section id="about" class=" pdt-100 pdb-100 center-block">
     <div class="container">
@@ -270,32 +270,32 @@
     </div>
     </section>
     <section class="padding grafico-bg-1 parallaxie" id="brandinghome">
-	<div class="container-fluid container-padding">
-		<div class="row">
-			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
-				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 ccdeep"><?php echo $logotipo; ?></h2>
-				<p><?php echo $descricao_txt_logotipo; ?></p>
-			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</section>
-	<section class="padding grafico-bg-2 parallaxie" id="brandinghome">
-	<div class="container-fluid container-padding">
-		<div class="row">
-			<div class="col-md-6 col-sm-3"></div>
-			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
-				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $manualdamarca; ?></h2>
-				<p class="cc-light"><?php echo $descricao_txt_manualdamarca; ?></p>
-			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</section>
+    <div class="container-fluid container-padding">
+        <div class="row">
+            <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+                <div class="item-titles wow fadeInLeft">
+                <h2 class="bottom45 ccdeep"><?php echo $logotipo; ?></h2>
+                <p><?php echo $descricao_txt_logotipo; ?></p>
+            <a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <section class="padding grafico-bg-2 parallaxie" id="brandinghome">
+    <div class="container-fluid container-padding">
+        <div class="row">
+            <div class="col-md-6 col-sm-3"></div>
+            <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+                <div class="item-titles wow fadeInLeft">
+                <h2 class="bottom45 cc-light"><?php echo $manualdamarca; ?></h2>
+                <p class="cc-light"><?php echo $descricao_txt_manualdamarca; ?></p>
+            <a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
         <!--Services 3 column ends-->
         <!--Services 3 column-->
     <section class="pdt-100 pdb-100 center-block" id="papelariahome">
@@ -311,33 +311,33 @@
         </div>
     </div>
     </section>
-	<section class="padding grafico-bg-3 parallaxie">
-	<div class="container-fluid container-padding">
-		<div class="row">
-			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
-				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $artes." ".$impressas; ?></h2>
-				<p class="cc-light"><?php echo $descricao_txt_artes_impressas; ?></p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</section>
-	<section class="padding grafico-bg-4 parallaxie" id="digitalhome">
-	<div class="container-fluid container-padding">
-		<div class="row">
-			<div class="col-md-6 col-sm-3"></div>
-			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
-				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $artes." ".$digitais; ?></h2>
-				<p class="cc-light"><?php echo $descricao_txt_artes_digitais; ?></p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
-				</div>
-			</div>
-		</div>
-	</div>
-	</section>
+    <section class="padding grafico-bg-3 parallaxie">
+    <div class="container-fluid container-padding">
+        <div class="row">
+            <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+                <div class="item-titles wow fadeInLeft">
+                <h2 class="bottom45 cc-light"><?php echo $artes." ".$impressas; ?></h2>
+                <p class="cc-light"><?php echo $descricao_txt_artes_impressas; ?></p>
+            <a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <section class="padding grafico-bg-4 parallaxie" id="digitalhome">
+    <div class="container-fluid container-padding">
+        <div class="row">
+            <div class="col-md-6 col-sm-3"></div>
+            <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+                <div class="item-titles wow fadeInLeft">
+                <h2 class="bottom45 cc-light"><?php echo $artes." ".$digitais; ?></h2>
+                <p class="cc-light"><?php echo $descricao_txt_artes_digitais; ?></p>
+            <a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
     <!--Services 3 column ends-->
     <section class="pdt-100 pdb-10">
     <div class="pricing-white">
@@ -353,79 +353,79 @@
         <div class="row">
             <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="branding">
             <div class="price-plan">
-			<span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
+            <span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
-			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_1_1; ?></span>
+                <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_1_1; ?></span>
                 <div class="ammount">
                     <h2><?php echo $branding; ?></h2>
                 </div>
             </div>
             <ul class="top15">
-                <li><span><?php echo $pct_design_grafico_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_2; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_3; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_4; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_5; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_1_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_1_2; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_1_3; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_1_4; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_1_5; ?></span></li>
             </ul>
             <div class="clearfix"></div>
-            <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20pacote%20de%20Branding%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
+            <a href="<?php echo $pct_design_grafico_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         <div class="col-md-4 col-sm-4 price-table active text-center top50">
             <div class="price-plan">
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
-			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_2_2; ?></span>
+                <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_2_2; ?></span>
                 <div class="ammount">
                     <h2><?php echo $branding. " + <br />". $papelaria; ?></h2>
                 </div>
             </div>
             <ul class="top15">
-                <li><span><?php echo $pct_design_grafico_1_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_2_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_3_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_4_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_5_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_6_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_7_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_6; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_7; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_8; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_9; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_10; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_11; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_2_12; ?></span></li>
             </ul>
             <div class="clearfix"></div>
-            <a href="<?php echo $pct_design_grafico_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
+            <a href="<?php echo $pct_design_grafico_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         <div class="col-md-4 col-sm-4 price-table price-table-marketing4 text-center top50" id="papelaria">
             <div class="price-plan">
-			<span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
+            <span class="heading-title bottom25"><?php echo $design." ". $grafico; ?></span>
                 <h3 class="bottom15"><?php echo $pacote; ?></h3>
-			    <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_3_3; ?></span>
+                <span class="heading-titlenovo bottom25"><?php echo $descricao_pcts_design_grafico_3_3; ?></span>
                 <div class="ammount">
                     <h2><?php echo $papelaria; ?></h2>
                 </div>
             </div>
             <ul class="top15">
-                <li><span><?php echo $pct_design_grafico_6_1; ?></span></li>
-                <li><span><?php echo $pct_design_grafico_7_1; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_3_13; ?></span></li>
+                <li><span><?php echo $pct_design_grafico_3_14; ?></span></li>
             </ul>
             <div class="clearfix"></div>
-                <a href="<?php echo $pct_design_grafico_2_link; ?>"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
+                <a href="<?php echo $pct_design_grafico_3_link; ?>"target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp"></i> <?php echo $solicorca; ?></a>
         </div>
         </div>
-        <center><a href="<?php echo $pct_design_grafico_3_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas; ?></a></center>
-			         <!-- Pacote personalizado inicio -->
-         <div class="row">
+        <center><a href="<?php echo $pct_design_grafico_4_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas; ?></a></center>
+                    <!-- Pacote personalizado inicio -->
+        <div class="row">
             <div class="col-md-3 col-sm-6">
             </div>
             <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
-               <div class="price-plan">
-                  
-                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br />". $personalizados; ?></h2>
-                     
-                  </div>
-               </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
+            <div class="price-plan">
+                
+                <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br />". $personalizados; ?></h2>
+                    
+                </div>
+            </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
 
-               
-               <div class="clearfix"></div>
-               
-				<a href="<?php echo $pct_design_grafico_4_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
+            
+            <div class="clearfix"></div>
+            
+                <a href="<?php echo $pct_design_grafico_5_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
             </div>
-         </div><!-- Pacote personalizado fim -->
+        </div><!-- Pacote personalizado fim -->
         </div>
     </div>
     </section>
