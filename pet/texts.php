@@ -24,7 +24,7 @@
     $design = "design";
     $grafico = "gráfico";
     $graficos = "gráficos";
-    $designGráfico = "design gráfico";
+    $designgrafico = "design gráfico";
     $papelaria = "papelaria";
     $clickemais = "clique aqui e saiba mais sobre";
     $hospedagem = "hospedagem";
@@ -62,11 +62,13 @@
     $btnplanos = "ver planos";
     $planos = "planos";
     $plano = "plano";
-    $slogan = "faça seu investimento, trabalhar por você.";
+    $slogan = "cuidamos do marketing digital do seu pet shop ou clínica veterinária,fazendo seu investimento trabalhar por você! ;D";
     $solicorca = "solicitar orçamento";
     $tirarduvsobre = "tirar dúvidas sobre";
     $para = "para";
     $btnenviar = "enviar";
+
+    $ccpara = " para clínicas veterinárias e pet shops";
 
     /*=================================================================
                               CONTATO
@@ -326,7 +328,7 @@
     $testimonial_link2 = "";
     $testimonial_company2 = "Clínica Bom Garoto";
 
-    $testimonial3 = "sempre que preciso, e preciso quase todos os dias, a <strong>cupcode</strong> faz todas as artes das redes sociais e ainda cuida de nosso ads, o retorno veio em menos de um mês com resultados muito positivos, e a cupcode sabe manter o bom desempenho, sempre nos aconselhando e sugerindo itens e melhorias.";
+    $testimonial3 = "sempre que preciso, e preciso quase todos os dias, a <strong>cupcode</strong> faz todas as artes das redes sociais e ainda cuida de nosso ads, o retorno veio em menos de um mês com resultados muito positivos, e a cupcode sabe manter o bom desempenho, sempre nos aconselhando e sugerindo itens e melhorias. Super recomendo";
     $testimonial_client3 = "Mathews Eisvogel";
     $testimonial_position3 = "Fundador do";
     $testimonial_link3 = "";
@@ -339,31 +341,39 @@
     /*-----------------------------------------------------------------
                     Descrições de marketing digital
     -----------------------------------------------------------------*/
-    $descricaotxthero = "faça seu investimento, trabalhar por você!";
-    $descricaotxtredessociais = "as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, só no brasil são mais de 127 milhões de pessoas conectadas, nosso serviço te coloca ao alcance desse público gigantesco.";
-    $descricaotxtgerenciamento = "cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito a sua marca e seu principal bem, os clientes.";
-    $descricaotxtpost = "produzimos posts bem elaborados com conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estrategicamente para levar a seu público o que você realmente quer passar.";
-    $descricaotxtimpulsionar = "não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em clientes é nossa especialidade.";
+    $descricaotxtredessociais = "as mídias sociais geram um grande impacto no mercado digital, são milhões de pessoas online a todo instante, nosso serviço te coloca ao alcance de um público especifico que busca por cuidados com pets na sua região e que pode se tornar um cliente, cortando gastos e chegando onde você deve chegar!.";
+    $descricaotxtgerenciamento = "cuidamos de suas redes sociais, desde seus posts até comentários e mensagens, incentivando interações e engajamento do seu público. sempre com o maior respeito com a marca de seu pet shop e seu principal bem, seus os clientes.";
+    $descricaotxtpost = "produzimos posts bem elaborados com fotos de dar água na boca e com conteúdos divertidos, sérios, emocionantes ou envolventes que debatemos estrategicamente para levar a seu público o que você realmente quer passar.";
+    $descricaotxtimpulsionar = "não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em consumidores do seu estabelecimento são nossas especialidades;";
     $descricaotxtgoogleads = "produzimos e gerenciamos os melhores anúncios para serem exibidos em outros sites pela internet. nossos profissionais analisam todos os dados em tempo real e fazem as modificações necessárias para que seu investimento produza um grande retorno.";
-    $descricaotxtfacebookads = "anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estrategicamente para garantir que o público alvo seja aquele que tem interesse pelos seus produtos/serviços e que você não pague apenas por likes.";
+    $descricaotxtfacebookads = "anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estrategicamente para garantir que o público alvo seja aquele que tem interesse pelos seus pratos e que você não pague apenas por likes.";
     $descricaotxtseo = "a <strong>cupcode</strong> tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos para elevar seu site no ranking das pesquisas.";
-    $descricaotxtkpi = "com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo seu desempenho positivo.";
-    $descricaotxtemailmarketing = "podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse do seu público-alvo, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.";
+    $descricaotxtkpi = "com o kpi coletamos os dados de desempenho do seu pet shop e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua loja, sempre mantendo seu desempenho positivo.";
+    $descricaotxtemailmarketing = "podemos fazer propagandas com e-mail marketing, anunciando promoções, novos pratos ou conteúdo de interesse dos seus consumidores, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.";
     $descricaotxtpctpersonalizado = "quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.";
+
+    $pct_mkt_1_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20do%20Pacote%20Pet%20Filhote%20de%20Marketing%20Digital,%20por%20favor.%20";
+    $pct_mkt_2_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20";
+    $pct_mkt_personalizado_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?";
 
     /*-----------------------------------------------------------------
               Descrições dos pacotes de marketing digital
     ------------------------------------------------------------------*/
-    $pct_mkt_digital_1 = "posts em redes sociais";
-    $pct_mkt_digital_2 = "anuncios no facebook ads";
-    $pct_mkt_digital_3 = "e-mail marketing publico alvo";
-    $pct_mkt_digital_4 = "análize de KPI";
-    $pct_mkt_digital_5 = "todo o conteúdo do pacote ristreto +";
-    $pct_mkt_digital_6 = "gerenciamento de redes sociais";
-    $pct_mkt_digital_7 = "anuncios no google ads";
-    $pct_mkt_digital_8 = "e-mail marketing para clientes ativos";
-    $pct_mkt_digital_9 = "adptação de conteúdo para SEO";
-    $pct_mkt_digital_10 = "análize de ROI (retorno de investimento)";
+
+    $pct_mkt_1 = "filhote";
+    $pct_mkt_1_1 = "posts em redes sociais";
+    $pct_mkt_1_2 = "anuncios no facebook ads";
+    $pct_mkt_1_3 = "e-mail marketing publico alvo";
+    $pct_mkt_1_4 = "análize de KPI";
+
+    $pct_mkt_2 = "adulto";
+    $pct_mkt_2_0 = "todo o conteúdo do pacote filhote +";
+    $pct_mkt_2_1 = "gerenciamento de redes sociais";
+    $pct_mkt_2_2 = "anuncios no google ads";
+    $pct_mkt_2_3 = "e-mail marketing para clientes ativos";
+    $pct_mkt_2_4 = "adptação de conteúdo para SEO";
+    $pct_mkt_2_5 = "análize de ROI (retorno de investimento)";
+
     /*=================================================================
                         PÁGINA - Websites
     ===================================================================*/
@@ -371,15 +381,21 @@
     /*-----------------------------------------------------------------
                         Descrições de Websites
     -----------------------------------------------------------------*/
-    $descsites = "desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu negócio, estarão atualizados."; 
-    $descblogs = "ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos."; 
-    $desclojavirtual = "estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações de seu e-commerce, para que você não se preocupe com mais nada."; 
-    $descadicionais = "sua casa na internet precisa de um terreno? temos hospedagem! precisa de um endereço? temos domínios! segurança? te oferecemos o SSL. temos tudo!"; 
+    $descsites = "desenvolvemos sites com as tecnologias mais avançadas do mercado, sites modernos, responsívos para todos os tamanhos de telas e otimizados para todos os navegadores, o tornando funcional para que todos os seus clientes tenham a melhor experiência ao acessa-lo. todos em buscas de informação sobre seu pet shop, estarão atualizados com seus serviços, produtos que podem encontrar, contato, informações sobre banho e tosa, recomendações e muito mais."; 
+    $descblogs = "ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdos informativos e dicas sobre o mundo e cuidados dos animais."; 
+    $desclojavirtual = "estar preparado para vender sem restrinções geográficas é um requisito básico dos dias atuais, você pode expandir sua area de atuação e entrar na casa de seu cliente com sua loja virtual, aceite pagamentos online e receba notificações a cada venda, sua loja vai estar trabalhando por você 24 horas por dia, ainda oferecemos serviços de gerenciamento e atualizações."; 
+    $descadicionais = "seu pet shop na internet precisa de um terreno? temos hospedagem! precisa de um endereço? temos domínios! segurança? te oferecemos o SSL. temos tudo para seu pet shop estar 100% online!"; 
     $deschospedagens = "com backup diários, mantemos seus arquivos protegidos em nuvem, sempre atualizados e seguro. fornecemos suporte inteligente que monitora, detecta e corrige automaticamente possíveis falhas."; 
     $descdominios = "o domínio é obrigatório, seu primeiro passo na internet começa aqui, pode-se escolher alguns domínios, após a sua escolha nós verificamos a disponibilidade e o registramos."; 
     $descemails = "oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes."; 
     $descssl = "exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele."; 
     $h1 = "desenvolvimento de websites e lojas virtuais";
+    $pct_websites_1_link = "Olá, gostaria de montar um pacote e-commerce personalizado para pet shops, pode me ajudar?";
+    $pct_websites_2_link = "Olá, gostaria de solicitar mais informações sobre os pacotes de Websites para pet shops, por favor.";
+    $pct_websites_3_link = "Olá, gostaria de solicitar mais informações sobre Hospedagens de Websites para pet shop, por favor.";
+    $pct_websites_4_link = "Olá, gostaria de solicitar mais informações sobre Domínios para pet shop, por favor.";
+    $pct_websites_5_link = "Olá, gostaria de solicitar mais informações sobre E-mails para pet shop, por favor.";
+    $pct_websites_6_link = "Olá, gostaria de solicitar mais informações sobre certificados SSL para sites pet shop, por favor.";
     $adicionais = "adicionais";
     $hospedagens = "hospedagens";
     $dominios = "domínios";
@@ -486,8 +502,10 @@
     $descricao_txt_papelaria = "um dos principais meios de comunicação e divulgação da sua marca, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.";
     $descricao_txt_manualdamarca = "normas técnicas, recomendações e especificações para a utilização da identidade de sua marca, assim facilitamos a memorização e a padronização, excelente para quando você vai enviar seu logotipo a terceiros, eles terão o manual de como inserir sua marca de maneira correta.";
     $descricao_txt_logotipo = "nossos designers são especialistas em criar um logotipo marcante e único, onde você tenha a representação da sua marca em um lindo e elegante design que começa com um estudo aprofundado sobre os conceitos, os traços, unido aos seus valores, missão e visão.";
-    $descricao_txt_titulo = "criação de branding, artes gráficas impressas e digitais";
-    $descricao_txt_branding = "construímos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia, a palheta de cores e tudo o que você precisa para dar o start no seu negócio.";
+    $descricao_txt_titulo = "criação de branding, artes gráficas impressas e digitais com foco em pet shops";
+    $descricao_txt_branding = "construímos seu branding, de forma estratégica, criativa e com um ótimo design. sua identidade visual completa única e memorável. desde sua logo, tipografia, a palheta de cores cuidadosamente pensada para seu ramo de atividade e tudo o que você precisa para dar um up no seu pet shop.";
+    $pct_design_grafico_1_link = "Olá, gostaria de solicitar mais informações sobre os pacotes de Design Gráfico para pet shop, por favor.";
+    $pct_design_grafico_2_link = "Olá, gostaria de montar um pacote design gráfico personalizado para pet shop, pode me ajudar?";
     /*-----------------------------------------------------------------
             Descrições dos pacotes de Design gráfico
     ------------------------------------------------------------------*/
@@ -513,10 +531,12 @@
     $materias = "matérias";
     $criacaodeconteudo = "criação de conteúdo";
     $adaptacaodeconteudo = "adaptação de conteúdo";
-    $descricao_txt_adaptacao_de_conteudo = "nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.";
-    $descricao_txt_criacao_de_conteudo = "tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.";
-    $descricao_titulo_editorial = "criação de matérias e artigos editoriais com foco em seo.";
-    $descricao_txt_editorial = " nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, faremos com que seu editorial tenha impacto no leitor com conteúdo de qualidade, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.";
+    $descricao_txt_adaptacao_de_conteudo = "nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a melhor pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de visitantes, ajudando ainda mais o crescimento de seu público-alvo.";
+    $descricao_txt_criacao_de_conteudo = "tenha um jornalista de renome escrevendo artigos e matérias para seu pet shop, artigos específicos de cuidados, melhores praticas, dicas para seus bichinhos e tudo que traga informações para seus possíveis consumidores, que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.";
+    $descricao_titulo_editorial = "criação de matérias e artigos editoriais sobre animais com foco em seo.";
+    $descricao_txt_editorial = "nós utilizamos o melhor do marketing inbound e outbound, com excelentes ferramentas e profissionais, fazemos com que seu editorial tenha impacto no leitor com conteúdo de qualidade que chame a atenção e que conquiste-o, não só pela qualidade, mas também pelas dicas de cuidados com o pet, tira duvidas de seus donos e muito mais, pois nosso time conta com ótimos jornalistas que são responsáveis por cuidar e otimizar os artigos, matérias e todos os textos das suas artes e site.";
+    $pct_editorial_1_link = "Olá, gostaria de solicitar mais informações sobre o pacote de Criação Editorial para pet shop, por favor.";
+    $pct_editorial_2_link = "Olá, gostaria de montar um pacote editorial personalizado para pet shop, pode me ajudar?";
     /*-----------------------------------------------------------------
                 Descrições dos pacotes de Editorial
     ------------------------------------------------------------------*/

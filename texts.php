@@ -8,6 +8,7 @@
     $marketing = "marketing";
     $digital = "digital";
     $mktdigital = "marketing digital";
+    $ccpara = "para sua marca.";
     $brading = "branding";
     $web = "web";
     $site = "site";
@@ -24,7 +25,7 @@
     $design = "design";
     $grafico = "gráfico";
     $graficos = "gráficos";
-    $designGráfico = "design gráfico";
+    $designgrafico = "design gráfico";
     $papelaria = "papelaria";
     $clickemais = "clique aqui e saiba mais sobre";
     $hospedagem = "hospedagem";
@@ -311,21 +312,26 @@
     $descricaotxtkpi = "com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo seu desempenho positivo.";
     $descricaotxtemailmarketing = "podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse do seu público-alvo, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.";
     $descricaotxtpctpersonalizado = "quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.";
-    $mktdigitalpara = "";
 
     /*-----------------------------------------------------------------
               Descrições dos pacotes de marketing digital
     ------------------------------------------------------------------*/
     $pct_mkt_1_1 = "posts em redes sociais";
-    $pct_mkt_2_1 = "anuncios no facebook ads";
-    $pct_mkt_3_1 = "e-mail marketing publico alvo";
-    $pct_mkt_4_1 = "análize de KPI";
-    $pct_mkt_5_2 = "todo o conteúdo do pacote ristreto +";
-    $pct_mkt_6_2 = "gerenciamento de redes sociais";
-    $pct_mkt_7_2 = "anuncios no google ads";
-    $pct_mkt_8_2 = "e-mail marketing para clientes ativos";
-    $pct_mkt_9_2 = "adptação de conteúdo para SEO";
-    $pct_mkt_10_2 = "análize de ROI (retorno de investimento)";
+    $pct_mkt_1_2 = "anuncios no facebook ads";
+    $pct_mkt_1_3 = "e-mail marketing publico alvo";
+    $pct_mkt_1_4 = "análize de KPI";
+
+    $pct_mkt_2_5 = "todo o conteúdo do pacote ristreto +";
+    $pct_mkt_2_6 = "gerenciamento de redes sociais";
+    $pct_mkt_2_7 = "anuncios no google ads";
+    $pct_mkt_2_8 = "e-mail marketing para clientes ativos";
+    $pct_mkt_2_9 = "adptação de conteúdo para SEO";
+    $pct_mkt_2_10 = "análize de ROI (retorno de investimento)";
+
+    $pct_mkt_1_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20";
+    $pct_mkt_2_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20";
+    $pct_mkt_personalizado_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?";
+
     /*=================================================================
                         PÁGINA - Websites
     ===================================================================*/
@@ -342,7 +348,6 @@
     $descemails = "oferecemos a criação do seu e-mail profissional com 10GB de armazenamento por caixa, garantindo um endereço eletrônico oficial @seu-dominio. passando mais credibilidade ao oferecer formas de contatos a seus clientes."; 
     $descssl = "exiba um cadeado de segurança de site seguro em sua página, ao instalar um certificado SSL, assim você vai estar passando a confiança para seus clientes de que suas informações estarão sempre seguras durante a navegação. além da segurança, os buscadores como google, yahoo e bing, elevam a posição do seu site nas pesquisas, se houver um certificado SSL instalado nele."; 
     $h1 = "desenvolvimento de websites e lojas virtuais";
-    $websitespara = "";
     $adicionais = "adicionais";
     $hospedagens = "hospedagens";
     $dominios = "domínios";
@@ -389,47 +394,47 @@
     $pct_titulo_websites_12_11 = "renovação de ssl";
     $pct_titulo_websites_13_11 = "atualização";
     $pct_websites_1_1 = "páginas responsívas";
-    $pct_websites_2_1 = "compatibilidade entre navegadores";
-    $pct_websites_3_1 = "seo inteligente";
-    $pct_websites_4_1 = "landing pages que atraem";
-    $pct_websites_5_1 = "html5, css3 & bootstrap";
-    $pct_websites_6_2 = "cadastro de usuários";
-    $pct_websites_7_2 = "criação de páginas/posts";
-    $pct_websites_8_2 = "comentários e avaliações";
-    $pct_websites_9_2 = "melhor rankeamento nas buscas";
-    $pct_websites_10_2 = "produção de conteúdo original";
-    $pct_websites_11_3 = "venda produtos e serviços";
-    $pct_websites_12_3 = "aceite pagamentos online";
-    $pct_websites_13_3 = "cálculo de envio automático";
-    $pct_websites_14_3 = "gerenciamento de clientes";
-    $pct_websites_15_3 = "cadastro de usuários";
-    $pct_websites_16_3 = "wordpress & woocommerce";
-    $pct_websites_17_4 = "backup diário";
-    $pct_websites_18_4 = "armazenamento em ssd 10 GB";
-    $pct_websites_19_4 = "1 e-mail grátis 10 GB";
-    $pct_websites_20_4 = "alto desempenho";
-    $pct_websites_21_4 = "correções de falhas automáticas";
-    $pct_websites_22_5 = "backup diário";
-    $pct_websites_23_5 = "armazenamento em ssd 20 GB";
-    $pct_websites_24_5 = "1 e-mail grátis 10 GB";
-    $pct_websites_25_5 = "alto desempenho";
-    $pct_websites_26_5 = "correções de falhas automáticas";
-    $pct_websites_27_6 = "backup diário";
-    $pct_websites_28_6 = "ssl grátis";
-    $pct_websites_29_6 = "armazenamento em ssd 50GB";
-    $pct_websites_30_6 = "5 e-mails grátis 10 GB cada";
-    $pct_websites_31_6 = "alto desempenho";
-    $pct_websites_32_6 = "correções de falhas automáticas";
-    $pct_websites_33_7 = "seu-dominio.com.br";
-    $pct_websites_34_8 = "seu-dominio.com";
-    $pct_websites_35_9 = "caixa com 10 GB";
-    $pct_websites_36_10 = "caixas com 10 GB cada";
-    $pct_websites_37_11 = "caixas com 10 GB cada";
-    $pct_websites_38_12 = "caixas com 10 GB cada";
-    $pct_websites_39_13 = "exiba um cadeado de site seguro no seu site";
-    $pct_websites_40_13 = "com instalação completa";
-    $pct_websites_41_14 = "exiba um cadeado de site seguro no seu site";
-    $pct_websites_42_14 = "renovação instantanea";
+    $pct_websites_1_2 = "compatibilidade entre navegadores";
+    $pct_websites_1_3 = "seo inteligente";
+    $pct_websites_1_4 = "landing pages que atraem";
+    $pct_websites_1_5 = "html5, css3 & bootstrap";
+    $pct_websites_2_6 = "cadastro de usuários";
+    $pct_websites_2_7 = "criação de páginas/posts";
+    $pct_websites_2_8 = "comentários e avaliações";
+    $pct_websites_2_9 = "melhor rankeamento nas buscas";
+    $pct_websites_2_10 = "produção de conteúdo original";
+    $pct_websites_3_11 = "venda produtos e serviços";
+    $pct_websites_3_12 = "aceite pagamentos online";
+    $pct_websites_3_13 = "cálculo de envio automático";
+    $pct_websites_3_14 = "gerenciamento de clientes";
+    $pct_websites_3_15 = "cadastro de usuários";
+    $pct_websites_3_16 = "wordpress & woocommerce";
+    $pct_websites_4_17 = "backup diário";
+    $pct_websites_4_18 = "armazenamento em ssd 10 GB";
+    $pct_websites_4_19 = "1 e-mail grátis 10 GB";
+    $pct_websites_4_20 = "alto desempenho";
+    $pct_websites_4_21 = "correções de falhas automáticas";
+    $pct_websites_5_22 = "backup diário";
+    $pct_websites_5_23 = "armazenamento em ssd 20 GB";
+    $pct_websites_5_24 = "1 e-mail grátis 10 GB";
+    $pct_websites_5_25 = "alto desempenho";
+    $pct_websites_5_26 = "correções de falhas automáticas";
+    $pct_websites_6_27 = "backup diário";
+    $pct_websites_6_28 = "ssl grátis";
+    $pct_websites_6_29 = "armazenamento em ssd 50GB";
+    $pct_websites_6_30 = "5 e-mails grátis 10 GB cada";
+    $pct_websites_6_31 = "alto desempenho";
+    $pct_websites_6_32 = "correções de falhas automáticas";
+    $pct_websites_7_33 = "seu-dominio.com.br";
+    $pct_websites_8_34 = "seu-dominio.com";
+    $pct_websites_9_35 = "caixa com 10 GB";
+    $pct_websites_10_36 = "caixas com 10 GB cada";
+    $pct_websites_11_37 = "caixas com 10 GB cada";
+    $pct_websites_12_38 = "caixas com 10 GB cada";
+    $pct_websites_13_39 = "exiba um cadeado de site seguro no seu site";
+    $pct_websites_13_40 = "com instalação completa";
+    $pct_websites_14_41 = "exiba um cadeado de site seguro no seu site";
+    $pct_websites_14_42 = "renovação instantanea";
 
     /*=================================================================
                         PÁGINA - Design gráfico
@@ -438,13 +443,11 @@
     /*-----------------------------------------------------------------
                     Descrições de Design gráfico
     -----------------------------------------------------------------*/
-    $branding = "branding";
+
     $logotipo = "logotipo";
     $manualdamarca = "manual da marca";
     $artes = "artes";
     $impressas = "impressas";
-    $digitais = "digitais";
-    $designgraficopara = "";
     $descricao_txt_artes_digitais = "no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.";
     $descricao_txt_artes_impressas = "inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.";
     $descricao_txt_papelaria = "um dos principais meios de comunicação e divulgação da sua marca, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.";
@@ -459,12 +462,12 @@
     $descricao_pcts_design_grafico_2_2 = "os dois pacotes juntos, com um super desconto";
     $descricao_pcts_design_grafico_3_3 = "todas as suas artes, para impressos e digitais";
     $pct_design_grafico_1_1 = "logotipo";
-    $pct_design_grafico_2_1 = "tipografia";
-    $pct_design_grafico_3_1 = "palheta de cores";
-    $pct_design_grafico_4_1 = "slogan";
-    $pct_design_grafico_5_1 = "manual da marca";
-    $pct_design_grafico_6_1 = "artes impressas";
-    $pct_design_grafico_7_1 = "artes digitais";
+    $pct_design_grafico_1_2 = "tipografia";
+    $pct_design_grafico_1_3 = "palheta de cores";
+    $pct_design_grafico_1_4 = "slogan";
+    $pct_design_grafico_1_5 = "manual da marca";
+    $pct_design_grafico_1_6 = "artes impressas";
+    $pct_design_grafico_1_7 = "artes digitais";
 
     /*=================================================================
                         PÁGINA - Editorial
@@ -477,7 +480,6 @@
     $materias = "matérias";
     $criacaodeconteudo = "criação de conteúdo";
     $adaptacaodeconteudo = "adaptação de conteúdo";
-    $editorialpara ="";
     $descricao_txt_adaptacao_de_conteudo = "nossos jornalistas e editores adaptam seu conteúdo já produzido para adequá-los a pratica SEO, assim, atraíndo mais cliques para ler seu conteúdo e para se tornarem leads e possíveis clientes. com esse novo formato, você terá um crescimento de pageviews, ajudando ainda mais o crescimento de seu público-alvo.";
     $descricao_txt_criacao_de_conteudo = "tenha um jornalista de renome escrevendo artigos e matérias para seu site, artigos específicos da sua área que trazem informações para seus possíveis clientes que entram no site para ler artigos de relevância. com a criação de conteúdo, utilizamos SEO (otimização para mecanismos de busca), facilitando o acesso e o alcance dos leitores de forma orgânica, o conteúdo é otimizado para aparecer nas primeiras páginas dos buscadores.";
     $descricao_titulo_editorial = "criação de matérias e artigos editoriais com foco em seo.";
@@ -486,8 +488,8 @@
                 Descrições dos pacotes de Editorial
     ------------------------------------------------------------------*/
     $pct_editorial_1_1 = "jornalistas especializados";
-    $pct_editorial_2_1 = "criação de conteúdo rico e engajador";
-    $pct_editorial_3_1 = "4 artigos por mês com foco em SEO";
+    $pct_editorial_1_2 = "criação de conteúdo rico e engajador";
+    $pct_editorial_1_3 = "4 artigos por mês com foco em SEO";
    
     /*-----------------------------------------------------------------
                       Numeros e contadores
