@@ -326,7 +326,7 @@
         $pct_mkt_2_8 = "e-mail marketing para clientes ativos";
         $pct_mkt_2_9 = "adptação de conteúdo para SEO";
         $pct_mkt_2_10 = "análize de ROI (retorno de investimento)";
-        $pct_mkt_digital_1_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20"
+        $pct_mkt_digital_1_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20";
         $pct_mkt_digital_2_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20";
         $pct_mkt_digital_3_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?";
 
