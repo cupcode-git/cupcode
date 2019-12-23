@@ -8,6 +8,7 @@
     $marketing = "marketing";
     $digital = "digital";
     $mktdigital = "marketing digital";
+    $ccpara = "para sua marca.";
     $brading = "branding";
     $web = "web";
     $site = "site";
@@ -24,7 +25,7 @@
     $design = "design";
     $grafico = "gráfico";
     $graficos = "gráficos";
-    $designGráfico = "design gráfico";
+    $designgrafico = "design gráfico";
     $papelaria = "papelaria";
     $clickemais = "clique aqui e saiba mais sobre";
     $hospedagem = "hospedagem";
@@ -319,12 +320,18 @@
     $pct_mkt_1_2 = "anuncios no facebook ads";
     $pct_mkt_1_3 = "e-mail marketing publico alvo";
     $pct_mkt_1_4 = "análize de KPI";
+
     $pct_mkt_2_5 = "todo o conteúdo do pacote ristreto +";
     $pct_mkt_2_6 = "gerenciamento de redes sociais";
     $pct_mkt_2_7 = "anuncios no google ads";
     $pct_mkt_2_8 = "e-mail marketing para clientes ativos";
     $pct_mkt_2_9 = "adptação de conteúdo para SEO";
     $pct_mkt_2_10 = "análize de ROI (retorno de investimento)";
+
+    $pct_mkt_1_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20";
+    $pct_mkt_2_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20";
+    $pct_mkt_personalizado_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?";
+
     /*=================================================================
                         PÁGINA - Websites
     ===================================================================*/
@@ -436,12 +443,11 @@
     /*-----------------------------------------------------------------
                     Descrições de Design gráfico
     -----------------------------------------------------------------*/
-    $branding = "branding";
+
     $logotipo = "logotipo";
     $manualdamarca = "manual da marca";
     $artes = "artes";
     $impressas = "impressas";
-    $digitais = "digitais";
     $descricao_txt_artes_digitais = "no digital, faremos suas imagens para redes sociais como facebook, instagram, linkedin, whatsapp, etc. imagens de perfil, capa, posts, anúncios e tudo o que você precisar para usar no meio digital, sem precisar se preocupar em contratar um designer para fazer isso por você.";
     $descricao_txt_artes_impressas = "inclui artes para impressão, como folders, flyers, panfletos, cartões de fidelidade, cartões de visita, papel timbrado, pasta, envelope e quaisquer outros itens que seja preciso enviar para impressão, nós fazemos isso por você. fechamos sua arte com as definições exigidas pelas gráficas, e garantimos que você tenha sempre o resultado esperado.";
     $descricao_txt_papelaria = "um dos principais meios de comunicação e divulgação da sua marca, se encontra na papelaria, através do impresso e do digital, nosso trabalho consiste em te fazer ter uma ótima relação com os clientes seja criando seu cartão de visitas até suas artes para redes sociais, e-mail marketing e outras laminas que precisem da sua identidade visual.";
