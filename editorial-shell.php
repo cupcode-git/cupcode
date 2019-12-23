@@ -321,8 +321,8 @@
                </div>
                <ul class="top15">
                   <li><span><?php echo $pct_editorial_1_1; ?></span></li>
-                  <li><span><?php echo $pct_editorial_2_1; ?></span></li>
-                  <li><span><?php echo $pct_editorial_3_1; ?></span></li>
+                  <li><span><?php echo $pct_editorial_1_2; ?></span></li>
+                  <li><span><?php echo $pct_editorial_1_3; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_editorial_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>

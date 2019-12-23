@@ -389,10 +389,10 @@
                </div>
                <ul class="top15">
                   <li><span><?php echo $pct_websites_1_1; ?></span></li>
-                  <li><span><?php echo $pct_websites_2_1; ?></span></li>
-                  <li><span><?php echo $pct_websites_3_1; ?></span></li>
-                  <li><span><?php echo $pct_websites_4_1; ?></span></li>
-                  <li><span><?php echo $pct_websites_5_1; ?></span></li>
+                  <li><span><?php echo $pct_websites_1_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_1_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_1_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_1_5; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -406,11 +406,11 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_6_2; ?></span></li>
-                  <li><span><?php echo $pct_websites_7_2; ?></span></li>
-                  <li><span><?php echo $pct_websites_8_2; ?></span></li>
-                  <li><span><?php echo $pct_websites_9_2; ?></span></li>
-                  <li><span><?php echo $pct_websites_10_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_2_6; ?></span></li>
+                  <li><span><?php echo $pct_websites_2_7; ?></span></li>
+                  <li><span><?php echo $pct_websites_2_8; ?></span></li>
+                  <li><span><?php echo $pct_websites_2_9; ?></span></li>
+                  <li><span><?php echo $pct_websites_2_10; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -424,12 +424,12 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_11_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_12_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_13_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_14_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_15_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_16_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_11; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_12; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_13; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_14; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_15; ?></span></li>
+                  <li><span><?php echo $pct_websites_3_16; ?></span></li>
                </ul>
                <div class="clearfix"></div>
 				<a href="<?php echo $pct_websites_3_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -471,11 +471,11 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_17_4; ?></span></li>
-                  <li><span><?php echo $pct_websites_18_4; ?></span></li>
-                  <li><span><?php echo $pct_websites_19_4; ?></span></li>
-                  <li><span><?php echo $pct_websites_20_4; ?></span></li>
-                  <li><span><?php echo $pct_websites_21_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_4_17; ?></span></li>
+                  <li><span><?php echo $pct_websites_4_18; ?></span></li>
+                  <li><span><?php echo $pct_websites_4_19; ?></span></li>
+                  <li><span><?php echo $pct_websites_4_20; ?></span></li>
+                  <li><span><?php echo $pct_websites_4_21; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_5_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -488,11 +488,11 @@
                   </div>
                </div>
                <ul class="top15">
-               <li><span><?php echo $pct_websites_22_5; ?></span></li>
-               <li><span><?php echo $pct_websites_23_5; ?></span></li>
-               <li><span><?php echo $pct_websites_24_5; ?></span></li>
-               <li><span><?php echo $pct_websites_25_5; ?></span></li>
-               <li><span><?php echo $pct_websites_26_5; ?></span></li>
+               <li><span><?php echo $pct_websites_5_22; ?></span></li>
+               <li><span><?php echo $pct_websites_5_23; ?></span></li>
+               <li><span><?php echo $pct_websites_5_24; ?></span></li>
+               <li><span><?php echo $pct_websites_5_25; ?></span></li>
+               <li><span><?php echo $pct_websites_5_26; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_6_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -505,12 +505,12 @@
                   </div>
                </div>
                <ul class="top15">
-               <li><span><?php echo $pct_websites_27_6; ?></span></li>
-               <li><span><?php echo $pct_websites_28_6; ?></span></li>
-               <li><span><?php echo $pct_websites_29_6; ?></span></li>
-               <li><span><?php echo $pct_websites_30_6; ?></span></li>
-               <li><span><?php echo $pct_websites_31_6; ?></span></li>
-               <li><span><?php echo $pct_websites_32_6; ?></span></li>
+               <li><span><?php echo $pct_websites_6_27; ?></span></li>
+               <li><span><?php echo $pct_websites_6_28; ?></span></li>
+               <li><span><?php echo $pct_websites_6_29; ?></span></li>
+               <li><span><?php echo $pct_websites_6_30; ?></span></li>
+               <li><span><?php echo $pct_websites_6_31; ?></span></li>
+               <li><span><?php echo $pct_websites_6_32; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_7_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
@@ -552,7 +552,7 @@
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_33_7; ?></span></li>
+                  <li><span><?php echo $pct_websites_7_33; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_9_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com_br; ?></a>
@@ -565,7 +565,7 @@
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_34_8; ?></span></li>
+                  <li><span><?php echo $pct_websites_8_34; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_10_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com; ?></a>
@@ -608,7 +608,7 @@
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_35_9; ?></span></li>
+                  <li><span><?php echo $pct_websites_9_35; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_12_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_1; ?></a>
@@ -621,7 +621,7 @@
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_36_10; ?></span></li>
+                  <li><span><?php echo $pct_websites_10_36; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_13_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_2; ?></a>
@@ -634,7 +634,7 @@
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_37_11; ?></span></li>
+                  <li><span><?php echo $pct_websites_11_37; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_14_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_3; ?></a>
@@ -647,7 +647,7 @@
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_38_12; ?></span></li>
+                  <li><span><?php echo $pct_websites_12_38; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_15_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_4; ?></a>
@@ -689,8 +689,8 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_39_13; ?></span></li>
-                  <li><span><?php echo $pct_websites_40_13; ?></span></li>
+                  <li><span><?php echo $pct_websites_13_39; ?></span></li>
+                  <li><span><?php echo $pct_websites_13_40; ?></span></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_17_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_1; ?></a>
@@ -704,8 +704,8 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_41_14; ?></span></li>
-                  <li><span><?php echo $pct_websites_42_14; ?></li>
+                  <li><span><?php echo $pct_websites_14_41; ?></span></li>
+                  <li><span><?php echo $pct_websites_14_42; ?></li>
                </ul>
                <div class="clearfix"></div>
                <a href="<?php echo $pct_websites_18_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_2; ?></a>
