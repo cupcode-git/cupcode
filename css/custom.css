@@ -6,23 +6,23 @@
 .hero-index {
     background: url(/images/home-hero-bg.jpg) no-repeat;
 }
-.hero-markting {
-    background: url(/images/marketing-hero-bg.jpg) no-repeat;
+.hero-marketing {
+    background: url(/images/hero-marketing-bg.jpg) no-repeat;
 }
 .hero-website {
-    background: url(/images/websites-hero-bg.jpg) no-repeat;
+    background: url(/images/hero-websites-bg.jpg) no-repeat;
 }
 .hero-grafico {
-    background: url(/images/grafico-hero-bg.jpg) no-repeat;
+    background: url(/images/hero-grafico-bg.jpg) no-repeat;
 }
 .hero-editorial {
-    background: url(/images/editorial-hero-bg.jpg) no-repeat;
+    background: url(/images/hero-editorial-bg.jpg) no-repeat;
 }
 /* Fim> Background hero*/
 
 /* background geral */
 .geral-bg-1 {
-    background: url(/images/bg-contato.jpg) no-repeat;
+    background: url(/images/contato-bg.jpg) no-repeat;
 }
 .geral-bg-2 {
     background: url(/images/home-footer-bg.gif) no-repeat;
@@ -34,10 +34,10 @@
     background: url(/images/home-marketing-bg.jpg) no-repeat;
 }
 .home-bg-2{
-    background: url(/images/home-grafico-bg.jpg) no-repeat;
+    background: url(/images/home-websites-bg.jpg) no-repeat;
 }
 .home-bg-3{
-    background: url(/images/home-websites-bg.jpg) no-repeat;
+    background: url(/images/home-grafico-bg.jpg) no-repeat;
 }
 .home-bg-4{
     background: url(/images/home-editorial-bg.jpg) no-repeat;

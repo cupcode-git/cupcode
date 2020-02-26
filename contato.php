@@ -1,36 +1,38 @@
-<section id="contact-form" class="single-items text-left item-five parallaxie full-screen">
+<section id="contact-form" class="single-items text-left geral-bg-1 parallaxie full-screen">
       <div class="container">
          <div class="row">
             <div class="col-md-6">
-               <form action="mail.php" method="POST" class="getin_form wow fadeInUp">
+               <form accept-charset="utf-8" action="mail.php" method="POST" class="getin_form wow fadeInUp">
                   <div class="col-md-5 p-0">
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
-                           <input class="forma" name="Nome" type="name" placeholder="digite seu nome" required  alt="digite seu nome" title="digite seu nome" >
+                           <input class="forma" name="Nome" type="name" placeholder="<?php echo $digitenome; ?>" required  alt="<?php echo $digitenome; ?>" title="<?php echo $digitenome; ?>" >
                         </div>
                      </div>
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
-                           <input class="forma" name="E-mail" type="email" placeholder="digite seu e-mail" required alt="digite seu e-mail" title="digite seu e-mail">
+                           <input class="forma" name="E-mail" type="email" placeholder="<?php echo $digiteemail; ?>" required alt="<?php echo $digiteemail; ?>" title="<?php echo $digiteemail; ?>">
                         </div>
                      </div>
                      <div class="col-md-12 col-sm-12 m-0 p-0">
                         <div class="form-group bottom45">
-                           <input class="forma" name="Telefone" type="fone" placeholder="digite seu telefone" alt="digite seu telefone" title="digite seu telefone">
+                           <input class="forma" name="Telefone" type="fone" placeholder="<?php echo $digitefone; ?>" alt="<?php echo $digitefone; ?>" title="<?php echo $digitefone; ?>">
                         </div>
                      </div>
                   </div>
                      <div class="col-md-7 p-0">
                         <div class="col-md-12 col-sm-12">
                            <div class="form-group bottom45">
-                              <textarea type="message" class="forma" name="Mensagem" placeholder="Mensagem" alt="digite sua mensagem" title="digite sua mensagem"></textarea>
+                              <textarea type="message" class="forma" name="Mensagem" placeholder="<?php echo $digitemensagem; ?>" alt="<?php echo $digitemensagem; ?>" title="<?php echo $digitemensagem; ?>"></textarea>
                            </div>
                         </div>
                         <div class="col-sm-12 text-right m-0 p-0">
-                           <button id="form_submit" class="button defaulthole2" alt="enviar" title="enviar"><i class="fas fa-paper-plane"></i></button>
+                           <button id="form_submit" class="button defaulthole2" alt="<?php echo $btnenviar; ?>" title="<?php echo $btnenviar; ?>"><i class="fas fa-paper-plane"></i></button>
                         </div>
                      </div>
-                  <div class="alert-msg"> </div>
+                     <div id="alertaEmail" class="alert-success"> 
+                      
+                      </div>
                </form>
             </div>
                <!-- aqui esta um espaço entre as colunas-->
@@ -40,13 +42,13 @@
                </div>
                <div class="row col-md-4 mobile-p">
                   <div class="swiper-slide">
-                        <h2 class="bottom20 item-titles wow fadeInLeft ccdeep">contato</h2>
-                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft ccdeep"  href="tel:+554133196071" alt="ligar" title="ligar">(41) 3319-6071</a></h3>
-                        <h3><a class="bottom20 item-titles wow fadeInLeft ccdeep" href="mailto:contato@cupcode.com.br" alt="envie um email" title="envie um email">contato@cupcode.com.br</a></h3>
+                        <h2 class="bottom20 item-titles wow fadeInLeft ccdeep"><?php echo $contato; ?></h2>
+                        <h3 class="bottom15"><a class="bottom20 item-titles text-center wow fadeInLeft ccdeep"  href="<?php echo $fone_link; ?>" alt="<?php echo $ligar; ?>" title="<?php echo $ligar; ?>"><?php echo $ccfone; ?></a></h3>
+                        <h3><a class="bottom20 item-titles wow fadeInLeft ccdeep" href="mailto:<?php echo $contatoemail; ?>" alt="<?php echo $enviaremail; ?>" title="<?php echo $enviaremail; ?>"><?php echo $contatoemail; ?></a></h3>
                   </div>
 
-                <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20site%20Cupcode%20,%20para%20saber%20mais%20sobre,...%20" target="_blank" class="button defaulthole mgr-10 mgb-10 top20"><i class="fab fa-whatsapp" aria-hidden="true"></i> mensagem via whatsapp</a>
-                <a href="https://www.facebook.com/cupcodeinc/?eid=ARBbUKiPtskmE346RlMKgnoE-eHG5I9sTwgyVRpKZOX1WuA6Q3jZR5swNOxdd95UkfCvheln7Qhcp1Jk" target="_blank" class="button defaulthole mgr-10 top10"><i class="fab fa-facebook-messenger" aria-hidden="true"></i> mensagem via Facebook</a>
+                <a href="<?php echo $mensagemwhatsapp_link; ?>" target="_blank" class="button defaulthole mgr-10 mgb-10 top20"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $mensagemwhatsapp; ?></a>
+                <a href="<?php echo $mensagemfacebook_link; ?>" target="_blank" class="button defaulthole mgr-10 top10"><i class="fab fa-facebook-messenger" aria-hidden="true"></i> <?php echo $mensagemfacebook; ?></a>
                </div>
             </div>
       </div>
@@ -56,7 +58,7 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
                 <div class="intro-text center">
-                    <h2 class="heading_space ccdark item-titles cc-light text-center wow fadeInLeft">nossos parceiros</h2>
+                    <h2 class="heading_space ccdark item-titles cc-light text-center wow fadeInLeft"><?php echo $parceiros_titulo; ?></h2>
                 </div>
             </div>
             <div class="col-md-2 col-sm-2"></div>
@@ -65,102 +67,102 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-a50-click.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        <img src="<?php echo $parceiros1_link; ?>" alt="<?php echo $parceiros1; ?>" title="<?php echo $parceiros1; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-a50.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        <img src="<?php echo $parceiros2_link; ?>" alt="<?php echo $parceiros2; ?>" title="<?php echo $parceiros2; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-barbearia-visconde.png" alt="barbearia visconde" title="barbearia visconde">
+                        <img src="<?php echo $parceiros3_link; ?>" alt="<?php echo $parceiros3; ?>" title="<?php echo $parceiros3; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-galeria-glaser.png" alt="barbearia visconde glaser" title="barbearia visconde glaser">
+                        <img src="<?php echo $parceiros4_link; ?>" alt="<?php echo $parceiros4; ?>" title="<?php echo $parceiros4; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-lrmck.png" alt="[[ L R M c K ]]" title="[[ L R M c K ]]">
+                        <img src="<?php echo $parceiros5_link; ?>" alt="<?php echo $parceiros5; ?>" title="<?php echo $parceiros5; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-vinicius-mottin.png" alt="vinicius mottin fotografias" title="vinicius mottin fotografias">
+                        <img src="<?php echo $parceiros6_link; ?>" alt="<?php echo $parceiros6; ?>" title="<?php echo $parceiros6; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-a50tv.png" alt="grupo a50 de comunicação" title="grupo a50 de comunicação">
+                        <img src="<?php echo $parceiros7_link; ?>" alt="<?php echo $parceiros7; ?>" title="<?php echo $parceiros7; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-wec.png" alt="wec - world entertainment corporation" title="wec - world entertainment corporation">
+                        <img src="<?php echo $parceiros8_link; ?>" alt="<?php echo $parceiros8; ?>" title="<?php echo $parceiros8; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-paulinha-fotografias.png" alt="paulina fotografias" title="paulina fotografias">
+                        <img src="<?php echo $parceiros9_link; ?>" alt="<?php echo $parceiros9; ?>" title="<?php echo $parceiros9; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-bar-do-silval.png" alt="bar do sival" title="bar do sival">
+                        <img src="<?php echo $parceiros10_link; ?>" alt="<?php echo $parceiros10; ?>" title="<?php echo $parceiros10; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-rabo-de-galo.png" alt="rabo de galo pomadas" title="rabo de galo pomadas">
+                        <img src="<?php echo $parceiros11_link; ?>" alt="<?php echo $parceiros11; ?>" title="<?php echo $parceiros11; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-tattoo-zasso.png" alt="studio tattoozasso" title="studio tattoozasso">
+                        <img src="<?php echo $parceiros12_link; ?>" alt="<?php echo $parceiros12; ?>" title="<?php echo $parceiros12; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-uol.png" alt="uol - universo online" title="uol - universo online">
+                        <img src="<?php echo $parceiros13_link; ?>" alt="<?php echo $parceiros13; ?>" title="<?php echo $parceiros13; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-elitronicos.png" alt="elitrônicos" title="elitrônicos">
+                        <img src="<?php echo $parceiros14_link; ?>" alt="<?php echo $parceiros14; ?>" title="<?php echo $parceiros14; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-howstuffworks.png" alt="howstuffworks" title="howstuffworks">
+                        <img src="<?php echo $parceiros15_link; ?>" alt="<?php echo $parceiros15; ?>" title="<?php echo $parceiros15; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-sita.png" alt="sita aero" title="sita aero">
+                        <img src="<?php echo $parceiros16_link; ?>" alt="<?php echo $parceiros16; ?>" title="<?php echo $parceiros16; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-oboticario.png" alt="o boticário" title="o boticário">
+                        <img src="<?php echo $parceiros17_link; ?>" alt="<?php echo $parceiros17; ?>" title="<?php echo $parceiros17; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-cinq.png" alt="cinq technologies" title="cinq technologies">
+                        <img src="<?php echo $parceiros18_link; ?>" alt="<?php echo $parceiros18; ?>" title="<?php echo $parceiros18; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-renault.png" alt="renault" title="renault">
+                        <img src="<?php echo $parceiros19_link; ?>" alt="<?php echo $parceiros19; ?>" title="<?php echo $parceiros19; ?>">
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/parceiros-diego-tragel.png" alt="diego tragel" title="diego tragel">
+                        <img src="<?php echo $parceiros20_link; ?>" alt="<?php echo $parceiros20; ?>" title="<?php echo $parceiros20; ?>">
                     </div>
                 </div>
             </div>

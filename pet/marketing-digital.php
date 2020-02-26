@@ -1,4 +1,9 @@
-<?php $title = 'agência de marketing digital com foco em pet shops, mídias sociais e inbound marketing - cupcode,inc.'; $description ='Uma agência que se preocupa com os resultados do seu pet shop e emprega tecnologia para que seu investimento trabalhe por você.'; $keywords = 'marketing digital, pet shop, animais, estimação, loja, agência, mkt, inbound, facebook, instagram, ads, google'; include("../header.php"); ?>
+<?php 
+include 'texts.php';
+$title = 'agência de marketing digital com foco em pet shops, mídias sociais e inbound marketing - cupcode,inc.';
+$description ='Uma agência que se preocupa com os resultados do seu pet shop e emprega tecnologia para que seu investimento trabalhe por você.';
+$keywords = 'marketing digital, pet shop, animais, estimação, loja, agência, mkt, inbound, facebook, instagram, ads, google';
+include("../header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
 	<div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">

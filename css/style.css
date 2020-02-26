@@ -942,142 +942,6 @@ ul.social.dark li a:focus{
   margin: 0 auto 1.125rem;
 }
 
-/*intro on left with bg*/
-.bg-intro{
-    background: url(/images/bg-clientes.jpg) no-repeat;
-    background-position: center center;
-    -webkit-background-size: cover;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
-    width: 100%;
-}
-.bgintro-two{
-   background: url(/images/bg-clientes.jpg) no-repeat;
-}
-.bgintro-yellow{
-   background: url(/images/bg-clientes.jpg) no-repeat;
-}
-.bgintro-light{
-   background: url(/images/bg-clientes.jpg) no-repeat;
-}
-.bgintro-five{
-   background: url(/images/bg-clientes.jpg) no-repeat;
-}
-.bgintro-3{
-   background: url(/images/marketing-hospedagem-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-4{
-   background: url(/images/marketing-post-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-5{
-   background: url(/images/marketing-impulsionar-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-6{
-   background: url(/images/websites-sites-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-7{
-   background: url(/images/websites-blogs-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-8{
-   background: url(/images/websites-e-commerce-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-9{
-   background: url(/images/websites-hospedagem-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-10{
-   background: url(/images/websites-domínio-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-11{
-   background: url(/images/websites-e-mail-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-12{
-   background: url(/images/websites-ssl-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-13{
-   background: url(/images/grafico-logotipo-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-14{
-   background: url(/images/grafico-manual-da-marca-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-15{
-   background: url(/images/grafico-artes-digitais-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-16{
-   background: url(/images/grafico-artes-impressas-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-17{
-   background: url(/images/editorial-criacao-de-conteudo-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-18{
-   background: url(/images/editorial-adaptacao-de-conteudo-bg.jpg) no-repeat;
-   height: 500px;
-}
-.bgintro-19{
-    background: url(/images/donutsverdefaixa.jpg) no-repeat;
-    height: 250px;
- }
- .bgintro-20{
-    background-color: #e6dfd5;
-    height: 250px !important;
-    padding: 0px !important;
- }
- .bgintro-21{
-    background-color: #ffa4cb;
-    height: 250px !important;
-    padding: 0px !important;
- }
- .bgintro-22 {
-    background-color: #008c81;
-    height: 250px !important;
-    padding: 0px !important;
-}
-.bgintro-23 {
-    background-color: #EADACF;
-    height: 250px !important;
-    padding: 0px !important;
-}
-.bgintro-seven{
-   background: url(/images/bg-clientes.jpg) no-repeat;
-}
-.image-hero{
-	background: url(/images/bg-clientes.jpg) no-repeat;
-}
-.image-hero-marketing{
-	background: url(/images/marketing.jpg) no-repeat;
-    filter: opacity(1) !important;
-}
-.image-hero-websites{
-	background: url(/images/website-construion.jpg) no-repeat;
-    filter: opacity(1) !important;
-}
-.image-hero-editorial{
-	background: url(/images/editorial-mesa-branca.jpg) no-repeat;
-    filter: opacity(1) !important;
-}
-
-/*-----  Intro Style & two Ends ------ */
-
-
-/* Helper Classes ends */
-
-
-
 /* transitions common*/
 a, *::before, *::after, img,  .pushwrap,
 input, button, .hidden-items,#navigation, .fixed,
@@ -1105,9 +969,6 @@ ul.social li a::before, ul.social li a::after{
 .image-banner2 {
     width: 220px;
     margin-top: -100px;
-}
-.bg-hero-color {
-    background-color: #656565;
 }
 
 /*-------------------------------*/
@@ -1361,7 +1222,8 @@ ul.social li a::before, ul.social li a::after{
 .forma:focus {
     outline: none;
     box-shadow: 6px 4px 5px 2px #8e8e8e40;
-	border-bottom: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0) !important;
+    background: rgba(0, 0, 0, 0.02);
 }
 .forma::placeholder {
   color: #afaeae
@@ -3529,45 +3391,7 @@ ul.top-right li a:hover.instagram{
    width: 100%;
    overflow: hidden;
 }
-.item-one{
-   background: url(/images/home-hero-bg.jpg) no-repeat;
-}
-.item-two{
-   background: url(/images/home-marketing-bg.jpg) no-repeat;
-}
-.item-three{
-   background: url(/images/home-grafico-bg.jpg) no-repeat;
-}
-.item-four{
-   background: url(/images/home-websites-bg.jpg) no-repeat;
-}
-.item-five{
-   background: url(/images/bg-contato.jpg) no-repeat;
-}
-.item-six{
-   background: url(/images/bg-videos.jpg) no-repeat;
-}
-.item-seven{
-   background: url(/images/home-editorial-bg.jpg) no-repeat;
-}
-.item-eight{
-   background: url(/images/ipad.jpg) no-repeat;
-}
-.item-nine{
-   background: url(/images/bg-planos.jpg) no-repeat;
-}
-.item-teen{
-   background: url(/images/indicadores.gif) no-repeat;
-}
-.item-teen1{
-   background-color: #c7bfbd;
-}
-.item-teen2{
-   background: url(/images/home-footer-bg.gif) no-repeat;
-}
-.item-teen3 {
-    background: url(/images/home-clientes-bg.jpg) no-repeat;
-}
+
 .single-items{
     background-position: center center;
     -webkit-background-size: cover;
