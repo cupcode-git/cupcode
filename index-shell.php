@@ -1,4 +1,4 @@
-<section class="single-items center-block center-block hero-index parallaxie full-screen" id="item-one">
+<section class="single-items center-block center-block item-one parallaxie full-screen" id="item-one">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -115,7 +115,7 @@
             </div>
         </div>
     </section>
-    <section class="single-items center-block home-bg-1 parallaxie full-screen" id="marketing">
+    <section class="single-items center-block item-two parallaxie full-screen" id="marketing">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
@@ -169,7 +169,7 @@
         </div>
     </div>
     </section>
-    <section class="single-items center-block home-bg-2 parallaxie full-screen" id="websites">
+    <section class="single-items center-block item-four parallaxie full-screen" id="websites">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-8 col-xs-12">
@@ -223,7 +223,7 @@
         </div>
     </div>
     </section>
-    <section class="single-items center-block home-bg-3 parallaxie full-screen" id="grafico">
+    <section class="single-items center-block item-three parallaxie full-screen" id="grafico">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 col-xs-12">
@@ -277,7 +277,7 @@
         </div>
     </div>
     </section>
-    <section class="single-items center-block home-bg-4 parallaxie full-screen" id="editorial">
+    <section class="single-items center-block item-seven parallaxie full-screen" id="editorial">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-8 col-xs-12">
@@ -750,7 +750,7 @@
     </div>
     </div>
     </section>
-    <section class="padding_top padding_bottom_half parallaxie home-bg-5">
+    <section class="padding_top padding_bottom_half parallaxie item-teen1">
     <div class="container">
         <div class="row counter-wrap text-center">
             <div class="col-md-3 col-sm-6 col-xs-6">
@@ -802,7 +802,7 @@
     </section>
 
     <!-- Depoimentos -->
-    <section class="single-items center-block home-bg-6 parallaxie full-screen" id="depoimentos">
+    <section class="single-items center-block item-teen3 parallaxie full-screen" id="depoimentos">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">

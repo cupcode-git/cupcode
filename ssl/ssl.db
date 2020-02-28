@@ -1,0 +1,60 @@
+--- 
+files: 
+  certificate: 
+    cupcode_com_br_bbde0_f7c0b_1575935999_1c73649255d3a8de925a522ff75a58fe: 
+      created: '1568147653'
+      domains: 
+        - cupcode.com.br
+        - autodiscover.cupcode.com.br
+        - cpanel.cupcode.com.br
+        - mail.cupcode.com.br
+        - webdisk.cupcode.com.br
+        - webmail.cupcode.com.br
+        - whm.cupcode.com.br
+        - www.cupcode.com.br
+      friendly_name: Cert for “cupcode.com.br”
+      id: cupcode_com_br_bbde0_f7c0b_1575935999_1c73649255d3a8de925a522ff75a58fe
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: bbde0ade917647619abf13f29952ca6ba0a92d78971e1f8c2b89b7f6efb8ca64a54cc0849250788fe70fb246fb8bd5725cc83b0b6ce5e39cfb80cef1b3675996b1ca2f503d8a112cac40832ae1b2b7e2f5fe6aeedd14bfef5b93fcd01cdf52156545b9e1e0a3e2c87807ceacaa036076bdce5837aa6d05043a0a00b954e597e9cc6f92bbf1c14d23f107a0946e001a5065dba4add97d3c2b500abab43ad10d580cc665016d4173e73806a1c0eae00732e4b6002ab4d17636465f764103899ab02cfc4c7d9c6282230df5c68572474833a3407b166edbb972b2ab0c63421082afb376f18cef6c6c76b815863f9a00b8e4949885126da513c96e6eb9481cff7c0b
+      modulus_length: 2048
+      not_after: '1575935999'
+      not_before: '1568073600'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cupcode.com.br
+      validation_type: dv
+  csr: {}
+
+  key: 
+    bbde0_f7c0b_d9e7a40da9dcefd357c493d430bcb25f: 
+      created: '1568147653'
+      friendly_name: Key for “cupcode.com.br”
+      id: bbde0_f7c0b_d9e7a40da9dcefd357c493d430bcb25f
+      modulus: bbde0ade917647619abf13f29952ca6ba0a92d78971e1f8c2b89b7f6efb8ca64a54cc0849250788fe70fb246fb8bd5725cc83b0b6ce5e39cfb80cef1b3675996b1ca2f503d8a112cac40832ae1b2b7e2f5fe6aeedd14bfef5b93fcd01cdf52156545b9e1e0a3e2c87807ceacaa036076bdce5837aa6d05043a0a00b954e597e9cc6f92bbf1c14d23f107a0946e001a5065dba4add97d3c2b500abab43ad10d580cc665016d4173e73806a1c0eae00732e4b6002ab4d17636465f764103899ab02cfc4c7d9c6282230df5c68572474833a3407b166edbb972b2ab0c63421082afb376f18cef6c6c76b815863f9a00b8e4949885126da513c96e6eb9481cff7c0b
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      bbde0ade917647619abf13f29952ca6ba0a92d78971e1f8c2b89b7f6efb8ca64a54cc0849250788fe70fb246fb8bd5725cc83b0b6ce5e39cfb80cef1b3675996b1ca2f503d8a112cac40832ae1b2b7e2f5fe6aeedd14bfef5b93fcd01cdf52156545b9e1e0a3e2c87807ceacaa036076bdce5837aa6d05043a0a00b954e597e9cc6f92bbf1c14d23f107a0946e001a5065dba4add97d3c2b500abab43ad10d580cc665016d4173e73806a1c0eae00732e4b6002ab4d17636465f764103899ab02cfc4c7d9c6282230df5c68572474833a3407b166edbb972b2ab0c63421082afb376f18cef6c6c76b815863f9a00b8e4949885126da513c96e6eb9481cff7c0b: 
+        cupcode_com_br_bbde0_f7c0b_1575935999_1c73649255d3a8de925a522ff75a58fe: ~
+    subject.commonName: 
+      cupcode.com.br: 
+        cupcode_com_br_bbde0_f7c0b_1575935999_1c73649255d3a8de925a522ff75a58fe: ~
+  csr: 
+    commonName: {}
+
+    modulus: {}
+
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “cupcode.com.br”: cupcode_com_br_bbde0_f7c0b_1575935999_1c73649255d3a8de925a522ff75a58fe
+  csr: 
+    friendly_name: {}
+
+  key: 
+    friendly_name: 
+      Key for “cupcode.com.br”: bbde0_f7c0b_d9e7a40da9dcefd357c493d430bcb25f
+    modulus: 
+      bbde0ade917647619abf13f29952ca6ba0a92d78971e1f8c2b89b7f6efb8ca64a54cc0849250788fe70fb246fb8bd5725cc83b0b6ce5e39cfb80cef1b3675996b1ca2f503d8a112cac40832ae1b2b7e2f5fe6aeedd14bfef5b93fcd01cdf52156545b9e1e0a3e2c87807ceacaa036076bdce5837aa6d05043a0a00b954e597e9cc6f92bbf1c14d23f107a0946e001a5065dba4add97d3c2b500abab43ad10d580cc665016d4173e73806a1c0eae00732e4b6002ab4d17636465f764103899ab02cfc4c7d9c6282230df5c68572474833a3407b166edbb972b2ab0c63421082afb376f18cef6c6c76b815863f9a00b8e4949885126da513c96e6eb9481cff7c0b: bbde0_f7c0b_d9e7a40da9dcefd357c493d430bcb25f

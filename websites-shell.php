@@ -24,7 +24,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;border-width:0px;"><img src="images/hero-websites-1.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+                        style="z-index: 5;border-width:0px;"><img src="images/hero-websites-1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
                   <!-- layer nr. 2 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-25"
                         id="layers-two"
@@ -42,7 +42,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;border-width:0px;"><img src="images/hero-websites-2.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+                        style="z-index: 6;border-width:0px;"><img src="images/hero-websites-2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
                   <!-- layer nr. 3 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-10"
                         id="layers-three"
@@ -60,7 +60,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7;border-width:0px;"><img src="images/hero-websites-3.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+                        style="z-index: 7;border-width:0px;"><img src="images/hero-websites-3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
                   <!-- layer nr. 4 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-12"
                         id="layers-four"
@@ -78,7 +78,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 8;border-width:0px;"><img src="images/hero-websites-4.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+                        style="z-index: 8;border-width:0px;"><img src="images/hero-websites-4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
                   <!-- layer nr. 5 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-five"
@@ -96,7 +96,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 9;border-width:0px;"><img src="images/hero-websites-5.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+                        style="z-index: 9;border-width:0px;"><img src="images/hero-websites-5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
                   <!-- layer nr. 8 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-9"
                         id="layers-six"
@@ -114,7 +114,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 12;border-width:0px;"><img src="images/hero-websites-6.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+                        style="z-index: 12;border-width:0px;"><img src="images/hero-websites-6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
                   <!-- layer nr. 9 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-sev"
@@ -132,7 +132,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 13;border-width:0px;"><img src="images/hero-websites-7.png" alt="<?php echo $websites ." ". $ccpara; ?>" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+                        style="z-index: 13;border-width:0px;"><img src="images/hero-websites-7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
                   <!-- layer nr. 10 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-eight"
@@ -382,60 +382,60 @@
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="sites">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $plano." ".$websites; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_1_1; ?></span>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_1; ?></span>
                   <div class="ammount">
                      <h2><?php echo $site; ?></h2>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_1_1; ?></span></li>
-                  <li><span><?php echo $pct_websites_1_2; ?></span></li>
-                  <li><span><?php echo $pct_websites_1_3; ?></span></li>
-                  <li><span><?php echo $pct_websites_1_4; ?></span></li>
-                  <li><span><?php echo $pct_websites_1_5; ?></span></li>
+                  <li><span><?php echo $pct_websites_1; ?></span></li>
+                  <li><span><?php echo $pct_websites_2; ?></span></li>
+                  <li><span><?php echo $pct_websites_3; ?></span></li>
+                  <li><span><?php echo $pct_websites_4; ?></span></li>
+                  <li><span><?php echo $pct_websites_5; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20website%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-6 price-table text-center top50" id="blog">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $plano." ".$websites." + ".$blog; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_2_2; ?></span>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_2; ?></span>
                   <div class="ammount">
                      <h2><?php echo $blog; ?></h2>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_2_6; ?></span></li>
-                  <li><span><?php echo $pct_websites_2_7; ?></span></li>
-                  <li><span><?php echo $pct_websites_2_8; ?></span></li>
-                  <li><span><?php echo $pct_websites_2_9; ?></span></li>
-                  <li><span><?php echo $pct_websites_2_10; ?></span></li>
+                  <li><span><?php echo $pct_websites_6; ?></span></li>
+                  <li><span><?php echo $pct_websites_7; ?></span></li>
+                  <li><span><?php echo $pct_websites_8; ?></span></li>
+                  <li><span><?php echo $pct_websites_9; ?></span></li>
+                  <li><span><?php echo $pct_websites_10; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4 price-table-marketing col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50" id="e-commerce">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $plano." ".$ecommerce; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_3_3; ?></span>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_3; ?></span>
                   <div class="ammount">
                      <h2><?php echo $lojavirtual; ?></h2>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_3_11; ?></span></li>
-                  <li><span><?php echo $pct_websites_3_12; ?></span></li>
-                  <li><span><?php echo $pct_websites_3_13; ?></span></li>
-                  <li><span><?php echo $pct_websites_3_14; ?></span></li>
-                  <li><span><?php echo $pct_websites_3_15; ?></span></li>
-                  <li><span><?php echo $pct_websites_3_16; ?></span></li>
+                  <li><span><?php echo $pct_websites_11; ?></span></li>
+                  <li><span><?php echo $pct_websites_12; ?></span></li>
+                  <li><span><?php echo $pct_websites_13; ?></span></li>
+                  <li><span><?php echo $pct_websites_14; ?></span></li>
+                  <li><span><?php echo $pct_websites_15; ?></span></li>
+                  <li><span><?php echo $pct_websites_16; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-				<a href="<?php echo $pct_websites_3_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20loja%20virtual,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
          </div>
-         <center><a href="<?php echo $pct_websites_4_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $tirarduvsobre; ?> <?php echo $websites; ?></a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $tirarduvsobre; ?> <?php echo $websites; ?></a></center>
       </div>
    </div>
    </section>
@@ -471,14 +471,14 @@
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_4_17; ?></span></li>
-                  <li><span><?php echo $pct_websites_4_18; ?></span></li>
-                  <li><span><?php echo $pct_websites_4_19; ?></span></li>
-                  <li><span><?php echo $pct_websites_4_20; ?></span></li>
-                  <li><span><?php echo $pct_websites_4_21; ?></span></li>
+                  <li><span><?php echo $pct_websites_17; ?></span></li>
+                  <li><span><?php echo $pct_websites_18; ?></span></li>
+                  <li><span><?php echo $pct_websites_19; ?></span></li>
+                  <li><span><?php echo $pct_websites_20; ?></span></li>
+                  <li><span><?php echo $pct_websites_21; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_5_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20websites%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4 col-sm-6 price-table text-center top50">
                <div class="price-plan">
@@ -488,14 +488,14 @@
                   </div>
                </div>
                <ul class="top15">
-               <li><span><?php echo $pct_websites_5_22; ?></span></li>
-               <li><span><?php echo $pct_websites_5_23; ?></span></li>
-               <li><span><?php echo $pct_websites_5_24; ?></span></li>
-               <li><span><?php echo $pct_websites_5_25; ?></span></li>
-               <li><span><?php echo $pct_websites_5_26; ?></span></li>
+               <li><span><?php echo $pct_websites_22; ?></span></li>
+               <li><span><?php echo $pct_websites_23; ?></span></li>
+               <li><span><?php echo $pct_websites_24; ?></span></li>
+               <li><span><?php echo $pct_websites_25; ?></span></li>
+               <li><span><?php echo $pct_websites_26; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_6_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20blog%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
             <div class="col-md-4  col-sm-offset-2 col-sm-6 col-md-offset-0 price-table text-center top50">
                <div class="price-plan">
@@ -505,18 +505,18 @@
                   </div>
                </div>
                <ul class="top15">
-               <li><span><?php echo $pct_websites_6_27; ?></span></li>
-               <li><span><?php echo $pct_websites_6_28; ?></span></li>
-               <li><span><?php echo $pct_websites_6_29; ?></span></li>
-               <li><span><?php echo $pct_websites_6_30; ?></span></li>
-               <li><span><?php echo $pct_websites_6_31; ?></span></li>
-               <li><span><?php echo $pct_websites_6_32; ?></span></li>
+               <li><span><?php echo $pct_websites_27; ?></span></li>
+               <li><span><?php echo $pct_websites_28; ?></span></li>
+               <li><span><?php echo $pct_websites_29; ?></span></li>
+               <li><span><?php echo $pct_websites_30; ?></span></li>
+               <li><span><?php echo $pct_websites_31; ?></span></li>
+               <li><span><?php echo $pct_websites_32; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_7_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20de%20hospedagem%20para%20loja%20virtual%20,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
             </div>
          </div>
-         <center><a href="<?php echo $pct_websites_8_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Hospedagens%20de%20Websites,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre hospedagens</a></center>
       </div>
    </div>
 </section>
@@ -548,30 +548,30 @@
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $nacional; ?></h3>
                   <div class="ammount">
-                     <h2><?php echo $pct_titulo_websites_4_4; ?></h2>
+                     <h2><?php echo $pct_titulo_websites_4; ?></h2>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_7_33; ?></span></li>
+                  <li><span><?php echo $pct_websites_33; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_9_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com_br; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20nacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com_br; ?></a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50">
                <div class="price-plan">
                   <h3 class="bottom15"><?php echo $internacional; ?></h3>
                   <div class="ammount">
-                     <h2><?php echo $pct_titulo_websites_5_5; ?></h2>
+                     <h2><?php echo $pct_titulo_websites_5; ?></h2>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_8_34; ?></span></li>
+                  <li><span><?php echo $pct_websites_34; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_10_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20de%20dominio%20internacional,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_com; ?></a>
             </div>
          </div>
-         <center><a href="<?php echo $pct_websites_11_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_1; ?></a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20Domínios,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_1; ?></a></center>
       </div>
    </div>
    </section>
@@ -602,58 +602,58 @@
          <div class="row">
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_6_6; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_6; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_1; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_9_35; ?></span></li>
+                  <li><span><?php echo $pct_websites_35; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_12_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_1; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20uma%20caixa%20de%20e-mail,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_1; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_7_7; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_7; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_2; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_10_36; ?></span></li>
+                  <li><span><?php echo $pct_websites_36; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_13_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_2; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20duas%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_2; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_8_8; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_8; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_3; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_11_37; ?></span></li>
+                  <li><span><?php echo $pct_websites_37; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_14_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_3; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20cinco%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_3; ?></a>
             </div>
             <div class="col-md-3 col-sm-3 price-table text-center top50" id="e-mail">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_9_9; ?></h3>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_9; ?></h3>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_4; ?></h2> <span class="dur"><?php echo $mes; ?></span>
                   </div>
                </div>
                <ul>
-                  <li><span><?php echo $pct_websites_12_38; ?></span></li>
+                  <li><span><?php echo $pct_websites_38; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_15_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_4; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20dez%20caixas%20de%20e-mails,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_email_websites_4; ?></a>
             </div>
          </div>
-         <center><a href="<?php echo $pct_websites_16_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_2; ?></a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20E-mails,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_2; ?></a></center>
       </div>
    </div>
    </section>
@@ -682,36 +682,36 @@
          <div class="row">
          <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_10_10; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_10; ?></span>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_10; ?></h3>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_11; ?></span>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_5; ?></h2><span class="dur"><?php echo $ano; ?></span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_13_39; ?></span></li>
-                  <li><span><?php echo $pct_websites_13_40; ?></span></li>
+                  <li><span><?php echo $pct_websites_39; ?></span></li>
+                  <li><span><?php echo $pct_websites_40; ?></span></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_17_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_1; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20contratação%20do%20ssl,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_1; ?></a>
             </div>
             <div class="col-md-6 col-sm-6 price-table text-center top50" id="ssl">
                <div class="price-plan">
-                  <h3 class="bottom15"><?php echo $pct_titulo_websites_12_11; ?></h3>
-                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_13_11; ?></span>
+                  <h3 class="bottom15"><?php echo $pct_titulo_websites_12; ?></h3>
+                        <span class="heading-titlenovo bottom25"><?php echo $pct_titulo_websites_13; ?></span>
                   <div class="ammount"><?php echo $reais; ?>
                      <h2><?php echo $valor_pcts_websites_6; ?></h2><span class="dur"><?php echo $ano; ?></span>
                   </div>
                </div>
                <ul class="top15">
-                  <li><span><?php echo $pct_websites_14_41; ?></span></li>
-                  <li><span><?php echo $pct_websites_14_42; ?></li>
+                  <li><span><?php echo $pct_websites_41; ?></span></li>
+                  <li><span><?php echo $pct_websites_42; ?></li>
                </ul>
                <div class="clearfix"></div>
-               <a href="<?php echo $pct_websites_18_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_2; ?></a>
+               <a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20a%20atualização%20do%20certificado%20SSL,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_ssl_websites_2; ?></a>
             </div>
          </div>
-         <center><a href="<?php echo $pct_websites_19_link; ?>" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_3; ?></a></center>
+         <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20certificados%20SSL,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i><?php echo $btn_duvidas_websites_3; ?></a></center>
       </div>
    </div>
    </section>

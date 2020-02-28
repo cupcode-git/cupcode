@@ -1,4 +1,4 @@
-<?php $title = 'criação de websites e blogs para restaurantes - cupcode, inc.'; $description = 'Tenha o site do seu restaurante no ar em até 5 dias! Veja como é fácil e rápido ter seu restaurante na internet, seja ela um site, blog ou até mesmo uma loja virtual.'; $keywords = 'website, site, loja virtual, restaurante, vender, internet, como, fazer, gastronomia'; include("../header.php"); ?>
+<?php $title = 'criação de websites e blogs para restaurantes - cupcode, inc.'; $description = 'Tenha o site do seu restaurante no ar em até 5 dias! Veja como é fácil e rápido ter seu restaurante na internet, seja ela um site, blog ou até mesmo uma loja virtual.'; $keywords = 'website, site, loja virtual, restaurante, vender, internet, como, fazer, gastronomia'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -25,7 +25,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;border-width:0px;"><img src="images/websites-1.png" alt="Desenvolvimento de websites" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+                        style="z-index: 5;border-width:0px;"><img src="images/websites1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
                   <!-- layer nr. 2 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-25"
                         id="layers-two"
@@ -43,7 +43,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;border-width:0px;"><img src="images/websites-2.png" alt="Desenvolvimento de websites" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+                        style="z-index: 6;border-width:0px;"><img src="images/websites2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
                   <!-- layer nr. 3 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-10"
                         id="layers-three"
@@ -61,7 +61,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7;border-width:0px;"><img src="images/websites-3.png" alt="Desenvolvimento de websites" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+                        style="z-index: 7;border-width:0px;"><img src="images/websites3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
                   <!-- layer nr. 4 -->
                   <div class="tp-caption tp-resizeme rs-parallaxlevel-12"
                         id="layers-four"
@@ -79,7 +79,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 8;border-width:0px;"><img src="images/websites-4.png" alt="Desenvolvimento de websites" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+                        style="z-index: 8;border-width:0px;"><img src="images/websites4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
                   <!-- layer nr. 5 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-five"
@@ -97,7 +97,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 9;border-width:0px;"><img src="images/websites-5.png" alt="Desenvolvimento de websites" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+                        style="z-index: 9;border-width:0px;"><img src="images/websites5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
                   <!-- layer nr. 8 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-9"
                         id="layers-six"
@@ -115,7 +115,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 12;border-width:0px;"><img src="images/websites-6.png" alt="Desenvolvimento de websites" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+                        style="z-index: 12;border-width:0px;"><img src="images/websites6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
                   <!-- layer nr. 9 -->
                   <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-sev"
@@ -133,7 +133,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 13;border-width:0px;"><img src="images/websites-7.png" alt="Desenvolvimento de websites" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+                        style="z-index: 13;border-width:0px;"><img src="images/websites7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
                   <!-- layer nr. 10 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-eight"
@@ -280,7 +280,7 @@
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
                <h2 class="bottom45 cc-light">blogs</h2>
-               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdos informativos e cultural sobre o mundo da gastronomia.</p>
+               <p>ter um blog é algo crucial para quem precisa inserir informações, matérias, artigos ou até mesmo cadastro de usuário, comentários e avaliações. com as ferramentas do wordpress, você terá a possibilidade de alavancar e atrair muito mais clientes para seu site, através de conteúdo informativos e cultural sobre o mundo da gastronomia.</p>
                   <a href="javascript:void(0)#blog" class="button defaulthole top50 cc-planos scrollings">ver pacotes</a>
             </div>
          </div>
@@ -454,7 +454,7 @@
             <div class="col-md-6 col-sm-3"></div>
             <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
                <div>
-                  <img alt="Hospedagem de websites" class="image-banner2" src="images/websites-hospedagens.png" />
+                  <img class="image-banner2" src="images/donutsverdefaixa1.png" />
                </div>
             </div>
          </div>
@@ -535,7 +535,7 @@
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
                <div>
-                  <img alt="Dominio de sites" class="image-banner1" src="images/websites-dominio.png" />
+                  <img class="image-banner1" src="images/faixadedonutscaixa.png" />
                </div>
             </div>
          </div>
@@ -591,7 +591,7 @@
             <div class="col-md-6 col-sm-3"></div>
             <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
                <div>
-                  <img alt="E-mail" class="image-banner2" src="images/websites-e-mail.png" />
+                  <img class="image-banner2" src="images/faixarosadonuts.png" />
                </div>
             </div>
          </div>
@@ -671,7 +671,7 @@
             </div>
             <div class="col-md-6 col-sm-9 text-left wow fadeInLeft">
                <div>
-                  <img alt="Certificado SLL" class="image-banner1" src="images/website-ssl.png" />
+                  <img class="image-banner1" src="images/faixa-donuts.png" />
                </div>
             </div>
          </div>
@@ -720,60 +720,60 @@
    <!--Pricing white ends-->
         <!-- CONTATO -->
 
-        <?php include '../contato.php'; ?>
+        <?php include 'contato.php'; ?>
 
     <!-- CONTATO ENDS -->
-<?php include '../footer.php'; ?>
+<?php include 'footer.php'; ?>
 <!--Footer ends-->
 <!-- jQuery Files -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <!--to view items on reach-->
-<script src="/js/jquery.appear.js"></script>
+<script src="js/jquery.appear.js"></script>
 <!-- PagSeguro LightBox -->
 <script type="text/javascript" src="https://stc.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js"></script>
 <!--Swiper slider-->
-<script src="/js/swiper.jquery.min.js"></script>
+<script src="js/swiper.jquery.min.js"></script>
 <!--Owl slider-->
-<script src="/js/owl.carousel.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
 <!--number counters-->
-<script src="/js/jquery-countTo.js"></script>
+<script src="js/jquery-countTo.js"></script>
 <!--equalize the same heights of block-->
-<script src="/js/jquery.matchHeight-min.js"></script>
+<script src="js/jquery.matchHeight-min.js"></script>
 <!--for parallax bgs-->
-<script src="/js/parallaxie.js"></script>
+<script src="js/parallaxie.js"></script>
 <!--for CountDown Timer-->
-<script src="/js/dscountdown.min.js"></script>
+<script src="js/dscountdown.min.js"></script>
 <!--Open popup fancybox on images-->
-<script src="/js/jquery.fancybox.min.js"></script>
+<script src="js/jquery.fancybox.min.js"></script>
 <!--Portfolio galleries-->
-<script src="/js/jquery.cubeportfolio.min.js"></script>
+<script src="js/jquery.cubeportfolio.min.js"></script>
 <!--Progressbar s in circle forms-->
-<script src="/js/circle-progress.min.js"></script>
+<script src="js/circle-progress.min.js"></script>
 <!--scrollbar on blocks-->
-<script src="/js/simplebar.js"></script>
+<script src="js/simplebar.js"></script>
 <!--Video Pops support for youtube, viemo etc-->
-<script src="/js/viedobox_video.js"></script>
+<script src="js/viedobox_video.js"></script>
 <!--youtube background video-->
-<script src="/js/jquery.mb.YTPlayer.min.js"></script>
+<script src="js/jquery.mb.YTPlayer.min.js"></script>
 <!-- Type It -->
 <script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
 <!-- WOW Transitions -->
-<script src="/js/wow.min.js"></script>
+<script src="js/wow.min.js"></script>
 <!--Revolution SLider-->
-<script src="/js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="/js/revolution/jquery.themepunch.revolution.min.js"></script>
+<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
+<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="/js/revolution/extensions/revolution.extension.actions.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.video.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
 <!--Synx scripts-->
-<script src="/js/functions.js"></script>
+<script src="js/functions.js"></script>
 </body>
 </html>

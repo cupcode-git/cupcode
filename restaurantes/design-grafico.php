@@ -1,4 +1,4 @@
-<?php $title = 'design gráfico para restaurantes - cupcode, inc.'; $description = 'Somos especialista em restaurantes, criamos artes para sua marca com todo o respeito a sua identidade visual. Não tem uma? Não tem problema, criamos ela também.'; $keywords = 'restaurantes, design, identidade visual, branding, logotipo, logo, logomarca, criação'; include("../header.php"); ?>
+<?php $title = 'design gráfico para restaurantes - cupcode, inc.'; $description = 'Somos especialista em restaurantes, criamos artes para sua marca com todo o respeito a sua identidade visual. Não tem uma? Não tem problema, criamos ela também.'; $keywords = 'restaurantes, design, identidade visual, branding, logotipo, logo, logomarca, criação'; include("header.php"); ?>
 <!--Ful Screen hero Banner-->
 <section class="no-padding wow bg-hero-color fadeIn no-transition">
     <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container rev-slider" data-alias="inspiration-header" data-source="gallery" style="background-color:transparent;padding:0px;">
@@ -25,7 +25,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;border-width:0px;"><img src="images/hero-grafico-1.png" alt="Design grafico" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+                        style="z-index: 5;border-width:0px;"><img src="images/design1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
                 <!-- layer nr. 2 -->
                 <div class="tp-caption tp-resizeme rs-parallaxlevel-25"
                         id="layers-two"
@@ -43,7 +43,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;border-width:0px;"><img src="images/hero-grafico-2.png" alt="Design grafico" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+                        style="z-index: 6;border-width:0px;"><img src="images/design2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
                 <!-- layer nr. 3 -->
                 <div class="tp-caption tp-resizeme rs-parallaxlevel-10"
                         id="layers-three"
@@ -61,7 +61,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7;border-width:0px;"><img src="images/hero-grafico-3.png" alt="Design grafico" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+                        style="z-index: 7;border-width:0px;"><img src="images/design3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
                 <!-- layer nr. 4 -->
                 <div class="tp-caption tp-resizeme rs-parallaxlevel-12"
                         id="layers-four"
@@ -79,7 +79,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 8;border-width:0px;"><img src="images/hero-grafico-4.png" alt="Design grafico" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+                        style="z-index: 8;border-width:0px;"><img src="images/design4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
                 <!-- layer nr. 5 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-five"
@@ -97,7 +97,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 9;border-width:0px;"><img src="images/hero-grafico-5.png" alt="Design grafico" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+                        style="z-index: 9;border-width:0px;"><img src="images/design5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
                 <!-- layer nr. 8 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-9"
                         id="layers-six"
@@ -115,7 +115,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 12;border-width:0px;"><img src="images/hero-grafico-6.png" alt="Design grafico" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+                        style="z-index: 12;border-width:0px;"><img src="images/design6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
                 <!-- layer nr. 9 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
                         id="layers-sev"
@@ -133,7 +133,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 13;border-width:0px;"><img src="images/hero-grafico-7.png" alt="Design grafico" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+                        style="z-index: 13;border-width:0px;"><img src="images/design7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
                 <!-- layer nr. 10 -->
                 <div class="tp-caption tp-resizeme"
                         id="layers-eight"
@@ -407,7 +407,7 @@
                 <a href="http://pag.ae/7VhSgoSQs" target="_blank" class="button contratar mgl-10 top50"><i class="fas fa-shopping-cart"></i> contratar</a>
         </div>
         </div>
-        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico%20para%20restaurantes,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
+        <center><a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20mais%20informações%20sobre%20os%20pacotes%20de%20Design%20Gráfico,%20por%20favor.%20" target="_blank" class="button defaulthole mgr-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> tirar duvidas sobre os pacotes</a></center>
 			         <!-- Pacote personalizado inicio -->
          <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -423,7 +423,7 @@
                
                <div class="clearfix"></div>
                
-				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado%20para%20restaurantes,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá, %20gostaria%20de%20montar%20um%20pacote%20design%20gráfico%20personalizado, %20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> solicitar personalização</a>
             </div>
          </div><!-- Pacote personalizado fim -->
         </div>
@@ -432,57 +432,57 @@
     <!--Pricing white ends-->
      <!-- CONTATO -->
 
-        <?php include '../contato.php'; ?>
+        <?php include 'contato.php'; ?>
 
     <!-- CONTATO ENDS -->
-<?php include '../footer.php'; ?>
+<?php include 'footer.php'; ?>
 <!-- jQuery Files -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <!--to view items on reach-->
-<script src="/js/jquery.appear.js"></script>
+<script src="js/jquery.appear.js"></script>
 <!--Swiper slider-->
-<script src="/js/swiper.jquery.min.js"></script>
+<script src="js/swiper.jquery.min.js"></script>
 <!--Owl slider-->
-<script src="/js/owl.carousel.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
 <!--number counters-->
-<script src="/js/jquery-countTo.js"></script>
+<script src="js/jquery-countTo.js"></script>
 <!--equalize the same heights of block-->
-<script src="/js/jquery.matchHeight-min.js"></script>
+<script src="js/jquery.matchHeight-min.js"></script>
 <!--for parallax bgs-->
-<script src="/js/parallaxie.js"></script>
+<script src="js/parallaxie.js"></script>
 <!--for CountDown Timer-->
-<script src="/js/dscountdown.min.js"></script>
+<script src="js/dscountdown.min.js"></script>
 <!--Open popup fancybox on images-->
-<script src="/js/jquery.fancybox.min.js"></script>
+<script src="js/jquery.fancybox.min.js"></script>
 <!--Portfolio galleries-->
-<script src="/js/jquery.cubeportfolio.min.js"></script>
+<script src="js/jquery.cubeportfolio.min.js"></script>
 <!--Progressbar s in circle forms-->
-<script src="/js/circle-progress.min.js"></script>
+<script src="js/circle-progress.min.js"></script>
 <!--scrollbar on blocks-->
-<script src="/js/simplebar.js"></script>
+<script src="js/simplebar.js"></script>
 <!--Video Pops support for youtube, viemo etc-->
-<script src="/js/viedobox_video.js"></script>
+<script src="js/viedobox_video.js"></script>
 <!--youtube background video-->
-<script src="/js/jquery.mb.YTPlayer.min.js"></script>
+<script src="js/jquery.mb.YTPlayer.min.js"></script>
 <!-- Type It -->
 <script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script>
 <!-- WOW Transitions -->
-<script src="/js/wow.min.js"></script>
+<script src="js/wow.min.js"></script>
 <!--Revolution SLider-->
-<script src="/js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="/js/revolution/jquery.themepunch.revolution.min.js"></script>
+<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
+<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="/js/revolution/extensions/revolution.extension.actions.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.carousel.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.navigation.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="/js/revolution/extensions/revolution.extension.video.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.migration.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
 <!--Synx scripts-->
-<script src="/js/functions.js"></script>
+<script src="js/functions.js"></script>
 </body>
 </html>

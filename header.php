@@ -13,12 +13,11 @@
     <meta name="theme-color" content="#0642a3" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title><?php if (isset($title)) {echo $title;}
-    else {echo "agência de marketing digital e criação de websites - cupcode, inc";} ?></title>
-    <meta name="description" content="<?php if (isset($description)) {echo $description;}
-    else {echo "a cupcode tem 19 anos de experiência e conta com profissionais altamente qualificados para que seu negócio cresça e seu investimento trabalhe por você. confira nossos valores ou solicite uma cotação personalizada.";} ?>" />
-    <meta name="keywords" content="<?php if (isset($keywords)) {echo $keywords;}
-    else {echo "agencia, marketing, criar, sites, blog, e-commerce, loja virtual, facebook, google, anunciar, ads, editorial, matérias, artigos, design, grafico, digital, free, lancer";} ?>" />
+    <title>
+      <?php echo $title; ?>
+    </title>
+    <meta name="description" content="<?php echo $description; ?>" />
+    <meta name="keywords" content="<?php echo $keywords; ?>" />
     <meta name="robots" content="<?php if (isset($robots)) {echo $robots;}
     else {echo "index, follow";} ?>" />
     <!-- main styling file  -->
@@ -27,6 +26,7 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/mobile.css">
     <link rel="stylesheet" href="/css/typo1.css">
+    <link rel="stylesheet" href="<?php echo $csscustom; ?>">
     <link rel="icon" href="/images/favicon.png">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

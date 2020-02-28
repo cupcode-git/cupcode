@@ -10,8 +10,3 @@
 	include 'footer.php';
 ?>
 
-
-		 <?php include 'contato.php'; ?>
-
-	<!-- CONTATO ENDS -->
-	<?php include 'footer.php'; ?>

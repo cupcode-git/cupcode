@@ -23,7 +23,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 5;border-width:0px;"><img src="images/hero-marketing-1.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
+								style="z-index: 5;border-width:0px;"><img src="images/hero-marketing-1.png" alt="" data-ww="['650px','650px','650px','650px']" data-hh="['500px','500px','500px','500px']" width="650" height="500" data-no-retina> </div>
 							<!-- layer nr. 2 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-25" 
 								id="layers-two" 
@@ -41,7 +41,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 6;border-width:0px;"><img src="images/hero-marketing-2.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
+								style="z-index: 6;border-width:0px;"><img src="images/hero-marketing-2.png" alt="" data-ww="['550px','550px','550px','550px']" data-hh="['471px','471px','471px','471px']" width="550" height="471" data-no-retina> </div>
 							<!-- layer nr. 3 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-10" 
 								id="layers-three" 
@@ -59,7 +59,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 7;border-width:0px;"><img src="images/hero-marketing-3.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
+								style="z-index: 7;border-width:0px;"><img src="images/hero-marketing-3.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" width="900" height="1000" data-no-retina> </div>
 							<!-- layer nr. 4 -->
 						<div class="tp-caption tp-resizeme rs-parallaxlevel-12" 
 								id="layers-four" 
@@ -77,7 +77,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 8;border-width:0px;"><img src="images/hero-marketing-4.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
+								style="z-index: 8;border-width:0px;"><img src="images/hero-marketing-4.png" alt="" data-ww="['200px','200px','200px','200px']" data-hh="['300px','300px','300px','300px']" width="200" height="300" data-no-retina> </div>
 							<!-- layer nr. 5 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
 								id="layers-five" 
@@ -95,7 +95,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 9;border-width:0px;"><img src="images/hero-marketing-5.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
+								style="z-index: 9;border-width:0px;"><img src="images/hero-marketing-5.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" width="300" height="400" data-no-retina> </div>
 							<!-- layer nr. 8 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-9" 
 								id="layers-six" 
@@ -113,7 +113,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 12;border-width:0px;"><img src="images/hero-marketing-6.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
+								style="z-index: 12;border-width:0px;"><img src="images/hero-marketing-6.png" alt="" data-ww="['730px','730px','730px','730px']" data-hh="['520px','520px','520px','520px']" width="730" height="520" data-no-retina> </div>
 							<!-- layer nr. 9 -->
 						<div class="tp-caption   tp-resizeme rs-parallaxlevel-11" 
 								id="layers-sev" 
@@ -131,7 +131,7 @@
 								data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
-								style="z-index: 13;border-width:0px;"><img src="images/hero-marketing-7.png" alt="<?php echo $mktdigital ." ". $ccpara; ?>" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
+								style="z-index: 13;border-width:0px;"><img src="images/hero-marketing-7.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['500px','500px','500px','500px']" width="300" height="500" data-no-retina> </div>
 							<!-- layer nr. 10 -->
 						<div class="tp-caption tp-resizeme" 
 								id="layers-eight" 
@@ -439,13 +439,13 @@
 					</div>
 				</div>
 				<ul class="top15 pdb-65">
-					<li><span><?php echo $pct_mkt_1_1; ?></span></li>
-					<li><span><?php echo $pct_mkt_1_2; ?></span></li>
-					<li><span><?php echo $pct_mkt_1_3; ?></span></li>
-					<li><span><?php echo $pct_mkt_1_4; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_1; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_2; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_3; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_4; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="<?php echo $pct_mkt_digital_1_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Ristreto%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 				<div class="col-md-6 col-sm-6 price-table price-table-marketing text-center top50" id="post">
 				<div class="price-plan">
@@ -456,34 +456,34 @@
 					</div>
 				</div>
 				<ul class="top15">
-					<h3 class="mobilefont"><?php echo $pct_mkt_2_5; ?></h3>
-					<li><span><?php echo $pct_mkt_2_6; ?></span></li>
-					<li><span><?php echo $pct_mkt_2_7; ?></span></li>
-					<li><span><?php echo $pct_mkt_2_8; ?></span></li>
-					<li><span><?php echo $pct_mkt_2_9; ?></span></li>
-					<li><span><?php echo $pct_mkt_2_10; ?></span></li>
+					<h3 class="mobilefont"><?php echo $pct_mkt_digital_5; ?></h3>
+					<li><span><?php echo $pct_mkt_digital_6; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_7; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_8; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_9; ?></span></li>
+					<li><span><?php echo $pct_mkt_digital_10; ?></span></li>
 				</ul>
 				<div class="clearfix"></div>
-				<a href="<?php echo $pct_mkt_digital_2_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20do%20Pacote%20Lungo%20de%20Marketing%20Digital,%20por%20favor.%20" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicorca; ?></a>
 				</div>
 			</div>
-					<!-- Pacote personalizado inicio -->
-		<div class="row">
-			<div class="col-md-3 col-sm-6">
-			</div>
-			<div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
-			<div class="price-plan">
-				
-				<div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br/>". $personalizados; ?></h2>
-					
-				</div>
-			</div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
+			         <!-- Pacote personalizado inicio -->
+         <div class="row">
+            <div class="col-md-3 col-sm-6">
+            </div>
+            <div class="col-md-6 col-sm-offset-3 col-sm-6 col-md-offset-0 price-table text-center top50">
+               <div class="price-plan">
+                  
+                  <div class="ammount"><h2 class="titulo-personalizado"><?php echo $pacotes."<br/>". $personalizados; ?></h2>
+                     
+                  </div>
+               </div><p class="p-personalizado"><?php echo $descricaotxtpctpersonalizado; ?></p>
 
-			
-			<div class="clearfix"></div>
-			
-				<a href="<?php echo $pct_mkt_digital_3_link; ?>" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
-			</div>
-		</div><!-- Pacote personalizado fim -->
+               
+               <div class="clearfix"></div>
+               
+				<a href="https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20gostaria%20de%20montar%20um%20pacote%20marketing%20digital%20personalizado,%20pode%20me%20ajudar?" target="_blank" class="button contratar mgl-10 top50"><i class="fab fa-whatsapp" aria-hidden="true"></i> <?php echo $solicitar_personalizacao; ?></a>
+            </div>
+         </div><!-- Pacote personalizado fim -->
 		</div>
 	</section>
